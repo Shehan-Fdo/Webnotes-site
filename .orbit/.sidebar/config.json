@@ -8,22 +8,22 @@
           "files": [
             {
               "title": "Exam Objectives and Domains",
-              "path": "comptia-a-220-1201/comptia-a-plus-220-1201-overview/exam-objectives-and-domains/",
+              "path": "comptia-a-220-1201/exam-objectives-and-domains/",
               "order": 1
             },
             {
               "title": "Hardware and Networking Focus",
-              "path": "comptia-a-220-1201/comptia-a-plus-220-1201-overview/hardware-and-networking-focus/",
+              "path": "comptia-a-220-1201/hardware-and-networking-focus/",
               "order": 2
             },
             {
               "title": "Troubleshooting and Support Mindset",
-              "path": "comptia-a-220-1201/comptia-a-plus-220-1201-overview/troubleshooting-and-support-mindset/",
+              "path": "comptia-a-220-1201/troubleshooting-and-support-mindset/",
               "order": 3
             },
             {
               "title": "Best Practices for Study and Lab Work",
-              "path": "comptia-a-220-1201/comptia-a-plus-220-1201-overview/best-practices-for-study-and-lab-work/",
+              "path": "comptia-a-220-1201/best-practices-for-study-and-lab-work/",
               "order": 4
             }
           ],
@@ -34,37 +34,37 @@
           "files": [
             {
               "title": "Mobile Device Types",
-              "path": "comptia-a-220-1201/mobile-devices/mobile-device-types/",
+              "path": "comptia-a-220-1201/mobile-device-types/",
               "order": 5
             },
             {
               "title": "Mobile Device Components",
-              "path": "comptia-a-220-1201/mobile-devices/mobile-device-components/",
+              "path": "comptia-a-220-1201/mobile-device-components/",
               "order": 6
             },
             {
               "title": "Mobile Device Accessories",
-              "path": "comptia-a-220-1201/mobile-devices/mobile-device-accessories/",
+              "path": "comptia-a-220-1201/mobile-device-accessories/",
               "order": 7
             },
             {
               "title": "Mobile Device Connectivity",
-              "path": "comptia-a-220-1201/mobile-devices/mobile-device-connectivity/",
+              "path": "comptia-a-220-1201/mobile-device-connectivity/",
               "order": 8
             },
             {
               "title": "Mobile Device Synchronization and Data Transfer",
-              "path": "comptia-a-220-1201/mobile-devices/mobile-device-synchronization-and-data-transfer/",
+              "path": "comptia-a-220-1201/mobile-device-synchronization-and-data-transfer/",
               "order": 9
             },
             {
               "title": "Mobile Device Security",
-              "path": "comptia-a-220-1201/mobile-devices/mobile-device-security/",
+              "path": "comptia-a-220-1201/mobile-device-security/",
               "order": 10
             },
             {
               "title": "Mobile Device Troubleshooting",
-              "path": "comptia-a-220-1201/mobile-devices/mobile-device-troubleshooting/",
+              "path": "comptia-a-220-1201/mobile-device-troubleshooting/",
               "order": 11
             }
           ],
@@ -75,47 +75,47 @@
           "files": [
             {
               "title": "Networking Concepts",
-              "path": "comptia-a-220-1201/networking/networking-concepts/",
+              "path": "comptia-a-220-1201/networking-concepts/",
               "order": 12
             },
             {
               "title": "Network Types and Topologies",
-              "path": "comptia-a-220-1201/networking/network-types-and-topologies/",
+              "path": "comptia-a-220-1201/network-types-and-topologies/",
               "order": 13
             },
             {
               "title": "Cables and Connectors",
-              "path": "comptia-a-220-1201/networking/cables-and-connectors/",
+              "path": "comptia-a-220-1201/cables-and-connectors/",
               "order": 14
             },
             {
               "title": "Wireless Networking Standards",
-              "path": "comptia-a-220-1201/networking/wireless-networking-standards/",
+              "path": "comptia-a-220-1201/wireless-networking-standards/",
               "order": 15
             },
             {
               "title": "Network Devices",
-              "path": "comptia-a-220-1201/networking/network-devices/",
+              "path": "comptia-a-220-1201/network-devices/",
               "order": 16
             },
             {
               "title": "TCP/IP and Common Ports",
-              "path": "comptia-a-220-1201/networking/tcp-ip-and-common-ports/",
+              "path": "comptia-a-220-1201/tcp-ip-and-common-ports/",
               "order": 17
             },
             {
               "title": "SOHO Network Setup",
-              "path": "comptia-a-220-1201/networking/soho-network-setup/",
+              "path": "comptia-a-220-1201/soho-network-setup/",
               "order": 18
             },
             {
               "title": "Internet Connection Types",
-              "path": "comptia-a-220-1201/networking/internet-connection-types/",
+              "path": "comptia-a-220-1201/internet-connection-types/",
               "order": 19
             },
             {
               "title": "Network Troubleshooting",
-              "path": "comptia-a-220-1201/networking/network-troubleshooting/",
+              "path": "comptia-a-220-1201/network-troubleshooting/",
               "order": 20
             }
           ],
@@ -126,47 +126,47 @@
           "files": [
             {
               "title": "Motherboards and CPUs",
-              "path": "comptia-a-220-1201/hardware/motherboards-and-cpus/",
+              "path": "comptia-a-220-1201/motherboards-and-cpus/",
               "order": 21
             },
             {
               "title": "Memory and Storage",
-              "path": "comptia-a-220-1201/hardware/memory-and-storage/",
+              "path": "comptia-a-220-1201/memory-and-storage/",
               "order": 22
             },
             {
               "title": "Power Supplies and Cooling",
-              "path": "comptia-a-220-1201/hardware/power-supplies-and-cooling/",
+              "path": "comptia-a-220-1201/power-supplies-and-cooling/",
               "order": 23
             },
             {
               "title": "Expansion Cards and Ports",
-              "path": "comptia-a-220-1201/hardware/expansion-cards-and-ports/",
+              "path": "comptia-a-220-1201/expansion-cards-and-ports/",
               "order": 24
             },
             {
               "title": "Peripherals and Input Devices",
-              "path": "comptia-a-220-1201/hardware/peripherals-and-input-devices/",
+              "path": "comptia-a-220-1201/peripherals-and-input-devices/",
               "order": 25
             },
             {
               "title": "Printers and Imaging Devices",
-              "path": "comptia-a-220-1201/hardware/printers-and-imaging-devices/",
+              "path": "comptia-a-220-1201/printers-and-imaging-devices/",
               "order": 26
             },
             {
               "title": "Display Technologies",
-              "path": "comptia-a-220-1201/hardware/display-technologies/",
+              "path": "comptia-a-220-1201/display-technologies/",
               "order": 27
             },
             {
               "title": "Hardware Installation and Configuration",
-              "path": "comptia-a-220-1201/hardware/hardware-installation-and-configuration/",
+              "path": "comptia-a-220-1201/hardware-installation-and-configuration/",
               "order": 28
             },
             {
               "title": "Hardware Troubleshooting",
-              "path": "comptia-a-220-1201/hardware/hardware-troubleshooting/",
+              "path": "comptia-a-220-1201/hardware-troubleshooting/",
               "order": 29
             }
           ],
@@ -177,27 +177,27 @@
           "files": [
             {
               "title": "Virtualization Concepts",
-              "path": "comptia-a-220-1201/virtualization-and-cloud-computing/virtualization-concepts/",
+              "path": "comptia-a-220-1201/virtualization-concepts/",
               "order": 30
             },
             {
               "title": "Virtual Desktop Infrastructure",
-              "path": "comptia-a-220-1201/virtualization-and-cloud-computing/virtual-desktop-infrastructure/",
+              "path": "comptia-a-220-1201/virtual-desktop-infrastructure/",
               "order": 31
             },
             {
               "title": "Cloud Service Models",
-              "path": "comptia-a-220-1201/virtualization-and-cloud-computing/cloud-service-models/",
+              "path": "comptia-a-220-1201/cloud-service-models/",
               "order": 32
             },
             {
               "title": "Cloud Deployment Models",
-              "path": "comptia-a-220-1201/virtualization-and-cloud-computing/cloud-deployment-models/",
+              "path": "comptia-a-220-1201/cloud-deployment-models/",
               "order": 33
             },
             {
               "title": "Virtualization and Cloud Troubleshooting",
-              "path": "comptia-a-220-1201/virtualization-and-cloud-computing/virtualization-and-cloud-troubleshooting/",
+              "path": "comptia-a-220-1201/virtualization-and-cloud-troubleshooting/",
               "order": 34
             }
           ],
@@ -208,27 +208,27 @@
           "files": [
             {
               "title": "Troubleshooting Theory and Process",
-              "path": "comptia-a-220-1201/hardware-and-network-troubleshooting-methodology/troubleshooting-theory-and-process/",
+              "path": "comptia-a-220-1201/troubleshooting-theory-and-process/",
               "order": 35
             },
             {
               "title": "Identifying Symptoms and Root Causes",
-              "path": "comptia-a-220-1201/hardware-and-network-troubleshooting-methodology/identifying-symptoms-and-root-causes/",
+              "path": "comptia-a-220-1201/identifying-symptoms-and-root-causes/",
               "order": 36
             },
             {
               "title": "Using Diagnostic Tools",
-              "path": "comptia-a-220-1201/hardware-and-network-troubleshooting-methodology/using-diagnostic-tools/",
+              "path": "comptia-a-220-1201/using-diagnostic-tools/",
               "order": 37
             },
             {
               "title": "Documentation and Escalation",
-              "path": "comptia-a-220-1201/hardware-and-network-troubleshooting-methodology/documentation-and-escalation/",
+              "path": "comptia-a-220-1201/documentation-and-escalation/",
               "order": 38
             },
             {
               "title": "Customer Communication and Professionalism",
-              "path": "comptia-a-220-1201/hardware-and-network-troubleshooting-methodology/customer-communication-and-professionalism/",
+              "path": "comptia-a-220-1201/customer-communication-and-professionalism/",
               "order": 39
             }
           ],
@@ -245,27 +245,27 @@
           "files": [
             {
               "title": "Virtual Networks and Virtualization Concepts",
-              "path": "comptia-network-plus/virtualization-cloud-and-emerging-technologies/virtual-networks-and-virtualization-concepts/",
+              "path": "comptia-network-plus/virtual-networks-and-virtualization-concepts/",
               "order": 53
             },
             {
               "title": "Cloud Service Models and Deployment Models",
-              "path": "comptia-network-plus/virtualization-cloud-and-emerging-technologies/cloud-service-models-and-deployment-models/",
+              "path": "comptia-network-plus/cloud-service-models-and-deployment-models/",
               "order": 54
             },
             {
               "title": "Software-Defined Networking",
-              "path": "comptia-network-plus/virtualization-cloud-and-emerging-technologies/software-defined-networking/",
+              "path": "comptia-network-plus/software-defined-networking/",
               "order": 55
             },
             {
               "title": "Network Automation and Orchestration",
-              "path": "comptia-network-plus/virtualization-cloud-and-emerging-technologies/network-automation-and-orchestration/",
+              "path": "comptia-network-plus/network-automation-and-orchestration/",
               "order": 56
             },
             {
               "title": "Internet of Things and Industrial Networks",
-              "path": "comptia-network-plus/virtualization-cloud-and-emerging-technologies/internet-of-things-and-industrial-networks/",
+              "path": "comptia-network-plus/internet-of-things-and-industrial-networks/",
               "order": 57
             }
           ],
@@ -276,22 +276,22 @@
           "files": [
             {
               "title": "Practice Exams and Question Analysis for CompTIA Network+ N10-009",
-              "path": "comptia-network-plus/final-review-and-exam-preparation/practice-exams-and-question-analysis/",
+              "path": "comptia-network-plus/practice-exams-and-question-analysis/",
               "order": 58
             },
             {
               "title": "Hands-On Lab Review",
-              "path": "comptia-network-plus/final-review-and-exam-preparation/hands-on-lab-review/",
+              "path": "comptia-network-plus/hands-on-lab-review/",
               "order": 59
             },
             {
               "title": "Memory Aids and Acronym Review",
-              "path": "comptia-network-plus/final-review-and-exam-preparation/memory-aids-and-acronym-review/",
+              "path": "comptia-network-plus/memory-aids-and-acronym-review/",
               "order": 60
             },
             {
               "title": "Exam Day Readiness",
-              "path": "comptia-network-plus/final-review-and-exam-preparation/exam-day-readiness/",
+              "path": "comptia-network-plus/exam-day-readiness/",
               "order": 61
             }
           ],
@@ -302,22 +302,22 @@
           "files": [
             {
               "title": "CompTIA Network+ Certification Objectives",
-              "path": "comptia-network-plus/course-introduction-and-exam-overview/comptia-network-plus-certification-objectives/",
+              "path": "comptia-network-plus/comptia-network-plus-certification-objectives/",
               "order": 1
             },
             {
               "title": "Exam Domains and Weighting",
-              "path": "comptia-network-plus/course-introduction-and-exam-overview/exam-domains-and-weighting/",
+              "path": "comptia-network-plus/exam-domains-and-weighting/",
               "order": 2
             },
             {
               "title": "Study Strategies and Lab Expectations",
-              "path": "comptia-network-plus/course-introduction-and-exam-overview/study-strategies-and-lab-expectations/",
+              "path": "comptia-network-plus/study-strategies-and-lab-expectations/",
               "order": 3
             },
             {
               "title": "Networking Career Roles and Use Cases",
-              "path": "comptia-network-plus/course-introduction-and-exam-overview/networking-career-roles-and-use-cases/",
+              "path": "comptia-network-plus/networking-career-roles-and-use-cases/",
               "order": 4
             }
           ],
@@ -328,27 +328,27 @@
           "files": [
             {
               "title": "Network Types and Topologies",
-              "path": "comptia-network-plus/networking-concepts-and-fundamentals/network-types-and-topologies/",
+              "path": "comptia-network-plus/network-types-and-topologies/",
               "order": 5
             },
             {
               "title": "Network Models: OSI and TCP/IP",
-              "path": "comptia-network-plus/networking-concepts-and-fundamentals/network-models-osi-and-tcp-ip/",
+              "path": "comptia-network-plus/network-models-osi-and-tcp-ip/",
               "order": 6
             },
             {
               "title": "Encapsulation and Decapsulation",
-              "path": "comptia-network-plus/networking-concepts-and-fundamentals/encapsulation-and-decapsulation/",
+              "path": "comptia-network-plus/encapsulation-and-decapsulation/",
               "order": 7
             },
             {
               "title": "Bandwidth, Throughput, Latency, and Jitter",
-              "path": "comptia-network-plus/networking-concepts-and-fundamentals/bandwidth-throughput-latency-and-jitter/",
+              "path": "comptia-network-plus/bandwidth-throughput-latency-and-jitter/",
               "order": 8
             },
             {
               "title": "Common Networking Standards and Organizations",
-              "path": "comptia-network-plus/networking-concepts-and-fundamentals/common-networking-standards-and-organizations/",
+              "path": "comptia-network-plus/common-networking-standards-and-organizations/",
               "order": 9
             }
           ],
@@ -359,37 +359,37 @@
           "files": [
             {
               "title": "Cabling Types and Connectors",
-              "path": "comptia-network-plus/network-infrastructure/cabling-types-and-connectors/",
+              "path": "comptia-network-plus/cabling-types-and-connectors/",
               "order": 10
             },
             {
               "title": "Copper Cabling Standards",
-              "path": "comptia-network-plus/network-infrastructure/copper-cabling-standards/",
+              "path": "comptia-network-plus/copper-cabling-standards/",
               "order": 11
             },
             {
               "title": "Fiber Optic Cabling Standards",
-              "path": "comptia-network-plus/network-infrastructure/fiber-optic-cabling-standards/",
+              "path": "comptia-network-plus/fiber-optic-cabling-standards/",
               "order": 12
             },
             {
               "title": "Wireless Media and Antennas",
-              "path": "comptia-network-plus/network-infrastructure/wireless-media-and-antennas/",
+              "path": "comptia-network-plus/wireless-media-and-antennas/",
               "order": 13
             },
             {
               "title": "Network Devices: Hubs, Switches, Routers, and Access Points",
-              "path": "comptia-network-plus/network-infrastructure/network-devices-hubs-switches-routers-and-access-points/",
+              "path": "comptia-network-plus/network-devices-hubs-switches-routers-and-access-points/",
               "order": 14
             },
             {
               "title": "Firewalls, Load Balancers, and Proxies",
-              "path": "comptia-network-plus/network-infrastructure/firewalls-load-balancers-and-proxies/",
+              "path": "comptia-network-plus/firewalls-load-balancers-and-proxies/",
               "order": 15
             },
             {
               "title": "Power and Environmental Considerations",
-              "path": "comptia-network-plus/network-infrastructure/power-and-environmental-considerations/",
+              "path": "comptia-network-plus/power-and-environmental-considerations/",
               "order": 16
             }
           ],
@@ -400,32 +400,32 @@
           "files": [
             {
               "title": "IPv4 Addressing Basics",
-              "path": "comptia-network-plus/network-addressing-and-subnetting/ipv4-addressing-basics/",
+              "path": "comptia-network-plus/ipv4-addressing-basics/",
               "order": 17
             },
             {
               "title": "Subnet Masks and CIDR Notation",
-              "path": "comptia-network-plus/network-addressing-and-subnetting/subnet-masks-and-cidr-notation/",
+              "path": "comptia-network-plus/subnet-masks-and-cidr-notation/",
               "order": 18
             },
             {
               "title": "Subnetting Techniques and Calculations",
-              "path": "comptia-network-plus/network-addressing-and-subnetting/subnetting-techniques-and-calculations/",
+              "path": "comptia-network-plus/subnetting-techniques-and-calculations/",
               "order": 19
             },
             {
               "title": "IPv6 Addressing Basics",
-              "path": "comptia-network-plus/network-addressing-and-subnetting/ipv6-addressing-basics/",
+              "path": "comptia-network-plus/ipv6-addressing-basics/",
               "order": 20
             },
             {
               "title": "Public, Private, and Special-Use Addresses",
-              "path": "comptia-network-plus/network-addressing-and-subnetting/public-private-and-special-use-addresses/",
+              "path": "comptia-network-plus/public-private-and-special-use-addresses/",
               "order": 21
             },
             {
               "title": "Default Gateway, DNS, and DHCP Concepts",
-              "path": "comptia-network-plus/network-addressing-and-subnetting/default-gateway-dns-and-dhcp-concepts/",
+              "path": "comptia-network-plus/default-gateway-dns-and-dhcp-concepts/",
               "order": 22
             }
           ],
@@ -436,32 +436,32 @@
           "files": [
             {
               "title": "Switching Concepts and VLANs",
-              "path": "comptia-network-plus/routing-and-switching/switching-concepts-and-vlans/",
+              "path": "comptia-network-plus/switching-concepts-and-vlans/",
               "order": 23
             },
             {
               "title": "Inter-VLAN Routing",
-              "path": "comptia-network-plus/routing-and-switching/inter-vlan-routing/",
+              "path": "comptia-network-plus/inter-vlan-routing/",
               "order": 24
             },
             {
               "title": "Routing Concepts and Protocols",
-              "path": "comptia-network-plus/routing-and-switching/routing-concepts-and-protocols/",
+              "path": "comptia-network-plus/routing-concepts-and-protocols/",
               "order": 25
             },
             {
               "title": "Static and Dynamic Routing",
-              "path": "comptia-network-plus/routing-and-switching/static-and-dynamic-routing/",
+              "path": "comptia-network-plus/static-and-dynamic-routing/",
               "order": 26
             },
             {
               "title": "Routing Tables and Metrics",
-              "path": "comptia-network-plus/routing-and-switching/routing-tables-and-metrics/",
+              "path": "comptia-network-plus/routing-tables-and-metrics/",
               "order": 27
             },
             {
               "title": "Spanning Tree Protocol",
-              "path": "comptia-network-plus/routing-and-switching/spanning-tree-protocol/",
+              "path": "comptia-network-plus/spanning-tree-protocol/",
               "order": 28
             }
           ],
@@ -472,32 +472,32 @@
           "files": [
             {
               "title": "Common Network Ports and Protocols",
-              "path": "comptia-network-plus/network-services-and-applications/common-network-ports-and-protocols/",
+              "path": "comptia-network-plus/common-network-ports-and-protocols/",
               "order": 29
             },
             {
               "title": "DNS, DHCP, and NTP",
-              "path": "comptia-network-plus/network-services-and-applications/dns-dhcp-and-ntp/",
+              "path": "comptia-network-plus/dns-dhcp-and-ntp/",
               "order": 30
             },
             {
               "title": "File, Email, and Web Services",
-              "path": "comptia-network-plus/network-services-and-applications/file-email-and-web-services/",
+              "path": "comptia-network-plus/file-email-and-web-services/",
               "order": 31
             },
             {
               "title": "Remote Access Services",
-              "path": "comptia-network-plus/network-services-and-applications/remote-access-services/",
+              "path": "comptia-network-plus/remote-access-services/",
               "order": 32
             },
             {
               "title": "Voice and Video over IP",
-              "path": "comptia-network-plus/network-services-and-applications/voice-and-video-over-ip/",
+              "path": "comptia-network-plus/voice-and-video-over-ip/",
               "order": 33
             },
             {
               "title": "Network Time and Synchronization",
-              "path": "comptia-network-plus/network-services-and-applications/network-time-and-synchronization/",
+              "path": "comptia-network-plus/network-time-and-synchronization/",
               "order": 34
             }
           ],
@@ -508,32 +508,32 @@
           "files": [
             {
               "title": "Monitoring and Alerting",
-              "path": "comptia-network-plus/network-operations/monitoring-and-alerting/",
+              "path": "comptia-network-plus/monitoring-and-alerting/",
               "order": 35
             },
             {
               "title": "Performance Baselines and Metrics",
-              "path": "comptia-network-plus/network-operations/performance-baselines-and-metrics/",
+              "path": "comptia-network-plus/performance-baselines-and-metrics/",
               "order": 36
             },
             {
               "title": "Documentation and Change Management",
-              "path": "comptia-network-plus/network-operations/documentation-and-change-management/",
+              "path": "comptia-network-plus/documentation-and-change-management/",
               "order": 37
             },
             {
               "title": "High Availability and Redundancy",
-              "path": "comptia-network-plus/network-operations/high-availability-and-redundancy/",
+              "path": "comptia-network-plus/high-availability-and-redundancy/",
               "order": 38
             },
             {
               "title": "Disaster Recovery and Business Continuity",
-              "path": "comptia-network-plus/network-operations/disaster-recovery-and-business-continuity/",
+              "path": "comptia-network-plus/disaster-recovery-and-business-continuity/",
               "order": 39
             },
             {
               "title": "Network Troubleshooting Methodology",
-              "path": "comptia-network-plus/network-operations/network-troubleshooting-methodology/",
+              "path": "comptia-network-plus/network-troubleshooting-methodology/",
               "order": 40
             }
           ],
@@ -544,32 +544,32 @@
           "files": [
             {
               "title": "Security Principles and Threats",
-              "path": "comptia-network-plus/network-security/security-principles-and-threats/",
+              "path": "comptia-network-plus/security-principles-and-threats/",
               "order": 41
             },
             {
               "title": "Authentication, Authorization, and Accounting",
-              "path": "comptia-network-plus/network-security/authentication-authorization-and-accounting/",
+              "path": "comptia-network-plus/authentication-authorization-and-accounting/",
               "order": 42
             },
             {
               "title": "Network Access Control",
-              "path": "comptia-network-plus/network-security/network-access-control/",
+              "path": "comptia-network-plus/network-access-control/",
               "order": 43
             },
             {
               "title": "Wireless Security",
-              "path": "comptia-network-plus/network-security/wireless-security/",
+              "path": "comptia-network-plus/wireless-security/",
               "order": 44
             },
             {
               "title": "Secure Protocols and Encryption",
-              "path": "comptia-network-plus/network-security/secure-protocols-and-encryption/",
+              "path": "comptia-network-plus/secure-protocols-and-encryption/",
               "order": 45
             },
             {
               "title": "Segmentation and Zero Trust Concepts",
-              "path": "comptia-network-plus/network-security/segmentation-and-zero-trust-concepts/",
+              "path": "comptia-network-plus/segmentation-and-zero-trust-concepts/",
               "order": 46
             }
           ],
@@ -580,32 +580,32 @@
           "files": [
             {
               "title": "Troubleshooting Tools and Utilities",
-              "path": "comptia-network-plus/network-troubleshooting-and-tools/troubleshooting-tools-and-utilities/",
+              "path": "comptia-network-plus/troubleshooting-tools-and-utilities/",
               "order": 47
             },
             {
               "title": "Cable Testing and Certification Tools",
-              "path": "comptia-network-plus/network-troubleshooting-and-tools/cable-testing-and-certification-tools/",
+              "path": "comptia-network-plus/cable-testing-and-certification-tools/",
               "order": 48
             },
             {
               "title": "Wireless Troubleshooting Tools",
-              "path": "comptia-network-plus/network-troubleshooting-and-tools/wireless-troubleshooting-tools/",
+              "path": "comptia-network-plus/wireless-troubleshooting-tools/",
               "order": 49
             },
             {
               "title": "Command-Line Network Tools",
-              "path": "comptia-network-plus/network-troubleshooting-and-tools/command-line-network-tools/",
+              "path": "comptia-network-plus/command-line-network-tools/",
               "order": 50
             },
             {
               "title": "Packet Capture and Analysis",
-              "path": "comptia-network-plus/network-troubleshooting-and-tools/packet-capture-and-analysis/",
+              "path": "comptia-network-plus/packet-capture-and-analysis/",
               "order": 51
             },
             {
               "title": "Common Network Faults and Remediation",
-              "path": "comptia-network-plus/network-troubleshooting-and-tools/common-network-faults-and-remediation/",
+              "path": "comptia-network-plus/common-network-faults-and-remediation/",
               "order": 52
             }
           ],
@@ -622,27 +622,27 @@
           "files": [
             {
               "title": "CompTIA Security+ Exam Overview",
-              "path": "comptia-security-plus/course-introduction-and-security-fundamentals/comptia-security-plus-exam-overview/",
+              "path": "comptia-security-plus/comptia-security-plus-exam-overview/",
               "order": 1
             },
             {
               "title": "Security Concepts and Principles",
-              "path": "comptia-security-plus/course-introduction-and-security-fundamentals/security-concepts-and-principles/",
+              "path": "comptia-security-plus/security-concepts-and-principles/",
               "order": 2
             },
             {
               "title": "CIA Triad and Security Objectives",
-              "path": "comptia-security-plus/course-introduction-and-security-fundamentals/cia-triad-and-security-objectives/",
+              "path": "comptia-security-plus/cia-triad-and-security-objectives/",
               "order": 3
             },
             {
               "title": "Threats, Vulnerabilities, and Risk",
-              "path": "comptia-security-plus/course-introduction-and-security-fundamentals/threats-vulnerabilities-and-risk/",
+              "path": "comptia-security-plus/threats-vulnerabilities-and-risk/",
               "order": 4
             },
             {
               "title": "Security Controls and Safeguards",
-              "path": "comptia-security-plus/course-introduction-and-security-fundamentals/security-controls-and-safeguards/",
+              "path": "comptia-security-plus/security-controls-and-safeguards/",
               "order": 5
             }
           ],
@@ -653,42 +653,42 @@
           "files": [
             {
               "title": "Malware Types and Behaviors",
-              "path": "comptia-security-plus/threats-attacks-and-vulnerabilities/malware-types-and-behaviors/",
+              "path": "comptia-security-plus/malware-types-and-behaviors/",
               "order": 6
             },
             {
               "title": "Social Engineering Attacks",
-              "path": "comptia-security-plus/threats-attacks-and-vulnerabilities/social-engineering-attacks/",
+              "path": "comptia-security-plus/social-engineering-attacks/",
               "order": 7
             },
             {
               "title": "Password Attacks",
-              "path": "comptia-security-plus/threats-attacks-and-vulnerabilities/password-attacks/",
+              "path": "comptia-security-plus/password-attacks/",
               "order": 8
             },
             {
               "title": "Network Attacks",
-              "path": "comptia-security-plus/threats-attacks-and-vulnerabilities/network-attacks/",
+              "path": "comptia-security-plus/network-attacks/",
               "order": 9
             },
             {
               "title": "Wireless Attacks",
-              "path": "comptia-security-plus/threats-attacks-and-vulnerabilities/wireless-attacks/",
+              "path": "comptia-security-plus/wireless-attacks/",
               "order": 10
             },
             {
               "title": "Application and Web Attacks",
-              "path": "comptia-security-plus/threats-attacks-and-vulnerabilities/application-and-web-attacks/",
+              "path": "comptia-security-plus/application-and-web-attacks/",
               "order": 11
             },
             {
               "title": "Vulnerability Scanning and Assessment",
-              "path": "comptia-security-plus/threats-attacks-and-vulnerabilities/vulnerability-scanning-and-assessment/",
+              "path": "comptia-security-plus/vulnerability-scanning-and-assessment/",
               "order": 12
             },
             {
               "title": "Indicators of Compromise",
-              "path": "comptia-security-plus/threats-attacks-and-vulnerabilities/indicators-of-compromise/",
+              "path": "comptia-security-plus/indicators-of-compromise/",
               "order": 13
             }
           ],
@@ -699,32 +699,32 @@
           "files": [
             {
               "title": "Secure Network Architecture",
-              "path": "comptia-security-plus/architecture-and-design/secure-network-architecture/",
+              "path": "comptia-security-plus/secure-network-architecture/",
               "order": 14
             },
             {
               "title": "Segmentation and Isolation",
-              "path": "comptia-security-plus/architecture-and-design/segmentation-and-isolation/",
+              "path": "comptia-security-plus/segmentation-and-isolation/",
               "order": 15
             },
             {
               "title": "Cloud and Virtualization Security",
-              "path": "comptia-security-plus/architecture-and-design/cloud-and-virtualization-security/",
+              "path": "comptia-security-plus/cloud-and-virtualization-security/",
               "order": 16
             },
             {
               "title": "Secure Application Development Concepts",
-              "path": "comptia-security-plus/architecture-and-design/secure-application-development-concepts/",
+              "path": "comptia-security-plus/secure-application-development-concepts/",
               "order": 17
             },
             {
               "title": "Resilience and High Availability",
-              "path": "comptia-security-plus/architecture-and-design/resilience-and-high-availability/",
+              "path": "comptia-security-plus/resilience-and-high-availability/",
               "order": 18
             },
             {
               "title": "Embedded and Specialized Systems Security",
-              "path": "comptia-security-plus/architecture-and-design/embedded-and-specialized-systems-security/",
+              "path": "comptia-security-plus/embedded-and-specialized-systems-security/",
               "order": 19
             }
           ],
@@ -735,42 +735,42 @@
           "files": [
             {
               "title": "Secure Protocols and Services",
-              "path": "comptia-security-plus/implementation/secure-protocols-and-services/",
+              "path": "comptia-security-plus/secure-protocols-and-services/",
               "order": 20
             },
             {
               "title": "Identity and Access Management",
-              "path": "comptia-security-plus/implementation/identity-and-access-management/",
+              "path": "comptia-security-plus/identity-and-access-management/",
               "order": 21
             },
             {
               "title": "Authentication Methods",
-              "path": "comptia-security-plus/implementation/authentication-methods/",
+              "path": "comptia-security-plus/authentication-methods/",
               "order": 22
             },
             {
               "title": "Authorization and Accounting",
-              "path": "comptia-security-plus/implementation/authorization-and-accounting/",
+              "path": "comptia-security-plus/authorization-and-accounting/",
               "order": 23
             },
             {
               "title": "Public Key Infrastructure",
-              "path": "comptia-security-plus/implementation/public-key-infrastructure/",
+              "path": "comptia-security-plus/public-key-infrastructure/",
               "order": 24
             },
             {
               "title": "Wireless Security Implementation",
-              "path": "comptia-security-plus/implementation/wireless-security-implementation/",
+              "path": "comptia-security-plus/wireless-security-implementation/",
               "order": 25
             },
             {
               "title": "Endpoint Security",
-              "path": "comptia-security-plus/implementation/endpoint-security/",
+              "path": "comptia-security-plus/endpoint-security/",
               "order": 26
             },
             {
               "title": "Mobile Device Security",
-              "path": "comptia-security-plus/implementation/mobile-device-security/",
+              "path": "comptia-security-plus/mobile-device-security/",
               "order": 27
             }
           ],
@@ -781,37 +781,37 @@
           "files": [
             {
               "title": "Security Monitoring and Logging",
-              "path": "comptia-security-plus/operations-and-incident-response/security-monitoring-and-logging/",
+              "path": "comptia-security-plus/security-monitoring-and-logging/",
               "order": 28
             },
             {
               "title": "Incident Response Process",
-              "path": "comptia-security-plus/operations-and-incident-response/incident-response-process/",
+              "path": "comptia-security-plus/incident-response-process/",
               "order": 29
             },
             {
               "title": "Digital Forensics Basics",
-              "path": "comptia-security-plus/operations-and-incident-response/digital-forensics-basics/",
+              "path": "comptia-security-plus/digital-forensics-basics/",
               "order": 30
             },
             {
               "title": "Vulnerability Management",
-              "path": "comptia-security-plus/operations-and-incident-response/vulnerability-management/",
+              "path": "comptia-security-plus/vulnerability-management/",
               "order": 31
             },
             {
               "title": "Backup, Recovery, and Business Continuity",
-              "path": "comptia-security-plus/operations-and-incident-response/backup-recovery-and-business-continuity/",
+              "path": "comptia-security-plus/backup-recovery-and-business-continuity/",
               "order": 32
             },
             {
               "title": "Disaster Recovery Planning",
-              "path": "comptia-security-plus/operations-and-incident-response/disaster-recovery-planning/",
+              "path": "comptia-security-plus/disaster-recovery-planning/",
               "order": 33
             },
             {
               "title": "Security Automation and Orchestration",
-              "path": "comptia-security-plus/operations-and-incident-response/security-automation-and-orchestration/",
+              "path": "comptia-security-plus/security-automation-and-orchestration/",
               "order": 34
             }
           ],
@@ -822,32 +822,32 @@
           "files": [
             {
               "title": "Security Policies and Procedures",
-              "path": "comptia-security-plus/governance-risk-and-compliance/security-policies-and-procedures/",
+              "path": "comptia-security-plus/security-policies-and-procedures/",
               "order": 35
             },
             {
               "title": "Risk Management Concepts",
-              "path": "comptia-security-plus/governance-risk-and-compliance/risk-management-concepts/",
+              "path": "comptia-security-plus/risk-management-concepts/",
               "order": 36
             },
             {
               "title": "Compliance and Legal Requirements",
-              "path": "comptia-security-plus/governance-risk-and-compliance/compliance-and-legal-requirements/",
+              "path": "comptia-security-plus/compliance-and-legal-requirements/",
               "order": 37
             },
             {
               "title": "Privacy and Data Protection",
-              "path": "comptia-security-plus/governance-risk-and-compliance/privacy-and-data-protection/",
+              "path": "comptia-security-plus/privacy-and-data-protection/",
               "order": 38
             },
             {
               "title": "Security Awareness and Training",
-              "path": "comptia-security-plus/governance-risk-and-compliance/security-awareness-and-training/",
+              "path": "comptia-security-plus/security-awareness-and-training/",
               "order": 39
             },
             {
               "title": "Third-Party Risk Management",
-              "path": "comptia-security-plus/governance-risk-and-compliance/third-party-risk-management/",
+              "path": "comptia-security-plus/third-party-risk-management/",
               "order": 40
             }
           ],
@@ -858,27 +858,27 @@
           "files": [
             {
               "title": "CompTIA Security+ Exam Objectives Review",
-              "path": "comptia-security-plus/exam-preparation-and-practice/exam-objectives-review/",
+              "path": "comptia-security-plus/exam-objectives-review/",
               "order": 41
             },
             {
               "title": "Performance-Based Questions Strategy",
-              "path": "comptia-security-plus/exam-preparation-and-practice/performance-based-questions-strategy/",
+              "path": "comptia-security-plus/performance-based-questions-strategy/",
               "order": 42
             },
             {
               "title": "Multiple-Choice Question Strategy",
-              "path": "comptia-security-plus/exam-preparation-and-practice/multiple-choice-question-strategy/",
+              "path": "comptia-security-plus/multiple-choice-question-strategy/",
               "order": 43
             },
             {
               "title": "Study Plan and Time Management",
-              "path": "comptia-security-plus/exam-preparation-and-practice/study-plan-and-time-management/",
+              "path": "comptia-security-plus/study-plan-and-time-management/",
               "order": 44
             },
             {
               "title": "Practice Exams and Review for CompTIA Security+",
-              "path": "comptia-security-plus/exam-preparation-and-practice/practice-exams-and-review/",
+              "path": "comptia-security-plus/practice-exams-and-review/",
               "order": 45
             }
           ],
@@ -895,27 +895,27 @@
           "files": [
             {
               "title": "Troubleshooting Methodology",
-              "path": "ccna-200-301/network-troubleshooting-and-operations/troubleshooting-methodology/",
+              "path": "ccna-200-301/troubleshooting-methodology/",
               "order": 64
             },
             {
               "title": "Common Network Problems",
-              "path": "ccna-200-301/network-troubleshooting-and-operations/common-network-problems/",
+              "path": "ccna-200-301/common-network-problems/",
               "order": 65
             },
             {
               "title": "Using Ping, Traceroute, and Telnet/SSH",
-              "path": "ccna-200-301/network-troubleshooting-and-operations/using-ping-traceroute-and-telnet-ssh/",
+              "path": "ccna-200-301/using-ping-traceroute-and-telnet-ssh/",
               "order": 66
             },
             {
               "title": "Show and Debug Commands",
-              "path": "ccna-200-301/network-troubleshooting-and-operations/show-and-debug-commands/",
+              "path": "ccna-200-301/show-and-debug-commands/",
               "order": 67
             },
             {
               "title": "Interface and Device Status Verification",
-              "path": "ccna-200-301/network-troubleshooting-and-operations/interface-and-device-status-verification/",
+              "path": "ccna-200-301/interface-and-device-status-verification/",
               "order": 68
             }
           ],
@@ -926,37 +926,37 @@
           "files": [
             {
               "title": "Cisco Device Boot Process",
-              "path": "ccna-200-301/cisco-ios-and-device-configuration/cisco-device-boot-process/",
+              "path": "ccna-200-301/cisco-device-boot-process/",
               "order": 70
             },
             {
               "title": "IOS Modes and Navigation",
-              "path": "ccna-200-301/cisco-ios-and-device-configuration/ios-modes-and-navigation/",
+              "path": "ccna-200-301/ios-modes-and-navigation/",
               "order": 71
             },
             {
               "title": "Basic Device Configuration",
-              "path": "ccna-200-301/cisco-ios-and-device-configuration/basic-device-configuration/",
+              "path": "ccna-200-301/basic-device-configuration/",
               "order": 72
             },
             {
               "title": "Interface Configuration",
-              "path": "ccna-200-301/cisco-ios-and-device-configuration/interface-configuration/",
+              "path": "ccna-200-301/interface-configuration/",
               "order": 73
             },
             {
               "title": "Password and User Management",
-              "path": "ccna-200-301/cisco-ios-and-device-configuration/password-and-user-management/",
+              "path": "ccna-200-301/password-and-user-management/",
               "order": 74
             },
             {
               "title": "Saving and Restoring Configurations",
-              "path": "ccna-200-301/cisco-ios-and-device-configuration/saving-and-restoring-configurations/",
+              "path": "ccna-200-301/saving-and-restoring-configurations/",
               "order": 75
             },
             {
               "title": "Cisco Licensing and Image Management",
-              "path": "ccna-200-301/cisco-ios-and-device-configuration/cisco-licensing-and-image-management/",
+              "path": "ccna-200-301/cisco-licensing-and-image-management/",
               "order": 76
             }
           ],
@@ -967,27 +967,27 @@
           "files": [
             {
               "title": "Subnetting Drills",
-              "path": "ccna-200-301/ccna-lab-practice-and-exam-preparation/subnetting-drills/",
+              "path": "ccna-200-301/subnetting-drills/",
               "order": 78
             },
             {
               "title": "Switching and VLAN Labs",
-              "path": "ccna-200-301/ccna-lab-practice-and-exam-preparation/switching-and-vlan-labs/",
+              "path": "ccna-200-301/switching-and-vlan-labs/",
               "order": 79
             },
             {
               "title": "Routing and Inter-VLAN Labs",
-              "path": "ccna-200-301/ccna-lab-practice-and-exam-preparation/routing-and-inter-vlan-labs/",
+              "path": "ccna-200-301/routing-and-inter-vlan-labs/",
               "order": 80
             },
             {
               "title": "Full-Length Practice Exams",
-              "path": "ccna-200-301/ccna-lab-practice-and-exam-preparation/full-length-practice-exams/",
+              "path": "ccna-200-301/full-length-practice-exams/",
               "order": 82
             },
             {
               "title": "Exam Strategy and Time Management",
-              "path": "ccna-200-301/ccna-lab-practice-and-exam-preparation/exam-strategy-and-time-management/",
+              "path": "ccna-200-301/exam-strategy-and-time-management/",
               "order": 83
             }
           ],
@@ -998,37 +998,37 @@
           "files": [
             {
               "title": "Introduction to Networks",
-              "path": "ccna-200-301/networking-fundamentals/introduction-to-networks/",
+              "path": "ccna-200-301/introduction-to-networks/",
               "order": 1
             },
             {
               "title": "Network Components and Devices",
-              "path": "ccna-200-301/networking-fundamentals/network-components-and-devices/",
+              "path": "ccna-200-301/network-components-and-devices/",
               "order": 2
             },
             {
               "title": "Network Topologies",
-              "path": "ccna-200-301/networking-fundamentals/network-topologies/",
+              "path": "ccna-200-301/network-topologies/",
               "order": 3
             },
             {
               "title": "Network Types and Architectures",
-              "path": "ccna-200-301/networking-fundamentals/network-types-and-architectures/",
+              "path": "ccna-200-301/network-types-and-architectures/",
               "order": 4
             },
             {
               "title": "The OSI and TCP/IP Models",
-              "path": "ccna-200-301/networking-fundamentals/osi-and-tcp-ip-models/",
+              "path": "ccna-200-301/osi-and-tcp-ip-models/",
               "order": 5
             },
             {
               "title": "Data Encapsulation and Decapsulation",
-              "path": "ccna-200-301/networking-fundamentals/data-encapsulation-and-decapsulation/",
+              "path": "ccna-200-301/data-encapsulation-and-decapsulation/",
               "order": 6
             },
             {
               "title": "Network Standards and Organizations",
-              "path": "ccna-200-301/networking-fundamentals/network-standards-and-organizations/",
+              "path": "ccna-200-301/network-standards-and-organizations/",
               "order": 7
             }
           ],
@@ -1039,42 +1039,42 @@
           "files": [
             {
               "title": "Ethernet Basics",
-              "path": "ccna-200-301/ethernet-lans/ethernet-basics/",
+              "path": "ccna-200-301/ethernet-basics/",
               "order": 8
             },
             {
               "title": "MAC Addresses",
-              "path": "ccna-200-301/ethernet-lans/mac-addresses/",
+              "path": "ccna-200-301/mac-addresses/",
               "order": 9
             },
             {
               "title": "Ethernet Frames",
-              "path": "ccna-200-301/ethernet-lans/ethernet-frames/",
+              "path": "ccna-200-301/ethernet-frames/",
               "order": 10
             },
             {
               "title": "Switching Concepts",
-              "path": "ccna-200-301/ethernet-lans/switching-concepts/",
+              "path": "ccna-200-301/switching-concepts/",
               "order": 11
             },
             {
               "title": "Collision Domains and Broadcast Domains",
-              "path": "ccna-200-301/ethernet-lans/collision-and-broadcast-domains/",
+              "path": "ccna-200-301/collision-and-broadcast-domains/",
               "order": 12
             },
             {
               "title": "ARP and Address Resolution",
-              "path": "ccna-200-301/ethernet-lans/arp-and-address-resolution/",
+              "path": "ccna-200-301/arp-and-address-resolution/",
               "order": 13
             },
             {
               "title": "VLAN Concepts",
-              "path": "ccna-200-301/ethernet-lans/vlan-concepts/",
+              "path": "ccna-200-301/vlan-concepts/",
               "order": 14
             },
             {
               "title": "Trunking and 802.1Q",
-              "path": "ccna-200-301/ethernet-lans/trunking-and-802-1q/",
+              "path": "ccna-200-301/trunking-and-802-1q/",
               "order": 15
             }
           ],
@@ -1085,37 +1085,37 @@
           "files": [
             {
               "title": "IPv4 Address Structure",
-              "path": "ccna-200-301/ip-addressing-and-subnetting/ipv4-address-structure/",
+              "path": "ccna-200-301/ipv4-address-structure/",
               "order": 16
             },
             {
               "title": "IPv4 Classes and Private Addressing",
-              "path": "ccna-200-301/ip-addressing-and-subnetting/ipv4-classes-and-private-addressing/",
+              "path": "ccna-200-301/ipv4-classes-and-private-addressing/",
               "order": 17
             },
             {
               "title": "Subnet Masks and Prefix Lengths",
-              "path": "ccna-200-301/ip-addressing-and-subnetting/subnet-masks-and-prefix-lengths/",
+              "path": "ccna-200-301/subnet-masks-and-prefix-lengths/",
               "order": 18
             },
             {
               "title": "Subnetting IPv4 Networks",
-              "path": "ccna-200-301/ip-addressing-and-subnetting/subnetting-ipv4-networks/",
+              "path": "ccna-200-301/subnetting-ipv4-networks/",
               "order": 19
             },
             {
               "title": "IPv6 Addressing",
-              "path": "ccna-200-301/ip-addressing-and-subnetting/ipv6-addressing/",
+              "path": "ccna-200-301/ipv6-addressing/",
               "order": 21
             },
             {
               "title": "IPv6 Address Types",
-              "path": "ccna-200-301/ip-addressing-and-subnetting/ipv6-address-types/",
+              "path": "ccna-200-301/ipv6-address-types/",
               "order": 22
             },
             {
               "title": "IPv6 Subnetting and Prefixes",
-              "path": "ccna-200-301/ip-addressing-and-subnetting/ipv6-subnetting-and-prefixes/",
+              "path": "ccna-200-301/ipv6-subnetting-and-prefixes/",
               "order": 23
             }
           ],
@@ -1126,37 +1126,37 @@
           "files": [
             {
               "title": "Routing Concepts",
-              "path": "ccna-200-301/routing-fundamentals/routing-concepts/",
+              "path": "ccna-200-301/routing-concepts/",
               "order": 24
             },
             {
               "title": "Routing Tables",
-              "path": "ccna-200-301/routing-fundamentals/routing-tables/",
+              "path": "ccna-200-301/routing-tables/",
               "order": 25
             },
             {
               "title": "Static Routing",
-              "path": "ccna-200-301/routing-fundamentals/static-routing/",
+              "path": "ccna-200-301/static-routing/",
               "order": 26
             },
             {
               "title": "Default Routes",
-              "path": "ccna-200-301/routing-fundamentals/default-routes/",
+              "path": "ccna-200-301/default-routes/",
               "order": 27
             },
             {
               "title": "Dynamic Routing Overview",
-              "path": "ccna-200-301/routing-fundamentals/dynamic-routing-overview/",
+              "path": "ccna-200-301/dynamic-routing-overview/",
               "order": 28
             },
             {
               "title": "Inter-VLAN Routing",
-              "path": "ccna-200-301/routing-fundamentals/inter-vlan-routing/",
+              "path": "ccna-200-301/inter-vlan-routing/",
               "order": 29
             },
             {
               "title": "First Hop Redundancy Concepts",
-              "path": "ccna-200-301/routing-fundamentals/first-hop-redundancy-concepts/",
+              "path": "ccna-200-301/first-hop-redundancy-concepts/",
               "order": 30
             }
           ],
@@ -1167,32 +1167,32 @@
           "files": [
             {
               "title": "Distance Vector vs Link State",
-              "path": "ccna-200-301/routing-protocols/distance-vector-vs-link-state/",
+              "path": "ccna-200-301/distance-vector-vs-link-state/",
               "order": 31
             },
             {
               "title": "RIP Concepts",
-              "path": "ccna-200-301/routing-protocols/rip-concepts/",
+              "path": "ccna-200-301/rip-concepts/",
               "order": 32
             },
             {
               "title": "OSPF Concepts",
-              "path": "ccna-200-301/routing-protocols/ospf-concepts/",
+              "path": "ccna-200-301/ospf-concepts/",
               "order": 33
             },
             {
               "title": "OSPF Neighbor Relationships",
-              "path": "ccna-200-301/routing-protocols/ospf-neighbor-relationships/",
+              "path": "ccna-200-301/ospf-neighbor-relationships/",
               "order": 34
             },
             {
               "title": "OSPF Areas and LSAs",
-              "path": "ccna-200-301/routing-protocols/ospf-areas-and-lsas/",
+              "path": "ccna-200-301/ospf-areas-and-lsas/",
               "order": 35
             },
             {
               "title": "Route Selection and Administrative Distance",
-              "path": "ccna-200-301/routing-protocols/route-selection-and-administrative-distance/",
+              "path": "ccna-200-301/route-selection-and-administrative-distance/",
               "order": 36
             }
           ],
@@ -1203,37 +1203,37 @@
           "files": [
             {
               "title": "DHCP Concepts and Operation",
-              "path": "ccna-200-301/ip-services/dhcp-concepts-and-operation/",
+              "path": "ccna-200-301/dhcp-concepts-and-operation/",
               "order": 37
             },
             {
               "title": "NAT and PAT",
-              "path": "ccna-200-301/ip-services/nat-and-pat/",
+              "path": "ccna-200-301/nat-and-pat/",
               "order": 38
             },
             {
               "title": "DNS Concepts",
-              "path": "ccna-200-301/ip-services/dns-concepts/",
+              "path": "ccna-200-301/dns-concepts/",
               "order": 39
             },
             {
               "title": "NTP Concepts",
-              "path": "ccna-200-301/ip-services/ntp-concepts/",
+              "path": "ccna-200-301/ntp-concepts/",
               "order": 40
             },
             {
               "title": "SNMP Concepts",
-              "path": "ccna-200-301/ip-services/snmp-concepts/",
+              "path": "ccna-200-301/snmp-concepts/",
               "order": 41
             },
             {
               "title": "Syslog Concepts",
-              "path": "ccna-200-301/ip-services/syslog-concepts/",
+              "path": "ccna-200-301/syslog-concepts/",
               "order": 42
             },
             {
               "title": "QoS Fundamentals",
-              "path": "ccna-200-301/ip-services/qos-fundamentals/",
+              "path": "ccna-200-301/qos-fundamentals/",
               "order": 43
             }
           ],
@@ -1244,42 +1244,42 @@
           "files": [
             {
               "title": "Switch Port Security",
-              "path": "ccna-200-301/network-access-and-wireless/switch-port-security/",
+              "path": "ccna-200-301/switch-port-security/",
               "order": 44
             },
             {
               "title": "Spanning Tree Protocol (STP)",
-              "path": "ccna-200-301/network-access-and-wireless/spanning-tree-protocol-stp/",
+              "path": "ccna-200-301/spanning-tree-protocol-stp/",
               "order": 45
             },
             {
               "title": "Rapid Spanning Tree Protocol (RSTP)",
-              "path": "ccna-200-301/network-access-and-wireless/rapid-spanning-tree-protocol-rstp/",
+              "path": "ccna-200-301/rapid-spanning-tree-protocol-rstp/",
               "order": 46
             },
             {
               "title": "EtherChannel Concepts",
-              "path": "ccna-200-301/network-access-and-wireless/etherchannel-concepts/",
+              "path": "ccna-200-301/etherchannel-concepts/",
               "order": 47
             },
             {
               "title": "Wireless LAN Fundamentals",
-              "path": "ccna-200-301/network-access-and-wireless/wireless-lan-fundamentals/",
+              "path": "ccna-200-301/wireless-lan-fundamentals/",
               "order": 48
             },
             {
               "title": "Wireless Standards and Frequencies",
-              "path": "ccna-200-301/network-access-and-wireless/wireless-standards-and-frequencies/",
+              "path": "ccna-200-301/wireless-standards-and-frequencies/",
               "order": 49
             },
             {
               "title": "Wireless Security",
-              "path": "ccna-200-301/network-access-and-wireless/wireless-security/",
+              "path": "ccna-200-301/wireless-security/",
               "order": 50
             },
             {
               "title": "WLAN Components and AP Modes",
-              "path": "ccna-200-301/network-access-and-wireless/wlan-components-and-ap-modes/",
+              "path": "ccna-200-301/wlan-components-and-ap-modes/",
               "order": 51
             }
           ],
@@ -1290,32 +1290,32 @@
           "files": [
             {
               "title": "Network Security Concepts",
-              "path": "ccna-200-301/security-fundamentals/network-security-concepts/",
+              "path": "ccna-200-301/network-security-concepts/",
               "order": 52
             },
             {
               "title": "Threats, Vulnerabilities, and Exploits",
-              "path": "ccna-200-301/security-fundamentals/threats-vulnerabilities-and-exploits/",
+              "path": "ccna-200-301/threats-vulnerabilities-and-exploits/",
               "order": 53
             },
             {
               "title": "Access Control Lists (ACLs)",
-              "path": "ccna-200-301/security-fundamentals/access-control-lists-acls/",
+              "path": "ccna-200-301/access-control-lists-acls/",
               "order": 54
             },
             {
               "title": "Device Hardening",
-              "path": "ccna-200-301/security-fundamentals/device-hardening/",
+              "path": "ccna-200-301/device-hardening/",
               "order": 55
             },
             {
               "title": "Authentication, Authorization, and Accounting (AAA)",
-              "path": "ccna-200-301/security-fundamentals/authentication-authorization-and-accounting-aaa/",
+              "path": "ccna-200-301/authentication-authorization-and-accounting-aaa/",
               "order": 56
             },
             {
               "title": "VPN Concepts",
-              "path": "ccna-200-301/security-fundamentals/vpn-concepts/",
+              "path": "ccna-200-301/vpn-concepts/",
               "order": 57
             }
           ],
@@ -1326,32 +1326,32 @@
           "files": [
             {
               "title": "Network Automation Concepts",
-              "path": "ccna-200-301/automation-and-programmability/network-automation-concepts/",
+              "path": "ccna-200-301/network-automation-concepts/",
               "order": 58
             },
             {
               "title": "Controller-Based Networking",
-              "path": "ccna-200-301/automation-and-programmability/controller-based-networking/",
+              "path": "ccna-200-301/controller-based-networking/",
               "order": 59
             },
             {
               "title": "APIs and REST",
-              "path": "ccna-200-301/automation-and-programmability/apis-and-rest/",
+              "path": "ccna-200-301/apis-and-rest/",
               "order": 60
             },
             {
               "title": "Data Formats: JSON and XML",
-              "path": "ccna-200-301/automation-and-programmability/data-formats-json-and-xml/",
+              "path": "ccna-200-301/data-formats-json-and-xml/",
               "order": 61
             },
             {
               "title": "Configuration Management Concepts",
-              "path": "ccna-200-301/automation-and-programmability/configuration-management-concepts/",
+              "path": "ccna-200-301/configuration-management-concepts/",
               "order": 62
             },
             {
               "title": "Cisco DNA Center Overview",
-              "path": "ccna-200-301/automation-and-programmability/cisco-dna-center-overview/",
+              "path": "ccna-200-301/cisco-dna-center-overview/",
               "order": 63
             }
           ],

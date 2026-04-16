@@ -10,8 +10,13 @@ function formatFolderName(name) {
 }
 
 function toRoutePath(relPath) {
-  const cleanPath = cleanRelPath(relPath).replace(/\.mdx?$/, '');
-  return `${cleanPath}/`;
+  const parts = cleanRelPath(relPath).split('/');
+  if (parts.length <= 1) {
+    return `${parts[0].replace(/\.mdx?$/, '')}/`;
+  }
+  const course = parts[0];
+  const filename = parts[parts.length - 1].replace(/\.mdx?$/, '');
+  return `${course}/${filename}/`;
 }
 
 /**

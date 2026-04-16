@@ -812,10 +812,22 @@ async function init() {
       const htmlContent = md.render(content);
 
       // Route output now writes to "<page>/index.html", so every page is one level deeper.
-      const depth = (relPath.match(/\//g) || []).length + 1;
-      const baseRel = depth === 0 ? './' : '../'.repeat(depth);
+      const parts = cleanRelPath(relPath).split('/');
+      let cleanRelative;
+      if (parts.length <= 1) {
+        cleanRelative = parts[0].replace(/\.mdx?$/, '');
+      } else {
+        const courseSlug = parts[0];
+        const pageSlug = parts[parts.length - 1].replace(/\.mdx?$/, '');
+        cleanRelative = `${courseSlug}/${pageSlug}`;
+      }
 
-      const cleanPath = normalizeRoutePath(cleanRelPath(relPath).replace(/\.mdx?$/, ''));
+      const cleanPath = normalizeRoutePath(cleanRelative);
+
+      // Route output writes to "content/<cleanPath>/index.html"
+      // dist/content/course/page/index.html -> depth 2 relative to dist/content
+      const depth = (cleanPath.match(/\//g) || []).length;
+      const baseRel = depth === 0 ? './' : '../'.repeat(depth);
 
       const sidebarHtml = renderSidebar(sidebarConfig, baseRel, cleanPath);
 
