@@ -1360,6 +1360,578 @@
         }
       },
       "order": "4"
+    },
+    "Html Essentials Complete Guide Beginner To Advanced": {
+      "files": [],
+      "folders": {
+        "Html Accessibility Essentials": {
+          "files": [
+            {
+              "title": "Accessibility Principles",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/accessibility-principles/",
+              "order": 55
+            },
+            {
+              "title": "Document Language and Metadata",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/document-language-and-metadata/",
+              "order": 56
+            },
+            {
+              "title": "Keyboard Navigation in HTML",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/keyboard-navigation/",
+              "order": 57
+            },
+            {
+              "title": "Accessible Forms",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/accessible-forms/",
+              "order": 58
+            },
+            {
+              "title": "Accessible Images and Media",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/accessible-images-and-media/",
+              "order": 59
+            },
+            {
+              "title": "ARIA Basics and When to Use It",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/aria-basics-and-when-to-use-it/",
+              "order": 60
+            }
+          ],
+          "folders": {},
+          "order": "10"
+        },
+        "Metadata And The Head Section": {
+          "files": [
+            {
+              "title": "title Element",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/title-element/",
+              "order": 61
+            },
+            {
+              "title": "meta Tags",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/meta-tags/",
+              "order": 62
+            },
+            {
+              "title": "Viewport Meta Tag",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/viewport-meta-tag/",
+              "order": 63
+            },
+            {
+              "title": "Linking Stylesheets and Icons",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/linking-stylesheets-and-icons/",
+              "order": 64
+            },
+            {
+              "title": "Open Graph and Social Metadata",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/open-graph-and-social-metadata/",
+              "order": 65
+            },
+            {
+              "title": "SEO Basics in HTML",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/seo-basics-in-html/",
+              "order": 66
+            }
+          ],
+          "folders": {},
+          "order": "11"
+        },
+        "Advanced Html Features": {
+          "files": [
+            {
+              "title": "data Attributes",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/data-attributes/",
+              "order": 67
+            },
+            {
+              "title": "Custom Attributes and Practical Uses",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/custom-attributes-and-practical-uses/",
+              "order": 68
+            },
+            {
+              "title": "The picture Element",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/the-picture-element/",
+              "order": 69
+            },
+            {
+              "title": "srcset and sizes",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/srcset-and-sizes/",
+              "order": 70
+            },
+            {
+              "title": "The dialog Element",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/the-dialog-element/",
+              "order": 71
+            },
+            {
+              "title": "The details and summary Elements",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/the-details-and-summary-elements/",
+              "order": 72
+            },
+            {
+              "title": "The template Element",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/the-template-element/",
+              "order": 73
+            }
+          ],
+          "folders": {},
+          "order": "12"
+        },
+        "Html Apis And Integration": {
+          "files": [
+            {
+              "title": "Embedding with iframe",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/embedding-with-iframe/",
+              "order": 74
+            },
+            {
+              "title": "Sandboxing and Security Considerations",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/sandboxing-and-security-considerations/",
+              "order": 75
+            },
+            {
+              "title": "Using HTML with JavaScript",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/using-html-with-javascript/",
+              "order": 76
+            },
+            {
+              "title": "DOM Basics for HTML Authors",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/dom-basics-for-html-authors/",
+              "order": 77
+            },
+            {
+              "title": "Progressive Enhancement",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/progressive-enhancement/",
+              "order": 78
+            }
+          ],
+          "folders": {},
+          "order": "13"
+        },
+        "Html Best Practices And Maintenance": {
+          "files": [
+            {
+              "title": "Writing Clean and Maintainable HTML",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/writing-clean-and-maintainable-html/",
+              "order": 79
+            },
+            {
+              "title": "Common HTML Mistakes",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/common-html-mistakes/",
+              "order": 80
+            },
+            {
+              "title": "Debugging HTML Issues",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/debugging-html-issues/",
+              "order": 81
+            },
+            {
+              "title": "Validation with the W3C Validator",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/validation-with-the-w3c-validator/",
+              "order": 82
+            },
+            {
+              "title": "Performance Considerations",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/performance-considerations/",
+              "order": 83
+            },
+            {
+              "title": "Cross-Browser Compatibility",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/cross-browser-compatibility/",
+              "order": 84
+            }
+          ],
+          "folders": {},
+          "order": "14"
+        },
+        "Projects And Practice": {
+          "files": [
+            {
+              "title": "Build a Personal Profile Page",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/build-a-personal-profile-page/",
+              "order": 85
+            },
+            {
+              "title": "Create a Multi-Page Website",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/create-a-multi-page-website/",
+              "order": 86
+            },
+            {
+              "title": "Design a Product Landing Page",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/design-a-product-landing-page/",
+              "order": 87
+            },
+            {
+              "title": "Create a Blog Article Layout",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/create-a-blog-article-layout/",
+              "order": 88
+            },
+            {
+              "title": "Build an Accessible Contact Form",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/build-an-accessible-contact-form/",
+              "order": 89
+            },
+            {
+              "title": "Capstone Project: Complete Static Website",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/capstone-project-complete-static-website/",
+              "order": 90
+            }
+          ],
+          "folders": {},
+          "order": "15"
+        },
+        "Course Wrap Up": {
+          "files": [
+            {
+              "title": "Review of Key Concepts",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/review-of-key-concepts/",
+              "order": 91
+            },
+            {
+              "title": "Next Steps in Web Development",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/next-steps-in-web-development/",
+              "order": 92
+            },
+            {
+              "title": "Recommended Resources for HTML Essentials",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/recommended-resources/",
+              "order": 93
+            },
+            {
+              "title": "Final Assessment",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/final-assessment/",
+              "order": 94
+            }
+          ],
+          "folders": {},
+          "order": "16"
+        },
+        "Introduction To Html": {
+          "files": [
+            {
+              "title": "What is HTML?",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/what-is-html/",
+              "order": 1
+            },
+            {
+              "title": "How the Web Works",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/how-the-web-works/",
+              "order": 2
+            },
+            {
+              "title": "HTML, CSS, and JavaScript Roles",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/html-css-and-javascript-roles/",
+              "order": 3
+            },
+            {
+              "title": "Setting Expectations for the Course",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/setting-expectations-for-the-course/",
+              "order": 4
+            }
+          ],
+          "folders": {},
+          "order": "1"
+        },
+        "Getting Started With Html": {
+          "files": [
+            {
+              "title": "HTML Document Structure",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/html-document-structure/",
+              "order": 5
+            },
+            {
+              "title": "The DOCTYPE Declaration",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/the-doctype-declaration/",
+              "order": 6
+            },
+            {
+              "title": "The html, head, and body Elements",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/the-html-head-and-body-elements/",
+              "order": 7
+            },
+            {
+              "title": "Creating Your First Web Page",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/creating-your-first-web-page/",
+              "order": 8
+            },
+            {
+              "title": "Using a Code Editor",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/using-a-code-editor/",
+              "order": 9
+            },
+            {
+              "title": "Viewing HTML in the Browser",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/viewing-html-in-the-browser/",
+              "order": 10
+            }
+          ],
+          "folders": {},
+          "order": "2"
+        },
+        "Html Syntax And Core Concepts": {
+          "files": [
+            {
+              "title": "Elements, Tags, and Attributes",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/elements-tags-and-attributes/",
+              "order": 11
+            },
+            {
+              "title": "Nesting and Hierarchy in HTML",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/nesting-and-hierarchy/",
+              "order": 12
+            },
+            {
+              "title": "Block vs Inline Elements",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/block-vs-inline-elements/",
+              "order": 13
+            },
+            {
+              "title": "Comments in HTML",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/comments-in-html/",
+              "order": 14
+            },
+            {
+              "title": "Whitespace and Formatting",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/whitespace-and-formatting/",
+              "order": 15
+            },
+            {
+              "title": "Case Sensitivity and Best Practices",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/case-sensitivity-and-best-practices/",
+              "order": 16
+            }
+          ],
+          "folders": {},
+          "order": "3"
+        },
+        "Text Content And Semantics": {
+          "files": [
+            {
+              "title": "HTML Headings",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/headings/",
+              "order": 17
+            },
+            {
+              "title": "Paragraphs in HTML",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/paragraphs/",
+              "order": 18
+            },
+            {
+              "title": "Bold, Italic, and Emphasis",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/bold-italic-and-emphasis/",
+              "order": 19
+            },
+            {
+              "title": "Lists: Ordered, Unordered, and Description",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/lists-ordered-unordered-and-description/",
+              "order": 20
+            },
+            {
+              "title": "Quotes and Citations",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/quotes-and-citations/",
+              "order": 21
+            },
+            {
+              "title": "Line Breaks and Horizontal Rules",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/line-breaks-and-horizontal-rules/",
+              "order": 22
+            },
+            {
+              "title": "Semantic Text Elements",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/semantic-text-elements/",
+              "order": 23
+            }
+          ],
+          "folders": {},
+          "order": "4"
+        },
+        "Links And Navigation": {
+          "files": [
+            {
+              "title": "Anchor Tags and href",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/anchor-tags-and-href/",
+              "order": 24
+            },
+            {
+              "title": "Relative vs Absolute URLs",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/relative-vs-absolute-urls/",
+              "order": 25
+            },
+            {
+              "title": "Linking to Sections on a Page",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/linking-to-sections-on-a-page/",
+              "order": 26
+            },
+            {
+              "title": "Opening Links in New Tabs",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/opening-links-in-new-tabs/",
+              "order": 27
+            },
+            {
+              "title": "Email, Phone, and Download Links",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/email-phone-and-download-links/",
+              "order": 28
+            },
+            {
+              "title": "Building Navigation Menus",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/building-navigation-menus/",
+              "order": 29
+            }
+          ],
+          "folders": {},
+          "order": "5"
+        },
+        "Images And Media": {
+          "files": [
+            {
+              "title": "The img Element",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/the-img-element/",
+              "order": 30
+            },
+            {
+              "title": "Alt Text and Accessibility",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/alt-text-and-accessibility/",
+              "order": 31
+            },
+            {
+              "title": "Image Formats and Optimization",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/image-formats-and-optimization/",
+              "order": 32
+            },
+            {
+              "title": "Responsive Images Basics",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/responsive-images-basics/",
+              "order": 33
+            },
+            {
+              "title": "The figure and figcaption Elements",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/the-figure-and-figcaption-elements/",
+              "order": 34
+            },
+            {
+              "title": "Audio and Video Elements",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/audio-and-video-elements/",
+              "order": 35
+            },
+            {
+              "title": "Embedding External Media",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/embedding-external-media/",
+              "order": 36
+            }
+          ],
+          "folders": {},
+          "order": "6"
+        },
+        "Tables": {
+          "files": [
+            {
+              "title": "Table Structure",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/table-structure/",
+              "order": 37
+            },
+            {
+              "title": "Table Headers and Captions",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/table-headers-and-captions/",
+              "order": 38
+            },
+            {
+              "title": "Spanning Rows and Columns",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/spanning-rows-and-columns/",
+              "order": 39
+            },
+            {
+              "title": "Accessible Tables",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/accessible-tables/",
+              "order": 40
+            },
+            {
+              "title": "When to Use Tables",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/when-to-use-tables/",
+              "order": 41
+            }
+          ],
+          "folders": {},
+          "order": "7"
+        },
+        "Forms And User Input": {
+          "files": [
+            {
+              "title": "Form Basics",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/form-basics/",
+              "order": 42
+            },
+            {
+              "title": "Input Types",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/input-types/",
+              "order": 43
+            },
+            {
+              "title": "Labels, Placeholders, and Help Text",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/labels-placeholders-and-help-text/",
+              "order": 44
+            },
+            {
+              "title": "Textareas, Selects, and Buttons",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/textareas-selects-and-buttons/",
+              "order": 45
+            },
+            {
+              "title": "Radio Buttons and Checkboxes",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/radio-buttons-and-checkboxes/",
+              "order": 46
+            },
+            {
+              "title": "Fieldset and Legend",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/fieldset-and-legend/",
+              "order": 47
+            },
+            {
+              "title": "Form Validation Attributes",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/form-validation-attributes/",
+              "order": 48
+            },
+            {
+              "title": "Submitting and Resetting Forms",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/submitting-and-resetting-forms/",
+              "order": 49
+            }
+          ],
+          "folders": {},
+          "order": "8"
+        },
+        "Semantic Html And Page Structure": {
+          "files": [
+            {
+              "title": "Why Semantic HTML Matters",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/why-semantic-html-matters/",
+              "order": 50
+            },
+            {
+              "title": "HTML header, nav, main, and footer",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/header-nav-main-and-footer/",
+              "order": 51
+            },
+            {
+              "title": "article, section, and aside",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/article-section-and-aside/",
+              "order": 52
+            },
+            {
+              "title": "address, time, and small",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/address-time-and-small/",
+              "order": 53
+            },
+            {
+              "title": "Using Semantic Elements Correctly",
+              "path": "html-essentials-complete-guide-beginner-to-advanced/using-semantic-elements-correctly/",
+              "order": 54
+            }
+          ],
+          "folders": {},
+          "order": "9"
+        }
+      },
+      "order": "5"
     }
   },
   "order": null

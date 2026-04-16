@@ -1303,6 +1303,664 @@
       <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Accessibility Principles | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/accessibility-principles/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/accessibility-principles/</guid>
+      <description>Learn how semantic HTML, keyboard access, clear language, and proper structure improve web accessibility.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Document Language and Metadata | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/document-language-and-metadata/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/document-language-and-metadata/</guid>
+      <description>Learn how HTML document language and metadata help browsers, search engines, and assistive tech interpret a page correctly.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Keyboard Navigation in HTML | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/keyboard-navigation/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/keyboard-navigation/</guid>
+      <description>Learn how keyboard navigation works in HTML, including focus order, `tabindex`, and accessible keyboard use.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Accessible Forms | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/accessible-forms/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/accessible-forms/</guid>
+      <description>Build inclusive HTML forms with labels, grouping, validation, and ARIA support for keyboard and screen reader users.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Accessible Images and Media | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/accessible-images-and-media/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/accessible-images-and-media/</guid>
+      <description>Learn how to embed images and media in HTML with accessible text alternatives, semantic markup, and captions or transcripts.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ARIA Basics and When to Use It | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/aria-basics-and-when-to-use-it/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/aria-basics-and-when-to-use-it/</guid>
+      <description>Learn what WAI-ARIA is, when it helps, and why semantic HTML should be your first choice for accessibility.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>title Element | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/title-element/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/title-element/</guid>
+      <description>Learn how the HTML `title` element sets the document title, supports SEO, and stays inside the `head` section.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>meta Tags | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/meta-tags/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/meta-tags/</guid>
+      <description>Learn how HTML `meta` tags store document metadata, support encoding, viewport settings, and browser instructions.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Viewport Meta Tag | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/viewport-meta-tag/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/viewport-meta-tag/</guid>
+      <description>Learn how the viewport meta tag controls mobile scaling and page width so HTML layouts render correctly on different screens.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linking Stylesheets and Icons | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/linking-stylesheets-and-icons/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/linking-stylesheets-and-icons/</guid>
+      <description>Learn how the HTML `head` links external stylesheets and site icons with `link`, `rel`, `href`, and `sizes`.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Open Graph and Social Metadata | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/open-graph-and-social-metadata/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/open-graph-and-social-metadata/</guid>
+      <description>Learn how Open Graph and Twitter Card metadata in the HTML head improves link previews and social sharing.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SEO Basics in HTML | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/seo-basics-in-html/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/seo-basics-in-html/</guid>
+      <description>Learn how HTML head metadata, titles, and robots tags help search engines understand and index your pages.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>data Attributes | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/data-attributes/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/data-attributes/</guid>
+      <description>Learn how HTML `data-*` attributes store custom element data and how JavaScript reads them through `dataset`.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Custom Attributes and Practical Uses | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/custom-attributes-and-practical-uses/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/custom-attributes-and-practical-uses/</guid>
+      <description>Learn how HTML custom data attributes store extra element data and support scripting, styling, and interactive behavior.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The picture Element | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/the-picture-element/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/the-picture-element/</guid>
+      <description>Use the `picture` element to serve responsive images with `source` fallbacks and an `img` default.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>srcset and sizes | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/srcset-and-sizes/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/srcset-and-sizes/</guid>
+      <description>Learn how `srcset` and `sizes` help browsers choose the right responsive image for different screens and layout widths.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The dialog Element | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/the-dialog-element/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/the-dialog-element/</guid>
+      <description>Learn how the HTML `&lt;dialog&gt;` element creates modal and non-modal dialogs, with native methods, closing behavior, and accessibility notes.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The details and summary Elements | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/the-details-and-summary-elements/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/the-details-and-summary-elements/</guid>
+      <description>Learn how `&lt;details&gt;` and `&lt;summary&gt;` create disclosure widgets, toggle hidden content, and support grouped open states.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The template Element | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/the-template-element/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/the-template-element/</guid>
+      <description>Learn how the HTML `template` element stores reusable markup, stays out of rendering, and supports JavaScript-driven insertion.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Embedding with iframe | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/embedding-with-iframe/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/embedding-with-iframe/</guid>
+      <description>Learn how the HTML `iframe` element embeds another page, and how `src`, `allow`, and fullscreen-related properties affect it.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sandboxing and Security Considerations | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/sandboxing-and-security-considerations/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/sandboxing-and-security-considerations/</guid>
+      <description>Learn how HTML sandboxing and same-origin rules limit embedded content, scripts, popups, and cross-origin access.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using HTML with JavaScript | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/using-html-with-javascript/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/using-html-with-javascript/</guid>
+      <description>Learn how HTML triggers JavaScript, how events work, and how to use the script element for interactive web pages.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DOM Basics for HTML Authors | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/dom-basics-for-html-authors/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/dom-basics-for-html-authors/</guid>
+      <description>Learn how the DOM represents HTML as a tree, and how browser APIs let you inspect and change document structure.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Progressive Enhancement | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/progressive-enhancement/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/progressive-enhancement/</guid>
+      <description>Build a usable baseline first, then layer on richer features for browsers and devices that support them.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Writing Clean and Maintainable HTML | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/writing-clean-and-maintainable-html/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/writing-clean-and-maintainable-html/</guid>
+      <description>Practical HTML habits for readable, consistent, and semantic markup that is easier to update, review, and scale.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Common HTML Mistakes | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/common-html-mistakes/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/common-html-mistakes/</guid>
+      <description>Learn the most common HTML mistakes that break structure, accessibility, and browser behavior, and how to avoid them.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Debugging HTML Issues | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/debugging-html-issues/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/debugging-html-issues/</guid>
+      <description>Learn practical ways to find and fix HTML errors using browser DevTools, validators, and common markup checks.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Validation with the W3C Validator | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/validation-with-the-w3c-validator/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/validation-with-the-w3c-validator/</guid>
+      <description>Learn why HTML validation matters, how the W3C Markup Validation Service works, and the core checks that improve code quality.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Performance Considerations | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/performance-considerations/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/performance-considerations/</guid>
+      <description>Learn practical HTML performance habits that reduce load time, preserve fast rendering, and avoid blocking critical page content.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cross-Browser Compatibility | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/cross-browser-compatibility/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/cross-browser-compatibility/</guid>
+      <description>Learn how to test HTML across browsers and devices, handle older support gaps, and use compatibility data to reduce rendering issues.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Build a Personal Profile Page | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/build-a-personal-profile-page/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/build-a-personal-profile-page/</guid>
+      <description>Learn the HTML structure and core tags you need to create a simple personal profile page from scratch.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create a Multi-Page Website | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/create-a-multi-page-website/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/create-a-multi-page-website/</guid>
+      <description>Learn how to connect HTML pages with links, relative paths, and clear navigation for a simple multi-page site.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Design a Product Landing Page | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/design-a-product-landing-page/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/design-a-product-landing-page/</guid>
+      <description>Build a focused product landing page with a clear hero, strong CTA, social proof, and minimal distractions.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create a Blog Article Layout | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/create-a-blog-article-layout/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/create-a-blog-article-layout/</guid>
+      <description>Build a blog article page with semantic HTML sections, clear structure, and reusable layout patterns.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Build an Accessible Contact Form | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/build-an-accessible-contact-form/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/build-an-accessible-contact-form/</guid>
+      <description>Learn how to structure a contact form with labels, grouping, validation, and ARIA support for better accessibility.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Capstone Project: Complete Static Website | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/capstone-project:-complete-static-website/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/capstone-project:-complete-static-website/</guid>
+      <description>Build a complete static website using semantic HTML, accessible structure, and practical page organization.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Review of Key Concepts | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/review-of-key-concepts/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/review-of-key-concepts/</guid>
+      <description>Review the core HTML concepts for structuring content, using elements and attributes, and building accessible web pages.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Next Steps in Web Development | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/next-steps-in-web-development/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/next-steps-in-web-development/</guid>
+      <description>Learn practical next steps after HTML, including semantic structure, metadata, accessibility, forms, and integrating CSS and JavaScript.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Recommended Resources for HTML Essentials | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/recommended-resources/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/recommended-resources/</guid>
+      <description>Curated HTML learning resources for beginners to advanced learners, with practical references for structure, semantics, and hands-on practice.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Final Assessment | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/final-assessment/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/final-assessment/</guid>
+      <description>Review core HTML skills by structuring documents, using semantic elements, and building accessible content with text, media, tables, and forms.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What is HTML? | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/what-is-html?/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/what-is-html?/</guid>
+      <description>Learn what HTML means, how it structures web content, and why it is the foundation of web pages.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How the Web Works | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/how-the-web-works/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/how-the-web-works/</guid>
+      <description>Learn the basic client-server flow of the web, including browsers, servers, HTTP, DNS, URLs, and page loading.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTML, CSS, and JavaScript Roles | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/html,-css,-and-javascript-roles/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/html,-css,-and-javascript-roles/</guid>
+      <description>Learn how HTML structures content, CSS controls presentation, and JavaScript adds behavior in a web page.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Setting Expectations for the Course | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/setting-expectations-for-the-course/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/setting-expectations-for-the-course/</guid>
+      <description>Learn what HTML is, how the course is structured, and what you need to start building web pages.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTML Document Structure | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/html-document-structure/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/html-document-structure/</guid>
+      <description>Learn the core HTML document skeleton, including doctype, root, head, body, and semantic page sections.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The DOCTYPE Declaration | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/the-doctype-declaration/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/the-doctype-declaration/</guid>
+      <description>Learn how the HTML `&lt;!doctype html&gt;` declaration starts a document and helps browsers use standards mode.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The html, head, and body Elements | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/the-html,-head,-and-body-elements/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/the-html,-head,-and-body-elements/</guid>
+      <description>Learn how the root, metadata, and content sections organize an HTML document with `html`, `head`, and `body`.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Creating Your First Web Page | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/creating-your-first-web-page/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/creating-your-first-web-page/</guid>
+      <description>Learn the basic HTML page structure, semantic elements, and best practices for building a simple first web page.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using a Code Editor | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/using-a-code-editor/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/using-a-code-editor/</guid>
+      <description>Learn what an HTML editor is, why it helps, and how to start writing and previewing HTML efficiently.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Viewing HTML in the Browser | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/viewing-html-in-the-browser/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/viewing-html-in-the-browser/</guid>
+      <description>Learn how to open local HTML files in a browser, preview linked CSS, and use a local server when file:// is not enough.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Elements, Tags, and Attributes | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/elements,-tags,-and-attributes/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/elements,-tags,-and-attributes/</guid>
+      <description>Learn how HTML elements, tags, and attributes work together to structure content and control browser behavior.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nesting and Hierarchy in HTML | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/nesting-and-hierarchy/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/nesting-and-hierarchy/</guid>
+      <description>Learn how HTML nesting and hierarchy organize content, structure forms, and support semantic, accessible document layouts.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Block vs Inline Elements | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/block-vs-inline-elements/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/block-vs-inline-elements/</guid>
+      <description>Learn how HTML elements behave in block and inline layout, including spacing, width, and how CSS `display` controls them.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Comments in HTML | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/comments-in-html/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/comments-in-html/</guid>
+      <description>Learn how HTML comments work, why they are used, and how to write them without affecting page output.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Whitespace and Formatting | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/whitespace-and-formatting/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/whitespace-and-formatting/</guid>
+      <description>Learn how HTML and CSS handle whitespace, when spaces collapse, and how preformatted text preserves layout.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Case Sensitivity and Best Practices | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/case-sensitivity-and-best-practices/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/case-sensitivity-and-best-practices/</guid>
+      <description>Learn how HTML syntax, semantic elements, and consistent conventions help you write reliable, accessible web pages.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTML Headings | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/headings/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/headings/</guid>
+      <description>Learn how HTML heading tags create content hierarchy, improve readability, and support accessibility and search understanding.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Paragraphs in HTML | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/paragraphs/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/paragraphs/</guid>
+      <description>Learn how HTML paragraphs structure text with the `&lt;p&gt;` element, block behavior, and practical rules for semantic content.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bold, Italic, and Emphasis | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/bold,-italic,-and-emphasis/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/bold,-italic,-and-emphasis/</guid>
+      <description>Learn how HTML uses `b`, `strong`, `i`, and `em` to add attention, emphasis, and importance without relying on styling alone.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lists: Ordered, Unordered, and Description | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/lists:-ordered,-unordered,-and-description/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/lists:-ordered,-unordered,-and-description/</guid>
+      <description>Learn the three HTML list types, when to use each one, and the core tags that structure list content.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quotes and Citations | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/quotes-and-citations/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/quotes-and-citations/</guid>
+      <description>Learn how to mark up quotations in HTML with `blockquote`, `q`, and `cite` for clear, semantic source attribution.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Line Breaks and Horizontal Rules | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/line-breaks-and-horizontal-rules/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/line-breaks-and-horizontal-rules/</guid>
+      <description>Learn how to insert line breaks with `&lt;br&gt;` and separate content with `&lt;hr&gt;` in HTML.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Semantic Text Elements | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/semantic-text-elements/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/semantic-text-elements/</guid>
+      <description>Learn semantic inline text elements in HTML, including importance, highlights, side comments, and typographic markers.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anchor Tags and href | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/anchor-tags-and-href/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/anchor-tags-and-href/</guid>
+      <description>Learn how the HTML `&lt;a&gt;` element and `href` attribute create links to pages, files, email, phone, and page locations.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Relative vs Absolute URLs | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/relative-vs-absolute-urls/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/relative-vs-absolute-urls/</guid>
+      <description>Learn how relative and absolute URLs differ, when to use each, and how base URLs affect link resolution in HTML.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linking to Sections on a Page | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/linking-to-sections-on-a-page/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/linking-to-sections-on-a-page/</guid>
+      <description>Learn how fragment identifiers and anchor links jump to specific sections within the same HTML page.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Opening Links in New Tabs | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/opening-links-in-new-tabs/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/opening-links-in-new-tabs/</guid>
+      <description>Learn how to open HTML links in a new tab with `target=&quot;_blank&quot;` and when to use `rel=&quot;noopener&quot;` for safer navigation.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Email, Phone, and Download Links | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/email,-phone,-and-download-links/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/email,-phone,-and-download-links/</guid>
+      <description>Learn how to create email, phone, and file download links with the HTML anchor element and contact markup.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building Navigation Menus | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/building-navigation-menus/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/building-navigation-menus/</guid>
+      <description>Learn how to structure HTML navigation menus with semantic tags, lists, and accessibility-focused markup for clearer site navigation.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The img Element | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/the-img-element/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/the-img-element/</guid>
+      <description>Learn how the HTML `img` element embeds images, uses `src` and `alt`, and supports captions and responsive delivery.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Alt Text and Accessibility | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/alt-text-and-accessibility/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/alt-text-and-accessibility/</guid>
+      <description>Learn how alt text supports screen readers, image fallback, and accessible HTML while avoiding common writing mistakes.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Image Formats and Optimization | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/image-formats-and-optimization/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/image-formats-and-optimization/</guid>
+      <description>Learn how to choose web image formats and optimize images for performance, accessibility, and responsive delivery in HTML.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Responsive Images Basics | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/responsive-images-basics/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/responsive-images-basics/</guid>
+      <description>Learn how responsive images adapt to screen size and device capabilities using HTML tools like `srcset`, `sizes`, and `&lt;picture&gt;`.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The figure and figcaption Elements | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/the-figure-and-figcaption-elements/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/the-figure-and-figcaption-elements/</guid>
+      <description>Learn how `figure` and `figcaption` group self-contained content with captions for images, diagrams, charts, and code examples.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Audio and Video Elements | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/audio-and-video-elements/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/audio-and-video-elements/</guid>
+      <description>Learn how HTML embeds audio and video with native elements, multiple sources, and basic playback controls.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Embedding External Media | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/embedding-external-media/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/embedding-external-media/</guid>
+      <description>Learn how to embed images, video, audio, pages, and external resources in HTML using the right element for each case.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Table Structure | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/table-structure/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/table-structure/</guid>
+      <description>Learn how HTML tables organize tabular data with rows, cells, headers, spans, and column grouping for styling.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Table Headers and Captions | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/table-headers-and-captions/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/table-headers-and-captions/</guid>
+      <description>Learn how HTML table headers and captions improve structure, readability, and accessibility for tabular data.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spanning Rows and Columns | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/spanning-rows-and-columns/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/spanning-rows-and-columns/</guid>
+      <description>Learn how `colspan` and `rowspan` let table cells cover multiple columns or rows in HTML data tables.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Accessible Tables | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/accessible-tables/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/accessible-tables/</guid>
+      <description>Learn how to make HTML data tables accessible with captions, headers, scopes, and table sections for clearer screen reader navigation.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>When to Use Tables | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/when-to-use-tables/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/when-to-use-tables/</guid>
+      <description>Learn when HTML tables fit tabular data, how to structure them, and why they should not be used for page layout.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Form Basics | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/form-basics/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/form-basics/</guid>
+      <description>Learn the core HTML form elements, common input controls, labels, and submission basics for building accessible web forms.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Input Types | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/input-types/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/input-types/</guid>
+      <description>Learn common HTML input types, how they validate user data, and how they support accessible form controls.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Labels, Placeholders, and Help Text | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/labels,-placeholders,-and-help-text/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/labels,-placeholders,-and-help-text/</guid>
+      <description>Learn how labels, placeholders, and help text improve form usability, accessibility, and input guidance in HTML.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Textareas, Selects, and Buttons | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/textareas,-selects,-and-buttons/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/textareas,-selects,-and-buttons/</guid>
+      <description>Learn how HTML textareas, select menus, and buttons collect user input and support accessible form interactions.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Radio Buttons and Checkboxes | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/radio-buttons-and-checkboxes/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/radio-buttons-and-checkboxes/</guid>
+      <description>Learn how radio buttons and checkboxes work in HTML forms, including selection rules, labels, keyboard use, and accessibility basics.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fieldset and Legend | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/fieldset-and-legend/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/fieldset-and-legend/</guid>
+      <description>Learn how `fieldset` and `legend` group related form controls, improve form structure, and add a clear caption.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Form Validation Attributes | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/form-validation-attributes/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/form-validation-attributes/</guid>
+      <description>Learn how HTML validation attributes enforce input rules, improve user feedback, and support client-side constraint validation.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Submitting and Resetting Forms | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/submitting-and-resetting-forms/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/submitting-and-resetting-forms/</guid>
+      <description>Learn how HTML form submit and reset controls work, including default behavior, labels, and practical cautions.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Semantic HTML Matters | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/why-semantic-html-matters/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/why-semantic-html-matters/</guid>
+      <description>Learn how semantic HTML adds meaning to page structure, improves accessibility, supports SEO, and makes code easier to maintain.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTML header, nav, main, and footer | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/header,-nav,-main,-and-footer/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/header,-nav,-main,-and-footer/</guid>
+      <description>Learn the semantic roles of header, nav, main, and footer for clear page structure and accessible HTML layouts.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>article, section, and aside | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/article,-section,-and-aside/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/article,-section,-and-aside/</guid>
+      <description>Learn how `article`, `section`, and `aside` structure HTML content for independent items, grouped topics, and related side content.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>address, time, and small | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/address,-time,-and-small/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/address,-time,-and-small/</guid>
+      <description>Learn how to use `address`, `time`, and `small` to add contact details, machine-readable dates, and fine print in HTML.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using Semantic Elements Correctly | Webnotes</title>
+      <link>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/using-semantic-elements-correctly/</link>
+      <guid>https://webnotes.site/content/html-essentials-complete-guide-beginner-to-advanced/using-semantic-elements-correctly/</guid>
+      <description>Learn how semantic HTML elements improve structure, accessibility, and search understanding when you choose the right element for each job.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Exam Objectives and Domains | Webnotes</title>
       <link>https://webnotes.site/content/comptia-a-220-1201/exam-objectives-and-domains/</link>
       <guid>https://webnotes.site/content/comptia-a-220-1201/exam-objectives-and-domains/</guid>
