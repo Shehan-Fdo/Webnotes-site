@@ -1,0 +1,2507 @@
+{
+  "courseName": "Comptia A+ 220-1201",
+  "courseSlug": "comptia-a-220-1201",
+  "model": "gpt-5.4-mini",
+  "startedAt": "2026-04-09T19:53:09.815Z",
+  "config": {
+    "maxRetrievalAttempts": 3,
+    "minFetchedPages": 3,
+    "maxUrlsPerAttempt": 5,
+    "searchResultsPerQuery": 5,
+    "maxEvidenceChars": 12000,
+    "generationRetries": 2
+  },
+  "topics": [
+    {
+      "topic": "Exam Objectives and Domains",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[1]__comptia-a-plus-220-1201-overview\\[1.1]__exam-objectives-and-domains.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Exam Objectives and Domains explanation",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Exam Objectives and Domains best practices",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Exam Objectives and Domains troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 9,
+          "queries": [
+            "site:comptia.org 220-1201 exam objectives pdf",
+            "CompTIA A+ Core 1 V15 exam objectives domains weightings",
+            "CompTIA 220-1201 official objectives PDF",
+            "CompTIA A+ 220-1201 objectives domain 1.0 2.0 3.0 4.0 5.0",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Exam Objectives and Domains explanation",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Exam Objectives and Domains best practices",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Exam Objectives and Domains troubleshooting",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Exam Objectives and Domains official documentation",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Exam Objectives and Domains examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 10,
+          "queries": [
+            "site:comptia.org 220-1201 exam objectives pdf",
+            "CompTIA A+ Core 1 V15 exam objectives domains weights official",
+            "CompTIA 220-1201 objectives mobile devices networking hardware virtualization cloud troubleshooting",
+            "site:comptia.org A+ Core 1 V15 objectives PDF",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Exam Objectives and Domains explanation",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Exam Objectives and Domains best practices",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Exam Objectives and Domains troubleshooting",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Exam Objectives and Domains official documentation",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Exam Objectives and Domains examples",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Exam Objectives and Domains common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Hardware and Networking Focus",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[1]__comptia-a-plus-220-1201-overview\\[1.2]__hardware-and-networking-focus.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Hardware and Networking Focus explanation",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Hardware and Networking Focus best practices",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Hardware and Networking Focus troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 9,
+          "queries": [
+            "CompTIA A+ 220-1201 exam objectives PDF hardware networking site:comptia.org",
+            "CompTIA A+ Core 1 v15 objectives networking hardware mobile devices troubleshooting",
+            "Professor Messer 220-1201 objectives hardware networking cloud virtualization",
+            "CompTIA A+ 220-1201 official exam objectives download",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Hardware and Networking Focus explanation",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Hardware and Networking Focus best practices",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Hardware and Networking Focus troubleshooting",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Hardware and Networking Focus official documentation",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Hardware and Networking Focus examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 11,
+          "queries": [
+            "CompTIA A+ 220-1201 exam objectives PDF hardware networking mobile devices virtualization cloud troubleshooting",
+            "CompTIA A+ Core 1 220-1201 objective domains hardware networking official",
+            "Professor Messer 220-1201 hardware networking objectives detailed notes",
+            "CompTIA A+ 220-1201 ports protocols wireless standards SOHO networking",
+            "CompTIA A+ 220-1201 mobile devices connectors batteries troubleshooting",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Hardware and Networking Focus explanation",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Hardware and Networking Focus best practices",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Hardware and Networking Focus troubleshooting",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Hardware and Networking Focus official documentation",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Hardware and Networking Focus examples",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Hardware and Networking Focus common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Troubleshooting and Support Mindset",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[1]__comptia-a-plus-220-1201-overview\\[1.3]__troubleshooting-and-support-mindset.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Troubleshooting and Support Mindset explanation",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Troubleshooting and Support Mindset best practices",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Troubleshooting and Support Mindset troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 troubleshooting methodology support mindset official",
+            "CompTIA A+ 220-1201 customer service communication troubleshooting official",
+            "CompTIA A+ troubleshooting methodology identify problem establish theory test plan official",
+            "CompTIA A+ support mindset documentation escalation ticketing official",
+            "CompTIA A+ 220-1201 exam objectives troubleshooting and support mindset",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Troubleshooting and Support Mindset explanation",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Troubleshooting and Support Mindset best practices",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Troubleshooting and Support Mindset troubleshooting",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Troubleshooting and Support Mindset official documentation",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Troubleshooting and Support Mindset examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 11,
+          "queries": [
+            "CompTIA A+ 220-1201 troubleshooting and support mindset objectives",
+            "CompTIA A+ support mindset customer service documentation communication site:comptia.org",
+            "Professor Messer 220-1201 support mindset troubleshooting methodology",
+            "CompTIA A+ 220-1201 troubleshooting methodology escalation documentation",
+            "A+ 220-1201 support mindset IT specialist communication professionalism",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Troubleshooting and Support Mindset explanation",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Troubleshooting and Support Mindset best practices",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Troubleshooting and Support Mindset troubleshooting",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Troubleshooting and Support Mindset official documentation",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Troubleshooting and Support Mindset examples",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Troubleshooting and Support Mindset common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Best Practices for Study and Lab Work",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[1]__comptia-a-plus-220-1201-overview\\[1.4]__best-practices-for-study-and-lab-work.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Best Practices for Study and Lab Work explanation",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Best Practices for Study and Lab Work best practices",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Best Practices for Study and Lab Work troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "site:comptia.org A+ 220-1201 study guide labs best practices",
+            "CompTIA A+ Core 1 exam objectives PDF 220-1201",
+            "CompTIA A+ study tips hands-on labs official",
+            "A+ 220-1201 practical lab exercises troubleshooting best practices",
+            "CompTIA A+ certification resources study plan official",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Best Practices for Study and Lab Work explanation",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Best Practices for Study and Lab Work best practices",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Best Practices for Study and Lab Work troubleshooting",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Best Practices for Study and Lab Work official documentation",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Best Practices for Study and Lab Work examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 11,
+          "queries": [
+            "CompTIA A+ 220-1201 study tips hands-on lab best practices site:comptia.org",
+            "CompTIA A+ exam objectives safety environmental communication best practices PDF 220-1201",
+            "CompTIA A+ how to study for the exam practice tests labs site:comptia.org",
+            "CompTIA A+ 220-1201 lab best practices virtual labs hardware handling",
+            "CompTIA A+ study plan active recall spaced repetition practice exams",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Best Practices for Study and Lab Work explanation",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Best Practices for Study and Lab Work best practices",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Best Practices for Study and Lab Work troubleshooting",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Best Practices for Study and Lab Work official documentation",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Best Practices for Study and Lab Work examples",
+            "Comptia A+ 220-1201 CompTIA A+ 220-1201 Overview Best Practices for Study and Lab Work common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Mobile Device Types",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[2]__mobile-devices\\[2.1]__mobile-device-types.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Types explanation",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Types best practices",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Types troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 mobile device types smartphone tablet e-reader wearable site:professormesser.com",
+            "CompTIA A+ 220-1201 mobile device types site:comptia.org",
+            "CompTIA A+ 220-1201 mobile device types site:pluralsight.com",
+            "CompTIA A+ 220-1201 mobile device types smartphone tablet wearable e-reader",
+            "CompTIA A+ 220-1201 mobile device types lecture",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Types explanation",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Types best practices",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Types troubleshooting",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Types official documentation",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Types examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 mobile device types tablets smartphones wearables e-readers site:comptia.org",
+            "Professor Messer 220-1201 mobile device types tablets smartphones wearables e-readers",
+            "CompTIA A+ Core 1 v15 mobile device types objective 1.1 site:comptia.org",
+            "220-1201 mobile device types study guide tablets wearables e-readers smartphones",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Types explanation",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Types best practices",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Types troubleshooting",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Types official documentation",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Types examples",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Types common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Mobile Device Components",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[2]__mobile-devices\\[2.2]__mobile-device-components.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Components explanation",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Components best practices",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Components troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 mobile device components battery display touchscreen camera microphone speaker GPS NFC biometric sensors site:professormesser.com",
+            "CompTIA A+ 220-1201 mobile device components official objectives",
+            "mobile device components CompTIA A+ 220-1201 textbook",
+            "site:comptia.org 220-1201 mobile device components",
+            "Professor Messer 220-1201 mobile device components",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Components explanation",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Components best practices",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Components troubleshooting",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Components official documentation",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Components examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 11,
+          "queries": [
+            "CompTIA A+ 220-1201 mobile device hardware components objective 1.1",
+            "site:professormesser.com 220-1201 mobile device hardware components",
+            "site:comptia.org 220-1201 mobile device components objective 1.1",
+            "mobile device hardware components digitizer battery camera microphone speaker antenna sensors A+ 220-1201",
+            "CompTIA A+ 220-1201 mobile device hardware review objective 1.1",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Components explanation",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Components best practices",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Components troubleshooting",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Components official documentation",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Components examples",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Components common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Mobile Device Accessories",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[2]__mobile-devices\\[2.3]__mobile-device-accessories.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Accessories explanation",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Accessories best practices",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Accessories troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 1.2 mobile device accessories official objectives",
+            "Professor Messer mobile device accessories 220-1201",
+            "mobile device accessories CompTIA A+ cases screen protectors stylus headset keyboard dock charger power bank",
+            "CompTIA A+ 220-1201 mobile device accessories study guide",
+            "site:comptia.org 220-1201 mobile device accessories",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Accessories explanation",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Accessories best practices",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Accessories troubleshooting",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Accessories official documentation",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Accessories examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.86,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Mobile Device Connectivity",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[2]__mobile-devices\\[2.4]__mobile-device-connectivity.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Connectivity explanation",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Connectivity best practices",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Connectivity troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 mobile device connectivity cellular Wi-Fi Bluetooth hotspot tethering SIM eSIM GPS NFC USB Lightning airplane mode",
+            "site:professormesser.com 220-1201 mobile device connectivity",
+            "site:comptia.org A+ 220-1201 mobile device connectivity objectives",
+            "site:examcompass.com 220-1201 mobile device network connectivity quiz explanations",
+            "mobile device connectivity CompTIA A+ 220-1201 study guide",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Connectivity explanation",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Connectivity best practices",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Connectivity troubleshooting",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Connectivity official documentation",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Connectivity examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 11,
+          "queries": [
+            "CompTIA A+ 220-1201 mobile device connectivity USB Lightning USB-C NFC Bluetooth hotspot tethering cellular GPS",
+            "site:professormesser.com 220-1201 mobile device connectivity",
+            "site:comptia.org A+ 220-1201 mobile device connectivity",
+            "CompTIA A+ 220-1201 mobile device networks hotspot tethering Bluetooth NFC GPS",
+            "CompTIA A+ 220-1201 connecting mobile devices wired wireless connectivity",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Connectivity explanation",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Connectivity best practices",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Connectivity troubleshooting",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Connectivity official documentation",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Connectivity examples",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Connectivity common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Mobile Device Synchronization and Data Transfer",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[2]__mobile-devices\\[2.5]__mobile-device-synchronization-and-data-transfer.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Synchronization and Data Transfer explanation",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Synchronization and Data Transfer best practices",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Synchronization and Data Transfer troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 mobile device synchronization data transfer cloud sync USB Bluetooth NFC Wi-Fi Direct",
+            "site:comptia.org 220-1201 mobile device synchronization data transfer",
+            "Professor Messer 220-1201 mobile device synchronization data transfer",
+            "CompTIA A+ Core 1 220-1201 mobile device connectivity synchronization backup transfer",
+            "mobile device synchronization data transfer 220-1201 exam objective",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Synchronization and Data Transfer explanation",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Synchronization and Data Transfer best practices",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Synchronization and Data Transfer troubleshooting",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Synchronization and Data Transfer official documentation",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Synchronization and Data Transfer examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 11,
+          "queries": [
+            "CompTIA A+ 220-1201 mobile device synchronization data transfer cloud sync USB Bluetooth NFC Wi-Fi Direct",
+            "site:professormesser.com 220-1201 mobile device synchronization data transfer",
+            "site:comptia.org 220-1201 mobile devices synchronization data transfer objective",
+            "CompTIA A+ Core 1 220-1201 mobile device sync backup transfer notes",
+            "mobile device synchronization data transfer 220-1201 exam objective",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Synchronization and Data Transfer explanation",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Synchronization and Data Transfer best practices",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Synchronization and Data Transfer troubleshooting",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Synchronization and Data Transfer official documentation",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Synchronization and Data Transfer examples",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Synchronization and Data Transfer common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Mobile Device Security",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[2]__mobile-devices\\[2.6]__mobile-device-security.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Security explanation",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Security best practices",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Security troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 mobile device security screen lock encryption remote wipe biometrics MDM",
+            "site:professormesser.com 220-1201 mobile device security",
+            "CompTIA A+ Core 1 220-1201 mobile device security objectives",
+            "mobile device security 220-1201 full device encryption screen lock remote wipe",
+            "CompTIA A+ 220-1201 mobile device management and security best practices",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Security explanation",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Security best practices",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Security troubleshooting",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Security official documentation",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Security examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Mobile Device Troubleshooting",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[2]__mobile-devices\\[2.7]__mobile-device-troubleshooting.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Troubleshooting explanation",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Troubleshooting best practices",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Troubleshooting troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 objective 5.4 mobile device troubleshooting battery screen charging liquid damage overheating digitizer cursor drift",
+            "site:professormesser.com 220-1201 troubleshooting mobile devices transcript",
+            "site:linkedin.com/learning CompTIA A+ Core 1 220-1201 mobile device troubleshooting transcript",
+            "CompTIA A+ 220-1201 mobile device troubleshooting common symptoms and fixes",
+            "CompTIA A+ 220-1201 objective 5.4 mobile device troubleshooting practice notes",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Troubleshooting explanation",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Troubleshooting best practices",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Troubleshooting troubleshooting",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Troubleshooting official documentation",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Troubleshooting examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 mobile device troubleshooting battery charging overheating liquid damage touchscreen digitizer cursor drift",
+            "site:professormesser.com 220-1201 troubleshooting mobile devices battery charging overheating digitizer",
+            "site:linkedin.com/learning CompTIA A+ Core 1 220-1201 mobile device troubleshooting transcript",
+            "CompTIA A+ 220-1201 exam objective 5.4 mobile device troubleshooting common symptoms",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Troubleshooting explanation",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Troubleshooting best practices",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Troubleshooting troubleshooting",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Troubleshooting official documentation",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Troubleshooting examples",
+            "Comptia A+ 220-1201 Mobile Devices Mobile Device Troubleshooting common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Networking Concepts",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[3]__networking\\[3.1]__networking-concepts.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Networking Networking Concepts explanation",
+            "Comptia A+ 220-1201 Networking Networking Concepts best practices",
+            "Comptia A+ 220-1201 Networking Networking Concepts troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 9,
+          "queries": [
+            "CompTIA A+ 220-1201 networking concepts LAN WAN PAN MAN WLAN topology bandwidth latency site:comptia.org",
+            "CompTIA A+ 220-1201 objective 2.0 networking concepts study guide",
+            "CompTIA A+ 220-1201 network types topologies bandwidth latency authoritative",
+            "CompTIA A+ 220-1201 networking concepts official objectives",
+            "Comptia A+ 220-1201 Networking Networking Concepts explanation",
+            "Comptia A+ 220-1201 Networking Networking Concepts best practices",
+            "Comptia A+ 220-1201 Networking Networking Concepts troubleshooting",
+            "Comptia A+ 220-1201 Networking Networking Concepts official documentation",
+            "Comptia A+ 220-1201 Networking Networking Concepts examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 11,
+          "queries": [
+            "CompTIA A+ 220-1201 networking concepts official exam objectives PDF",
+            "CompTIA A+ 220-1201 network types topologies hardware protocol official",
+            "CompTIA A+ 220-1201 networking concepts site:comptia.org",
+            "CompTIA A+ 220-1201 networking hardware switch router access point modem official",
+            "CompTIA A+ 220-1201 wireless standards SSID BSSID channel official",
+            "Comptia A+ 220-1201 Networking Networking Concepts explanation",
+            "Comptia A+ 220-1201 Networking Networking Concepts best practices",
+            "Comptia A+ 220-1201 Networking Networking Concepts troubleshooting",
+            "Comptia A+ 220-1201 Networking Networking Concepts official documentation",
+            "Comptia A+ 220-1201 Networking Networking Concepts examples",
+            "Comptia A+ 220-1201 Networking Networking Concepts common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Network Types and Topologies",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[3]__networking\\[3.2]__network-types-and-topologies.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Networking Network Types and Topologies explanation",
+            "Comptia A+ 220-1201 Networking Network Types and Topologies best practices",
+            "Comptia A+ 220-1201 Networking Network Types and Topologies troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 network types LAN WAN PAN MAN WLAN SAN VPN site:comptia.org",
+            "CompTIA A+ 220-1201 network topologies bus star ring mesh hybrid point-to-point site:comptia.org",
+            "Professor Messer 220-1201 network topologies physical logical topology",
+            "CompTIA A+ 220-1201 network types and topologies study guide",
+            "network topology types explained CompTIA A+ Core 1 physical logical topology",
+            "Comptia A+ 220-1201 Networking Network Types and Topologies explanation",
+            "Comptia A+ 220-1201 Networking Network Types and Topologies best practices",
+            "Comptia A+ 220-1201 Networking Network Types and Topologies troubleshooting",
+            "Comptia A+ 220-1201 Networking Network Types and Topologies official documentation",
+            "Comptia A+ 220-1201 Networking Network Types and Topologies examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 11,
+          "queries": [
+            "CompTIA A+ 220-1201 network types LAN WAN PAN SAN WLAN topology star mesh ring bus physical logical",
+            "site:professormesser.com 220-1201 network topologies A+",
+            "site:professormesser.com 220-1201 network types A+",
+            "CompTIA A+ 220-1201 common network topologies physical logical",
+            "CompTIA A+ 220-1201 LAN WAN PAN SAN WLAN official objectives",
+            "Comptia A+ 220-1201 Networking Network Types and Topologies explanation",
+            "Comptia A+ 220-1201 Networking Network Types and Topologies best practices",
+            "Comptia A+ 220-1201 Networking Network Types and Topologies troubleshooting",
+            "Comptia A+ 220-1201 Networking Network Types and Topologies official documentation",
+            "Comptia A+ 220-1201 Networking Network Types and Topologies examples",
+            "Comptia A+ 220-1201 Networking Network Types and Topologies common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Cables and Connectors",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[3]__networking\\[3.3]__cables-and-connectors.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Networking Cables and Connectors explanation",
+            "Comptia A+ 220-1201 Networking Cables and Connectors best practices",
+            "Comptia A+ 220-1201 Networking Cables and Connectors troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 11,
+          "queries": [
+            "CompTIA A+ 220-1201 cables and connectors objective 3.2 official",
+            "Professor Messer 220-1201 cables and connectors connectors cable types",
+            "CompTIA A+ 220-1201 Cat5e Cat6 Cat6a plenum riser direct-buried",
+            "CompTIA A+ 220-1201 RJ45 RJ11 BNC LC SC ST USB-C HDMI DisplayPort",
+            "CompTIA A+ 220-1201 fiber optic connector types and cable types",
+            "CompTIA A+ 220-1201 cable categories shielding plenum riser direct-buried",
+            "Comptia A+ 220-1201 Networking Cables and Connectors explanation",
+            "Comptia A+ 220-1201 Networking Cables and Connectors best practices",
+            "Comptia A+ 220-1201 Networking Cables and Connectors troubleshooting",
+            "Comptia A+ 220-1201 Networking Cables and Connectors official documentation",
+            "Comptia A+ 220-1201 Networking Cables and Connectors examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 11,
+          "queries": [
+            "CompTIA A+ 220-1201 3.2 storage cables SATA SCSI NVMe M.2 Professor Messer",
+            "CompTIA A+ 220-1201 3.2 cable connectors RJ45 RJ11 USB-C HDMI DisplayPort DVI VGA fiber coax",
+            "CompTIA A+ 220-1201 3.2 plenum riser direct burial shielded unshielded twisted pair",
+            "CompTIA A+ 220-1201 3.2 network cables 568A 568B fiber connectors",
+            "CompTIA A+ 220-1201 3.2 cable types and connectors text transcript",
+            "Comptia A+ 220-1201 Networking Cables and Connectors explanation",
+            "Comptia A+ 220-1201 Networking Cables and Connectors best practices",
+            "Comptia A+ 220-1201 Networking Cables and Connectors troubleshooting",
+            "Comptia A+ 220-1201 Networking Cables and Connectors official documentation",
+            "Comptia A+ 220-1201 Networking Cables and Connectors examples",
+            "Comptia A+ 220-1201 Networking Cables and Connectors common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Wireless Networking Standards",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[3]__networking\\[3.4]__wireless-networking-standards.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Networking Wireless Networking Standards explanation",
+            "Comptia A+ 220-1201 Networking Wireless Networking Standards best practices",
+            "Comptia A+ 220-1201 Networking Wireless Networking Standards troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.18,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 wireless networking standards 802.11 a b g n ac ax be",
+            "Professor Messer 220-1201 wireless networking standards 2.2",
+            "site:comptia.org 220-1201 wireless standards 802.11",
+            "Wi-Fi 4 5 6 6E 7 802.11 exam notes",
+            "wireless networking standards 2.2 CompTIA A+ 220-1201",
+            "Comptia A+ 220-1201 Networking Wireless Networking Standards explanation",
+            "Comptia A+ 220-1201 Networking Wireless Networking Standards best practices",
+            "Comptia A+ 220-1201 Networking Wireless Networking Standards troubleshooting",
+            "Comptia A+ 220-1201 Networking Wireless Networking Standards official documentation",
+            "Comptia A+ 220-1201 Networking Wireless Networking Standards examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 11,
+          "queries": [
+            "CompTIA A+ 220-1201 wireless networking standards 802.11a b g n ac ax 2.4 5 6 GHz",
+            "Professor Messer 220-1201 wireless network technologies 802.11 standards frequencies channels",
+            "CompTIA A+ 220-1201 Wi-Fi 4 Wi-Fi 5 Wi-Fi 6 Wi-Fi 6E 802.11 standards",
+            "802.11 wireless standards 2.4 GHz 5 GHz 6 GHz exam notes CompTIA A+",
+            "CompTIA A+ 220-1201 wireless networking standards official objectives 802.11",
+            "Comptia A+ 220-1201 Networking Wireless Networking Standards explanation",
+            "Comptia A+ 220-1201 Networking Wireless Networking Standards best practices",
+            "Comptia A+ 220-1201 Networking Wireless Networking Standards troubleshooting",
+            "Comptia A+ 220-1201 Networking Wireless Networking Standards official documentation",
+            "Comptia A+ 220-1201 Networking Wireless Networking Standards examples",
+            "Comptia A+ 220-1201 Networking Wireless Networking Standards common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.86,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Network Devices",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[3]__networking\\[3.5]__network-devices.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Networking Network Devices explanation",
+            "Comptia A+ 220-1201 Networking Network Devices best practices",
+            "Comptia A+ 220-1201 Networking Network Devices troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 objective 2.5 network devices modem router switch access point firewall NIC site:comptia.org",
+            "CompTIA A+ 220-1201 common networking hardware objective 2.5 site:professormesser.com",
+            "network devices CompTIA A+ 220-1201 objective 2.5 site:pluralsight.com",
+            "CompTIA A+ 220-1201 network devices ONT PoE patch panel bridge repeater hub gateway",
+            "CompTIA A+ 220-1201 objective 2.5 networking hardware explained",
+            "Comptia A+ 220-1201 Networking Network Devices explanation",
+            "Comptia A+ 220-1201 Networking Network Devices best practices",
+            "Comptia A+ 220-1201 Networking Network Devices troubleshooting",
+            "Comptia A+ 220-1201 Networking Network Devices official documentation",
+            "Comptia A+ 220-1201 Networking Network Devices examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 11,
+          "queries": [
+            "CompTIA A+ 220-1201 objective 2.5 network devices router switch access point modem ONT firewall hub repeater bridge gateway NIC PoE patch panel",
+            "site:professormesser.com 220-1201 network devices 2.5",
+            "site:comptia.org A+ 220-1201 network devices objective 2.5",
+            "CompTIA A+ 220-1201 common networking hardware router switch access point firewall NIC PoE",
+            "220-1201 network devices exam objective 2.5 study guide",
+            "Comptia A+ 220-1201 Networking Network Devices explanation",
+            "Comptia A+ 220-1201 Networking Network Devices best practices",
+            "Comptia A+ 220-1201 Networking Network Devices troubleshooting",
+            "Comptia A+ 220-1201 Networking Network Devices official documentation",
+            "Comptia A+ 220-1201 Networking Network Devices examples",
+            "Comptia A+ 220-1201 Networking Network Devices common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.91,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "TCP/IP and Common Ports",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[3]__networking\\[3.6]__tcp-ip-and-common-ports.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Networking TCP/IP and Common Ports explanation",
+            "Comptia A+ 220-1201 Networking TCP/IP and Common Ports best practices",
+            "Comptia A+ 220-1201 Networking TCP/IP and Common Ports troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 objective 2.1 common ports TCP UDP official",
+            "site:comptia.org 220-1201 ports and protocols",
+            "TCP UDP common ports 220-1201 exam objective 2.1 study guide",
+            "CompTIA A+ common ports 20 21 22 23 25 53 67 68 69 80 110 123 143 161 162 389 443 445 3389",
+            "A+ 220-1201 TCP/IP basics IPv4 private IP ranges official",
+            "Comptia A+ 220-1201 Networking TCP/IP and Common Ports explanation",
+            "Comptia A+ 220-1201 Networking TCP/IP and Common Ports best practices",
+            "Comptia A+ 220-1201 Networking TCP/IP and Common Ports troubleshooting",
+            "Comptia A+ 220-1201 Networking TCP/IP and Common Ports official documentation",
+            "Comptia A+ 220-1201 Networking TCP/IP and Common Ports examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 common ports TCP UDP official list",
+            "Professor Messer common ports 220-1201 transcript HTTP HTTPS FTP SSH SMTP DNS DHCP POP3 IMAP SMB LDAP LDAPS RDP",
+            "CompTIA A+ Core 1 220-1201 objective 2.1 ports and protocols official",
+            "common ports 220-1201 TCP UDP service mapping study guide",
+            "Comptia A+ 220-1201 Networking TCP/IP and Common Ports explanation",
+            "Comptia A+ 220-1201 Networking TCP/IP and Common Ports best practices",
+            "Comptia A+ 220-1201 Networking TCP/IP and Common Ports troubleshooting",
+            "Comptia A+ 220-1201 Networking TCP/IP and Common Ports official documentation",
+            "Comptia A+ 220-1201 Networking TCP/IP and Common Ports examples",
+            "Comptia A+ 220-1201 Networking TCP/IP and Common Ports common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "SOHO Network Setup",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[3]__networking\\[3.7]__soho-network-setup.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Networking SOHO Network Setup explanation",
+            "Comptia A+ 220-1201 Networking SOHO Network Setup best practices",
+            "Comptia A+ 220-1201 Networking SOHO Network Setup troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 SOHO network setup wired wireless router access point switch firewall",
+            "Professor Messer 220-1201 SOHO network setup",
+            "CompTIA A+ 220-1201 small office home office network configuration",
+            "SOHO network setup DHCP SSID WAN LAN CompTIA A+",
+            "CompTIA A+ 220-1201 wireless router configuration default password firmware update",
+            "Comptia A+ 220-1201 Networking SOHO Network Setup explanation",
+            "Comptia A+ 220-1201 Networking SOHO Network Setup best practices",
+            "Comptia A+ 220-1201 Networking SOHO Network Setup troubleshooting",
+            "Comptia A+ 220-1201 Networking SOHO Network Setup official documentation",
+            "Comptia A+ 220-1201 Networking SOHO Network Setup examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 11,
+          "queries": [
+            "CompTIA A+ 220-1201 SOHO network setup wired wireless router access point switch modem NAT DHCP firewall",
+            "site:professormesser.com 220-1201 SOHO network setup",
+            "site:comptia.org A+ 220-1201 SOHO network setup",
+            "CompTIA A+ 220-1201 network configurations SOHO router wireless access point DHCP NAT",
+            "CompTIA A+ 220-1201 SOHO network security default password firmware updates content filtering",
+            "Comptia A+ 220-1201 Networking SOHO Network Setup explanation",
+            "Comptia A+ 220-1201 Networking SOHO Network Setup best practices",
+            "Comptia A+ 220-1201 Networking SOHO Network Setup troubleshooting",
+            "Comptia A+ 220-1201 Networking SOHO Network Setup official documentation",
+            "Comptia A+ 220-1201 Networking SOHO Network Setup examples",
+            "Comptia A+ 220-1201 Networking SOHO Network Setup common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Internet Connection Types",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[3]__networking\\[3.8]__internet-connection-types.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Networking Internet Connection Types explanation",
+            "Comptia A+ 220-1201 Networking Internet Connection Types best practices",
+            "Comptia A+ 220-1201 Networking Internet Connection Types troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 5,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Network Troubleshooting",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[3]__networking\\[3.9]__network-troubleshooting.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Networking Network Troubleshooting explanation",
+            "Comptia A+ 220-1201 Networking Network Troubleshooting best practices",
+            "Comptia A+ 220-1201 Networking Network Troubleshooting troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 5.5 network troubleshooting symptoms and causes",
+            "site:professormesser.com 220-1201 troubleshooting networks 5.5 link light ping loopback DNS DHCP latency jitter packet loss",
+            "CompTIA A+ 220-1201 network troubleshooting objective 5.5 official",
+            "network troubleshooting no connectivity intermittent wireless high latency high jitter port flapping CompTIA A+",
+            "CompTIA A+ 220-1201 troubleshooting network issues study guide",
+            "Comptia A+ 220-1201 Networking Network Troubleshooting explanation",
+            "Comptia A+ 220-1201 Networking Network Troubleshooting best practices",
+            "Comptia A+ 220-1201 Networking Network Troubleshooting troubleshooting",
+            "Comptia A+ 220-1201 Networking Network Troubleshooting official documentation",
+            "Comptia A+ 220-1201 Networking Network Troubleshooting examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 11,
+          "queries": [
+            "CompTIA A+ 220-1201 objective 5.5 network troubleshooting link light loopback ping latency jitter port flapping",
+            "site:professormesser.com 220-1201 troubleshooting networks 5.5 transcript",
+            "CompTIA A+ 220-1201 network troubleshooting common issues intermittent wireless poor VoIP quality high latency high jitter",
+            "site:comptia.org 220-1201 objective 5.5 network troubleshooting",
+            "CompTIA A+ 220-1201 troubleshooting networks exam objective 5.5 notes",
+            "Comptia A+ 220-1201 Networking Network Troubleshooting explanation",
+            "Comptia A+ 220-1201 Networking Network Troubleshooting best practices",
+            "Comptia A+ 220-1201 Networking Network Troubleshooting troubleshooting",
+            "Comptia A+ 220-1201 Networking Network Troubleshooting official documentation",
+            "Comptia A+ 220-1201 Networking Network Troubleshooting examples",
+            "Comptia A+ 220-1201 Networking Network Troubleshooting common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Motherboards and CPUs",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[4]__hardware\\[4.1]__motherboards-and-cpus.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Hardware Motherboards and CPUs explanation",
+            "Comptia A+ 220-1201 Hardware Motherboards and CPUs best practices",
+            "Comptia A+ 220-1201 Hardware Motherboards and CPUs troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 motherboard overview chipset socket form factor site:professormesser.com",
+            "CompTIA A+ 220-1201 CPU cores threads cache clock speed cooling site:professormesser.com",
+            "CompTIA A+ 220-1201 motherboards and CPUs explained site:linkedin.com/learning",
+            "CompTIA A+ 220-1201 motherboard CPU notes site:comptia.org",
+            "CompTIA A+ 220-1201 motherboard expansion slots connectors BIOS UEFI",
+            "Comptia A+ 220-1201 Hardware Motherboards and CPUs explanation",
+            "Comptia A+ 220-1201 Hardware Motherboards and CPUs best practices",
+            "Comptia A+ 220-1201 Hardware Motherboards and CPUs troubleshooting",
+            "Comptia A+ 220-1201 Hardware Motherboards and CPUs official documentation",
+            "Comptia A+ 220-1201 Hardware Motherboards and CPUs examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 11,
+          "queries": [
+            "CompTIA A+ 220-1201 motherboards and CPUs chipset UEFI form factors CPU sockets transcript",
+            "CompTIA A+ Core 1 220-1201 CPU cores threads cache clock speed thermal design power transcript",
+            "Professor Messer 220-1201 motherboard and CPU video transcript",
+            "CompTIA A+ 220-1201 motherboard connectors expansion slots power connectors BIOS UEFI",
+            "CompTIA A+ 220-1201 CPU compatibility socket types integrated graphics virtualization",
+            "Comptia A+ 220-1201 Hardware Motherboards and CPUs explanation",
+            "Comptia A+ 220-1201 Hardware Motherboards and CPUs best practices",
+            "Comptia A+ 220-1201 Hardware Motherboards and CPUs troubleshooting",
+            "Comptia A+ 220-1201 Hardware Motherboards and CPUs official documentation",
+            "Comptia A+ 220-1201 Hardware Motherboards and CPUs examples",
+            "Comptia A+ 220-1201 Hardware Motherboards and CPUs common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Memory and Storage",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[4]__hardware\\[4.2]__memory-and-storage.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Hardware Memory and Storage explanation",
+            "Comptia A+ 220-1201 Hardware Memory and Storage best practices",
+            "Comptia A+ 220-1201 Hardware Memory and Storage troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 memory technologies RAM DDR3 DDR4 DDR5 DIMM SO-DIMM site:professormesser.com",
+            "CompTIA A+ 220-1201 storage devices SSD HDD SATA NVMe M.2 PCIe site:professormesser.com",
+            "CompTIA A+ 220-1201 removable storage optical media USB flash SD card site:professormesser.com",
+            "CompTIA A+ 220-1201 RAID partition formatting file system storage site:professormesser.com",
+            "CompTIA A+ 220-1201 memory technologies video transcript Professor Messer",
+            "Comptia A+ 220-1201 Hardware Memory and Storage explanation",
+            "Comptia A+ 220-1201 Hardware Memory and Storage best practices",
+            "Comptia A+ 220-1201 Hardware Memory and Storage troubleshooting",
+            "Comptia A+ 220-1201 Hardware Memory and Storage official documentation",
+            "Comptia A+ 220-1201 Hardware Memory and Storage examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 memory technologies RAM DIMM SO-DIMM SDRAM DDR4 DDR5 site:professormesser.com",
+            "CompTIA A+ 220-1201 storage devices HDD SSD NVMe SATA PCIe M.2 optical flash site:professormesser.com",
+            "CompTIA A+ 220-1201 memory and storage exam objectives official",
+            "CompTIA A+ 220-1201 memory technologies and storage devices study guide",
+            "Comptia A+ 220-1201 Hardware Memory and Storage explanation",
+            "Comptia A+ 220-1201 Hardware Memory and Storage best practices",
+            "Comptia A+ 220-1201 Hardware Memory and Storage troubleshooting",
+            "Comptia A+ 220-1201 Hardware Memory and Storage official documentation",
+            "Comptia A+ 220-1201 Hardware Memory and Storage examples",
+            "Comptia A+ 220-1201 Hardware Memory and Storage common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Power Supplies and Cooling",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[4]__hardware\\[4.3]__power-supplies-and-cooling.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Hardware Power Supplies and Cooling explanation",
+            "Comptia A+ 220-1201 Hardware Power Supplies and Cooling best practices",
+            "Comptia A+ 220-1201 Hardware Power Supplies and Cooling troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 power supplies wattage voltage rails connectors form factors",
+            "CompTIA A+ 220-1201 redundant power supplies modular power supplies",
+            "CompTIA A+ 220-1201 cooling fans heatsinks thermal paste thermal pads liquid cooling",
+            "CompTIA A+ 220-1201 power supply troubleshooting and cooling troubleshooting",
+            "Professor Messer 220-1201 power supplies cooling transcript",
+            "Comptia A+ 220-1201 Hardware Power Supplies and Cooling explanation",
+            "Comptia A+ 220-1201 Hardware Power Supplies and Cooling best practices",
+            "Comptia A+ 220-1201 Hardware Power Supplies and Cooling troubleshooting",
+            "Comptia A+ 220-1201 Hardware Power Supplies and Cooling official documentation",
+            "Comptia A+ 220-1201 Hardware Power Supplies and Cooling examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Expansion Cards and Ports",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[4]__hardware\\[4.4]__expansion-cards-and-ports.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Hardware Expansion Cards and Ports explanation",
+            "Comptia A+ 220-1201 Hardware Expansion Cards and Ports best practices",
+            "Comptia A+ 220-1201 Hardware Expansion Cards and Ports troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 3.5 expansion cards PCIe x1 x4 x8 x16 sound card video adapter capture card network interface card",
+            "CompTIA A+ 220-1201 ports and connectors exam objective 3.5 expansion cards and ports",
+            "Professor Messer 220-1201 ports and connectors video USB HDMI DisplayPort Ethernet audio",
+            "CompTIA A+ 220-1201 add-on cards drivers installation best practices",
+            "CompTIA A+ 220-1201 expansion cards and ports study guide",
+            "Comptia A+ 220-1201 Hardware Expansion Cards and Ports explanation",
+            "Comptia A+ 220-1201 Hardware Expansion Cards and Ports best practices",
+            "Comptia A+ 220-1201 Hardware Expansion Cards and Ports troubleshooting",
+            "Comptia A+ 220-1201 Hardware Expansion Cards and Ports official documentation",
+            "Comptia A+ 220-1201 Hardware Expansion Cards and Ports examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 11,
+          "queries": [
+            "CompTIA A+ 220-1201 objective 3.5 ports and connectors Professor Messer",
+            "CompTIA A+ 220-1201 expansion cards and ports study guide",
+            "site:professormesser.com 220-1201 ports connectors USB HDMI DisplayPort RJ-45",
+            "CompTIA A+ 220-1201 motherboard expansion slots PCIe PCI add-on cards",
+            "CompTIA A+ 220-1201 common ports and connectors exam objective 3.5",
+            "Comptia A+ 220-1201 Hardware Expansion Cards and Ports explanation",
+            "Comptia A+ 220-1201 Hardware Expansion Cards and Ports best practices",
+            "Comptia A+ 220-1201 Hardware Expansion Cards and Ports troubleshooting",
+            "Comptia A+ 220-1201 Hardware Expansion Cards and Ports official documentation",
+            "Comptia A+ 220-1201 Hardware Expansion Cards and Ports examples",
+            "Comptia A+ 220-1201 Hardware Expansion Cards and Ports common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Peripherals and Input Devices",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[4]__hardware\\[4.5]__peripherals-and-input-devices.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Hardware Peripherals and Input Devices explanation",
+            "Comptia A+ 220-1201 Hardware Peripherals and Input Devices best practices",
+            "Comptia A+ 220-1201 Hardware Peripherals and Input Devices troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 peripherals and input devices keyboard mouse touchscreen scanner webcam microphone barcode reader stylus",
+            "CompTIA A+ 220-1201 input devices USB Bluetooth PS/2 wireless dongle optical laser mouse",
+            "Professor Messer 220-1201 peripherals and input devices",
+            "CompTIA A+ 220-1201 common input devices and troubleshooting",
+            "CompTIA A+ 220-1201 accessibility input devices",
+            "Comptia A+ 220-1201 Hardware Peripherals and Input Devices explanation",
+            "Comptia A+ 220-1201 Hardware Peripherals and Input Devices best practices",
+            "Comptia A+ 220-1201 Hardware Peripherals and Input Devices troubleshooting",
+            "Comptia A+ 220-1201 Hardware Peripherals and Input Devices official documentation",
+            "Comptia A+ 220-1201 Hardware Peripherals and Input Devices examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 11,
+          "queries": [
+            "CompTIA A+ 220-1201 peripherals and input devices objective 1.2 professor messer",
+            "CompTIA A+ 220-1201 input devices keyboard mouse touchscreen scanner microphone webcam biometric stylus",
+            "CompTIA A+ 220-1201 mobile device accessories stylus docking station port replicator trackpad drawing pad",
+            "CompTIA A+ 220-1201 wireless mouse Bluetooth USB dongle input devices",
+            "CompTIA A+ 220-1201 peripheral devices and connectors study guide",
+            "Comptia A+ 220-1201 Hardware Peripherals and Input Devices explanation",
+            "Comptia A+ 220-1201 Hardware Peripherals and Input Devices best practices",
+            "Comptia A+ 220-1201 Hardware Peripherals and Input Devices troubleshooting",
+            "Comptia A+ 220-1201 Hardware Peripherals and Input Devices official documentation",
+            "Comptia A+ 220-1201 Hardware Peripherals and Input Devices examples",
+            "Comptia A+ 220-1201 Hardware Peripherals and Input Devices common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Printers and Imaging Devices",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[4]__hardware\\[4.6]__printers-and-imaging-devices.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Hardware Printers and Imaging Devices explanation",
+            "Comptia A+ 220-1201 Hardware Printers and Imaging Devices best practices",
+            "Comptia A+ 220-1201 Hardware Printers and Imaging Devices troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 printer types laser inkjet thermal impact multifunction devices",
+            "CompTIA A+ 220-1201 printer troubleshooting common symptoms causes",
+            "CompTIA A+ 220-1201 printer settings connectivity exam objective 3.7",
+            "Professor Messer 220-1201 printers and imaging devices transcript",
+            "CompTIA A+ 220-1201 imaging devices study guide",
+            "Comptia A+ 220-1201 Hardware Printers and Imaging Devices explanation",
+            "Comptia A+ 220-1201 Hardware Printers and Imaging Devices best practices",
+            "Comptia A+ 220-1201 Hardware Printers and Imaging Devices troubleshooting",
+            "Comptia A+ 220-1201 Hardware Printers and Imaging Devices official documentation",
+            "Comptia A+ 220-1201 Hardware Printers and Imaging Devices examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 11,
+          "queries": [
+            "CompTIA A+ 220-1201 printers and imaging devices laser inkjet thermal impact 3D printer objectives",
+            "CompTIA A+ 220-1201 printer installation drivers wireless shared printing scanner ADF secure printing",
+            "CompTIA A+ 220-1201 printer troubleshooting common issues paper jam streaks faded print connectivity",
+            "Professor Messer 220-1201 laser printer maintenance inkjet thermal impact 3D printers",
+            "CompTIA A+ 220-1201 imaging devices scanner settings ADF badging secure printing",
+            "Comptia A+ 220-1201 Hardware Printers and Imaging Devices explanation",
+            "Comptia A+ 220-1201 Hardware Printers and Imaging Devices best practices",
+            "Comptia A+ 220-1201 Hardware Printers and Imaging Devices troubleshooting",
+            "Comptia A+ 220-1201 Hardware Printers and Imaging Devices official documentation",
+            "Comptia A+ 220-1201 Hardware Printers and Imaging Devices examples",
+            "Comptia A+ 220-1201 Hardware Printers and Imaging Devices common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Display Technologies",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[4]__hardware\\[4.7]__display-technologies.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Hardware Display Technologies explanation",
+            "Comptia A+ 220-1201 Hardware Display Technologies best practices",
+            "Comptia A+ 220-1201 Hardware Display Technologies troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 display technologies LCD LED OLED projector touchscreen site:professormesser.com",
+            "CompTIA A+ 220-1201 display connectors HDMI DisplayPort DVI VGA USB-C site:professormesser.com",
+            "CompTIA A+ 220-1201 display characteristics resolution refresh rate aspect ratio brightness contrast response time",
+            "CompTIA A+ 220-1201 display troubleshooting symptoms flickering dead pixels no signal incorrect resolution",
+            "CompTIA A+ 220-1201 display technologies official exam objectives",
+            "Comptia A+ 220-1201 Hardware Display Technologies explanation",
+            "Comptia A+ 220-1201 Hardware Display Technologies best practices",
+            "Comptia A+ 220-1201 Hardware Display Technologies troubleshooting",
+            "Comptia A+ 220-1201 Hardware Display Technologies official documentation",
+            "Comptia A+ 220-1201 Hardware Display Technologies examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 11,
+          "queries": [
+            "CompTIA A+ 220-1201 display technologies LCD LED OLED plasma projector touchscreen e-ink",
+            "Professor Messer 220-1201 display types display attributes video",
+            "CompTIA A+ 220-1201 monitor technologies refresh rate resolution color gamut",
+            "CompTIA A+ 220-1201 troubleshooting display issues no signal flicker dead pixels",
+            "site:professormesser.com 220-1201 display technologies",
+            "Comptia A+ 220-1201 Hardware Display Technologies explanation",
+            "Comptia A+ 220-1201 Hardware Display Technologies best practices",
+            "Comptia A+ 220-1201 Hardware Display Technologies troubleshooting",
+            "Comptia A+ 220-1201 Hardware Display Technologies official documentation",
+            "Comptia A+ 220-1201 Hardware Display Technologies examples",
+            "Comptia A+ 220-1201 Hardware Display Technologies common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Hardware Installation and Configuration",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[4]__hardware\\[4.8]__hardware-installation-and-configuration.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Hardware Hardware Installation and Configuration explanation",
+            "Comptia A+ 220-1201 Hardware Hardware Installation and Configuration best practices",
+            "Comptia A+ 220-1201 Hardware Hardware Installation and Configuration troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 hardware installation and configuration objectives",
+            "site:professormesser.com 220-1201 hardware installation configuration memory storage connectors",
+            "CompTIA A+ 220-1201 desktop hardware installation SSD RAM PSU motherboard",
+            "CompTIA A+ 220-1201 laptop hardware battery storage memory webcam microphone",
+            "CompTIA A+ 220-1201 expansion cards connectors BIOS UEFI installation",
+            "Comptia A+ 220-1201 Hardware Hardware Installation and Configuration explanation",
+            "Comptia A+ 220-1201 Hardware Hardware Installation and Configuration best practices",
+            "Comptia A+ 220-1201 Hardware Hardware Installation and Configuration troubleshooting",
+            "Comptia A+ 220-1201 Hardware Hardware Installation and Configuration official documentation",
+            "Comptia A+ 220-1201 Hardware Hardware Installation and Configuration examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 11,
+          "queries": [
+            "CompTIA A+ 220-1201 hardware installation and configuration objectives official",
+            "Professor Messer 220-1201 hardware installation and configuration laptop hardware memory storage battery",
+            "CompTIA A+ 220-1201 install and configure laptop hardware components objective",
+            "site:comptia.org 220-1201 hardware installation configuration objectives",
+            "site:professormesser.com 220-1201 hardware installation configuration",
+            "Comptia A+ 220-1201 Hardware Hardware Installation and Configuration explanation",
+            "Comptia A+ 220-1201 Hardware Hardware Installation and Configuration best practices",
+            "Comptia A+ 220-1201 Hardware Hardware Installation and Configuration troubleshooting",
+            "Comptia A+ 220-1201 Hardware Hardware Installation and Configuration official documentation",
+            "Comptia A+ 220-1201 Hardware Hardware Installation and Configuration examples",
+            "Comptia A+ 220-1201 Hardware Hardware Installation and Configuration common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Hardware Troubleshooting",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[4]__hardware\\[4.9]__hardware-troubleshooting.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Hardware Hardware Troubleshooting explanation",
+            "Comptia A+ 220-1201 Hardware Hardware Troubleshooting best practices",
+            "Comptia A+ 220-1201 Hardware Hardware Troubleshooting troubleshooting"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 9,
+          "queries": [
+            "CompTIA A+ 220-1201 hardware troubleshooting objectives common symptoms and fixes",
+            "Professor Messer 220-1201 hardware troubleshooting POST beep codes overheating power issues",
+            "CompTIA A+ 220-1201 hardware troubleshooting display no boot no power storage peripheral issues",
+            "hardware troubleshooting CompTIA A+ 220-1201 official objectives",
+            "Comptia A+ 220-1201 Hardware Hardware Troubleshooting explanation",
+            "Comptia A+ 220-1201 Hardware Hardware Troubleshooting best practices",
+            "Comptia A+ 220-1201 Hardware Hardware Troubleshooting troubleshooting",
+            "Comptia A+ 220-1201 Hardware Hardware Troubleshooting official documentation",
+            "Comptia A+ 220-1201 Hardware Hardware Troubleshooting examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 11,
+          "queries": [
+            "CompTIA A+ 220-1201 troubleshooting hardware POST beep codes no power blank screen overheating sluggish performance BSoD",
+            "Professor Messer 220-1201 troubleshooting hardware 5.1 transcript",
+            "CompTIA A+ 220-1201 hardware troubleshooting objective 5.1 official",
+            "site:professormesser.com 220-1201 troubleshooting hardware blank screen no power overheating",
+            "site:comptia.org A+ 220-1201 hardware troubleshooting objectives",
+            "Comptia A+ 220-1201 Hardware Hardware Troubleshooting explanation",
+            "Comptia A+ 220-1201 Hardware Hardware Troubleshooting best practices",
+            "Comptia A+ 220-1201 Hardware Hardware Troubleshooting troubleshooting",
+            "Comptia A+ 220-1201 Hardware Hardware Troubleshooting official documentation",
+            "Comptia A+ 220-1201 Hardware Hardware Troubleshooting examples",
+            "Comptia A+ 220-1201 Hardware Hardware Troubleshooting common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 14,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Virtualization Concepts",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[5]__virtualization-and-cloud-computing\\[5.1]__virtualization-concepts.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Virtualization Concepts explanation",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Virtualization Concepts best practices",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Virtualization Concepts troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 virtualization concepts hypervisor type 1 type 2 VDI containerization",
+            "site:professormesser.com 220-1201 virtualization concepts",
+            "site:linkedin.com/learning CompTIA A+ Core 1 220-1201 virtualization concepts",
+            "CompTIA A+ 220-1201 virtualization concepts official objectives",
+            "virtualization concepts CompTIA A+ 220-1201 study guide",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Virtualization Concepts explanation",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Virtualization Concepts best practices",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Virtualization Concepts troubleshooting",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Virtualization Concepts official documentation",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Virtualization Concepts examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.86,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Cloud Computing Concepts",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[5]__virtualization-and-cloud-computing\\[5.2]__cloud-computing-concepts.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Computing Concepts explanation",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Computing Concepts best practices",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Computing Concepts troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 cloud computing concepts official objectives PDF",
+            "CompTIA A+ 220-1201 cloud service models SaaS PaaS IaaS official",
+            "CompTIA A+ 220-1201 public private hybrid community cloud official",
+            "CompTIA A+ 220-1201 cloud computing concepts study guide",
+            "site:comptia.org 220-1201 cloud computing concepts",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Computing Concepts explanation",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Computing Concepts best practices",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Computing Concepts troubleshooting",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Computing Concepts official documentation",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Computing Concepts examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 11,
+          "queries": [
+            "CompTIA A+ 220-1201 cloud computing concepts SaaS PaaS IaaS public private hybrid community site:comptia.org",
+            "CompTIA A+ 220-1201 exam objectives cloud computing virtualization PDF",
+            "CompTIA A+ 220-1201 cloud models and service models explained",
+            "CompTIA A+ 220-1201 cloud characteristics on-demand elasticity resource pooling measured service",
+            "CompTIA A+ 220-1201 virtualization and cloud computing lesson",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Computing Concepts explanation",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Computing Concepts best practices",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Computing Concepts troubleshooting",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Computing Concepts official documentation",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Computing Concepts examples",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Computing Concepts common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": false,
+      "validation": {
+        "ok": false,
+        "reason": "Missing required course heading format."
+      },
+      "failureReason": "Missing required course heading format."
+    },
+    {
+      "topic": "Virtual Desktop Infrastructure",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[5]__virtualization-and-cloud-computing\\[5.3]__virtual-desktop-infrastructure.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Virtual Desktop Infrastructure explanation",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Virtual Desktop Infrastructure best practices",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Virtual Desktop Infrastructure troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 VDI objective 4.1 official",
+            "site:comptia.org virtual desktop infrastructure VDI A+ 220-1201",
+            "VDI explained CompTIA A+ 220-1201 objective 4.1 authoritative",
+            "virtual desktop infrastructure architecture broker host client official",
+            "CompTIA A+ virtualization and cloud computing VDI notes",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Virtual Desktop Infrastructure explanation",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Virtual Desktop Infrastructure best practices",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Virtual Desktop Infrastructure troubleshooting",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Virtual Desktop Infrastructure official documentation",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Virtual Desktop Infrastructure examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Cloud Service Models",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[5]__virtualization-and-cloud-computing\\[5.4]__cloud-service-models.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Service Models explanation",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Service Models best practices",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Service Models troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 cloud service models IaaS PaaS SaaS official",
+            "site:comptia.org A+ 220-1201 cloud service models",
+            "cloud service models IaaS PaaS SaaS CompTIA A+ 220-1201 study guide",
+            "CompTIA A+ cloud service models responsibility shared model",
+            "IaaS PaaS SaaS definitions examcompass CompTIA A+ 220-1201",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Service Models explanation",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Service Models best practices",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Service Models troubleshooting",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Service Models official documentation",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Service Models examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 11,
+          "queries": [
+            "CompTIA A+ 220-1201 cloud service models IaaS PaaS SaaS official",
+            "CompTIA A+ 220-1201 objective 4.2 cloud service models",
+            "site:comptia.org A+ cloud service models IaaS PaaS SaaS",
+            "cloud service models IaaS PaaS SaaS CompTIA A+ study guide",
+            "CompTIA A+ 220-1201 cloud models IaaS PaaS SaaS examples",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Service Models explanation",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Service Models best practices",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Service Models troubleshooting",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Service Models official documentation",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Service Models examples",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Service Models common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Cloud Deployment Models",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[5]__virtualization-and-cloud-computing\\[5.5]__cloud-deployment-models.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Deployment Models explanation",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Deployment Models best practices",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Deployment Models troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 cloud deployment models public private hybrid community official",
+            "cloud deployment models public private hybrid community site:comptia.org",
+            "Professor Messer 220-1201 cloud deployment models public private hybrid community",
+            "Microsoft Learn cloud deployment models public private hybrid community",
+            "CompTIA A+ 220-1201 objective 4.2 cloud deployment models",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Deployment Models explanation",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Deployment Models best practices",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Deployment Models troubleshooting",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Deployment Models official documentation",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Deployment Models examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 11,
+          "queries": [
+            "CompTIA A+ 220-1201 objective 4.2 cloud deployment models public private hybrid community",
+            "site:professormesser.com 220-1201 cloud deployment models public private hybrid community",
+            "site:comptia.org cloud deployment models public private hybrid community",
+            "cloud deployment models explained public private hybrid community exam objective 4.2",
+            "CompTIA A+ cloud deployment models community cloud use case",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Deployment Models explanation",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Deployment Models best practices",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Deployment Models troubleshooting",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Deployment Models official documentation",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Deployment Models examples",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Cloud Deployment Models common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Virtualization and Cloud Troubleshooting",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[5]__virtualization-and-cloud-computing\\[5.6]__virtualization-and-cloud-troubleshooting.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Virtualization and Cloud Troubleshooting explanation",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Virtualization and Cloud Troubleshooting best practices",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Virtualization and Cloud Troubleshooting troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 virtualization and cloud troubleshooting objectives",
+            "CompTIA A+ 220-1201 virtualization troubleshooting hypervisor VM issues",
+            "CompTIA A+ 220-1201 cloud troubleshooting connectivity permissions storage issues",
+            "CompTIA A+ 220-1201 virtual machine troubleshooting guest tools snapshots NAT bridged",
+            "CompTIA A+ 220-1201 official exam objectives virtualization and cloud troubleshooting",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Virtualization and Cloud Troubleshooting explanation",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Virtualization and Cloud Troubleshooting best practices",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Virtualization and Cloud Troubleshooting troubleshooting",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Virtualization and Cloud Troubleshooting official documentation",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Virtualization and Cloud Troubleshooting examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 12,
+          "queries": [
+            "CompTIA A+ 220-1201 virtualization and cloud troubleshooting objectives official",
+            "CompTIA A+ 220-1201 virtualization cloud troubleshooting VT-x AMD-V insufficient RAM CPU",
+            "CompTIA A+ 220-1201 cloud troubleshooting SaaS PaaS IaaS public private hybrid",
+            "CompTIA A+ 220-1201 virtualization concepts and troubleshooting transcript",
+            "site:comptia.org 220-1201 virtualization cloud objectives",
+            "site:youtube.com CompTIA A+ 220-1201 virtualization cloud troubleshooting transcript",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Virtualization and Cloud Troubleshooting explanation",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Virtualization and Cloud Troubleshooting best practices",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Virtualization and Cloud Troubleshooting troubleshooting",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Virtualization and Cloud Troubleshooting official documentation",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Virtualization and Cloud Troubleshooting examples",
+            "Comptia A+ 220-1201 Virtualization and Cloud Computing Virtualization and Cloud Troubleshooting common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Troubleshooting Theory and Process",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[6]__hardware-and-network-troubleshooting-methodology\\[6.1]__troubleshooting-theory-and-process.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Troubleshooting Theory and Process explanation",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Troubleshooting Theory and Process best practices",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Troubleshooting Theory and Process troubleshooting"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "\"CompTIA A+ 220-1201 troubleshooting methodology six steps\"",
+            "\"CompTIA troubleshooting methodology identify the problem establish a theory probable cause test theory\"",
+            "\"CompTIA A+ 220-1201 1.2 troubleshooting theory and process official\"",
+            "\"CompTIA A+ exam objectives troubleshooting methodology preventive measures escalation\"",
+            "\"CompTIA troubleshooting methodology official documentation\"",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Troubleshooting Theory and Process explanation",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Troubleshooting Theory and Process best practices",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Troubleshooting Theory and Process troubleshooting",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Troubleshooting Theory and Process official documentation",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Troubleshooting Theory and Process examples"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 troubleshooting methodology six steps official",
+            "CompTIA troubleshooting methodology identify problem establish theory test theory plan implement verify preventive measures",
+            "CompTIA A+ Core 1 troubleshooting process official study guide",
+            "site:comptia.org troubleshooting methodology A+ 220-1201",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Troubleshooting Theory and Process explanation",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Troubleshooting Theory and Process best practices",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Troubleshooting Theory and Process troubleshooting",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Troubleshooting Theory and Process official documentation",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Troubleshooting Theory and Process examples",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Troubleshooting Theory and Process common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Identifying Symptoms and Root Causes",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[6]__hardware-and-network-troubleshooting-methodology\\[6.2]__identifying-symptoms-and-root-causes.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Identifying Symptoms and Root Causes explanation",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Identifying Symptoms and Root Causes best practices",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Identifying Symptoms and Root Causes troubleshooting"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.18,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "\"CompTIA A+ 220-1201\" identifying symptoms and root causes",
+            "\"CompTIA A+\" symptoms root causes troubleshooting methodology 220-1201",
+            "site:learn.microsoft.com troubleshooting symptoms root causes hardware software network",
+            "site:comptia.org A+ 220-1201 troubleshooting methodology symptoms root causes",
+            "\"identifying symptoms and root causes\" CompTIA A+ notes",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Identifying Symptoms and Root Causes explanation",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Identifying Symptoms and Root Causes best practices",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Identifying Symptoms and Root Causes troubleshooting",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Identifying Symptoms and Root Causes official documentation",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Identifying Symptoms and Root Causes examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 11,
+          "queries": [
+            "CompTIA A+ 220-1201 identifying symptoms and root causes troubleshooting methodology",
+            "CompTIA A+ 220-1201 symptoms vs root cause examples",
+            "CompTIA A+ Core 1 troubleshooting methodology identify the problem symptoms root cause",
+            "CompTIA A+ 220-1201 official exam objectives troubleshooting methodology",
+            "site:comptia.org A+ 220-1201 troubleshooting methodology symptoms root cause",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Identifying Symptoms and Root Causes explanation",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Identifying Symptoms and Root Causes best practices",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Identifying Symptoms and Root Causes troubleshooting",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Identifying Symptoms and Root Causes official documentation",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Identifying Symptoms and Root Causes examples",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Identifying Symptoms and Root Causes common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Using Diagnostic Tools",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[6]__hardware-and-network-troubleshooting-methodology\\[6.3]__using-diagnostic-tools.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Using Diagnostic Tools explanation",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Using Diagnostic Tools best practices",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Using Diagnostic Tools troubleshooting"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 diagnostic tools BIOS UEFI Windows tools vendor utilities site:professormesser.com",
+            "CompTIA A+ 220-1201 diagnostic tools command line tools ping ipconfig tracert chkdsk sfc site:professormesser.com",
+            "CompTIA A+ 220-1201 diagnostic tools official exam objectives PDF",
+            "CompTIA A+ 220-1201 troubleshooting tools hardware diagnostics site:comptia.org",
+            "CompTIA A+ 220-1201 Windows diagnostic tools event viewer device manager task manager resource monitor",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Using Diagnostic Tools explanation",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Using Diagnostic Tools best practices",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Using Diagnostic Tools troubleshooting",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Using Diagnostic Tools official documentation",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Using Diagnostic Tools examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 11,
+          "queries": [
+            "CompTIA A+ 220-1201 using diagnostic tools exam objectives",
+            "Professor Messer 220-1201 diagnostic tools Task Manager Event Viewer Device Manager Resource Monitor",
+            "CompTIA A+ Core 1 v15 diagnostic tools POST beep codes LED codes",
+            "site:comptia.org 220-1201 diagnostic tools",
+            "site:professormesser.com 220-1201 using diagnostic tools",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Using Diagnostic Tools explanation",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Using Diagnostic Tools best practices",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Using Diagnostic Tools troubleshooting",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Using Diagnostic Tools official documentation",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Using Diagnostic Tools examples",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Using Diagnostic Tools common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 14,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Documentation and Escalation",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[6]__hardware-and-network-troubleshooting-methodology\\[6.4]__documentation-and-escalation.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Documentation and Escalation explanation",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Documentation and Escalation best practices",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Documentation and Escalation troubleshooting"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 documentation and escalation troubleshooting notes",
+            "CompTIA A+ 220-1201 escalation process ticket documentation",
+            "CompTIA A+ 220-1201 what to document during troubleshooting",
+            "CompTIA A+ 220-1201 incident documentation and escalation official",
+            "CompTIA A+ troubleshooting methodology documentation escalation",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Documentation and Escalation explanation",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Documentation and Escalation best practices",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Documentation and Escalation troubleshooting",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Documentation and Escalation official documentation",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Documentation and Escalation examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 11,
+          "queries": [
+            "CompTIA A+ 220-1201 documentation escalation ticketing systems official objectives",
+            "CompTIA A+ 220-1201 documentation and escalation study guide",
+            "site:comptia.org A+ 220-1201 documentation escalation",
+            "Professor Messer 220-1201 documentation escalation ticketing systems",
+            "CompTIA A+ Core 1 documentation escalation notes ticketing system",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Documentation and Escalation explanation",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Documentation and Escalation best practices",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Documentation and Escalation troubleshooting",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Documentation and Escalation official documentation",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Documentation and Escalation examples",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Documentation and Escalation common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 14,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Customer Communication and Professionalism",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-220-1201\\[6]__hardware-and-network-troubleshooting-methodology\\[6.5]__customer-communication-and-professionalism.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 3,
+          "queries": [
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Customer Communication and Professionalism explanation",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Customer Communication and Professionalism best practices",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Customer Communication and Professionalism troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 10,
+          "queries": [
+            "CompTIA A+ 220-1201 customer communication professionalism objectives",
+            "CompTIA A+ customer communication professionalism active listening empathy escalation",
+            "CompTIA A+ 220-1201 professional behavior with customers site:comptia.org",
+            "CompTIA A+ 220-1201 dealing with difficult customers communication",
+            "CompTIA A+ 220-1201 professionalism and communication troubleshooting support",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Customer Communication and Professionalism explanation",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Customer Communication and Professionalism best practices",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Customer Communication and Professionalism troubleshooting",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Customer Communication and Professionalism official documentation",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Customer Communication and Professionalism examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 11,
+          "queries": [
+            "CompTIA A+ 220-1201 customer communication professionalism official objectives",
+            "CompTIA A+ 220-1201 professional communication customer service official",
+            "CompTIA A+ 220-1201 active listening empathy documentation escalation",
+            "CompTIA A+ 220-1201 exam objectives customer communication professionalism pdf",
+            "CompTIA A+ 220-1201 4.7 communication professionalism official",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Customer Communication and Professionalism explanation",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Customer Communication and Professionalism best practices",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Customer Communication and Professionalism troubleshooting",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Customer Communication and Professionalism official documentation",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Customer Communication and Professionalism examples",
+            "Comptia A+ 220-1201 Hardware and Network Troubleshooting Methodology Customer Communication and Professionalism common mistakes"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    }
+  ],
+  "finishedAt": "2026-04-09T20:27:29.872Z",
+  "totalTopics": 40,
+  "writtenTopics": 39,
+  "failedTopics": 1
+}

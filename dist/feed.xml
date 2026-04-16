@@ -1,0 +1,1579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Webnotes</title>
+    <link>https://webnotes.site/</link>
+    <description>Practical learning notes for web development, programming, and tech concepts.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 16 Apr 2026 00:00:00 GMT</lastBuildDate>
+    
+    <item>
+      <title>Virtual Networks and Virtualization Concepts | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/virtual-networks-and-virtualization-concepts/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/virtual-networks-and-virtualization-concepts/</guid>
+      <description>Learn how virtualization changes network design, including NFV, hypervisors, vSwitches, and vNICs in modern environments.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloud Service Models and Deployment Models | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/cloud-service-models-and-deployment-models/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/cloud-service-models-and-deployment-models/</guid>
+      <description>Compare cloud service and deployment models, including responsibility boundaries, access patterns, and practical use cases for Network+.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Software-Defined Networking | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/software-defined-networking/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/software-defined-networking/</guid>
+      <description>Learn how software-defined networking centralizes routing and switching decisions and supports virtualized network functions.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network Automation and Orchestration | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/network-automation-and-orchestration/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/network-automation-and-orchestration/</guid>
+      <description>Learn how automation and orchestration support scalable network operations, cloud resources, and consistent configuration management.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Internet of Things and Industrial Networks | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/internet-of-things-and-industrial-networks/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/internet-of-things-and-industrial-networks/</guid>
+      <description>Notes on how Network+ covers IoT, industrial networks, cloud, virtualization, monitoring, troubleshooting, and security hardening.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Practice Exams and Question Analysis for CompTIA Network+ N10-009 | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/practice-exams-and-question-analysis/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/practice-exams-and-question-analysis/</guid>
+      <description>Use practice exams to measure readiness, map weak areas, and review Network+ question patterns against exam objectives.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hands-On Lab Review | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/hands-on-lab-review/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/hands-on-lab-review/</guid>
+      <description>Review Network+ hands-on labs that reinforce troubleshooting, configuration, and practical networking skills for the N10-009 exam.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Memory Aids and Acronym Review | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/memory-aids-and-acronym-review/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/memory-aids-and-acronym-review/</guid>
+      <description>Quick review notes for using mnemonics, flashcards, and acronym practice to reinforce Network+ exam recall.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Exam Day Readiness | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/exam-day-readiness/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/exam-day-readiness/</guid>
+      <description>Prepare for Network+ exam day with ID checks, testing setup, and practical habits that reduce avoidable issues.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>CompTIA Network+ Certification Objectives | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/comptia-network+-certification-objectives/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/comptia-network+-certification-objectives/</guid>
+      <description>Concise notes on CompTIA Network+ objectives, including connectivity, services, cloud, monitoring, security, and troubleshooting.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Exam Domains and Weighting | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/exam-domains-and-weighting/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/exam-domains-and-weighting/</guid>
+      <description>Overview of the CompTIA Network+ exam domains, what they cover, and how the domain weighting guides study focus.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Study Strategies and Lab Expectations | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/study-strategies-and-lab-expectations/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/study-strategies-and-lab-expectations/</guid>
+      <description>Practical Network+ study habits and lab expectations focused on hands-on practice, troubleshooting, and exam-aligned preparation.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Networking Career Roles and Use Cases | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/networking-career-roles-and-use-cases/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/networking-career-roles-and-use-cases/</guid>
+      <description>Explore common networking job roles, daily responsibilities, and where CompTIA Network+ skills apply in IT infrastructure.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network Types and Topologies | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/network-types-and-topologies/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/network-types-and-topologies/</guid>
+      <description>Compare common network topologies and network types, including physical and logical layouts, for CompTIA Network+ study.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network Models: OSI and TCP/IP | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/network-models:-osi-and-tcp/ip/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/network-models:-osi-and-tcp/ip/</guid>
+      <description>Compare the OSI reference model and the TCP/IP stack, including layer purpose, structure, and how they support network communication.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Encapsulation and Decapsulation | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/encapsulation-and-decapsulation/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/encapsulation-and-decapsulation/</guid>
+      <description>Learn how network data is wrapped and unwrapped across OSI layers using headers, trailers, and protocol data units.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bandwidth, Throughput, Latency, and Jitter | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/bandwidth,-throughput,-latency,-and-jitter/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/bandwidth,-throughput,-latency,-and-jitter/</guid>
+      <description>Learn the core network performance metrics used to describe capacity, delay, and variation in delivery.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Common Networking Standards and Organizations | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/common-networking-standards-and-organizations/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/common-networking-standards-and-organizations/</guid>
+      <description>Learn the main standards bodies behind Ethernet, Wi-Fi, and Internet protocols, plus the roles they play in networking.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cabling Types and Connectors | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/cabling-types-and-connectors/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/cabling-types-and-connectors/</guid>
+      <description>Learn common network cabling media, cable categories, and connector types used in CompTIA Network+ environments.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Copper Cabling Standards | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/copper-cabling-standards/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/copper-cabling-standards/</guid>
+      <description>Learn the main copper cabling types, why installation matters, and how copper supports wired and wireless network infrastructure.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fiber Optic Cabling Standards | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/fiber-optic-cabling-standards/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/fiber-optic-cabling-standards/</guid>
+      <description>Learn fiber optic cabling basics, common connector types, and multimode versus single-mode choices for Network+.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wireless Media and Antennas | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/wireless-media-and-antennas/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/wireless-media-and-antennas/</guid>
+      <description>Notes on wireless media, antenna types, power levels, and placement for CompTIA Network+ wireless networking concepts.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network Devices: Hubs, Switches, Routers, and Access Points | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/network-devices:-hubs,-switches,-routers,-and-access-points/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/network-devices:-hubs,-switches,-routers,-and-access-points/</guid>
+      <description>Learn how hubs, switches, routers, and access points forward traffic and where each device fits in a network.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Firewalls, Load Balancers, and Proxies | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/firewalls,-load-balancers,-and-proxies/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/firewalls,-load-balancers,-and-proxies/</guid>
+      <description>Learn how firewalls, load balancers, and proxies protect traffic, distribute requests, and support scalable network services.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Power and Environmental Considerations | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/power-and-environmental-considerations/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/power-and-environmental-considerations/</guid>
+      <description>Learn power safety, UPS and PDU basics, and data center environmental controls for temperature, humidity, and fire suppression.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>IPv4 Addressing Basics | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/ipv4-addressing-basics/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/ipv4-addressing-basics/</guid>
+      <description>Learn the IPv4 address format, octets, address classes, and how network and host portions support routing.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Subnet Masks and CIDR Notation | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/subnet-masks-and-cidr-notation/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/subnet-masks-and-cidr-notation/</guid>
+      <description>Learn how IPv4 subnet masks map to CIDR notation and how classless subnetting supports smaller, efficient networks.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Subnetting Techniques and Calculations | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/subnetting-techniques-and-calculations/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/subnetting-techniques-and-calculations/</guid>
+      <description>Learn IPv4 subnetting basics, binary conversion, subnet masks, and shortcut methods for calculating networks, hosts, and broadcast addresses.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>IPv6 Addressing Basics | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/ipv6-addressing-basics/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/ipv6-addressing-basics/</guid>
+      <description>Learn IPv6 address structure, prefix lengths, and how address blocks are delegated from IANA to organizations.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Public, Private, and Special-Use Addresses | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/public,-private,-and-special-use-addresses/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/public,-private,-and-special-use-addresses/</guid>
+      <description>Learn how IPv4 addresses are grouped into public, private, and special-use ranges for routing and network design.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Default Gateway, DNS, and DHCP Concepts | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/default-gateway,-dns,-and-dhcp-concepts/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/default-gateway,-dns,-and-dhcp-concepts/</guid>
+      <description>Learn how default gateways, DNS, and DHCP support IP configuration, name resolution, and address assignment on a network.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Switching Concepts and VLANs | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/switching-concepts-and-vlans/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/switching-concepts-and-vlans/</guid>
+      <description>Learn how switches forward frames, reduce collisions, segment broadcast domains, and use VLANs and trunks in a switched network.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Inter-VLAN Routing | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/inter-vlan-routing/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/inter-vlan-routing/</guid>
+      <description>Learn how inter-VLAN routing lets separate VLANs communicate through a router or Layer 3 switch while preserving broadcast isolation.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Routing Concepts and Protocols | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/routing-concepts-and-protocols/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/routing-concepts-and-protocols/</guid>
+      <description>Learn how routers forward traffic, choose routes, and use routing tables, metrics, and protocols in Network+ environments.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Static and Dynamic Routing | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/static-and-dynamic-routing/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/static-and-dynamic-routing/</guid>
+      <description>Compare static and dynamic routing, routing tables, and default routes for Network+ exam study and practical troubleshooting.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Routing Tables and Metrics | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/routing-tables-and-metrics/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/routing-tables-and-metrics/</guid>
+      <description>Learn how routers use routing tables, next hops, and metrics to choose paths and forward traffic.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spanning Tree Protocol | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/spanning-tree-protocol/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/spanning-tree-protocol/</guid>
+      <description>Learn how Spanning Tree Protocol prevents Layer 2 loops, preserves redundancy, and keeps switched networks stable.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Common Network Ports and Protocols | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/common-network-ports-and-protocols/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/common-network-ports-and-protocols/</guid>
+      <description>Learn the well-known TCP and UDP ports used by common network services and how ports identify application traffic.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DNS, DHCP, and NTP | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/dns,-dhcp,-and-ntp/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/dns,-dhcp,-and-ntp/</guid>
+      <description>Learn how DNS resolves names, DHCP assigns addresses, and NTP keeps network device clocks synchronized.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>File, Email, and Web Services | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/file,-email,-and-web-services/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/file,-email,-and-web-services/</guid>
+      <description>Learn the core network services for file transfer, email delivery, DNS, and web access in a typical data center.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remote Access Services | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/remote-access-services/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/remote-access-services/</guid>
+      <description>Learn remote access methods for managing devices and reaching corporate resources securely from offsite locations.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Voice and Video over IP | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/voice-and-video-over-ip/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/voice-and-video-over-ip/</guid>
+      <description>Learn how Voice over IP and video services use IP networks, PoE, and QoS to support modern unified communications.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network Time and Synchronization | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/network-time-and-synchronization/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/network-time-and-synchronization/</guid>
+      <description>Learn how NTP and SNTP keep network device clocks aligned for logging, authentication, and accurate event tracking.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Monitoring and Alerting | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/monitoring-and-alerting/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/monitoring-and-alerting/</guid>
+      <description>Learn how Network+ monitoring uses logs, flow data, SNMP, and SIEM to track availability, load, and security concerns.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Performance Baselines and Metrics | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/performance-baselines-and-metrics/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/performance-baselines-and-metrics/</guid>
+      <description>Learn how baselines and interface metrics help you compare normal network behavior, spot anomalies, and identify bottlenecks.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Documentation and Change Management | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/documentation-and-change-management/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/documentation-and-change-management/</guid>
+      <description>Notes on network documentation and change control, including procedures, records, and the need for clear, formal network changes.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>High Availability and Redundancy | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/high-availability-and-redundancy/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/high-availability-and-redundancy/</guid>
+      <description>Notes on fault tolerance, redundancy, failover, and NIC teaming to help keep networks and services available.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Disaster Recovery and Business Continuity | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/disaster-recovery-and-business-continuity/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/disaster-recovery-and-business-continuity/</guid>
+      <description>Learn disaster recovery planning, recovery metrics, site options, backups, and continuity concepts for restoring IT operations after disruption.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network Troubleshooting Methodology | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/network-troubleshooting-methodology/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/network-troubleshooting-methodology/</guid>
+      <description>Learn the CompTIA troubleshooting sequence for identifying issues, testing causes, resolving problems, and verifying full functionality.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security Principles and Threats | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/security-principles-and-threats/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/security-principles-and-threats/</guid>
+      <description>Network+ notes on security hardening, common threats, and practical network security concepts for the N10-009 exam.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Authentication, Authorization, and Accounting | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/authentication,-authorization,-and-accounting/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/authentication,-authorization,-and-accounting/</guid>
+      <description>Learn how AAA controls access with identification, authentication, authorization, and accounting in network environments.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network Access Control | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/network-access-control/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/network-access-control/</guid>
+      <description>Learn how network access control restricts physical switch access, uses 802.1X authentication, and supports port security.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wireless Security | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/wireless-security/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/wireless-security/</guid>
+      <description>Wireless security protects radio-based network traffic with encryption, authentication, and access controls to reduce eavesdropping and unauthorized access.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Secure Protocols and Encryption | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/secure-protocols-and-encryption/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/secure-protocols-and-encryption/</guid>
+      <description>Learn how secure protocols and encryption protect network traffic, remote access, and sensitive data in transit.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Segmentation and Zero Trust Concepts | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/segmentation-and-zero-trust-concepts/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/segmentation-and-zero-trust-concepts/</guid>
+      <description>Learn how network segmentation separates zones and how zero trust verifies users, devices, and traffic before access.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Troubleshooting Tools and Utilities | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/troubleshooting-tools-and-utilities/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/troubleshooting-tools-and-utilities/</guid>
+      <description>Learn the core Network+ troubleshooting tools, including command-line utilities, reachability checks, and practical diagnostic workflow.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cable Testing and Certification Tools | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/cable-testing-and-certification-tools/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/cable-testing-and-certification-tools/</guid>
+      <description>Learn how cable testers, tone generators, and certification tools help verify continuity, locate cables, and troubleshoot wired connections.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wireless Troubleshooting Tools | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/wireless-troubleshooting-tools/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/wireless-troubleshooting-tools/</guid>
+      <description>Practical wireless troubleshooting tools for Network+ covering survey tools, Wi-Fi analyzers, packet capture, and hardware aids.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Command-Line Network Tools | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/command-line-network-tools/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/command-line-network-tools/</guid>
+      <description>Learn the core command-line tools used to test reachability, trace paths, resolve names, and inspect network activity.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Packet Capture and Analysis | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/packet-capture-and-analysis/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/packet-capture-and-analysis/</guid>
+      <description>Learn how packet analyzers capture frames, decode protocols, and support network troubleshooting in CompTIA Network+.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Common Network Faults and Remediation | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-network-plus/common-network-faults-and-remediation/</link>
+      <guid>https://webnotes.site/content/comptia-network-plus/common-network-faults-and-remediation/</guid>
+      <description>Identify common network faults, trace likely causes, and apply practical remediation using a structured troubleshooting method.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>CompTIA Security+ Exam Overview | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/comptia-security+-exam-overview/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/comptia-security+-exam-overview/</guid>
+      <description>Overview of CompTIA Security+ exam focus, core security skills, and practical topics for baseline cybersecurity readiness.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security Concepts and Principles | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/security-concepts-and-principles/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/security-concepts-and-principles/</guid>
+      <description>Core Security+ concepts covering the CIA triad, access control, risk, and practical security fundamentals for enterprise environments.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>CIA Triad and Security Objectives | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/cia-triad-and-security-objectives/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/cia-triad-and-security-objectives/</guid>
+      <description>Learn the CIA triad as the core security model for confidentiality, integrity, and availability in Security+.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Threats, Vulnerabilities, and Risk | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/threats,-vulnerabilities,-and-risk/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/threats,-vulnerabilities,-and-risk/</guid>
+      <description>Learn how Security+ frames threats, vulnerabilities, malware, and risk management for practical cybersecurity defense.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security Controls and Safeguards | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/security-controls-and-safeguards/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/security-controls-and-safeguards/</guid>
+      <description>Learn the main security control categories and how safeguards help prevent, detect, respond to, and recover from attacks.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Malware Types and Behaviors | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/malware-types-and-behaviors/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/malware-types-and-behaviors/</guid>
+      <description>Identify common malware types, how they spread, and the behaviors that help you recognize compromise.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Social Engineering Attacks | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/social-engineering-attacks/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/social-engineering-attacks/</guid>
+      <description>Notes on how social engineering targets people, common attack methods, and practical awareness-based defenses.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Password Attacks | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/password-attacks/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/password-attacks/</guid>
+      <description>Common password attack methods, password storage risks, and defensive practices for CompTIA Security+.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network Attacks | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/network-attacks/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/network-attacks/</guid>
+      <description>Notes on common network attacks, including on-path interception, rogue services, and malware that spreads across systems.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wireless Attacks | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/wireless-attacks/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/wireless-attacks/</guid>
+      <description>Wireless attacks can disrupt connectivity, impersonate access points, and exploit management frames on Wi-Fi networks.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Application and Web Attacks | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/application-and-web-attacks/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/application-and-web-attacks/</guid>
+      <description>Security+ notes on common web and application attacks, including injection, scripting, session, and access-control weaknesses.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vulnerability Scanning and Assessment | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/vulnerability-scanning-and-assessment/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/vulnerability-scanning-and-assessment/</guid>
+      <description>Learn how vulnerability scanning supports Security+ by comparing authenticated and unauthenticated scans and the role of assessment tools.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Indicators of Compromise | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/indicators-of-compromise/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/indicators-of-compromise/</guid>
+      <description>Learn how indicators of compromise help you spot malware, breaches, and suspicious activity during Security+ incident analysis.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Secure Network Architecture | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/secure-network-architecture/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/secure-network-architecture/</guid>
+      <description>Learn how secure network architecture uses segmentation, defense in depth, and zero trust to protect systems, data, and services.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Segmentation and Isolation | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/segmentation-and-isolation/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/segmentation-and-isolation/</guid>
+      <description>Learn how network segmentation and isolation reduce attack surface, limit lateral movement, and support secure architecture design.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloud and Virtualization Security | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/cloud-and-virtualization-security/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/cloud-and-virtualization-security/</guid>
+      <description>Security notes on cloud models, shared responsibility, virtualization risks, and safe provisioning in dynamic environments.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Secure Application Development Concepts | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/secure-application-development-concepts/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/secure-application-development-concepts/</guid>
+      <description>Security+ notes on secure application development, deployment models, baselining, and lifecycle choices for safer software delivery.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Resilience and High Availability | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/resilience-and-high-availability/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/resilience-and-high-availability/</guid>
+      <description>Notes on resilience, recovery, high availability, and redundancy for maintaining uptime and continuity in Security+ architecture.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Embedded and Specialized Systems Security | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/embedded-and-specialized-systems-security/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/embedded-and-specialized-systems-security/</guid>
+      <description>Security+ notes on IoT, ICS/SCADA, embedded systems, and the security tradeoffs of specialized devices and segmented environments.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Secure Protocols and Services | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/secure-protocols-and-services/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/secure-protocols-and-services/</guid>
+      <description>Secure network and application protocols protect data in transit, support authentication, and reduce exposure to interception and spoofing.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Identity and Access Management | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/identity-and-access-management/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/identity-and-access-management/</guid>
+      <description>CompTIA Security+ notes on IAM, covering provisioning, authentication, SSO, federation, and access control models.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Authentication Methods | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/authentication-methods/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/authentication-methods/</guid>
+      <description>Notes on directory services, federation, attestation, and wireless authentication methods used to verify user access.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Authorization and Accounting | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/authorization-and-accounting/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/authorization-and-accounting/</guid>
+      <description>Learn how AAA separates identity proof, access decisions, and activity logging for secure network access control.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Public Key Infrastructure | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/public-key-infrastructure/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/public-key-infrastructure/</guid>
+      <description>Learn how PKI manages digital certificates, trust, certificate authorities, and revocation across the certificate lifecycle.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wireless Security Implementation | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/wireless-security-implementation/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/wireless-security-implementation/</guid>
+      <description>Implement wireless security with encryption, authentication, and access controls to reduce exposure and limit unauthorized network access.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Endpoint Security | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/endpoint-security/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/endpoint-security/</guid>
+      <description>Endpoint security uses layered controls to protect devices, reduce attack surface, and limit malware, data loss, and unauthorized access.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mobile Device Security | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/mobile-device-security/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/mobile-device-security/</guid>
+      <description>Security notes on mobile device management, deployment models, enforcement, and protections for BYOD and corporate devices.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security Monitoring and Logging | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/security-monitoring-and-logging/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/security-monitoring-and-logging/</guid>
+      <description>Learn how to monitor security events, centralize logs, and use alerts, dashboards, and integrity checks to spot suspicious activity.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Incident Response Process | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/incident-response-process/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/incident-response-process/</guid>
+      <description>Learn the incident response process, including preparation, detection, containment, recovery, and post-incident review for Security+.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Digital Forensics Basics | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/digital-forensics-basics/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/digital-forensics-basics/</guid>
+      <description>Core digital forensics concepts for Security+ covering evidence handling, acquisition, integrity, preservation, and investigation support.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vulnerability Management | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/vulnerability-management/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/vulnerability-management/</guid>
+      <description>Learn how vulnerability management uses threat feeds, scanning, assessment, testing, and remediation validation to reduce security risk.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Backup, Recovery, and Business Continuity | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/backup,-recovery,-and-business-continuity/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/backup,-recovery,-and-business-continuity/</guid>
+      <description>Notes on backups, disaster recovery, and continuity planning for keeping critical operations running during disruptions.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Disaster Recovery Planning | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/disaster-recovery-planning/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/disaster-recovery-planning/</guid>
+      <description>Plan recovery objectives, test response procedures, and restore operations after disruption while minimizing downtime and data loss.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security Automation and Orchestration | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/security-automation-and-orchestration/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/security-automation-and-orchestration/</guid>
+      <description>Explain how automation and orchestration support secure operations, faster response, and more consistent security workflows.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security Policies and Procedures | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/security-policies-and-procedures/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/security-policies-and-procedures/</guid>
+      <description>Notes on security policies, standards, and procedures for Security+, including governance, change management, and operational control.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Risk Management Concepts | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/risk-management-concepts/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/risk-management-concepts/</guid>
+      <description>Security+ notes on governance, risk, and compliance, including risk analysis, business impact, and practical risk management terms.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Compliance and Legal Requirements | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/compliance-and-legal-requirements/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/compliance-and-legal-requirements/</guid>
+      <description>Security+ notes on compliance, privacy, and legal obligations, including regulations, penalties, monitoring, and data protection responsibilities.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Privacy and Data Protection | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/privacy-and-data-protection/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/privacy-and-data-protection/</guid>
+      <description>Security+ notes on protecting sensitive data with classifications, privacy controls, and common compliance-driven handling practices.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security Awareness and Training | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/security-awareness-and-training/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/security-awareness-and-training/</guid>
+      <description>Practical Security+ notes on awareness training, phishing detection, and user behavior that reduce risk and support secure operations.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Third-Party Risk Management | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/third-party-risk-management/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/third-party-risk-management/</guid>
+      <description>Learn how to assess vendor, supply chain, and subprocessor risk, and use contracts and monitoring to reduce third-party exposure.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>CompTIA Security+ Exam Objectives Review | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/exam-objectives-review/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/exam-objectives-review/</guid>
+      <description>Review the core Security+ exam objectives, including threats, architecture, access control, risk, and cryptography.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Performance-Based Questions Strategy | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/performance-based-questions-strategy/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/performance-based-questions-strategy/</guid>
+      <description>Learn how Security+ performance-based questions work and how to approach simulations and virtual environments with a calm, methodical plan.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Multiple-Choice Question Strategy | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/multiple-choice-question-strategy/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/multiple-choice-question-strategy/</guid>
+      <description>Practical Security+ multiple-choice tactics for reading questions carefully, pacing your time, and using practice items to improve.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Study Plan and Time Management | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/study-plan-and-time-management/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/study-plan-and-time-management/</guid>
+      <description>Build a focused Security+ study schedule, prioritize exam objectives, and manage time with practical, repeatable study habits.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Practice Exams and Review for CompTIA Security+ | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-security-plus/practice-exams-and-review/</link>
+      <guid>https://webnotes.site/content/comptia-security-plus/practice-exams-and-review/</guid>
+      <description>Practice exam notes for Security+ SY0-701, focused on question banks, review habits, and checking weak areas before test day.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Troubleshooting Methodology | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/troubleshooting-methodology/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/troubleshooting-methodology/</guid>
+      <description>Learn a structured Cisco troubleshooting process for identifying, testing, and documenting network problems in a systematic way.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Common Network Problems | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/common-network-problems/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/common-network-problems/</guid>
+      <description>CCNA notes on common network problems, including basic troubleshooting flow, likely causes, and practical ways to verify and fix issues.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using Ping, Traceroute, and Telnet/SSH | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/using-ping,-traceroute,-and-telnet/ssh/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/using-ping,-traceroute,-and-telnet/ssh/</guid>
+      <description>Learn how ping, traceroute, Telnet, and SSH help you test reachability and remotely access Cisco devices.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Show and Debug Commands | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/show-and-debug-commands/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/show-and-debug-commands/</guid>
+      <description>Learn how `show` and `debug` commands help verify Cisco IOS state, inspect routing, and troubleshoot live device behavior.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Interface and Device Status Verification | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/interface-and-device-status-verification/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/interface-and-device-status-verification/</guid>
+      <description>Verify Cisco interface and device state with show commands, interpret up/down statuses, and identify common administrative and protocol issues.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cisco Device Boot Process | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/cisco-device-boot-process/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/cisco-device-boot-process/</guid>
+      <description>Learn the Cisco router boot sequence, memory roles, and how the configuration register affects startup behavior.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>IOS Modes and Navigation | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/ios-modes-and-navigation/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/ios-modes-and-navigation/</guid>
+      <description>Learn Cisco IOS command modes, how access levels differ, and how to move between EXEC and configuration modes.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Basic Device Configuration | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/basic-device-configuration/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/basic-device-configuration/</guid>
+      <description>Configure Cisco IOS devices with hostnames, passwords, interface settings, and saved startup files.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Interface Configuration | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/interface-configuration/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/interface-configuration/</guid>
+      <description>Configure Cisco IOS interfaces with descriptions, IP settings, and shutdown controls, then verify status with show commands.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Password and User Management | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/password-and-user-management/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/password-and-user-management/</guid>
+      <description>Configure local usernames, passwords, and privilege levels on Cisco IOS devices to control CLI access and reduce unauthorized access.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saving and Restoring Configurations | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/saving-and-restoring-configurations/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/saving-and-restoring-configurations/</guid>
+      <description>Back up Cisco IOS configurations to TFTP and restore them with `copy` commands to protect device settings.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cisco Licensing and Image Management | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/cisco-licensing-and-image-management/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/cisco-licensing-and-image-management/</guid>
+      <description>Notes on CCNA licensing context and IOS image management, including backup storage, version control, and software image management.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Subnetting Drills | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/subnetting-drills/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/subnetting-drills/</guid>
+      <description>Practice IPv4 subnetting with target IP drills, network calculations, and exam-style question patterns for CCNA 200-301.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Switching and VLAN Labs | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/switching-and-vlan-labs/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/switching-and-vlan-labs/</guid>
+      <description>Hands-on CCNA notes for configuring VLANs, trunks, and inter-VLAN routing in Packet Tracer labs.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Routing and Inter-VLAN Labs | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/routing-and-inter-vlan-labs/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/routing-and-inter-vlan-labs/</guid>
+      <description>Lab notes for VLAN setup, trunking, and router-on-a-stick inter-VLAN routing in CCNA practice.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Full-Length Practice Exams | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/full-length-practice-exams/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/full-length-practice-exams/</guid>
+      <description>Full-length CCNA practice exams help you check readiness, identify weak areas, and build exam pacing before test day.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Exam Strategy and Time Management | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/exam-strategy-and-time-management/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/exam-strategy-and-time-management/</guid>
+      <description>Practical CCNA exam pacing guidance focused on understanding exam structure, managing time, and using practice tests effectively.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Introduction to Networks | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/introduction-to-networks/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/introduction-to-networks/</guid>
+      <description>CCNA introduction notes covering network fundamentals, exam scope, and the core areas Cisco lists for the 200-301 CCNA.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network Components and Devices | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/network-components-and-devices/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/network-components-and-devices/</guid>
+      <description>Learn the main network components and devices in CCNA, including how switches, routers, firewalls, and wireless controllers fit together.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network Topologies | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/network-topologies/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/network-topologies/</guid>
+      <description>Learn how network topology describes device layout and data flow, plus the common physical and logical topology types.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network Types and Architectures | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/network-types-and-architectures/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/network-types-and-architectures/</guid>
+      <description>CCNA notes on common network types and basic architectures, including coverage scope, design choices, and practical topology concepts.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The OSI and TCP/IP Models | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/the-osi-and-tcp/ip-models/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/the-osi-and-tcp/ip-models/</guid>
+      <description>Learn how the OSI and TCP/IP models organize network communication and how the layers help you study CCNA concepts.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Data Encapsulation and Decapsulation | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/data-encapsulation-and-decapsulation/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/data-encapsulation-and-decapsulation/</guid>
+      <description>Learn how data is wrapped with headers and trailers as it moves through network layers and then unwrapped at the destination.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network Standards and Organizations | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/network-standards-and-organizations/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/network-standards-and-organizations/</guid>
+      <description>CCNA notes on network standards, Cisco exam scope, and the organizations that define and support networking technologies.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ethernet Basics | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/ethernet-basics/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/ethernet-basics/</guid>
+      <description>Learn Ethernet as the core LAN technology, including IEEE 802.3, frame fields, MAC addresses, and common cabling media.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAC Addresses | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/mac-addresses/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/mac-addresses/</guid>
+      <description>Learn what a MAC address is, how switches learn it, and how the MAC address table supports Layer 2 forwarding.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ethernet Frames | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/ethernet-frames/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/ethernet-frames/</guid>
+      <description>Learn the Ethernet frame structure, key fields, and how IEEE 802.3 frames carry data on a LAN.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Switching Concepts | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/switching-concepts/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/switching-concepts/</guid>
+      <description>Learn how Ethernet switches forward frames, build MAC address tables, and differ from hubs in collision and broadcast behavior.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Collision Domains and Broadcast Domains | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/collision-domains-and-broadcast-domains/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/collision-domains-and-broadcast-domains/</guid>
+      <description>Learn how collision domains and broadcast domains affect Ethernet traffic, collisions, and broadcast forwarding in CCNA networks.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ARP and Address Resolution | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/arp-and-address-resolution/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/arp-and-address-resolution/</guid>
+      <description>Learn how Address Resolution Protocol maps IPv4 addresses to MAC addresses on a local network segment.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>VLAN Concepts | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/vlan-concepts/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/vlan-concepts/</guid>
+      <description>Learn how VLANs segment switches into logical networks, reduce broadcast domains, and support traffic separation in CCNA 200-301.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trunking and 802.1Q | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/trunking-and-802.1q/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/trunking-and-802.1q/</guid>
+      <description>Learn how VLAN trunks carry multiple VLANs, how 802.1Q tags frames, and how the native VLAN handles untagged traffic.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>IPv4 Address Structure | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/ipv4-address-structure/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/ipv4-address-structure/</guid>
+      <description>Learn how IPv4 addresses use dotted decimal, octets, subnet masks, and network and host portions in CCNA fundamentals.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>IPv4 Classes and Private Addressing | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/ipv4-classes-and-private-addressing/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/ipv4-classes-and-private-addressing/</guid>
+      <description>Learn IPv4 class ranges, special-use blocks, and why private addressing supports internal networks with NAT.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Subnet Masks and Prefix Lengths | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/subnet-masks-and-prefix-lengths/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/subnet-masks-and-prefix-lengths/</guid>
+      <description>Learn how subnet masks and prefix lengths define network and host portions and support subnetting in IPv4 addressing.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Subnetting IPv4 Networks | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/subnetting-ipv4-networks/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/subnetting-ipv4-networks/</guid>
+      <description>Learn how subnetting divides IPv4 networks into smaller subnets to improve routing efficiency, security, and broadcast control.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>IPv6 Addressing | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/ipv6-addressing/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/ipv6-addressing/</guid>
+      <description>CCNA notes on IPv6 address structure, prefixing, and subnetting basics for understanding and working with 128-bit addresses.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>IPv6 Address Types | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/ipv6-address-types/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/ipv6-address-types/</guid>
+      <description>Learn the main IPv6 address types, how unicast, anycast, and multicast differ, and why IPv6 does not use broadcast.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>IPv6 Subnetting and Prefixes | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/ipv6-subnetting-and-prefixes/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/ipv6-subnetting-and-prefixes/</guid>
+      <description>Learn how IPv6 uses 128-bit addresses, why /64 is the standard subnet boundary, and how prefixes guide host and network design.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Routing Concepts | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/routing-concepts/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/routing-concepts/</guid>
+      <description>CCNA routing basics covering static and dynamic routing, routing tables, next hops, and route selection using administrative distance and metrics.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Routing Tables | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/routing-tables/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/routing-tables/</guid>
+      <description>Learn how Cisco routers build routing tables, recognize connected and local routes, and verify entries with `show ip route`.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Static Routing | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/static-routing/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/static-routing/</guid>
+      <description>Learn how static routes work in CCNA, including default, host, and floating routes, plus next-hop and exit-interface choices.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Default Routes | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/default-routes/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/default-routes/</guid>
+      <description>Learn how default routes forward unmatched traffic, why routers use a gateway of last resort, and how to configure `0.0.0.0/0`.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dynamic Routing Overview | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/dynamic-routing-overview/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/dynamic-routing-overview/</guid>
+      <description>Learn how dynamic routing exchanges routes automatically, adapts to topology changes, and differs from static routing in CCNA networks.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Inter-VLAN Routing | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/inter-vlan-routing/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/inter-vlan-routing/</guid>
+      <description>Learn how inter-VLAN routing lets hosts in different VLANs communicate using a router or Layer 3 switch.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>First Hop Redundancy Concepts | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/first-hop-redundancy-concepts/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/first-hop-redundancy-concepts/</guid>
+      <description>Learn how first hop redundancy protects the default gateway with virtual IP and MAC addresses, active and standby roles, and failover.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Distance Vector vs Link State | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/distance-vector-vs-link-state/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/distance-vector-vs-link-state/</guid>
+      <description>Compare distance vector and link state routing for CCNA, including how routers learn routes, converge, and scale.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>RIP Concepts | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/rip-concepts/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/rip-concepts/</guid>
+      <description>CCNA notes on RIP, including distance vector behavior, hop count metric, and key differences between RIPv1 and RIPv2.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OSPF Concepts | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/ospf-concepts/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/ospf-concepts/</guid>
+      <description>CCNA notes on OSPF basics, including link-state behavior, metrics, neighbors, areas, packets, and common configuration ideas.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OSPF Neighbor Relationships | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/ospf-neighbor-relationships/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/ospf-neighbor-relationships/</guid>
+      <description>Learn how OSPF neighbors form, which packets they exchange, and the key settings that must match for adjacency.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OSPF Areas and LSAs | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/ospf-areas-and-lsas/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/ospf-areas-and-lsas/</guid>
+      <description>Learn how OSPF areas organize topology and how LSAs describe routers, networks, and inter-area reachability.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Route Selection and Administrative Distance | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/route-selection-and-administrative-distance/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/route-selection-and-administrative-distance/</guid>
+      <description>Learn how routers choose routes using longest prefix match, administrative distance, and metric when multiple paths exist.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DHCP Concepts and Operation | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/dhcp-concepts-and-operation/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/dhcp-concepts-and-operation/</guid>
+      <description>Learn how DHCP assigns IP settings, the client-server exchange, and the basic messages used to obtain network configuration.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>NAT and PAT | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/nat-and-pat/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/nat-and-pat/</guid>
+      <description>Learn how Network Address Translation and Port Address Translation map private addresses to public addresses in CCNA IP services.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DNS Concepts | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/dns-concepts/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/dns-concepts/</guid>
+      <description>Learn how DNS maps hostnames to IP addresses and how recursive, root, TLD, and authoritative servers support name resolution.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>NTP Concepts | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/ntp-concepts/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/ntp-concepts/</guid>
+      <description>Learn how Network Time Protocol synchronizes device clocks, uses client-server time sources, and organizes time with stratum levels.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SNMP Concepts | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/snmp-concepts/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/snmp-concepts/</guid>
+      <description>Learn SNMP basics for CCNA, including managers, agents, traps, ports, and how devices report management data.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Syslog Concepts | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/syslog-concepts/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/syslog-concepts/</guid>
+      <description>Learn how Cisco devices generate syslog messages, where they display them, and why central logging helps troubleshooting.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>QoS Fundamentals | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/qos-fundamentals/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/qos-fundamentals/</guid>
+      <description>Learn how Quality of Service classifies and prioritizes traffic so critical applications keep working during congestion.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Switch Port Security | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/switch-port-security/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/switch-port-security/</guid>
+      <description>Learn how switch port security limits access by binding MAC addresses to access ports and handling violations on Cisco switches.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spanning Tree Protocol (STP) | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/spanning-tree-protocol-(stp)/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/spanning-tree-protocol-(stp)/</guid>
+      <description>Learn how STP prevents Layer 2 loops, blocks redundant paths, and keeps switched networks loop-free.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rapid Spanning Tree Protocol (RSTP) | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/rapid-spanning-tree-protocol-(rstp)/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/rapid-spanning-tree-protocol-(rstp)/</guid>
+      <description>Learn how RSTP improves STP convergence, port roles, and port states for faster loop-free switching in CCNA networks.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EtherChannel Concepts | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/etherchannel-concepts/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/etherchannel-concepts/</guid>
+      <description>Learn how EtherChannel bundles multiple physical links into one logical link for more bandwidth and redundancy in CCNA networks.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wireless LAN Fundamentals | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/wireless-lan-fundamentals/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/wireless-lan-fundamentals/</guid>
+      <description>CCNA notes on wireless LAN basics, including WLAN topologies, 802.11 standards, coverage extension, and wireless security concepts.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wireless Standards and Frequencies | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/wireless-standards-and-frequencies/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/wireless-standards-and-frequencies/</guid>
+      <description>CCNA notes on WLAN standards, Wi-Fi generations, and the frequency bands used by wireless networks.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wireless Security | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/wireless-security/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/wireless-security/</guid>
+      <description>CCNA notes on wireless security fundamentals, authentication methods, and why WLANs need protection over open air.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>WLAN Components and AP Modes | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/wlan-components-and-ap-modes/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/wlan-components-and-ap-modes/</guid>
+      <description>Learn WLAN building blocks, controller-managed access points, and common Cisco AP modes used in CCNA wireless networks.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network Security Concepts | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/network-security-concepts/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/network-security-concepts/</guid>
+      <description>CCNA notes on core security ideas, common threats, and practical controls used to protect network confidentiality, integrity, and availability.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Threats, Vulnerabilities, and Exploits | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/threats,-vulnerabilities,-and-exploits/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/threats,-vulnerabilities,-and-exploits/</guid>
+      <description>Define core security terms for CCNA, including vulnerabilities, threats, exploits, and mitigations in network security.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Access Control Lists (ACLs) | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/access-control-lists-(acls)/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/access-control-lists-(acls)/</guid>
+      <description>CCNA notes on ACL purpose, standard and extended types, wildcard masks, and practical packet filtering behavior.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Device Hardening | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/device-hardening/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/device-hardening/</guid>
+      <description>CCNA notes on hardening Cisco devices by securing management access, passwords, services, and control-plane protections.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Authentication, Authorization, and Accounting (AAA) | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/authentication,-authorization,-and-accounting-(aaa)/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/authentication,-authorization,-and-accounting-(aaa)/</guid>
+      <description>Learn how AAA controls network access with authentication, authorization, and accounting on Cisco devices.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>VPN Concepts | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/vpn-concepts/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/vpn-concepts/</guid>
+      <description>CCNA notes on VPN basics, including secure remote access and site-to-site connectivity concepts.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network Automation Concepts | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/network-automation-concepts/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/network-automation-concepts/</guid>
+      <description>CCNA notes on why automation matters, what it improves, and the core programmability ideas used in modern network operations.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Controller-Based Networking | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/controller-based-networking/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/controller-based-networking/</guid>
+      <description>CCNA notes on SDN, controllers, programmable networks, and how centralized control changes device management.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>APIs and REST | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/apis-and-rest/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/apis-and-rest/</guid>
+      <description>CCNA notes on APIs, REST, HTTP methods, response codes, and JSON for automation and programmability.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Data Formats: JSON and XML | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/data-formats:-json-and-xml/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/data-formats:-json-and-xml/</guid>
+      <description>Learn how JSON and XML support network automation, data exchange, and structured data representation in CCNA contexts.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configuration Management Concepts | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/configuration-management-concepts/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/configuration-management-concepts/</guid>
+      <description>Core configuration management ideas for CCNA automation, including consistency, change control, and keeping network devices aligned.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cisco DNA Center Overview | Webnotes</title>
+      <link>https://webnotes.site/content/200-301-ccna/cisco-dna-center-overview/</link>
+      <guid>https://webnotes.site/content/200-301-ccna/cisco-dna-center-overview/</guid>
+      <description>Cisco DNA Center, now Cisco Catalyst Center, centralizes network automation, assurance, and policy management from one dashboard.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Exam Objectives and Domains | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/exam-objectives-and-domains/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/exam-objectives-and-domains/</guid>
+      <description>Review the CompTIA A+ Core 1 exam scope, domain focus, and version rules for the 220-1201 certification path.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hardware and Networking Focus | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/hardware-and-networking-focus/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/hardware-and-networking-focus/</guid>
+      <description>Review Core 1 hardware and networking fundamentals for A+ 220-1201, including device support, SOHO networks, and troubleshooting basics.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Troubleshooting and Support Mindset | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/troubleshooting-and-support-mindset/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/troubleshooting-and-support-mindset/</guid>
+      <description>Learn the CompTIA A+ troubleshooting mindset, including structured problem solving, communication, and verification steps.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Best Practices for Study and Lab Work | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/best-practices-for-study-and-lab-work/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/best-practices-for-study-and-lab-work/</guid>
+      <description>Build an organized A+ study plan, use practice tests well, and get hands-on lab experience for exam readiness.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mobile Device Types | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/mobile-device-types/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/mobile-device-types/</guid>
+      <description>Learn the main mobile device categories in CompTIA A+ Core 1, including tablets, smartphones, wearables, and e-readers.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mobile Device Components | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/mobile-device-components/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/mobile-device-components/</guid>
+      <description>Learn common mobile device components, accessories, and practical compatibility checks for CompTIA A+ Core 1.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mobile Device Accessories | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/mobile-device-accessories/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/mobile-device-accessories/</guid>
+      <description>Learn common mobile device accessories, how they improve input and audio, and what compatibility checks matter most.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mobile Device Connectivity | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/mobile-device-connectivity/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/mobile-device-connectivity/</guid>
+      <description>Learn how mobile devices connect through cellular, Wi-Fi, Bluetooth, GPS, NFC, USB, hotspots, and tethering.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mobile Device Synchronization and Data Transfer | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/mobile-device-synchronization-and-data-transfer/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/mobile-device-synchronization-and-data-transfer/</guid>
+      <description>Learn how mobile device synchronization keeps data consistent across devices and supports backup, access, and transfer workflows.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mobile Device Security | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/mobile-device-security/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/mobile-device-security/</guid>
+      <description>Learn core mobile device security controls, including screen locks, encryption, remote wipe, and MDM policy enforcement.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mobile Device Troubleshooting | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/mobile-device-troubleshooting/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/mobile-device-troubleshooting/</guid>
+      <description>Troubleshoot common mobile device issues, including battery, display, charging, touch, liquid, and overheating problems.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Networking Concepts | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/networking-concepts/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/networking-concepts/</guid>
+      <description>Learn core networking concepts for CompTIA A+ Core 1, including devices, interfaces, and common wired and wireless roles.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network Types and Topologies | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/network-types-and-topologies/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/network-types-and-topologies/</guid>
+      <description>Learn common network types and topologies, including LAN, WAN, PAN, SAN, WLAN, and basic physical and logical layouts.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cables and Connectors | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/cables-and-connectors/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/cables-and-connectors/</guid>
+      <description>Learn common A+ cable types, connector standards, and practical installation and troubleshooting points for wired devices and networks.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wireless Networking Standards | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/wireless-networking-standards/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/wireless-networking-standards/</guid>
+      <description>Learn the core IEEE 802.11 wireless standards, Wi-Fi naming, and practical differences for A+ wireless networking questions.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network Devices | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/network-devices/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/network-devices/</guid>
+      <description>Learn the purpose of common network devices, including routers, switches, access points, modems, firewalls, and NICs.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>TCP/IP and Common Ports | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/tcp/ip-and-common-ports/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/tcp/ip-and-common-ports/</guid>
+      <description>Learn TCP/IP basics, transport protocols, and the well-known ports you use to troubleshoot common network services.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOHO Network Setup | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/soho-network-setup/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/soho-network-setup/</guid>
+      <description>Learn how SOHO devices combine routing, switching, wireless, and firewall features, plus key setup and security settings.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Internet Connection Types | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/internet-connection-types/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/internet-connection-types/</guid>
+      <description>Learn common internet connection types, their tradeoffs, and where each option fits in CompTIA A+ troubleshooting.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Network Troubleshooting | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/network-troubleshooting/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/network-troubleshooting/</guid>
+      <description>Learn practical steps to isolate wired and wireless network issues, test connectivity, and identify common performance problems.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Motherboards and CPUs | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/motherboards-and-cpus/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/motherboards-and-cpus/</guid>
+      <description>Learn motherboard form factors, CPU compatibility, memory slots, and safe installation checks for CompTIA A+ Core 1.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Memory and Storage | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/memory-and-storage/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/memory-and-storage/</guid>
+      <description>Learn the difference between volatile memory and non-volatile storage, plus common RAM and drive types in A+ 220-1201.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Power Supplies and Cooling | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/power-supplies-and-cooling/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/power-supplies-and-cooling/</guid>
+      <description>Learn how computer power supplies and cooling systems deliver stable power, manage heat, and support safe hardware operation.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Expansion Cards and Ports | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/expansion-cards-and-ports/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/expansion-cards-and-ports/</guid>
+      <description>Learn how expansion cards and motherboard slots add functionality, and how ports and adapters support common device connections.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Peripherals and Input Devices | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/peripherals-and-input-devices/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/peripherals-and-input-devices/</guid>
+      <description>Learn common PC and mobile input peripherals, their connection methods, and practical compatibility checks for A+ Core 1.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Printers and Imaging Devices | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/printers-and-imaging-devices/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/printers-and-imaging-devices/</guid>
+      <description>Learn printer types, multifunction device features, and practical troubleshooting steps for CompTIA A+ Core 1.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Display Technologies | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/display-technologies/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/display-technologies/</guid>
+      <description>Learn common display types, connector options, and key display attributes used to choose and troubleshoot monitors.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hardware Installation and Configuration | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/hardware-installation-and-configuration/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/hardware-installation-and-configuration/</guid>
+      <description>Learn how to install and configure laptop hardware, including batteries, memory, storage, and built-in peripherals.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hardware Troubleshooting | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/hardware-troubleshooting/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/hardware-troubleshooting/</guid>
+      <description>Learn how to identify common PC hardware faults using POST, error messages, beeps, blank screens, power issues, and overheating checks.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Virtualization Concepts | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/virtualization-concepts/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/virtualization-concepts/</guid>
+      <description>Learn how virtualization lets one physical system run multiple operating systems and why hypervisors manage those virtual machines.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Virtual Desktop Infrastructure | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/virtual-desktop-infrastructure/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/virtual-desktop-infrastructure/</guid>
+      <description>Learn how Virtual Desktop Infrastructure (VDI) delivers centralized desktops, flexible access, and simpler IT management.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloud Service Models | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/cloud-service-models/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/cloud-service-models/</guid>
+      <description>Learn cloud service models and deployment types for CompTIA A+ 220-1201, including IaaS, PaaS, SaaS, and common cloud use cases.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloud Deployment Models | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/cloud-deployment-models/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/cloud-deployment-models/</guid>
+      <description>Learn the main cloud deployment models and how public, private, hybrid, and community clouds fit business needs.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Virtualization and Cloud Troubleshooting | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/virtualization-and-cloud-troubleshooting/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/virtualization-and-cloud-troubleshooting/</guid>
+      <description>Learn how virtualization and cloud concepts affect troubleshooting, resource allocation, and common support checks for A+ Core 1.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Troubleshooting Theory and Process | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/troubleshooting-theory-and-process/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/troubleshooting-theory-and-process/</guid>
+      <description>Learn the CompTIA A+ troubleshooting methodology, from identifying problems to verifying fixes and preventing repeat issues.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Identifying Symptoms and Root Causes | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/identifying-symptoms-and-root-causes/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/identifying-symptoms-and-root-causes/</guid>
+      <description>Learn how to recognize symptoms, narrow likely causes, and confirm the true root cause during IT troubleshooting.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using Diagnostic Tools | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/using-diagnostic-tools/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/using-diagnostic-tools/</guid>
+      <description>Learn how diagnostic tools reveal startup, hardware, and performance issues during CompTIA A+ troubleshooting.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Documentation and Escalation | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/documentation-and-escalation/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/documentation-and-escalation/</guid>
+      <description>Learn how to document troubleshooting work, use ticketing systems, and escalate issues when a fix is not appropriate.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Customer Communication and Professionalism | Webnotes</title>
+      <link>https://webnotes.site/content/comptia-a-220-1201/customer-communication-and-professionalism/</link>
+      <guid>https://webnotes.site/content/comptia-a-220-1201/customer-communication-and-professionalism/</guid>
+      <description>Learn how to communicate clearly, act professionally, and support customers while following a structured troubleshooting process.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
