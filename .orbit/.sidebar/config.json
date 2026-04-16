@@ -1,6 +1,391 @@
 {
   "files": [],
   "folders": {
+    "Building Wealth Online With Tech A Complete Guide": {
+      "files": [],
+      "folders": {
+        "Pricing And Offer Design": {
+          "files": [
+            {
+              "title": "Value-Based Pricing",
+              "path": "building-wealth-online-with-tech-a-complete-guide/value-based-pricing/",
+              "order": 42
+            },
+            {
+              "title": "Packaging Offers and Bundles",
+              "path": "building-wealth-online-with-tech-a-complete-guide/packaging-offers-and-bundles/",
+              "order": 43
+            },
+            {
+              "title": "Creating Entry, Core, and Premium Offers",
+              "path": "building-wealth-online-with-tech-a-complete-guide/creating-entry-core-and-premium-offers/",
+              "order": 44
+            },
+            {
+              "title": "Discounts, Promotions, and Anchoring",
+              "path": "building-wealth-online-with-tech-a-complete-guide/discounts-promotions-and-anchoring/",
+              "order": 45
+            }
+          ],
+          "folders": {},
+          "order": "10"
+        },
+        "Sales Funnels And Conversion": {
+          "files": [
+            {
+              "title": "Awareness to Purchase Journey",
+              "path": "building-wealth-online-with-tech-a-complete-guide/awareness-to-purchase-journey/",
+              "order": 46
+            },
+            {
+              "title": "Landing Pages That Convert",
+              "path": "building-wealth-online-with-tech-a-complete-guide/landing-pages-that-convert/",
+              "order": 47
+            },
+            {
+              "title": "Copywriting Fundamentals",
+              "path": "building-wealth-online-with-tech-a-complete-guide/copywriting-fundamentals/",
+              "order": 48
+            },
+            {
+              "title": "Calls to Action and Conversion Optimization",
+              "path": "building-wealth-online-with-tech-a-complete-guide/calls-to-action-and-conversion-optimization/",
+              "order": 49
+            }
+          ],
+          "folders": {},
+          "order": "11"
+        },
+        "Automation And Ai For Efficiency": {
+          "files": [
+            {
+              "title": "Workflow Automation Basics",
+              "path": "building-wealth-online-with-tech-a-complete-guide/workflow-automation-basics/",
+              "order": 50
+            },
+            {
+              "title": "Using AI for Research and Ideation",
+              "path": "building-wealth-online-with-tech-a-complete-guide/using-ai-for-research-and-ideation/",
+              "order": 51
+            },
+            {
+              "title": "AI for Content Drafting and Editing",
+              "path": "building-wealth-online-with-tech-a-complete-guide/ai-for-content-drafting-and-editing/",
+              "order": 52
+            },
+            {
+              "title": "Automating Lead Capture and Follow-Up",
+              "path": "building-wealth-online-with-tech-a-complete-guide/automating-lead-capture-and-follow-up/",
+              "order": 53
+            }
+          ],
+          "folders": {},
+          "order": "12"
+        },
+        "Data Analytics And Optimization": {
+          "files": [
+            {
+              "title": "Key Metrics for Online Wealth Building",
+              "path": "building-wealth-online-with-tech-a-complete-guide/key-metrics-for-online-wealth-building/",
+              "order": 54
+            },
+            {
+              "title": "Tracking Traffic, Leads, and Sales",
+              "path": "building-wealth-online-with-tech-a-complete-guide/tracking-traffic-leads-and-sales/",
+              "order": 55
+            },
+            {
+              "title": "A/B Testing and Experimentation",
+              "path": "building-wealth-online-with-tech-a-complete-guide/a-b-testing-and-experimentation/",
+              "order": 56
+            },
+            {
+              "title": "Using Data to Improve Decisions",
+              "path": "building-wealth-online-with-tech-a-complete-guide/using-data-to-improve-decisions/",
+              "order": 57
+            }
+          ],
+          "folders": {},
+          "order": "13"
+        },
+        "Financial Management For Online Entrepreneurs": {
+          "files": [
+            {
+              "title": "Separating Personal and Business Finances",
+              "path": "building-wealth-online-with-tech-a-complete-guide/separating-personal-and-business-finances/",
+              "order": 58
+            },
+            {
+              "title": "Budgeting and Cash Flow Management",
+              "path": "building-wealth-online-with-tech-a-complete-guide/budgeting-and-cash-flow-management/",
+              "order": 59
+            }
+          ],
+          "folders": {},
+          "order": "14"
+        },
+        "Course Introduction And Wealth Mindset": {
+          "files": [
+            {
+              "title": "What Building Wealth Online Means",
+              "path": "building-wealth-online-with-tech-a-complete-guide/what-building-wealth-online-means/",
+              "order": 1
+            },
+            {
+              "title": "The Role of Technology in Modern Wealth Creation",
+              "path": "building-wealth-online-with-tech-a-complete-guide/the-role-of-technology-in-modern-wealth-creation/",
+              "order": 2
+            },
+            {
+              "title": "Setting Realistic Expectations and Time Horizons",
+              "path": "building-wealth-online-with-tech-a-complete-guide/setting-realistic-expectations-and-time-horizons/",
+              "order": 3
+            },
+            {
+              "title": "Ethics, Legality, and Long-Term Thinking",
+              "path": "building-wealth-online-with-tech-a-complete-guide/ethics-legality-and-long-term-thinking/",
+              "order": 4
+            }
+          ],
+          "folders": {},
+          "order": "1"
+        },
+        "Foundations Of The Online Economy": {
+          "files": [
+            {
+              "title": "How Digital Markets Work",
+              "path": "building-wealth-online-with-tech-a-complete-guide/how-digital-markets-work/",
+              "order": 5
+            },
+            {
+              "title": "Understanding Supply, Demand, and Attention",
+              "path": "building-wealth-online-with-tech-a-complete-guide/understanding-supply-demand-and-attention/",
+              "order": 6
+            },
+            {
+              "title": "Business Models in the Digital Age",
+              "path": "building-wealth-online-with-tech-a-complete-guide/business-models-in-the-digital-age/",
+              "order": 7
+            },
+            {
+              "title": "Value Creation vs. Value Capture",
+              "path": "building-wealth-online-with-tech-a-complete-guide/value-creation-vs-value-capture/",
+              "order": 8
+            }
+          ],
+          "folders": {},
+          "order": "2"
+        },
+        "Choosing A Wealth Building Path": {
+          "files": [
+            {
+              "title": "Freelancing and Service Businesses",
+              "path": "building-wealth-online-with-tech-a-complete-guide/freelancing-and-service-businesses/",
+              "order": 9
+            },
+            {
+              "title": "Digital Products and Courses",
+              "path": "building-wealth-online-with-tech-a-complete-guide/digital-products-and-courses/",
+              "order": 10
+            },
+            {
+              "title": "Content Creation and Audience Monetization",
+              "path": "building-wealth-online-with-tech-a-complete-guide/content-creation-and-audience-monetization/",
+              "order": 11
+            },
+            {
+              "title": "E-commerce and Dropshipping",
+              "path": "building-wealth-online-with-tech-a-complete-guide/e-commerce-and-dropshipping/",
+              "order": 12
+            },
+            {
+              "title": "Software, Apps, and SaaS",
+              "path": "building-wealth-online-with-tech-a-complete-guide/software-apps-and-saas/",
+              "order": 13
+            },
+            {
+              "title": "Affiliate Marketing and Partnerships",
+              "path": "building-wealth-online-with-tech-a-complete-guide/affiliate-marketing-and-partnerships/",
+              "order": 14
+            }
+          ],
+          "folders": {},
+          "order": "3"
+        },
+        "Market Research And Opportunity Validation": {
+          "files": [
+            {
+              "title": "Identifying Profitable Niches",
+              "path": "building-wealth-online-with-tech-a-complete-guide/identifying-profitable-niches/",
+              "order": 15
+            },
+            {
+              "title": "Competitor Analysis",
+              "path": "building-wealth-online-with-tech-a-complete-guide/competitor-analysis/",
+              "order": 16
+            },
+            {
+              "title": "Customer Pain Points and Jobs-to-be-Done",
+              "path": "building-wealth-online-with-tech-a-complete-guide/customer-pain-points-and-jobs-to-be-done/",
+              "order": 17
+            },
+            {
+              "title": "Validating Demand Before Building",
+              "path": "building-wealth-online-with-tech-a-complete-guide/validating-demand-before-building/",
+              "order": 18
+            }
+          ],
+          "folders": {},
+          "order": "4"
+        },
+        "Personal Brand And Positioning": {
+          "files": [
+            {
+              "title": "Defining Your Unique Value Proposition",
+              "path": "building-wealth-online-with-tech-a-complete-guide/defining-your-unique-value-proposition/",
+              "order": 19
+            },
+            {
+              "title": "Building Authority and Trust Online",
+              "path": "building-wealth-online-with-tech-a-complete-guide/building-authority-and-trust-online/",
+              "order": 20
+            },
+            {
+              "title": "Brand Voice, Story, and Messaging",
+              "path": "building-wealth-online-with-tech-a-complete-guide/brand-voice-story-and-messaging/",
+              "order": 21
+            },
+            {
+              "title": "Choosing a Niche and Audience",
+              "path": "building-wealth-online-with-tech-a-complete-guide/choosing-a-niche-and-audience/",
+              "order": 22
+            }
+          ],
+          "folders": {},
+          "order": "5"
+        },
+        "Digital Infrastructure And Tools": {
+          "files": [
+            {
+              "title": "Domain Names, Hosting, and Websites",
+              "path": "building-wealth-online-with-tech-a-complete-guide/domain-names-hosting-and-websites/",
+              "order": 23
+            },
+            {
+              "title": "Email Marketing Platforms",
+              "path": "building-wealth-online-with-tech-a-complete-guide/email-marketing-platforms/",
+              "order": 24
+            },
+            {
+              "title": "Payment Processing and Checkout Systems",
+              "path": "building-wealth-online-with-tech-a-complete-guide/payment-processing-and-checkout-systems/",
+              "order": 25
+            },
+            {
+              "title": "Project Management and Productivity Tools",
+              "path": "building-wealth-online-with-tech-a-complete-guide/project-management-and-productivity-tools/",
+              "order": 26
+            },
+            {
+              "title": "Analytics and Tracking Tools",
+              "path": "building-wealth-online-with-tech-a-complete-guide/analytics-and-tracking-tools/",
+              "order": 27
+            }
+          ],
+          "folders": {},
+          "order": "6"
+        },
+        "Content Strategy For Growth": {
+          "files": [
+            {
+              "title": "Content Pillars and Editorial Planning",
+              "path": "building-wealth-online-with-tech-a-complete-guide/content-pillars-and-editorial-planning/",
+              "order": 28
+            },
+            {
+              "title": "SEO Basics for Organic Traffic",
+              "path": "building-wealth-online-with-tech-a-complete-guide/seo-basics-for-organic-traffic/",
+              "order": 29
+            },
+            {
+              "title": "Social Media Content Systems",
+              "path": "building-wealth-online-with-tech-a-complete-guide/social-media-content-systems/",
+              "order": 30
+            },
+            {
+              "title": "Video, Audio, and Written Content Formats",
+              "path": "building-wealth-online-with-tech-a-complete-guide/video-audio-and-written-content-formats/",
+              "order": 31
+            },
+            {
+              "title": "Repurposing Content Across Channels",
+              "path": "building-wealth-online-with-tech-a-complete-guide/repurposing-content-across-channels/",
+              "order": 32
+            }
+          ],
+          "folders": {},
+          "order": "7"
+        },
+        "Audience Building And Community": {
+          "files": [
+            {
+              "title": "Growing an Email List",
+              "path": "building-wealth-online-with-tech-a-complete-guide/growing-an-email-list/",
+              "order": 33
+            },
+            {
+              "title": "Social Media Growth Strategies",
+              "path": "building-wealth-online-with-tech-a-complete-guide/social-media-growth-strategies/",
+              "order": 34
+            },
+            {
+              "title": "Community Platforms and Engagement",
+              "path": "building-wealth-online-with-tech-a-complete-guide/community-platforms-and-engagement/",
+              "order": 35
+            },
+            {
+              "title": "Lead Magnets and Opt-In Offers",
+              "path": "building-wealth-online-with-tech-a-complete-guide/lead-magnets-and-opt-in-offers/",
+              "order": 36
+            }
+          ],
+          "folders": {},
+          "order": "8"
+        },
+        "Monetization Strategies": {
+          "files": [
+            {
+              "title": "Selling Services",
+              "path": "building-wealth-online-with-tech-a-complete-guide/selling-services/",
+              "order": 37
+            },
+            {
+              "title": "Selling Digital Products",
+              "path": "building-wealth-online-with-tech-a-complete-guide/selling-digital-products/",
+              "order": 38
+            },
+            {
+              "title": "Subscriptions and Memberships",
+              "path": "building-wealth-online-with-tech-a-complete-guide/subscriptions-and-memberships/",
+              "order": 39
+            },
+            {
+              "title": "Advertising and Sponsorships",
+              "path": "building-wealth-online-with-tech-a-complete-guide/advertising-and-sponsorships/",
+              "order": 40
+            },
+            {
+              "title": "Affiliate Revenue Models",
+              "path": "building-wealth-online-with-tech-a-complete-guide/affiliate-revenue-models/",
+              "order": 41
+            }
+          ],
+          "folders": {},
+          "order": "9"
+        }
+      },
+      "order": null
+    },
     "Comptia A 220 1201": {
       "files": [],
       "folders": {
