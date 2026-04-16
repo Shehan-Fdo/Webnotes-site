@@ -254,6 +254,110 @@ function getCourseSlug(courseData) {
   return firstFile.path.split('/')[0];
 }
 
+function generate404Page(globalMeta) {
+  const pageTitle = `404 Not Found | ${globalMeta.siteName || 'Webnotes'}`;
+  const pageDescription = 'The page you are looking for does not exist.';
+  const rootUrl = normalizeAbsoluteUrl(globalMeta.url, '');
+
+  return `<!DOCTYPE html>
+<html lang="${globalMeta.language || 'en'}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>${pageTitle}</title>
+  <meta name="description" content="${pageDescription}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;700;800;900&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --bg: #f5f3f0;
+      --text: #000000;
+      --accent: rgb(0, 119, 255);
+      --border: 3px solid #000;
+      --shadow: 6px 6px 0px #000;
+      --white: #ffffff;
+    }
+    body {
+      font-family: "Inter", sans-serif;
+      background-color: var(--bg);
+      color: var(--text);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      padding: 20px;
+    }
+    .error-container {
+      max-width: 600px;
+      text-align: center;
+      background: var(--white);
+      border: var(--border);
+      box-shadow: var(--shadow);
+      padding: 50px 30px;
+      transform: rotate(-1deg);
+    }
+    h1 {
+      font-size: 8rem;
+      font-weight: 900;
+      margin-bottom: 0;
+      line-height: 1;
+      text-transform: uppercase;
+      letter-spacing: -4px;
+      -webkit-text-stroke: 2px #000;
+      color: var(--accent);
+      filter: drop-shadow(4px 4px 0px #000);
+    }
+    h2 {
+      font-size: 2rem;
+      font-weight: 800;
+      margin-bottom: 20px;
+      text-transform: uppercase;
+    }
+    p {
+      font-size: 1.2rem;
+      font-weight: 500;
+      margin-bottom: 30px;
+    }
+    .back-home {
+      display: inline-block;
+      padding: 15px 30px;
+      font-size: 1.2rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      text-decoration: none;
+      color: #fff !important;
+      background-color: var(--accent);
+      border: var(--border);
+      box-shadow: 4px 4px 0px #000;
+      transition: all 0.2s ease;
+    }
+    .back-home:hover {
+      transform: translate(-2px, -2px);
+      box-shadow: 6px 6px 0px #000;
+    }
+    .back-home:active {
+      transform: translate(2px, 2px);
+      box-shadow: 2px 2px 0px #000;
+    }
+    @media (max-width: 600px) {
+      h1 { font-size: 5rem; letter-spacing: -2px; }
+      h2 { font-size: 1.5rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="error-container">
+    <h1>404</h1>
+    <h2>Lost in Space?</h2>
+    <p>The page you're looking for has been moved, deleted, or never existed in the first place.</p>
+    <a href="${rootUrl || '/'}" class="back-home">Go Back Home</a>
+  </div>
+</body>
+</html>`;
+}
+
 // Root index — just lists course names
 function generateRootIndex(sidebarConfig, globalMeta) {
   const year = new Date().getFullYear();
@@ -758,6 +862,13 @@ async function init() {
       rootIndexHtml = minifyHtml(rootIndexHtml);
     }
     fs.writeFileSync(path.join('./dist', 'index.html'), rootIndexHtml);
+
+    // Generate 404 page
+    let error404Html = generate404Page(globalMeta);
+    if (globalMeta.minifyHtml !== false) {
+      error404Html = minifyHtml(error404Html);
+    }
+    fs.writeFileSync(path.join('./dist', '404.html'), error404Html);
     sitemapEntries.push({
       loc: normalizeAbsoluteUrl(globalMeta.url, ''),
       lastmod: new Date().toISOString(),

@@ -80,8 +80,14 @@ const server = http.createServer((req, res) => {
 
   const filePath = resolveRequestPath(`${pathname}${requestUrl.search || ''}`);
   if (!filePath) {
-    res.writeHead(404, { 'Content-Type': 'text/plain; charset=utf-8' });
-    res.end('404 Not Found');
+    const errorPagePath = path.join(rootDir, '404.html');
+    if (fs.existsSync(errorPagePath)) {
+      res.writeHead(404, { 'Content-Type': 'text/html; charset=utf-8' });
+      res.end(fs.readFileSync(errorPagePath));
+    } else {
+      res.writeHead(404, { 'Content-Type': 'text/plain; charset=utf-8' });
+      res.end('404 Not Found');
+    }
     return;
   }
   sendFile(filePath, res);
