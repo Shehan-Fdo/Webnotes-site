@@ -294,6 +294,7 @@ function generateRootIndex(sidebarConfig, globalMeta) {
   <meta name="twitter:description" content="${pageDescription}">
   ${ogImage ? `<meta name="twitter:image" content="${ogImage}">` : ''}
   <script defer src="/_vercel/insights/script.js"></script>
+  <script defer src="/_vercel/speed-insights/script.js"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;700;800;900&display=swap" rel="stylesheet">
@@ -477,6 +478,7 @@ function generateCourseIndex(courseName, courseData, globalMeta, slug) {
   <meta name="twitter:description" content="${pageDescription}">
   ${ogImage ? `<meta name="twitter:image" content="${ogImage}">` : ''}
   <script defer src="/_vercel/insights/script.js"></script>
+  <script defer src="/_vercel/speed-insights/script.js"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;700;800;900&display=swap" rel="stylesheet">

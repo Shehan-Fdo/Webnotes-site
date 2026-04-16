@@ -58,6 +58,7 @@ export default function Layout(seo = {}, content, sidebarHtml = '', baseRel = '.
     ${image ? `<meta name="twitter:image" content="${image}">` : ''}
     ${structuredData ? `<script type="application/ld+json">${structuredData}</script>` : ''}
     <script defer src="/_vercel/insights/script.js"></script>
+    <script defer src="/_vercel/speed-insights/script.js"></script>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
