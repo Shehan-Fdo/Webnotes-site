@@ -1,0 +1,4534 @@
+{
+  "courseName": "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202)",
+  "courseSlug": "comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202",
+  "model": "gpt-5.4-mini",
+  "startedAt": "2026-04-21T11:53:27.909Z",
+  "config": {
+    "maxRetrievalAttempts": 3,
+    "minFetchedPages": 3,
+    "maxUrlsPerAttempt": 5,
+    "searchResultsPerQuery": 5,
+    "maxEvidenceChars": 12000,
+    "generationRetries": 2
+  },
+  "topics": [
+    {
+      "topic": "Diagnose Beep Codes, LED Indicators, and POST Codes",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[2]__module-2-pc-hardware-assembly-component-replacement-and-post-troubleshooting\\[2.3]__diagnose-beep-codes-led-indicators-and-post-codes.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "motherboard beep codes LED POST codes troubleshooting reference"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": null,
+          "ready": false,
+          "needsMoreResearch": false
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "no POST diagnostic LEDs beep codes common motherboard fault isolation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 2: PC Hardware Assembly, Component Replacement, and POST Troubleshooting Diagnose Beep Codes, LED Indicators, and POST Codes explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 2: PC Hardware Assembly, Component Replacement, and POST Troubleshooting Diagnose Beep Codes, LED Indicators, and POST Codes official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 7,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Install SATA and NVMe Drives and Confirm Detection",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[3]__module-3-storage-installation-partitioning-recovery-and-file-system-repair\\[3.1]__install-sata-and-nvme-drives-and-confirm-detection.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "SATA NVMe drive installation detection BIOS Disk Management lsblk verification"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.18,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "new SSD not detected troubleshooting SATA power data NVMe slot validation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 3: Storage Installation, Partitioning, Recovery, and File System Repair Install SATA and NVMe Drives and Confirm Detection explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 3: Storage Installation, Partitioning, Recovery, and File System Repair Install SATA and NVMe Drives and Confirm Detection best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Replace RAM, SSD, PSU, and GPU in a Simulated Fault Scenario",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[2]__module-2-pc-hardware-assembly-component-replacement-and-post-troubleshooting\\[2.2]__replace-ram-ssd-psu-and-gpu-in-a-simulated-fault-scenario.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "RAM SSD PSU GPU replacement troubleshooting symptoms no boot no display"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "desktop component swap validation after replacement POST and BIOS checks"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 2: PC Hardware Assembly, Component Replacement, and POST Troubleshooting Replace RAM, SSD, PSU, and GPU in a Simulated Fault Scenario explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 2: PC Hardware Assembly, Component Replacement, and POST Troubleshooting Replace RAM, SSD, PSU, and GPU in a Simulated Fault Scenario best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 8,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Update BIOS/UEFI Using OEM-Supported Methods",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[2]__module-2-pc-hardware-assembly-component-replacement-and-post-troubleshooting\\[2.5]__update-bios-uefi-using-oem-supported-methods.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "OEM BIOS update utility Windows 11 UEFI firmware update procedure"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "motherboard BIOS flashback EZ Flash M-Flash Q-Flash current support guide"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 2: PC Hardware Assembly, Component Replacement, and POST Troubleshooting Update BIOS/UEFI Using OEM-Supported Methods best practices"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 2: PC Hardware Assembly, Component Replacement, and POST Troubleshooting Update BIOS/UEFI Using OEM-Supported Methods troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 2: PC Hardware Assembly, Component Replacement, and POST Troubleshooting Update BIOS/UEFI Using OEM-Supported Methods official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Assemble a Desktop from Components and Verify POST",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[2]__module-2-pc-hardware-assembly-component-replacement-and-post-troubleshooting\\[2.1]__assemble-a-desktop-from-components-and-verify-post.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "desktop PC assembly front panel headers POST verification checklist"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.18,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "motherboard CPU RAM PSU GPU installation POST troubleshooting guide"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 2: PC Hardware Assembly, Component Replacement, and POST Troubleshooting Assemble a Desktop from Components and Verify POST explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 2: PC Hardware Assembly, Component Replacement, and POST Troubleshooting Assemble a Desktop from Components and Verify POST best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 2: PC Hardware Assembly, Component Replacement, and POST Troubleshooting Assemble a Desktop from Components and Verify POST troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Configure a Ticket Intake Template for Incident Documentation",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[1]__module-1-lab-environment-setup-and-technician-workflow\\[1.2]__configure-ticket-intake-template-for-incident-documentation.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "help desk ticket intake template incident documentation fields troubleshooting workflow"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "IT service desk ticket notes resolution summary escalation template best practices"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 1: Lab Environment Setup and Technician Workflow Configure a Ticket Intake Template for Incident Documentation explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 1: Lab Environment Setup and Technician Workflow Configure a Ticket Intake Template for Incident Documentation best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 1: Lab Environment Setup and Technician Workflow Configure a Ticket Intake Template for Incident Documentation official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Create Restore Points, Snapshots, and Rollback Procedures",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[1]__module-1-lab-environment-setup-and-technician-workflow\\[1.4]__create-restore-points-snapshots-and-rollback-procedures.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Windows 11 create restore point PowerShell checkpoint-computer snapshot rollback"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "macOS APFS snapshot diskutil Time Machine Ubuntu snapshot rollback procedure"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 1: Lab Environment Setup and Technician Workflow Create Restore Points, Snapshots, and Rollback Procedures explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 1: Lab Environment Setup and Technician Workflow Create Restore Points, Snapshots, and Rollback Procedures troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 1: Lab Environment Setup and Technician Workflow Create Restore Points, Snapshots, and Rollback Procedures official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Reset CMOS and Recover from Misconfiguration",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[2]__module-2-pc-hardware-assembly-component-replacement-and-post-troubleshooting\\[2.4]__reset-cmos-and-recover-from-misconfiguration.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "clear CMOS jumper battery reset BIOS misconfiguration recovery steps"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": null,
+          "ready": false,
+          "needsMoreResearch": false
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "UEFI settings reset recover from wrong boot order secure boot TPM issue"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 2: PC Hardware Assembly, Component Replacement, and POST Troubleshooting Reset CMOS and Recover from Misconfiguration explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 2: PC Hardware Assembly, Component Replacement, and POST Troubleshooting Reset CMOS and Recover from Misconfiguration best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 2: PC Hardware Assembly, Component Replacement, and POST Troubleshooting Reset CMOS and Recover from Misconfiguration troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 2: PC Hardware Assembly, Component Replacement, and POST Troubleshooting Reset CMOS and Recover from Misconfiguration official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Create a Technician Workstation and Evidence Folder Structure",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[1]__module-1-lab-environment-setup-and-technician-workflow\\[1.1]__create-technician-workstation-and-evidence-folder-structure.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Windows 11 PowerShell create lab evidence folder structure and naming convention"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 1: Lab Environment Setup and Technician Workflow Create a Technician Workstation and Evidence Folder Structure explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 1: Lab Environment Setup and Technician Workflow Create a Technician Workstation and Evidence Folder Structure best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 1: Lab Environment Setup and Technician Workflow Create a Technician Workstation and Evidence Folder Structure troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 1: Lab Environment Setup and Technician Workflow Create a Technician Workstation and Evidence Folder Structure official documentation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Capture Baseline System State on Windows 11, macOS Sequoia, Ubuntu 24.04, and ChromeOS Flex",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[1]__module-1-lab-environment-setup-and-technician-workflow\\[1.3]__capture-baseline-system-state-on-windows-11-macos-sequoia-ubuntu-24-04-and-chromeos-flex.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Windows 11 baseline capture PowerShell Get-ComputerInfo ipconfig event export"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.18,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "macOS system_profiler log show Ubuntu journalctl baseline capture ChromeOS Flex device info"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.18,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 1: Lab Environment Setup and Technician Workflow Capture Baseline System State on Windows 11, macOS Sequoia, Ubuntu 24.04, and ChromeOS Flex explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 1: Lab Environment Setup and Technician Workflow Capture Baseline System State on Windows 11, macOS Sequoia, Ubuntu 24.04, and ChromeOS Flex best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.18,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 1: Lab Environment Setup and Technician Workflow Capture Baseline System State on Windows 11, macOS Sequoia, Ubuntu 24.04, and ChromeOS Flex troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 1: Lab Environment Setup and Technician Workflow Capture Baseline System State on Windows 11, macOS Sequoia, Ubuntu 24.04, and ChromeOS Flex official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 22,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 16,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Partition and Format Drives in Windows, macOS, and Ubuntu",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[3]__module-3-storage-installation-partitioning-recovery-and-file-system-repair\\[3.2]__partition-and-format-drives-in-windows-macos-and-ubuntu.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Windows Disk Management diskpart partition format GPT NTFS exFAT guide"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "macOS Disk Utility diskutil Ubuntu parted mkfs partition format workflow"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 3: Storage Installation, Partitioning, Recovery, and File System Repair Partition and Format Drives in Windows, macOS, and Ubuntu explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 3: Storage Installation, Partitioning, Recovery, and File System Repair Partition and Format Drives in Windows, macOS, and Ubuntu best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 3: Storage Installation, Partitioning, Recovery, and File System Repair Partition and Format Drives in Windows, macOS, and Ubuntu troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Perform a Clean Windows 11 Installation and Post-Install Validation",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[4]__module-4-operating-system-installation-deployment-and-recovery\\[4.1]__perform-a-clean-windows-11-installation-and-post-install-validation.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Windows 11 clean install USB boot media post-install driver validation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.18,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Windows 11 installation verification device manager update activation checklist"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.46,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 4: Operating System Installation, Deployment, and Recovery Perform a Clean Windows 11 Installation and Post-Install Validation explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 4: Operating System Installation, Deployment, and Recovery Perform a Clean Windows 11 Installation and Post-Install Validation best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Repair Boot Issues Caused by Incorrect Partitioning",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[3]__module-3-storage-installation-partitioning-recovery-and-file-system-repair\\[3.3]__repair-boot-issues-caused-by-incorrect-partitioning.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Windows boot repair bcdboot incorrect partition GPT EFI recovery"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Ubuntu boot failure partitioning repair mount EFI partition troubleshooting"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 3: Storage Installation, Partitioning, Recovery, and File System Repair Repair Boot Issues Caused by Incorrect Partitioning explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 3: Storage Installation, Partitioning, Recovery, and File System Repair Repair Boot Issues Caused by Incorrect Partitioning best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 3: Storage Installation, Partitioning, Recovery, and File System Repair Repair Boot Issues Caused by Incorrect Partitioning troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 3: Storage Installation, Partitioning, Recovery, and File System Repair Repair Boot Issues Caused by Incorrect Partitioning official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Install and Configure macOS Sequoia on Supported Hardware",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[4]__module-4-operating-system-installation-deployment-and-recovery\\[4.3]__install-and-configure-macos-sequoia-on-supported-hardware.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "macOS Sequoia clean install recovery mode supported hardware setup"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "macOS Sequoia post-install validation system settings profiles terminal"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 4: Operating System Installation, Deployment, and Recovery Install and Configure macOS Sequoia on Supported Hardware explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 4: Operating System Installation, Deployment, and Recovery Install and Configure macOS Sequoia on Supported Hardware best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 4: Operating System Installation, Deployment, and Recovery Install and Configure macOS Sequoia on Supported Hardware troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 4: Operating System Installation, Deployment, and Recovery Install and Configure macOS Sequoia on Supported Hardware official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 8,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Repair a Broken Windows Boot Using Recovery Tools",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[4]__module-4-operating-system-installation-deployment-and-recovery\\[4.2]__repair-a-broken-windows-boot-using-recovery-tools.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Windows Recovery Environment boot repair bcdboot bootrec startup repair"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "repair Windows 11 boot failure using recovery command prompt"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 4: Operating System Installation, Deployment, and Recovery Repair a Broken Windows Boot Using Recovery Tools explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 4: Operating System Installation, Deployment, and Recovery Repair a Broken Windows Boot Using Recovery Tools official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Deploy ChromeOS Flex to a Test Device and Validate Device State",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[4]__module-4-operating-system-installation-deployment-and-recovery\\[4.5]__deploy-chromeos-flex-to-a-test-device-and-validate-device-state.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "ChromeOS Flex installation USB boot device validation recovery"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "ChromeOS Flex deployment supported device post-install checks"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 4: Operating System Installation, Deployment, and Recovery Deploy ChromeOS Flex to a Test Device and Validate Device State explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.86,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Recover from a Failed Boot Caused by Storage Misconfiguration",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[3]__module-3-storage-installation-partitioning-recovery-and-file-system-repair\\[3.5]__recover-from-a-failed-boot-caused-by-storage-misconfiguration.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "failed boot storage misconfiguration recovery Windows macOS Ubuntu"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.12,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "UEFI boot order wrong disk misconfiguration recovery procedure"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.18,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 3: Storage Installation, Partitioning, Recovery, and File System Repair Recover from a Failed Boot Caused by Storage Misconfiguration explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 3: Storage Installation, Partitioning, Recovery, and File System Repair Recover from a Failed Boot Caused by Storage Misconfiguration best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 3: Storage Installation, Partitioning, Recovery, and File System Repair Recover from a Failed Boot Caused by Storage Misconfiguration troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Run File System Checks and Interpret Results",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[3]__module-3-storage-installation-partitioning-recovery-and-file-system-repair\\[3.4]__run-file-system-checks-and-interpret-results.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "chkdsk fsck diskutil verifyVolume file system repair output interpretation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "read-only file system diagnostics before repair Windows macOS Ubuntu"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 3: Storage Installation, Partitioning, Recovery, and File System Repair Run File System Checks and Interpret Results explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 3: Storage Installation, Partitioning, Recovery, and File System Repair Run File System Checks and Interpret Results best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 3: Storage Installation, Partitioning, Recovery, and File System Repair Run File System Checks and Interpret Results official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Install Ubuntu 24.04 and Configure Post-Install Essentials",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[4]__module-4-operating-system-installation-deployment-and-recovery\\[4.4]__install-ubuntu-24-04-and-configure-post-install-essentials.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Ubuntu 24.04 installation UEFI partitioning post-install apt update"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Ubuntu 24.04 desktop install validation network drivers systemctl"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 4: Operating System Installation, Deployment, and Recovery Install Ubuntu 24.04 and Configure Post-Install Essentials explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 4: Operating System Installation, Deployment, and Recovery Install Ubuntu 24.04 and Configure Post-Install Essentials best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 4: Operating System Installation, Deployment, and Recovery Install Ubuntu 24.04 and Configure Post-Install Essentials troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 4: Operating System Installation, Deployment, and Recovery Install Ubuntu 24.04 and Configure Post-Install Essentials official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Resolve a Failed Login and Profile Load Issue",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[5]__module-5-windows-11-administration-and-troubleshooting\\[5.1]__resolve-a-failed-login-and-profile-load-issue.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Windows 11 user profile service failed the sign-in profile load troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.18,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "failed login Windows 11 local profile corruption event viewer remediation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 5: Windows 11 Administration and Troubleshooting Resolve a Failed Login and Profile Load Issue explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 5: Windows 11 Administration and Troubleshooting Resolve a Failed Login and Profile Load Issue troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 5: Windows 11 Administration and Troubleshooting Resolve a Failed Login and Profile Load Issue official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Diagnose a Driver Conflict Using Device Manager and Event Viewer",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[5]__module-5-windows-11-administration-and-troubleshooting\\[5.2]__diagnose-a-driver-conflict-using-device-manager-and-event-viewer.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Windows Device Manager driver conflict Event Viewer error code troubleshooting"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "device driver conflict Windows 11 event logs rollback update remediation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 5: Windows 11 Administration and Troubleshooting Diagnose a Driver Conflict Using Device Manager and Event Viewer explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 5: Windows 11 Administration and Troubleshooting Diagnose a Driver Conflict Using Device Manager and Event Viewer best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 5: Windows 11 Administration and Troubleshooting Diagnose a Driver Conflict Using Device Manager and Event Viewer troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 5: Windows 11 Administration and Troubleshooting Diagnose a Driver Conflict Using Device Manager and Event Viewer official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Create and Troubleshoot a User Account Issue",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[6]__module-6-macos-sequoia-support-configuration-and-troubleshooting\\[6.1]__create-and-troubleshoot-a-user-account-issue.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "macOS Sequoia user account troubleshooting login keychain permissions"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.18,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "macOS create user account troubleshoot login issue profiles"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.18,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 6: macOS Sequoia Support, Configuration, and Troubleshooting Create and Troubleshoot a User Account Issue explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.18,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 6: macOS Sequoia Support, Configuration, and Troubleshooting Create and Troubleshoot a User Account Issue best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.18,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Repair Windows Update Failures",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[5]__module-5-windows-11-administration-and-troubleshooting\\[5.3]__repair-windows-update-failures.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Windows Update failure DISM SFC reset update components troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": null,
+          "ready": false,
+          "needsMoreResearch": false
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Windows 11 update error remediation event logs services powershell"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 5: Windows 11 Administration and Troubleshooting Repair Windows Update Failures explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 5: Windows 11 Administration and Troubleshooting Repair Windows Update Failures best practices"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 5: Windows 11 Administration and Troubleshooting Repair Windows Update Failures official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Configure Network Settings from GUI and CLI",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[6]__module-6-macos-sequoia-support-configuration-and-troubleshooting\\[6.3]__configure-network-settings-from-gui-and-cli.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "macOS networksetup ifconfig scutil configure Wi-Fi DNS CLI"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "macOS Sequoia network settings GUI and terminal troubleshooting"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 6: macOS Sequoia Support, Configuration, and Troubleshooting Configure Network Settings from GUI and CLI explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 6: macOS Sequoia Support, Configuration, and Troubleshooting Configure Network Settings from GUI and CLI best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Diagnose Storage and Startup Problems Using Recovery and Disk Utility",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[6]__module-6-macos-sequoia-support-configuration-and-troubleshooting\\[6.2]__diagnose-storage-and-startup-problems-using-recovery-and-disk-utility.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "macOS Recovery Disk Utility startup disk repair diskutil verifyVolume"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": null,
+          "ready": false,
+          "needsMoreResearch": false
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "macOS Sequoia boot issue storage diagnostics recovery mode workflow"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 6: macOS Sequoia Support, Configuration, and Troubleshooting Diagnose Storage and Startup Problems Using Recovery and Disk Utility explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 22,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 6: macOS Sequoia Support, Configuration, and Troubleshooting Diagnose Storage and Startup Problems Using Recovery and Disk Utility best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 22,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 6: macOS Sequoia Support, Configuration, and Troubleshooting Diagnose Storage and Startup Problems Using Recovery and Disk Utility official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Configure a Static IP and Verify Connectivity",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[7]__module-7-ubuntu-24-04-lts-command-line-administration-and-troubleshooting\\[7.1]__configure-a-static-ip-and-verify-connectivity.md",
+      "attempts": [
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Ubuntu ip a ip r resolvectl static network setup guide"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 7: Ubuntu 24.04 LTS Command-Line Administration and Troubleshooting Configure a Static IP and Verify Connectivity best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 7: Ubuntu 24.04 LTS Command-Line Administration and Troubleshooting Configure a Static IP and Verify Connectivity troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 6,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Troubleshoot Startup and Recovery Environment Issues",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[5]__module-5-windows-11-administration-and-troubleshooting\\[5.5]__troubleshoot-startup-and-recovery-environment-issues.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Windows 11 startup repair recovery environment boot troubleshooting"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "WinRE boot loop black screen startup issue event log analysis"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 5: Windows 11 Administration and Troubleshooting Troubleshoot Startup and Recovery Environment Issues explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 5: Windows 11 Administration and Troubleshooting Troubleshoot Startup and Recovery Environment Issues best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 5: Windows 11 Administration and Troubleshooting Troubleshoot Startup and Recovery Environment Issues troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 5: Windows 11 Administration and Troubleshooting Troubleshoot Startup and Recovery Environment Issues official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Use PowerShell to Inspect Services, Devices, and Logs",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[5]__module-5-windows-11-administration-and-troubleshooting\\[5.4]__use-powershell-to-inspect-services-devices-and-logs.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "PowerShell Get-Service Get-Process Get-WinEvent Get-NetAdapter troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Windows 11 PowerShell device and log inspection commands examples"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 5: Windows 11 Administration and Troubleshooting Use PowerShell to Inspect Services, Devices, and Logs explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 5: Windows 11 Administration and Troubleshooting Use PowerShell to Inspect Services, Devices, and Logs troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 5: Windows 11 Administration and Troubleshooting Use PowerShell to Inspect Services, Devices, and Logs official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 14,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Resolve Application Permission and Profile-Related Issues",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[6]__module-6-macos-sequoia-support-configuration-and-troubleshooting\\[6.5]__resolve-application-permission-and-profile-related-issues.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "macOS profiles permission issue application access troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.05,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "macOS Sequoia privacy permissions profile management support workflow"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.18,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 6: macOS Sequoia Support, Configuration, and Troubleshooting Resolve Application Permission and Profile-Related Issues explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 6: macOS Sequoia Support, Configuration, and Troubleshooting Resolve Application Permission and Profile-Related Issues best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 6: macOS Sequoia Support, Configuration, and Troubleshooting Resolve Application Permission and Profile-Related Issues official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Inspect Logs and Services Using Terminal",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[6]__module-6-macos-sequoia-support-configuration-and-troubleshooting\\[6.4]__inspect-logs-and-services-using-terminal.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "macOS log show system_profiler launchctl troubleshooting commands"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "macOS Terminal logs services output interpretation guide"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 6: macOS Sequoia Support, Configuration, and Troubleshooting Inspect Logs and Services Using Terminal explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 6: macOS Sequoia Support, Configuration, and Troubleshooting Inspect Logs and Services Using Terminal best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 6: macOS Sequoia Support, Configuration, and Troubleshooting Inspect Logs and Services Using Terminal troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 6: macOS Sequoia Support, Configuration, and Troubleshooting Inspect Logs and Services Using Terminal official documentation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 14,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Repair File System Issues with fsck",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[7]__module-7-ubuntu-24-04-lts-command-line-administration-and-troubleshooting\\[7.5]__repair-file-system-issues-with-fsck.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Ubuntu fsck repair ext4 file system errors safe workflow"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Linux file system check repair unmounted partition fsck output"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 7: Ubuntu 24.04 LTS Command-Line Administration and Troubleshooting Repair File System Issues with fsck explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.86,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 8,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Validate Device Readiness for Managed Use",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[8]__module-8-chromeos-flex-deployment-and-support\\[8.3]__validate-device-readiness-for-managed-use.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "ChromeOS Flex managed device readiness validation checklist"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "ChromeOS Flex enterprise deployment post-install verification"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 8,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Repair a Broken Package Installation",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[7]__module-7-ubuntu-24-04-lts-command-line-administration-and-troubleshooting\\[7.2]__repair-a-broken-package-installation.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Ubuntu apt dpkg broken package repair dependency issues"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Ubuntu 24.04 package installation failure remediation commands"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 7: Ubuntu 24.04 LTS Command-Line Administration and Troubleshooting Repair a Broken Package Installation best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 7: Ubuntu 24.04 LTS Command-Line Administration and Troubleshooting Repair a Broken Package Installation troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 7: Ubuntu 24.04 LTS Command-Line Administration and Troubleshooting Repair a Broken Package Installation official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Create ChromeOS Flex Boot Media and Install to a Test Device",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[8]__module-8-chromeos-flex-deployment-and-support\\[8.1]__create-chromeos-flex-boot-media-and-install-to-a-test-device.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "ChromeOS Flex boot media creation installation test device guide"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "ChromeOS Flex USB installer supported device setup validation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.88,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 8: ChromeOS Flex Deployment and Support Create ChromeOS Flex Boot Media and Install to a Test Device explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.88,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 8: ChromeOS Flex Deployment and Support Create ChromeOS Flex Boot Media and Install to a Test Device best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Use journalctl and dmesg to Isolate Hardware or Driver Issues",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[7]__module-7-ubuntu-24-04-lts-command-line-administration-and-troubleshooting\\[7.4]__use-journalctl-and-dmesg-to-isolate-hardware-or-driver-issues.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Ubuntu journalctl dmesg hardware driver issue troubleshooting examples"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Linux kernel log interpretation device driver failure diagnosis"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 7: Ubuntu 24.04 LTS Command-Line Administration and Troubleshooting Use journalctl and dmesg to Isolate Hardware or Driver Issues explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 7: Ubuntu 24.04 LTS Command-Line Administration and Troubleshooting Use journalctl and dmesg to Isolate Hardware or Driver Issues official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 8,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Diagnose Boot and Service Failures",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[7]__module-7-ubuntu-24-04-lts-command-line-administration-and-troubleshooting\\[7.3]__diagnose-boot-and-service-failures.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Ubuntu systemctl journalctl boot service failure troubleshooting"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Ubuntu 24.04 failed service boot logs analysis commands"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 7: Ubuntu 24.04 LTS Command-Line Administration and Troubleshooting Diagnose Boot and Service Failures explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 7: Ubuntu 24.04 LTS Command-Line Administration and Troubleshooting Diagnose Boot and Service Failures best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 7: Ubuntu 24.04 LTS Command-Line Administration and Troubleshooting Diagnose Boot and Service Failures official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Troubleshoot Wi-Fi, Keyboard, Touchpad, and Display Issues",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[8]__module-8-chromeos-flex-deployment-and-support\\[8.2]__troubleshoot-wi-fi-keyboard-touchpad-and-display-issues.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "ChromeOS Flex Wi-Fi keyboard touchpad display troubleshooting"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "ChromeOS Flex peripheral support and device issue resolution"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 8: ChromeOS Flex Deployment and Support Troubleshoot Wi-Fi, Keyboard, Touchpad, and Display Issues explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 8: ChromeOS Flex Deployment and Support Troubleshoot Wi-Fi, Keyboard, Touchpad, and Display Issues best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 8: ChromeOS Flex Deployment and Support Troubleshoot Wi-Fi, Keyboard, Touchpad, and Display Issues official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Renew DHCP and Test DNS Resolution",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[9]__module-9-network-configuration-and-troubleshooting-across-platforms\\[9.4]__renew-dhcp-and-test-dns-resolution.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "ipconfig release renew DNS resolution test Windows troubleshooting"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "DHCP renewal and DNS validation commands across platforms"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.86,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 7,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Perform Reset and Recovery Workflows",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[8]__module-8-chromeos-flex-deployment-and-support\\[8.4]__perform-reset-and-recovery-workflows.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "ChromeOS Flex reset recovery workflow powerwash reinstall"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "ChromeOS Flex device recovery and factory reset procedure"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 8: ChromeOS Flex Deployment and Support Perform Reset and Recovery Workflows explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 8: ChromeOS Flex Deployment and Support Perform Reset and Recovery Workflows troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 8: ChromeOS Flex Deployment and Support Perform Reset and Recovery Workflows official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 8,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Configure and Verify IP Settings on Windows, macOS, and Ubuntu",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[9]__module-9-network-configuration-and-troubleshooting-across-platforms\\[9.1]__configure-and-verify-ip-settings-on-windows-macos-and-ubuntu.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Windows ipconfig macOS ifconfig Ubuntu nmcli IP configuration verification"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "cross-platform IP address gateway DNS verification commands"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 9: Network Configuration and Troubleshooting Across Platforms Configure and Verify IP Settings on Windows, macOS, and Ubuntu best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 9: Network Configuration and Troubleshooting Across Platforms Configure and Verify IP Settings on Windows, macOS, and Ubuntu troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 9: Network Configuration and Troubleshooting Across Platforms Configure and Verify IP Settings on Windows, macOS, and Ubuntu official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Troubleshoot a No-Connectivity Scenario Using Ping, Traceroute, and Name Resolution Tools",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[9]__module-9-network-configuration-and-troubleshooting-across-platforms\\[9.2]__troubleshoot-a-no-connectivity-scenario-using-ping-traceroute-and-name-resolution-tools.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "ping tracert traceroute nslookup dig no connectivity troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "DNS failure APIPA gateway unreachable network troubleshooting scenario"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 9: Network Configuration and Troubleshooting Across Platforms Troubleshoot a No-Connectivity Scenario Using Ping, Traceroute, and Name Resolution Tools explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 9: Network Configuration and Troubleshooting Across Platforms Troubleshoot a No-Connectivity Scenario Using Ping, Traceroute, and Name Resolution Tools troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 9: Network Configuration and Troubleshooting Across Platforms Troubleshoot a No-Connectivity Scenario Using Ping, Traceroute, and Name Resolution Tools official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Reset Network Stacks on Windows",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[9]__module-9-network-configuration-and-troubleshooting-across-platforms\\[9.3]__reset-network-stacks-on-windows.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "netsh winsock reset netsh interface ip reset Windows 11 network repair"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Windows network stack reset command sequence and validation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 9: Network Configuration and Troubleshooting Across Platforms Reset Network Stacks on Windows explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 9: Network Configuration and Troubleshooting Across Platforms Reset Network Stacks on Windows troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 9: Network Configuration and Troubleshooting Across Platforms Reset Network Stacks on Windows official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Enroll a Windows 11 Device into Microsoft Intune",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[11]__module-11-mobile-devices-mdm-and-hybrid-workforce-provisioning\\[11.1]__enroll-a-windows-11-device-into-microsoft-intune.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Microsoft Intune Windows 11 enrollment Autopilot device setup guide"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Intune enrollment troubleshooting Windows 11 device validation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 11: Mobile Devices, MDM, and Hybrid Workforce Provisioning Enroll a Windows 11 Device into Microsoft Intune explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Resolve a Print Spooler Failure",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[10]__module-10-printers-peripherals-and-driver-management\\[10.2]__resolve-a-print-spooler-failure.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Windows print spooler service failure clear queue restart service"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.22,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "printer spooler error Event Viewer troubleshooting steps"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 10: Printers, Peripherals, and Driver Management Resolve a Print Spooler Failure explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 10: Printers, Peripherals, and Driver Management Resolve a Print Spooler Failure best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Install and Share a Printer",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[10]__module-10-printers-peripherals-and-driver-management\\[10.1]__install-and-share-a-printer.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Windows printer installation sharing Print Management driver setup"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.46,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "macOS printer add share network printer setup guide"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 10: Printers, Peripherals, and Driver Management Install and Share a Printer explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 10: Printers, Peripherals, and Driver Management Install and Share a Printer best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 10: Printers, Peripherals, and Driver Management Install and Share a Printer troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Diagnose Adapter and Driver Issues",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[9]__module-9-network-configuration-and-troubleshooting-across-platforms\\[9.5]__diagnose-adapter-and-driver-issues.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "network adapter disabled driver issue Device Manager Event Viewer"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "macOS Ubuntu network adapter driver troubleshooting commands"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 9: Network Configuration and Troubleshooting Across Platforms Diagnose Adapter and Driver Issues explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 9: Network Configuration and Troubleshooting Across Platforms Diagnose Adapter and Driver Issues best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 9: Network Configuration and Troubleshooting Across Platforms Diagnose Adapter and Driver Issues troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 9: Network Configuration and Troubleshooting Across Platforms Diagnose Adapter and Driver Issues official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Validate Driver Signing and Device Status",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[10]__module-10-printers-peripherals-and-driver-management\\[10.5]__validate-driver-signing-and-device-status.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Windows driver signing verification device status code validation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "signed driver check Device Manager status and event logs"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 10: Printers, Peripherals, and Driver Management Validate Driver Signing and Device Status explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 10: Printers, Peripherals, and Driver Management Validate Driver Signing and Device Status best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 10: Printers, Peripherals, and Driver Management Validate Driver Signing and Device Status troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 10: Printers, Peripherals, and Driver Management Validate Driver Signing and Device Status official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Enroll a macOS Device into Jamf",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[11]__module-11-mobile-devices-mdm-and-hybrid-workforce-provisioning\\[11.2]__enroll-a-macos-device-into-jamf.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Jamf Pro macOS enrollment workflow device management setup"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "macOS Jamf enrollment troubleshooting profiles MDM validation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 11: Mobile Devices, MDM, and Hybrid Workforce Provisioning Enroll a macOS Device into Jamf explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 11: Mobile Devices, MDM, and Hybrid Workforce Provisioning Enroll a macOS Device into Jamf best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 11: Mobile Devices, MDM, and Hybrid Workforce Provisioning Enroll a macOS Device into Jamf troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 11: Mobile Devices, MDM, and Hybrid Workforce Provisioning Enroll a macOS Device into Jamf official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 16,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Troubleshoot a Missing Device Driver",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[10]__module-10-printers-peripherals-and-driver-management\\[10.3]__troubleshoot-a-missing-device-driver.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Device Manager missing driver update rollback vendor package"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "driver not installed unknown device troubleshooting Windows macOS"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 10: Printers, Peripherals, and Driver Management Troubleshoot a Missing Device Driver explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 10: Printers, Peripherals, and Driver Management Troubleshoot a Missing Device Driver best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 10: Printers, Peripherals, and Driver Management Troubleshoot a Missing Device Driver troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 10: Printers, Peripherals, and Driver Management Troubleshoot a Missing Device Driver official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Fix Peripheral Recognition Issues Across Windows and macOS",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[10]__module-10-printers-peripherals-and-driver-management\\[10.4]__fix-peripheral-recognition-issues-across-windows-and-macos.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "USB Bluetooth audio webcam display peripheral not recognized troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Windows macOS peripheral recognition issue driver and service checks"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 10: Printers, Peripherals, and Driver Management Fix Peripheral Recognition Issues Across Windows and macOS explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 10: Printers, Peripherals, and Driver Management Fix Peripheral Recognition Issues Across Windows and macOS best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 8,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Apply Baseline Device Compliance Settings",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[11]__module-11-mobile-devices-mdm-and-hybrid-workforce-provisioning\\[11.3]__apply-baseline-device-compliance-settings.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Intune compliance policy baseline settings device validation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Jamf compliance policy macOS baseline configuration guide"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 11: Mobile Devices, MDM, and Hybrid Workforce Provisioning Apply Baseline Device Compliance Settings explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 11: Mobile Devices, MDM, and Hybrid Workforce Provisioning Apply Baseline Device Compliance Settings best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 11: Mobile Devices, MDM, and Hybrid Workforce Provisioning Apply Baseline Device Compliance Settings troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Deploy a Wi-Fi or VPN Profile",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[11]__module-11-mobile-devices-mdm-and-hybrid-workforce-provisioning\\[11.4]__deploy-a-wi-fi-or-vpn-profile.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Intune Wi-Fi VPN profile deployment device validation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Jamf Wi-Fi profile VPN configuration macOS managed device"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 11: Mobile Devices, MDM, and Hybrid Workforce Provisioning Deploy a Wi-Fi or VPN Profile explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 11: Mobile Devices, MDM, and Hybrid Workforce Provisioning Deploy a Wi-Fi or VPN Profile best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Remove a Device from Management and Confirm Cleanup",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[11]__module-11-mobile-devices-mdm-and-hybrid-workforce-provisioning\\[11.6]__remove-a-device-from-management-and-confirm-cleanup.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Intune retire wipe remove device management cleanup validation"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Jamf unenroll device remove management profile cleanup"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 11: Mobile Devices, MDM, and Hybrid Workforce Provisioning Remove a Device from Management and Confirm Cleanup explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 11: Mobile Devices, MDM, and Hybrid Workforce Provisioning Remove a Device from Management and Confirm Cleanup troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Investigate a Suspicious File or Process Using Safe Simulated Artifacts",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[12]__module-12-security-access-control-and-safe-incident-response-workflows\\[12.2]__investigate-a-suspicious-file-or-process-using-safe-simulated-artifacts.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "safe malware simulation suspicious file process investigation Windows"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "endpoint security incident response simulated artifact analysis workflow"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.46,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 12: Security, Access Control, and Safe Incident Response Workflows Investigate a Suspicious File or Process Using Safe Simulated Artifacts explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Resolve a Locked Account and Password Reset Scenario",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[12]__module-12-security-access-control-and-safe-incident-response-workflows\\[12.1]__resolve-a-locked-account-and-password-reset-scenario.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Windows account locked password reset help desk workflow"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "macOS local account password reset access issue troubleshooting"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 12: Security, Access Control, and Safe Incident Response Workflows Resolve a Locked Account and Password Reset Scenario explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 12: Security, Access Control, and Safe Incident Response Workflows Resolve a Locked Account and Password Reset Scenario best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 12: Security, Access Control, and Safe Incident Response Workflows Resolve a Locked Account and Password Reset Scenario official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Remediate a Noncompliant Device",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[11]__module-11-mobile-devices-mdm-and-hybrid-workforce-provisioning\\[11.5]__remediate-a-noncompliant-device.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Intune noncompliant device remediation workflow policy sync"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Jamf noncompliant device troubleshooting and remediation steps"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 11: Mobile Devices, MDM, and Hybrid Workforce Provisioning Remediate a Noncompliant Device explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 11: Mobile Devices, MDM, and Hybrid Workforce Provisioning Remediate a Noncompliant Device best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 11: Mobile Devices, MDM, and Hybrid Workforce Provisioning Remediate a Noncompliant Device troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 11: Mobile Devices, MDM, and Hybrid Workforce Provisioning Remediate a Noncompliant Device official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 17,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Isolate a Device from the Network and Document Actions",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[12]__module-12-security-access-control-and-safe-incident-response-workflows\\[12.3]__isolate-a-device-from-the-network-and-document-actions.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "endpoint isolation network quarantine incident response documentation"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Intune Jamf device isolation workflow security incident containment"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 12: Security, Access Control, and Safe Incident Response Workflows Isolate a Device from the Network and Document Actions explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 12: Security, Access Control, and Safe Incident Response Workflows Isolate a Device from the Network and Document Actions best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 12: Security, Access Control, and Safe Incident Response Workflows Isolate a Device from the Network and Document Actions troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Restore Normal Access After Remediation",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[12]__module-12-security-access-control-and-safe-incident-response-workflows\\[12.5]__restore-normal-access-after-remediation.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "endpoint remediation restore access after quarantine validation"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "security incident closure restore user access workflow"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 12: Security, Access Control, and Safe Incident Response Workflows Restore Normal Access After Remediation explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 12: Security, Access Control, and Safe Incident Response Workflows Restore Normal Access After Remediation best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 12: Security, Access Control, and Safe Incident Response Workflows Restore Normal Access After Remediation official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Configure Network Access and Verify Cloud/App Pairing",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[13]__module-13-iot-smart-devices-and-embedded-hardware-setup\\[13.2]__configure-network-access-and-verify-cloud-app-pairing.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "IoT device Wi-Fi pairing cloud app verification setup"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "smart device network onboarding and app pairing validation"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 13: IoT, Smart Devices, and Embedded Hardware Setup Configure Network Access and Verify Cloud/App Pairing explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 13: IoT, Smart Devices, and Embedded Hardware Setup Configure Network Access and Verify Cloud/App Pairing troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 13: IoT, Smart Devices, and Embedded Hardware Setup Configure Network Access and Verify Cloud/App Pairing official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 14,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Review Security Logs and Identify Policy-Related Blocks",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[12]__module-12-security-access-control-and-safe-incident-response-workflows\\[12.4]__review-security-logs-and-identify-policy-related-blocks.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Windows Security Event Viewer policy block log interpretation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "macOS security logs policy blocked application troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 12: Security, Access Control, and Safe Incident Response Workflows Review Security Logs and Identify Policy-Related Blocks explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 12: Security, Access Control, and Safe Incident Response Workflows Review Security Logs and Identify Policy-Related Blocks best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 12: Security, Access Control, and Safe Incident Response Workflows Review Security Logs and Identify Policy-Related Blocks official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Assemble and Connect an IoT Device",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[13]__module-13-iot-smart-devices-and-embedded-hardware-setup\\[13.1]__assemble-and-connect-an-iot-device.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "IoT device physical setup cabling power validation onboarding"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "smart device assembly and initial connection troubleshooting"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 13: IoT, Smart Devices, and Embedded Hardware Setup Assemble and Connect an IoT Device explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.46,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 13: IoT, Smart Devices, and Embedded Hardware Setup Assemble and Connect an IoT Device best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.46,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 13: IoT, Smart Devices, and Embedded Hardware Setup Assemble and Connect an IoT Device troubleshooting"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.46,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 13: IoT, Smart Devices, and Embedded Hardware Setup Assemble and Connect an IoT Device official documentation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 17,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Resolve Power, Pairing, and Compatibility Issues",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[13]__module-13-iot-smart-devices-and-embedded-hardware-setup\\[13.4]__resolve-power-pairing-and-compatibility-issues.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "IoT device power pairing compatibility troubleshooting guide"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "smart home device not pairing power and compatibility checks"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 13: IoT, Smart Devices, and Embedded Hardware Setup Resolve Power, Pairing, and Compatibility Issues explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 13: IoT, Smart Devices, and Embedded Hardware Setup Resolve Power, Pairing, and Compatibility Issues best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 13: IoT, Smart Devices, and Embedded Hardware Setup Resolve Power, Pairing, and Compatibility Issues official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Resolve an Ubuntu Service Failure Ticket",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[14]__module-14-help-desk-ticket-simulation-and-end-to-end-troubleshooting-practicum\\[14.6]__resolve-an-ubuntu-service-failure-ticket.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Ubuntu service failure ticket systemctl journalctl remediation workflow"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 3,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Resolve a No-Boot Desktop Ticket",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[14]__module-14-help-desk-ticket-simulation-and-end-to-end-troubleshooting-practicum\\[14.1]__resolve-a-no-boot-desktop-ticket.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "no boot desktop troubleshooting ticket POST BIOS storage power workflow"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "desktop no boot incident resolution validation and ticket notes"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 14: Help Desk Ticket Simulation and End-to-End Troubleshooting Practicum Resolve a No-Boot Desktop Ticket best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 14: Help Desk Ticket Simulation and End-to-End Troubleshooting Practicum Resolve a No-Boot Desktop Ticket troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 14: Help Desk Ticket Simulation and End-to-End Troubleshooting Practicum Resolve a No-Boot Desktop Ticket official documentation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 14,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Resolve a No-Network Laptop Ticket",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[14]__module-14-help-desk-ticket-simulation-and-end-to-end-troubleshooting-practicum\\[14.2]__resolve-a-no-network-laptop-ticket.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "laptop no network troubleshooting ticket ipconfig netsh nmcli ifconfig"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.18,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "no connectivity laptop incident triage root cause validation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.18,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 14: Help Desk Ticket Simulation and End-to-End Troubleshooting Practicum Resolve a No-Network Laptop Ticket explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 14: Help Desk Ticket Simulation and End-to-End Troubleshooting Practicum Resolve a No-Network Laptop Ticket best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 14: Help Desk Ticket Simulation and End-to-End Troubleshooting Practicum Resolve a No-Network Laptop Ticket troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 14: Help Desk Ticket Simulation and End-to-End Troubleshooting Practicum Resolve a No-Network Laptop Ticket official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 14,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Troubleshoot Firmware Update Failure",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[13]__module-13-iot-smart-devices-and-embedded-hardware-setup\\[13.3]__troubleshoot-firmware-update-failure.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "IoT firmware update failed recovery troubleshooting steps"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "smart device firmware update error network power compatibility"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 13: IoT, Smart Devices, and Embedded Hardware Setup Troubleshoot Firmware Update Failure explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 8,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Resolve a macOS Storage and Login Issue",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[14]__module-14-help-desk-ticket-simulation-and-end-to-end-troubleshooting-practicum\\[14.5]__resolve-a-macos-storage-and-login-issue.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "macOS storage login issue troubleshooting ticket Disk Utility profiles"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": null,
+          "ready": false,
+          "needsMoreResearch": false
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "macOS Sequoia login and disk problem incident resolution"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 14: Help Desk Ticket Simulation and End-to-End Troubleshooting Practicum Resolve a macOS Storage and Login Issue explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 14: Help Desk Ticket Simulation and End-to-End Troubleshooting Practicum Resolve a macOS Storage and Login Issue best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 14: Help Desk Ticket Simulation and End-to-End Troubleshooting Practicum Resolve a macOS Storage and Login Issue troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 14: Help Desk Ticket Simulation and End-to-End Troubleshooting Practicum Resolve a macOS Storage and Login Issue official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Resolve a Printer Outage Ticket",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[14]__module-14-help-desk-ticket-simulation-and-end-to-end-troubleshooting-practicum\\[14.3]__resolve-a-printer-outage-ticket.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "printer outage help desk ticket spooler queue driver network troubleshooting"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "printer incident resolution documentation and closure notes"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 14: Help Desk Ticket Simulation and End-to-End Troubleshooting Practicum Resolve a Printer Outage Ticket explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 14: Help Desk Ticket Simulation and End-to-End Troubleshooting Practicum Resolve a Printer Outage Ticket best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 14: Help Desk Ticket Simulation and End-to-End Troubleshooting Practicum Resolve a Printer Outage Ticket troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 14: Help Desk Ticket Simulation and End-to-End Troubleshooting Practicum Resolve a Printer Outage Ticket official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 14,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Document Device Inventory and Support Handoff",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[13]__module-13-iot-smart-devices-and-embedded-hardware-setup\\[13.5]__document-device-inventory-and-support-handoff.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "IT asset inventory documentation support handoff template IoT device"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "device inventory and escalation notes for smart device support"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 13: IoT, Smart Devices, and Embedded Hardware Setup Document Device Inventory and Support Handoff explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 13: IoT, Smart Devices, and Embedded Hardware Setup Document Device Inventory and Support Handoff best practices"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 13: IoT, Smart Devices, and Embedded Hardware Setup Document Device Inventory and Support Handoff troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 13: IoT, Smart Devices, and Embedded Hardware Setup Document Device Inventory and Support Handoff official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 14,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Resolve a Mobile Enrollment Failure Ticket",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-a-practical-labs-troubleshooting-exams-220-1201-220-1202\\[14]__module-14-help-desk-ticket-simulation-and-end-to-end-troubleshooting-practicum\\[14.4]__resolve-a-mobile-enrollment-failure-ticket.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Intune Jamf enrollment failure troubleshooting ticket workflow"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "mobile device enrollment incident triage remediation validation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 14: Help Desk Ticket Simulation and End-to-End Troubleshooting Practicum Resolve a Mobile Enrollment Failure Ticket explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 14: Help Desk Ticket Simulation and End-to-End Troubleshooting Practicum Resolve a Mobile Enrollment Failure Ticket best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 14: Help Desk Ticket Simulation and End-to-End Troubleshooting Practicum Resolve a Mobile Enrollment Failure Ticket troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA A+ Practical Labs & Troubleshooting (Exams 220-1201 & 220-1202) Module 14: Help Desk Ticket Simulation and End-to-End Troubleshooting Practicum Resolve a Mobile Enrollment Failure Ticket official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    }
+  ],
+  "totalTopics": 70,
+  "writtenTopics": 70,
+  "failedTopics": 0,
+  "finishedAt": "2026-04-21T12:03:45.856Z"
+}

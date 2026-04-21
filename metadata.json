@@ -1,0 +1,18 @@
+{
+  "siteName": "Webnotes",
+  "url": "https://webnotes.site",
+  "defaultTitle": "Webnotes",
+  "defaultDescription": "Practical learning notes for Networking, Security, and IT concepts.",
+  "defaultImage": "/content/assets/og-default.png",
+  "author": "Webnotes",
+  "twitterCard": "summary_large_image",
+  "twitterSite": "@webnotes",
+  "language": "en",
+  "strictSeo": true,
+  "minifyHtml": true,
+  "keywords": [
+    "CompTIA A+ notes",
+    "CompTIA Network+ notes",
+    "IT certification study guide"
+  ]
+}

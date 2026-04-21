@@ -1,0 +1,4 @@
+{
+  "label": "CompTIA Network+ Hands-On Infrastructure (Exam N10-009)",
+  "description": "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) is a lab-only study notes course built for certification prep through real-world network implementation and troubleshooting in GNS3 and EVE-NG. You’ll work through step-by-step subnetting exercises, VLANs, routing, NAT, firewalls, Wireshark and Zeek traffic analysis, SDN, automation, cloud networking, and zero-trust policy labs with topology diagrams, full CLI command sequences, and troubleshooting checkpoints."
+}

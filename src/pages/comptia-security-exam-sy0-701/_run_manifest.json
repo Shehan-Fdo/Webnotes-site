@@ -1,0 +1,5831 @@
+{
+  "courseName": "CompTIA Security+ (Exam SY0-701)",
+  "courseSlug": "comptia-security-exam-sy0-701",
+  "model": "gpt-5.4-mini",
+  "startedAt": "2026-04-21T10:55:31.423Z",
+  "config": {
+    "maxRetrievalAttempts": 3,
+    "minFetchedPages": 3,
+    "maxUrlsPerAttempt": 5,
+    "searchResultsPerQuery": 5,
+    "maxEvidenceChars": 12000,
+    "generationRetries": 2
+  },
+  "topics": [
+    {
+      "topic": "Security Baselines, Defense in Depth, and Zero Trust",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[1]__module-1-security-fundamentals-and-threat-landscape\\[1.8]__security-baselines-defense-in-depth-and-zero-trust.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "security baselines defense in depth zero trust principles overview"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.78,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 3,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Security Controls and Control Types",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[1]__module-1-security-fundamentals-and-threat-landscape\\[1.2]__security-controls-and-control-types.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "security control types preventive detective corrective deterrent compensating directive"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "administrative technical physical security controls examples"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 8,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Governance Concepts and Security Program Objectives",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[2]__module-2-security-governance-risk-and-compliance\\[2.1]__governance-concepts-and-security-program-objectives.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "security governance program objectives overview"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "governance risk compliance security program basics"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Attack Surface, Vulnerability, Threat, and Risk",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[1]__module-1-security-fundamentals-and-threat-landscape\\[1.4]__attack-surface-vulnerability-threat-and-risk.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "attack surface vulnerability threat risk differences cybersecurity"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "risk vs threat vs vulnerability security fundamentals"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.86,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "CIA Triad and Extended Security Principles",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[1]__module-1-security-fundamentals-and-threat-landscape\\[1.1]__cia-triad-and-extended-security-principles.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "CIA triad security principles confidentiality integrity availability overview"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": null,
+          "ready": false,
+          "needsMoreResearch": false
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "security principles least privilege defense in depth zero trust overview"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 1: Security Fundamentals and Threat Landscape CIA Triad and Extended Security Principles explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 1: Security Fundamentals and Threat Landscape CIA Triad and Extended Security Principles best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 6,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Risk Management Lifecycle and Treatment Options",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[2]__module-2-security-governance-risk-and-compliance\\[2.3]__risk-management-lifecycle-and-treatment-options.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "risk management lifecycle identify assess treat monitor"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "risk treatment avoid mitigate transfer accept cybersecurity"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 2: Security Governance, Risk, and Compliance Risk Management Lifecycle and Treatment Options explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 2: Security Governance, Risk, and Compliance Risk Management Lifecycle and Treatment Options official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Common Attack Vectors",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[1]__module-1-security-fundamentals-and-threat-landscape\\[1.5]__common-attack-vectors.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "phishing spear phishing whaling smishing vishing business email compromise overview"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "watering hole drive-by download malvertising attack vectors"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 1: Security Fundamentals and Threat Landscape Common Attack Vectors explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 1: Security Fundamentals and Threat Landscape Common Attack Vectors best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 1: Security Fundamentals and Threat Landscape Common Attack Vectors troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 1: Security Fundamentals and Threat Landscape Common Attack Vectors official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Qualitative and Quantitative Risk Analysis",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[2]__module-2-security-governance-risk-and-compliance\\[2.4]__qualitative-and-quantitative-risk-analysis.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "qualitative vs quantitative risk analysis cybersecurity"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "likelihood impact exposure risk analysis overview"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 2: Security Governance, Risk, and Compliance Qualitative and Quantitative Risk Analysis explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 2: Security Governance, Risk, and Compliance Qualitative and Quantitative Risk Analysis troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.86,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Business Impact Analysis and Criticality",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[2]__module-2-security-governance-risk-and-compliance\\[2.5]__business-impact-analysis-and-criticality.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "business impact analysis criticality recovery priorities overview"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "BIA cybersecurity critical systems and impact assessment"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 82,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 2: Security Governance, Risk, and Compliance Business Impact Analysis and Criticality explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 86,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "AI-Enhanced Social Engineering",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[1]__module-1-security-fundamentals-and-threat-landscape\\[1.6]__ai-enhanced-social-engineering.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "deepfake voice video impersonation phishing security awareness"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.18,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "LLM-assisted phishing content generation automated reconnaissance social engineering"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 1: Security Fundamentals and Threat Landscape AI-Enhanced Social Engineering explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 1: Security Fundamentals and Threat Landscape AI-Enhanced Social Engineering best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 1: Security Fundamentals and Threat Landscape AI-Enhanced Social Engineering troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 1: Security Fundamentals and Threat Landscape AI-Enhanced Social Engineering official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Policies, Standards, Procedures, and Guidelines",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[2]__module-2-security-governance-risk-and-compliance\\[2.2]__policies-standards-procedures-and-guidelines.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "policy standard procedure guideline differences cybersecurity"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.86,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 4,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Security Documentation and Policy Types",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[2]__module-2-security-governance-risk-and-compliance\\[2.6]__security-documentation-and-policy-types.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "acceptable use policy incident response policy password policy data classification policy remote access policy"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "security policy documentation examples and purpose"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 2: Security Governance, Risk, and Compliance Security Documentation and Policy Types best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 2: Security Governance, Risk, and Compliance Security Documentation and Policy Types troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 2: Security Governance, Risk, and Compliance Security Documentation and Policy Types official documentation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 14,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Security Awareness and Training Programs",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[2]__module-2-security-governance-risk-and-compliance\\[2.10]__security-awareness-and-training-programs.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "security awareness training program design phishing simulation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "security awareness metrics and user training best practices"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 8,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Third-Party Risk Management and Exception Handling",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[2]__module-2-security-governance-risk-and-compliance\\[2.9]__third-party-risk-management-and-exception-handling.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "third-party risk management vendor risk assessment security"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "risk acceptance exception handling documentation cybersecurity"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 2: Security Governance, Risk, and Compliance Third-Party Risk Management and Exception Handling explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 2: Security Governance, Risk, and Compliance Third-Party Risk Management and Exception Handling troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 2: Security Governance, Risk, and Compliance Third-Party Risk Management and Exception Handling official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Threat Actors and Adversary Categories",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[1]__module-1-security-fundamentals-and-threat-landscape\\[1.3]__threat-actors-and-adversary-categories.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "threat actor categories script kiddies hacktivists organized crime nation state insider supply chain"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "cyber threat actor profiles and motivations overview"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 1: Security Fundamentals and Threat Landscape Threat Actors and Adversary Categories explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 1: Security Fundamentals and Threat Landscape Threat Actors and Adversary Categories troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 1: Security Fundamentals and Threat Landscape Threat Actors and Adversary Categories official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Secure Design Principles",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[3]__module-3-security-architecture-and-design\\[3.1]__secure-design-principles.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "least privilege separation of duties defense in depth secure defaults complete mediation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "secure design principles economy of mechanism open design fail secure fail open"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 3: Security Architecture and Design Secure Design Principles explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 3: Security Architecture and Design Secure Design Principles best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 3: Security Architecture and Design Secure Design Principles official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 7,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Segmentation Concepts",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[3]__module-3-security-architecture-and-design\\[3.3]__segmentation-concepts.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "network segmentation microsegmentation dmz air gap security concepts"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "segmentation and isolation in enterprise security overview"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 3: Security Architecture and Design Segmentation Concepts explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 3: Security Architecture and Design Segmentation Concepts best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 3: Security Architecture and Design Segmentation Concepts official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Supply Chain Threats",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[1]__module-1-security-fundamentals-and-threat-landscape\\[1.7]__supply-chain-threats.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "software supply chain compromise vendor compromise update mechanism abuse"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "hardware firmware trust concerns supply chain cybersecurity"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 1: Security Fundamentals and Threat Landscape Supply Chain Threats explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 1: Security Fundamentals and Threat Landscape Supply Chain Threats best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 1: Security Fundamentals and Threat Landscape Supply Chain Threats official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Security Models",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[3]__module-3-security-architecture-and-design\\[3.2]__security-models.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Bell-LaPadula Biba Clark-Wilson Brewer-Nash security models overview"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "mandatory access control security models comparison"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 3: Security Architecture and Design Security Models explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 3: Security Architecture and Design Security Models best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 3: Security Architecture and Design Security Models official documentation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Cloud Security Architecture",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[3]__module-3-security-architecture-and-design\\[3.7]__cloud-security-architecture.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "shared responsibility model IaaS PaaS SaaS cloud security architecture overview"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 3,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Privacy, Regulatory, and Data Governance Concepts",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[2]__module-2-security-governance-risk-and-compliance\\[2.7]__privacy-regulatory-and-data-governance-concepts.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "data minimization retention consent jurisdiction data sovereignty cybersecurity"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "privacy and regulatory concepts GDPR HIPAA data governance overview"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 2: Security Governance, Risk, and Compliance Privacy, Regulatory, and Data Governance Concepts explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 2: Security Governance, Risk, and Compliance Privacy, Regulatory, and Data Governance Concepts best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 2: Security Governance, Risk, and Compliance Privacy, Regulatory, and Data Governance Concepts troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 2: Security Governance, Risk, and Compliance Privacy, Regulatory, and Data Governance Concepts official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 14,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Common Compliance and Governance Frameworks",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[2]__module-2-security-governance-risk-and-compliance\\[2.8]__common-compliance-and-governance-frameworks.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "NIST CSF NIST SP 800-53 ISO 27001 CIS Controls PCI DSS GDPR HIPAA overview"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "security compliance frameworks comparison overview"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 2: Security Governance, Risk, and Compliance Common Compliance and Governance Frameworks explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 2: Security Governance, Risk, and Compliance Common Compliance and Governance Frameworks best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 2: Security Governance, Risk, and Compliance Common Compliance and Governance Frameworks troubleshooting"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 2: Security Governance, Risk, and Compliance Common Compliance and Governance Frameworks official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Secure System Design and Hardening",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[3]__module-3-security-architecture-and-design\\[3.4]__secure-system-design-and-hardening.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "system hardening secure boot TPM firmware security patch management configuration management"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "UEFI Secure Boot TPM 2.0 hardening overview"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 3: Security Architecture and Design Secure System Design and Hardening explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 3: Security Architecture and Design Secure System Design and Hardening best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 3: Security Architecture and Design Secure System Design and Hardening troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 3: Security Architecture and Design Secure System Design and Hardening official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Resilience and Availability",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[3]__module-3-security-architecture-and-design\\[3.5]__resilience-and-availability.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "redundancy high availability load balancing failover backups disaster recovery concepts"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "availability and resilience security architecture overview"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 3: Security Architecture and Design Resilience and Availability explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 3: Security Architecture and Design Resilience and Availability best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 3: Security Architecture and Design Resilience and Availability official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Identity Lifecycle Management",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[4]__module-4-identity-and-access-management\\[4.1]__identity-lifecycle-management.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "identity lifecycle management provisioning deprovisioning joiner mover leaver"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "account lifecycle management cybersecurity overview"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 86,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Virtualization and Containerization Concepts",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[3]__module-3-security-architecture-and-design\\[3.8]__virtualization-and-containerization-concepts.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "virtualization containerization security concepts Docker OCI Kubernetes overview"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "hypervisor security and container isolation basics"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 3: Security Architecture and Design Virtualization and Containerization Concepts explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Remote Access and VPN Concepts",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[4]__module-4-identity-and-access-management\\[4.7]__remote-access-and-vpn-concepts.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "remote access VPN concepts secure remote access overview"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 3,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Data Security Design",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[3]__module-3-security-architecture-and-design\\[3.6]__data-security-design.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "data at rest in transit in use encryption tokenization masking DLP concepts"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "data classification labeling encryption strategy overview"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 3: Security Architecture and Design Data Security Design explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 3: Security Architecture and Design Data Security Design best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 3: Security Architecture and Design Data Security Design official documentation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Authentication Factors and MFA",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[4]__module-4-identity-and-access-management\\[4.3]__authentication-factors-and-mfa.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "authentication factors something you know have are somewhere you are do MFA passwordless"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "multi-factor authentication and passwordless authentication concepts"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 4: Identity and Access Management Authentication Factors and MFA explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 4: Identity and Access Management Authentication Factors and MFA best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Privileged Access Management and JIT/JEA",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[4]__module-4-identity-and-access-management\\[4.5]__privileged-access-management-and-jit-jea.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "privileged access management just in time just enough access overview"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "PAM JIT JEA security concepts"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 4: Identity and Access Management Privileged Access Management and JIT/JEA best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 4: Identity and Access Management Privileged Access Management and JIT/JEA official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "AAA and Access Control Models",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[4]__module-4-identity-and-access-management\\[4.2]__aaa-and-access-control-models.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "authentication authorization accounting auditing access control models DAC MAC RBAC ABAC"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "access control models comparison cybersecurity"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 4: Identity and Access Management AAA and Access Control Models explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 4: Identity and Access Management AAA and Access Control Models best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 4: Identity and Access Management AAA and Access Control Models official documentation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Secure Application Architecture Basics",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[3]__module-3-security-architecture-and-design\\[3.9]__secure-application-architecture-basics.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "input validation secure APIs secrets management dependency risk awareness"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "secure application architecture basics cybersecurity"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 3: Security Architecture and Design Secure Application Architecture Basics explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 3: Security Architecture and Design Secure Application Architecture Basics best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 3: Security Architecture and Design Secure Application Architecture Basics troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 3: Security Architecture and Design Secure Application Architecture Basics official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Federation, SSO, and Identity Protocols",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[4]__module-4-identity-and-access-management\\[4.4]__federation-sso-and-identity-protocols.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "SAML OAuth 2.0 OpenID Connect LDAP Kerberos RADIUS TACACS+ overview"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "single sign-on federation identity protocols comparison"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 4: Identity and Access Management Federation, SSO, and Identity Protocols explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 4: Identity and Access Management Federation, SSO, and Identity Protocols official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Account Provisioning, Service Accounts, and Credential Hygiene",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[4]__module-4-identity-and-access-management\\[4.6]__account-provisioning-service-accounts-and-credential-hygiene.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "service accounts machine identities secrets rotation credential vaulting"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "account provisioning deprovisioning credential hygiene best practices"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 4: Identity and Access Management Account Provisioning, Service Accounts, and Credential Hygiene explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 4: Identity and Access Management Account Provisioning, Service Accounts, and Credential Hygiene troubleshooting"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 4: Identity and Access Management Account Provisioning, Service Accounts, and Credential Hygiene official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Identity Threats and Attacks",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[4]__module-4-identity-and-access-management\\[4.8]__identity-threats-and-attacks.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "credential stuffing password spraying MFA fatigue session hijacking token theft pass-the-hash pass-the-ticket"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "identity attack techniques and mitigations overview"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 4: Identity and Access Management Identity Threats and Attacks explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 4: Identity and Access Management Identity Threats and Attacks troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 4: Identity and Access Management Identity Threats and Attacks official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Secure Protocols and Communications",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[5]__module-5-network-security\\[5.3]__secure-protocols-and-communications.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "TLS HTTPS SSH SFTP IPsec SNMPv3 DNSSEC security overview"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "secure network protocols and use cases"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 5: Network Security Secure Protocols and Communications explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 5: Network Security Secure Protocols and Communications troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Representative Identity Platforms",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[4]__module-4-identity-and-access-management\\[4.9]__representative-identity-platforms.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Microsoft Entra ID Active Directory Okta Ping Identity Cisco ISE overview"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "enterprise identity platform concepts and examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 4: Identity and Access Management Representative Identity Platforms best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 4: Identity and Access Management Representative Identity Platforms official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Remote Access Security and ZTNA",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[5]__module-5-network-security\\[5.5]__remote-access-security-and-ztna.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "ZTNA SASE secure remote work connectivity overview"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "remote access security zero trust network access concepts"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 5: Network Security Remote Access Security and ZTNA best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 5: Network Security Remote Access Security and ZTNA official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Representative Network Security Technologies",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[5]__module-5-network-security\\[5.8]__representative-network-security-technologies.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "next generation firewall IDS IPS WAF VPN concentrator ZTNA SASE Wireshark NetFlow"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 4,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "SOC Functions and Monitoring Lifecycle",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[6]__module-6-security-operations-and-monitoring\\[6.1]__soc-functions-and-monitoring-lifecycle.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "security operations center SOC functions monitoring lifecycle overview"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "security monitoring lifecycle and SOC responsibilities"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 8,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Secure DNS, Email Transport, and Traffic Analysis",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[5]__module-5-network-security\\[5.6]__secure-dns-email-transport-and-traffic-analysis.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "secure DNS email transport network traffic analysis packet capture flow concepts"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "NetFlow sFlow Wireshark network analysis basics"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 5: Network Security Secure DNS, Email Transport, and Traffic Analysis explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 5: Network Security Secure DNS, Email Transport, and Traffic Analysis official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 7,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Common Network Attacks",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[5]__module-5-network-security\\[5.7]__common-network-attacks.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "ARP poisoning DNS poisoning man in the middle replay attacks DoS DDoS VLAN hopping rogue DHCP"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "common network attack patterns and mitigations"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 5: Network Security Common Network Attacks explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 5: Network Security Common Network Attacks best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 5: Network Security Common Network Attacks troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 8,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Wireless Security",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[5]__module-5-network-security\\[5.4]__wireless-security.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "WPA2 WPA3 rogue AP evil twin Bluetooth NFC security risks"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "wireless security threats and protections overview"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 5: Network Security Wireless Security explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 5: Network Security Wireless Security best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 5: Network Security Wireless Security troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 5: Network Security Wireless Security official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 14,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Event Correlation and Alert Triage",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[6]__module-6-security-operations-and-monitoring\\[6.3]__event-correlation-and-alert-triage.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "event correlation alert triage SIEM basics"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "security alert triage and correlation workflow"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 6: Security Operations and Monitoring Event Correlation and Alert Triage explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Vulnerability Management Workflow",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[6]__module-6-security-operations-and-monitoring\\[6.8]__vulnerability-management-workflow.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "vulnerability management workflow discovery prioritization remediation verification"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 86,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 5,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Operational Procedures and Evidence Handling",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[6]__module-6-security-operations-and-monitoring\\[6.7]__operational-procedures-and-evidence-handling.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "escalation ticketing evidence preservation chain of custody basics"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "security operations evidence handling and escalation procedures"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Network Security Fundamentals",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[5]__module-5-network-security\\[5.1]__network-security-fundamentals.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "network security fundamentals routers switches firewalls IDS IPS proxies load balancers WAF"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "network security devices and functions overview"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 5: Network Security Network Security Fundamentals troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 7,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "SIEM, SOAR, and Threat Hunting",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[6]__module-6-security-operations-and-monitoring\\[6.4]__siem-soar-and-threat-hunting.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "SIEM SOAR threat hunting concepts overview"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "security orchestration automation response and threat hunting basics"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 6: Security Operations and Monitoring SIEM, SOAR, and Threat Hunting explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 6: Security Operations and Monitoring SIEM, SOAR, and Threat Hunting best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 6: Security Operations and Monitoring SIEM, SOAR, and Threat Hunting official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Log Sources and Telemetry",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[6]__module-6-security-operations-and-monitoring\\[6.2]__log-sources-and-telemetry.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "endpoint authentication firewall DNS proxy cloud audit application logs security telemetry"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "common security log sources and what they show"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 6: Security Operations and Monitoring Log Sources and Telemetry explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 6: Security Operations and Monitoring Log Sources and Telemetry official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Network Segmentation and Access Control",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[5]__module-5-network-security\\[5.2]__network-segmentation-and-access-control.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "network segmentation access control security concepts"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "DMZ microsegmentation network access control overview"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 5: Network Security Network Segmentation and Access Control explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 5: Network Security Network Segmentation and Access Control best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 5: Network Security Network Segmentation and Access Control troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 5: Network Security Network Segmentation and Access Control official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Incident Response Lifecycle",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[7]__module-7-incident-response-and-digital-forensics-fundamentals\\[7.1]__incident-response-lifecycle.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "incident response lifecycle preparation detection analysis containment eradication recovery lessons learned"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 4,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Indicators, Baselines, and Anomaly Detection",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[6]__module-6-security-operations-and-monitoring\\[6.5]__indicators-baselines-and-anomaly-detection.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "indicator of compromise indicator of attack baseline behavior anomaly detection"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "security detection engineering basics indicators and baselines"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 6: Security Operations and Monitoring Indicators, Baselines, and Anomaly Detection explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 6: Security Operations and Monitoring Indicators, Baselines, and Anomaly Detection best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 6: Security Operations and Monitoring Indicators, Baselines, and Anomaly Detection official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Asset Inventory and Attack Surface Management",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[6]__module-6-security-operations-and-monitoring\\[6.9]__asset-inventory-and-attack-surface-management.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "asset inventory attack surface management security overview"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "security asset inventory and exposure management concepts"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 6: Security Operations and Monitoring Asset Inventory and Attack Surface Management explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 6: Security Operations and Monitoring Asset Inventory and Attack Surface Management best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Security Automation and Metrics",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[6]__module-6-security-operations-and-monitoring\\[6.10]__security-automation-and-metrics.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "security playbooks orchestration automated enrichment automated containment metrics MTTD MTTR"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "security automation and reporting metrics overview"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Containment Strategies",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[7]__module-7-incident-response-and-digital-forensics-fundamentals\\[7.3]__containment-strategies.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "short term containment long term containment incident response"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "incident containment strategies cybersecurity overview"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 7,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Common Vulnerability Types",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[8]__module-8-vulnerability-management-and-secure-configuration\\[8.1]__common-vulnerability-types.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "misconfiguration missing patches weak credentials unsupported software default settings exposed services"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.88,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 4,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "EDR, MDR, and Security Telemetry Quality",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[6]__module-6-security-operations-and-monitoring\\[6.6]__edr-mdr-and-security-telemetry-quality.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "endpoint detection and response managed detection and response telemetry quality"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "EDR MDR security operations concepts"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 6: Security Operations and Monitoring EDR, MDR, and Security Telemetry Quality explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 6: Security Operations and Monitoring EDR, MDR, and Security Telemetry Quality best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 6: Security Operations and Monitoring EDR, MDR, and Security Telemetry Quality troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 6: Security Operations and Monitoring EDR, MDR, and Security Telemetry Quality official documentation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 14,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Representative Security Operations Tools",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[6]__module-6-security-operations-and-monitoring\\[6.11]__representative-security-operations-tools.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Microsoft Sentinel Splunk QRadar Elastic Security CrowdStrike Defender for Endpoint Tenable Qualys ServiceNow overview"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "SIEM EDR vulnerability management ticketing tool examples"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 6: Security Operations and Monitoring Representative Security Operations Tools explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 6: Security Operations and Monitoring Representative Security Operations Tools best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 6: Security Operations and Monitoring Representative Security Operations Tools official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Evidence Handling and Chain of Custody",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[7]__module-7-incident-response-and-digital-forensics-fundamentals\\[7.4]__evidence-handling-and-chain-of-custody.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "volatile vs non-volatile data chain of custody integrity preservation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "digital evidence handling basics chain of custody"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 7: Incident Response and Digital Forensics Fundamentals Evidence Handling and Chain of Custody explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 7: Incident Response and Digital Forensics Fundamentals Evidence Handling and Chain of Custody best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 7: Incident Response and Digital Forensics Fundamentals Evidence Handling and Chain of Custody troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 7: Incident Response and Digital Forensics Fundamentals Evidence Handling and Chain of Custody official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Malware, Ransomware, and Insider Threat Response",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[7]__module-7-incident-response-and-digital-forensics-fundamentals\\[7.6]__malware-ransomware-and-insider-threat-response.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "malware incident handling ransomware response insider threat response overview"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "incident response for ransomware and insider threats"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 7: Incident Response and Digital Forensics Fundamentals Malware, Ransomware, and Insider Threat Response explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 7: Incident Response and Digital Forensics Fundamentals Malware, Ransomware, and Insider Threat Response troubleshooting"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Secure Configuration Baselines and Hardening Guides",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[8]__module-8-vulnerability-management-and-secure-configuration\\[8.4]__secure-configuration-baselines-and-hardening-guides.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "CIS Benchmarks secure configuration baselines hardening guides"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "system hardening benchmark guides overview"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.91,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 8,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Penetration Testing Awareness and Boundaries",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[8]__module-8-vulnerability-management-and-secure-configuration\\[8.3]__penetration-testing-awareness-and-boundaries.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "penetration testing awareness scope rules of engagement boundaries"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "penetration testing vs vulnerability scanning overview"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 8: Vulnerability Management and Secure Configuration Penetration Testing Awareness and Boundaries explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 8: Vulnerability Management and Secure Configuration Penetration Testing Awareness and Boundaries best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.86,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Incident Categories, Severity, and Triage",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[7]__module-7-incident-response-and-digital-forensics-fundamentals\\[7.2]__incident-categories-severity-and-triage.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "incident severity classification triage prioritization cybersecurity"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "incident categorization and triage process overview"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 7: Incident Response and Digital Forensics Fundamentals Incident Categories, Severity, and Triage explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 7: Incident Response and Digital Forensics Fundamentals Incident Categories, Severity, and Triage best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 7: Incident Response and Digital Forensics Fundamentals Incident Categories, Severity, and Triage troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 7: Incident Response and Digital Forensics Fundamentals Incident Categories, Severity, and Triage official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Post-Incident Review and Improvement",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[7]__module-7-incident-response-and-digital-forensics-fundamentals\\[7.8]__post-incident-review-and-improvement.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "post incident review lessons learned control improvement"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "incident response after action review cybersecurity"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 7: Incident Response and Digital Forensics Fundamentals Post-Incident Review and Improvement explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 7: Incident Response and Digital Forensics Fundamentals Post-Incident Review and Improvement best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 7: Incident Response and Digital Forensics Fundamentals Post-Incident Review and Improvement troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 7: Incident Response and Digital Forensics Fundamentals Post-Incident Review and Improvement official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Communication, Notification, and Stakeholder Coordination",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[7]__module-7-incident-response-and-digital-forensics-fundamentals\\[7.7]__communication-notification-and-stakeholder-coordination.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "incident communication notification legal HR executive coordination"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "security incident notification and stakeholder management"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 7: Incident Response and Digital Forensics Fundamentals Communication, Notification, and Stakeholder Coordination explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 7: Incident Response and Digital Forensics Fundamentals Communication, Notification, and Stakeholder Coordination best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 7: Incident Response and Digital Forensics Fundamentals Communication, Notification, and Stakeholder Coordination troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 17,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Basic Forensic Concepts",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[7]__module-7-incident-response-and-digital-forensics-fundamentals\\[7.5]__basic-forensic-concepts.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "disk imaging memory capture log preservation timeline analysis basics"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "foundational digital forensics concepts overview"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 7: Incident Response and Digital Forensics Fundamentals Basic Forensic Concepts explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 7: Incident Response and Digital Forensics Fundamentals Basic Forensic Concepts troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 7: Incident Response and Digital Forensics Fundamentals Basic Forensic Concepts official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Vulnerability Scanning Concepts",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[8]__module-8-vulnerability-management-and-secure-configuration\\[8.2]__vulnerability-scanning-concepts.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "authenticated vs unauthenticated vulnerability scanning overview"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "vulnerability scanning concepts and limitations"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 8: Vulnerability Management and Secure Configuration Vulnerability Scanning Concepts best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 8: Vulnerability Management and Secure Configuration Vulnerability Scanning Concepts troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 8: Vulnerability Management and Secure Configuration Vulnerability Scanning Concepts official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 14,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Cryptographic Goals and Use Cases",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[9]__module-9-cryptography-and-public-key-infrastructure\\[9.1]__cryptographic-goals-and-use-cases.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "confidentiality integrity authentication non-repudiation cryptography goals"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": null,
+          "ready": false,
+          "needsMoreResearch": false
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "cryptography use cases in cybersecurity overview"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 8,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 6,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Attack Surface Reduction and Exposure Management",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[8]__module-8-vulnerability-management-and-secure-configuration\\[8.6]__attack-surface-reduction-and-exposure-management.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "attack surface reduction exposure management concepts"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "external attack surface management cybersecurity overview"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 86,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Change Management and Remediation Prioritization",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[8]__module-8-vulnerability-management-and-secure-configuration\\[8.5]__change-management-and-remediation-prioritization.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "change management remediation prioritization risk-based patching"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "vulnerability remediation prioritization and change control"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 8: Vulnerability Management and Secure Configuration Change Management and Remediation Prioritization troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 8: Vulnerability Management and Secure Configuration Change Management and Remediation Prioritization official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Representative Vulnerability Management Tools",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[8]__module-8-vulnerability-management-and-secure-configuration\\[8.8]__representative-vulnerability-management-tools.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Nessus OpenVAS Greenbone Microsoft Defender Vulnerability Management Qualys VMDR overview"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "vulnerability management tool examples and use cases"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 8: Vulnerability Management and Secure Configuration Representative Vulnerability Management Tools best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 8,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Certificates and PKI",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[9]__module-9-cryptography-and-public-key-infrastructure\\[9.4]__certificates-and-pki.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "X.509 certificates PKI certificate authorities trust chain overview"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "public key infrastructure certificate lifecycle basics"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 9: Cryptography and Public Key Infrastructure Certificates and PKI explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Symmetric and Asymmetric Encryption",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[9]__module-9-cryptography-and-public-key-infrastructure\\[9.2]__symmetric-and-asymmetric-encryption.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "symmetric vs asymmetric encryption overview AES RSA ECC"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "encryption types and use cases cybersecurity"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 9: Cryptography and Public Key Infrastructure Symmetric and Asymmetric Encryption best practices"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 9: Cryptography and Public Key Infrastructure Symmetric and Asymmetric Encryption troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 9: Cryptography and Public Key Infrastructure Symmetric and Asymmetric Encryption official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Software Composition and Dependency Risk",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[8]__module-8-vulnerability-management-and-secure-configuration\\[8.7]__software-composition-and-dependency-risk.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "software composition dependency risk supply chain security overview"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "third-party library dependency risk management cybersecurity"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 8: Vulnerability Management and Secure Configuration Software Composition and Dependency Risk best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 8: Vulnerability Management and Secure Configuration Software Composition and Dependency Risk official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Shared Responsibility Model in Practice",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[10]__module-10-secure-cloud-virtualization-and-container-operations\\[10.2]__shared-responsibility-model-in-practice.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "shared responsibility model cloud security responsibilities overview"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "cloud shared responsibility model examples AWS Azure GCP"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.88,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 6,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Hashing, Salting, and Digital Signatures",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[9]__module-9-cryptography-and-public-key-infrastructure\\[9.3]__hashing-salting-and-digital-signatures.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "hashing salting digital signatures SHA-2 SHA-3 HMAC overview"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "cryptographic hashing and signatures basics"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 9: Cryptography and Public Key Infrastructure Hashing, Salting, and Digital Signatures explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 9: Cryptography and Public Key Infrastructure Hashing, Salting, and Digital Signatures best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 9: Cryptography and Public Key Infrastructure Hashing, Salting, and Digital Signatures official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Key Management and Lifecycle",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[9]__module-9-cryptography-and-public-key-infrastructure\\[9.5]__key-management-and-lifecycle.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "cryptographic key generation storage rotation revocation escrow"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "key management lifecycle and best practices overview"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 9: Cryptography and Public Key Infrastructure Key Management and Lifecycle explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 9: Cryptography and Public Key Infrastructure Key Management and Lifecycle best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 9: Cryptography and Public Key Infrastructure Key Management and Lifecycle troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Encryption Use Cases",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[9]__module-9-cryptography-and-public-key-infrastructure\\[9.6]__encryption-use-cases.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "full disk encryption file level encryption database encryption TLS use cases"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "encryption use cases at rest in transit in use overview"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 9: Cryptography and Public Key Infrastructure Encryption Use Cases explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 9: Cryptography and Public Key Infrastructure Encryption Use Cases best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 9: Cryptography and Public Key Infrastructure Encryption Use Cases troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 9: Cryptography and Public Key Infrastructure Encryption Use Cases official documentation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Representative Cryptographic Technologies",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[9]__module-9-cryptography-and-public-key-infrastructure\\[9.8]__representative-cryptographic-technologies.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "TLS 1.2 TLS 1.3 BitLocker FileVault LUKS HSM KMS overview"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "PKI HSM cloud KMS and full disk encryption examples"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 9: Cryptography and Public Key Infrastructure Representative Cryptographic Technologies explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 9: Cryptography and Public Key Infrastructure Representative Cryptographic Technologies best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 9: Cryptography and Public Key Infrastructure Representative Cryptographic Technologies troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 9: Cryptography and Public Key Infrastructure Representative Cryptographic Technologies official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Container Security Basics",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[10]__module-10-secure-cloud-virtualization-and-container-operations\\[10.5]__container-security-basics.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "container image trust registry security runtime protection least privilege"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Docker container security basics overview"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 5,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Cryptographic Weaknesses and Post-Quantum Awareness",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[9]__module-9-cryptography-and-public-key-infrastructure\\[9.7]__cryptographic-weaknesses-and-post-quantum-awareness.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "weak algorithms poor key management certificate misuse cryptographic weaknesses"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "post quantum cryptography awareness overview"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 9: Cryptography and Public Key Infrastructure Cryptographic Weaknesses and Post-Quantum Awareness explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 9: Cryptography and Public Key Infrastructure Cryptographic Weaknesses and Post-Quantum Awareness best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 9: Cryptography and Public Key Infrastructure Cryptographic Weaknesses and Post-Quantum Awareness troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 9: Cryptography and Public Key Infrastructure Cryptographic Weaknesses and Post-Quantum Awareness official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 16,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Cloud Misconfiguration and Posture Management",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[10]__module-10-secure-cloud-virtualization-and-container-operations\\[10.8]__cloud-misconfiguration-and-posture-management.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "cloud misconfiguration risks CSPM CNAPP overview"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "cloud posture management and misconfiguration detection"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.86,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Cloud Deployment and Service Models",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[10]__module-10-secure-cloud-virtualization-and-container-operations\\[10.1]__cloud-deployment-and-service-models.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "public private hybrid community cloud deployment models overview"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "IaaS PaaS SaaS cloud service models comparison"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 10: Secure Cloud, Virtualization, and Container Operations Cloud Deployment and Service Models explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 10: Secure Cloud, Virtualization, and Container Operations Cloud Deployment and Service Models best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 10: Secure Cloud, Virtualization, and Container Operations Cloud Deployment and Service Models troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 10: Secure Cloud, Virtualization, and Container Operations Cloud Deployment and Service Models official documentation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Cloud Identity, Logging, and Network Security",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[10]__module-10-secure-cloud-virtualization-and-container-operations\\[10.3]__cloud-identity-logging-and-network-security.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "cloud IAM audit logging security groups NSGs cloud network security overview"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "AWS CloudTrail Azure Defender for Cloud Google Cloud audit logs"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 10: Secure Cloud, Virtualization, and Container Operations Cloud Identity, Logging, and Network Security explanation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 10: Secure Cloud, Virtualization, and Container Operations Cloud Identity, Logging, and Network Security best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 10: Secure Cloud, Virtualization, and Container Operations Cloud Identity, Logging, and Network Security troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 16,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Serverless and Virtualization Security",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[10]__module-10-secure-cloud-virtualization-and-container-operations\\[10.7]__serverless-and-virtualization-security.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "serverless security considerations hypervisor risks virtual machine isolation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "virtualization security and serverless security overview"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 10: Secure Cloud, Virtualization, and Container Operations Serverless and Virtualization Security explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 10: Secure Cloud, Virtualization, and Container Operations Serverless and Virtualization Security best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 10: Secure Cloud, Virtualization, and Container Operations Serverless and Virtualization Security official documentation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Kubernetes Security Concepts",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[10]__module-10-secure-cloud-virtualization-and-container-operations\\[10.6]__kubernetes-security-concepts.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Kubernetes RBAC network policies secrets admission control security overview"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Kubernetes security basics for certification"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 10: Secure Cloud, Virtualization, and Container Operations Kubernetes Security Concepts explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 10: Secure Cloud, Virtualization, and Container Operations Kubernetes Security Concepts best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 10: Secure Cloud, Virtualization, and Container Operations Kubernetes Security Concepts troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 10: Secure Cloud, Virtualization, and Container Operations Kubernetes Security Concepts official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Cloud Storage and Workload Protection",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[10]__module-10-secure-cloud-virtualization-and-container-operations\\[10.4]__cloud-storage-and-workload-protection.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "cloud storage security workload protection overview"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "CWPP cloud workload protection platform concepts"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 10: Secure Cloud, Virtualization, and Container Operations Cloud Storage and Workload Protection explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 82,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 10: Secure Cloud, Virtualization, and Container Operations Cloud Storage and Workload Protection best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 10: Secure Cloud, Virtualization, and Container Operations Cloud Storage and Workload Protection official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 14,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Representative Cloud Technologies",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[10]__module-10-secure-cloud-virtualization-and-container-operations\\[10.10]__representative-cloud-technologies.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "AWS IAM Security Groups CloudTrail KMS Azure Entra ID Defender for Cloud NSGs Google Cloud IAM audit logs Terraform overview"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "cloud security services and infrastructure as code awareness"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 10: Secure Cloud, Virtualization, and Container Operations Representative Cloud Technologies explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 10: Secure Cloud, Virtualization, and Container Operations Representative Cloud Technologies best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 10: Secure Cloud, Virtualization, and Container Operations Representative Cloud Technologies troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 10: Secure Cloud, Virtualization, and Container Operations Representative Cloud Technologies official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "SaaS Security, Shadow IT, and Data Sovereignty",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[10]__module-10-secure-cloud-virtualization-and-container-operations\\[10.9]__saas-security-shadow-it-and-data-sovereignty.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "SaaS security shadow IT data residency data sovereignty overview"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "cloud data residency and sovereignty security concepts"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 10: Secure Cloud, Virtualization, and Container Operations SaaS Security, Shadow IT, and Data Sovereignty explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 10: Secure Cloud, Virtualization, and Container Operations SaaS Security, Shadow IT, and Data Sovereignty best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 10: Secure Cloud, Virtualization, and Container Operations SaaS Security, Shadow IT, and Data Sovereignty troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 10: Secure Cloud, Virtualization, and Container Operations SaaS Security, Shadow IT, and Data Sovereignty official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Social Engineering Techniques",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[11]__module-11-security-awareness-human-risk-and-social-engineering-defense\\[11.1]__social-engineering-techniques.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "phishing pretexting baiting tailgating shoulder surfing impersonation overview"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "social engineering techniques and indicators"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 11: Security Awareness, Human Risk, and Social Engineering Defense Social Engineering Techniques explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 11: Security Awareness, Human Risk, and Social Engineering Defense Social Engineering Techniques best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 11: Security Awareness, Human Risk, and Social Engineering Defense Social Engineering Techniques troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 11: Security Awareness, Human Risk, and Social Engineering Defense Social Engineering Techniques official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "AI-Enhanced Social Engineering",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[11]__module-11-security-awareness-human-risk-and-social-engineering-defense\\[11.2]__ai-enhanced-social-engineering.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "synthetic voice calls personalized phishing at scale deepfake executive fraud"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "AI enabled social engineering threats and defenses"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 11: Security Awareness, Human Risk, and Social Engineering Defense AI-Enhanced Social Engineering best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 11: Security Awareness, Human Risk, and Social Engineering Defense AI-Enhanced Social Engineering troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 11: Security Awareness, Human Risk, and Social Engineering Defense AI-Enhanced Social Engineering official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Security Awareness Program Design",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[11]__module-11-security-awareness-human-risk-and-social-engineering-defense\\[11.3]__security-awareness-program-design.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "security awareness program design phishing simulation training"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "security awareness and behavior change program best practices"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 11: Security Awareness, Human Risk, and Social Engineering Defense Security Awareness Program Design explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 11: Security Awareness, Human Risk, and Social Engineering Defense Security Awareness Program Design best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 11: Security Awareness, Human Risk, and Social Engineering Defense Security Awareness Program Design official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Reporting Culture and User Workflows",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[11]__module-11-security-awareness-human-risk-and-social-engineering-defense\\[11.4]__reporting-culture-and-user-workflows.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "phishing reporting workflow user reporting culture security"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "security incident reporting workflow for end users"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 11: Security Awareness, Human Risk, and Social Engineering Defense Reporting Culture and User Workflows explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 11: Security Awareness, Human Risk, and Social Engineering Defense Reporting Culture and User Workflows best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 11: Security Awareness, Human Risk, and Social Engineering Defense Reporting Culture and User Workflows official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Business Continuity and Disaster Recovery Integration",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[12]__module-12-security-program-operations-and-continuous-improvement\\[12.6]__business-continuity-and-disaster-recovery-integration.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "business continuity disaster recovery integration security overview"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 4,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Physical Security Awareness and Insider Threat Indicators",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[11]__module-11-security-awareness-human-risk-and-social-engineering-defense\\[11.5]__physical-security-awareness-and-insider-threat-indicators.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "physical security awareness insider threat indicators behavioral red flags"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "insider threat warning signs and physical security basics"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 11: Security Awareness, Human Risk, and Social Engineering Defense Physical Security Awareness and Insider Threat Indicators best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 11: Security Awareness, Human Risk, and Social Engineering Defense Physical Security Awareness and Insider Threat Indicators troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 11: Security Awareness, Human Risk, and Social Engineering Defense Physical Security Awareness and Insider Threat Indicators official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Asset Lifecycle Security and Vendor Management",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[12]__module-12-security-program-operations-and-continuous-improvement\\[12.5]__asset-lifecycle-security-and-vendor-management.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "asset lifecycle security third party assurance vendor management overview"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "secure procurement and vendor risk management cybersecurity"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 12: Security Program Operations and Continuous Improvement Asset Lifecycle Security and Vendor Management explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 12: Security Program Operations and Continuous Improvement Asset Lifecycle Security and Vendor Management best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Security Program Lifecycle",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[12]__module-12-security-program-operations-and-continuous-improvement\\[12.1]__security-program-lifecycle.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "security program lifecycle overview"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "security program management and continuous improvement"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 12: Security Program Operations and Continuous Improvement Security Program Lifecycle explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 12: Security Program Operations and Continuous Improvement Security Program Lifecycle troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Tabletop Exercises and Scenario Planning",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[12]__module-12-security-program-operations-and-continuous-improvement\\[12.7]__tabletop-exercises-and-scenario-planning.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "tabletop exercise scenario planning cybersecurity"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "incident response tabletop exercise design and facilitation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 12: Security Program Operations and Continuous Improvement Tabletop Exercises and Scenario Planning explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 6,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Executive Protection and High-Value Target Awareness",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[11]__module-11-security-awareness-human-risk-and-social-engineering-defense\\[11.6]__executive-protection-and-high-value-target-awareness.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "executive protection high value target awareness cybersecurity"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "whaling and executive fraud defense awareness"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 11: Security Awareness, Human Risk, and Social Engineering Defense Executive Protection and High-Value Target Awareness best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 11: Security Awareness, Human Risk, and Social Engineering Defense Executive Protection and High-Value Target Awareness official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Control Validation, Testing, and Audit Support",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[12]__module-12-security-program-operations-and-continuous-improvement\\[12.2]__control-validation-testing-and-audit-support.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "security control validation testing audit support evidence collection"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "audit evidence collection and control testing cybersecurity"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 12: Security Program Operations and Continuous Improvement Control Validation, Testing, and Audit Support explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 12: Security Program Operations and Continuous Improvement Control Validation, Testing, and Audit Support best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 12: Security Program Operations and Continuous Improvement Control Validation, Testing, and Audit Support official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Policy Enforcement and Exception Review",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[12]__module-12-security-program-operations-and-continuous-improvement\\[12.4]__policy-enforcement-and-exception-review.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "policy enforcement exception review security governance"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "security exception management and policy enforcement overview"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 12: Security Program Operations and Continuous Improvement Policy Enforcement and Exception Review best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 12: Security Program Operations and Continuous Improvement Policy Enforcement and Exception Review troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 12: Security Program Operations and Continuous Improvement Policy Enforcement and Exception Review official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Continuous Monitoring and Metrics",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-security-exam-sy0-701\\[12]__module-12-security-program-operations-and-continuous-improvement\\[12.3]__continuous-monitoring-and-metrics.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "continuous monitoring security metrics KPIs KRIs overview"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "security metrics and continuous improvement framework"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 12: Security Program Operations and Continuous Improvement Continuous Monitoring and Metrics explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 12: Security Program Operations and Continuous Improvement Continuous Monitoring and Metrics best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 12: Security Program Operations and Continuous Improvement Continuous Monitoring and Metrics troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Security+ (Exam SY0-701) Module 12: Security Program Operations and Continuous Improvement Continuous Monitoring and Metrics official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    }
+  ],
+  "totalTopics": 102,
+  "writtenTopics": 102,
+  "failedTopics": 0,
+  "finishedAt": "2026-04-21T11:08:29.828Z"
+}

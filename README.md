@@ -1,0 +1,259 @@
+# create-orbitjs 🚀
+
+`create-orbitjs` scaffolds a new Orbit project.
+
+Create a new site with:
+
+```bash
+npm create orbitjs@latest my-notes
+```
+
+Then:
+
+```bash
+cd my-notes
+npm install
+npm run dev
+```
+
+The generated Orbit project is a minimalist static site generator for markdown-based learning notes.
+
+## Documentation
+
+- Master onboarding: `get-started.md`
+- Content authoring: `docs/content-authoring.md`
+- Architecture internals: `docs/architecture.md`
+- Deployment workflow: `docs/deployment.md`
+- Quick deployment steps: `DEPLOYMENT_CHECKLIST.md`
+
+## Highlights
+
+- Markdown-first workflow with frontmatter support (`.md` and `.mdx` files are parsed as markdown content)
+- Auto-generated sidebar from folder structure
+- Flexible ordering with frontmatter, `_meta.json`, or filename/folder prefixes
+- Built-in pagination between pages
+- Build-time SEO pipeline (meta tags, JSON-LD, sitemap, robots, RSS, report)
+- Watch mode for local iteration
+
+## Quick Start
+
+### 1) Install dependencies
+
+```bash
+npm install
+```
+
+### 2) Build site
+
+```bash
+npm run build
+```
+
+### 3) Develop with live rebuild
+
+```bash
+npm run dev
+```
+
+### 4) Preview built output
+
+```bash
+npm run preview
+```
+
+## Build Commands
+
+- `npm run build` — full site build into `dist/`
+- `npm run dev` — watch mode + rebuild on source changes
+- `npm run preview` — serve built site locally
+- `npm run seo:check` — run build pipeline and write SEO report
+- `npm run lint` — syntax checks for core JS files
+
+## Content Location and Output
+
+### Source
+
+- `src/pages/**` — markdown content
+- `src/styles/**` — site CSS copied into build
+- `public/**` — static assets copied to `dist/content/assets/`
+
+### Output
+
+- Root landing page: `dist/index.html`
+- Content pages: `dist/content/<clean-route>/index.html`
+- Course index pages: `dist/content/<course-slug>/index.html`
+
+Orbit uses directory-style routes, so links look like:
+
+- `/content/web-dev/intro/`
+- `/content/compTia-a-plus/mobile-devices/laptop-hardware-components/`
+
+## Folder and File Naming
+
+You can prefix folders/files with ordering markers. Orbit strips these from the final route and UI label.
+
+Examples:
+
+- `[1]__web-dev/`
+- `[1.1]__css-basics/`
+- `[1.1.0]__selectors.md`
+- Legacy numeric format like `01-intro.md` also works
+
+## Ordering Rules (Highest Priority First)
+
+| Priority | Method | Scope |
+|---|---|---|
+| 1 | Frontmatter `order` | Per file |
+| 2 | Parent `_meta.json` `items` mapping | Per file |
+| 3 | Prefix order (`[n]__name` or `01-name`) | File/folder |
+| 4 | Alphabetical fallback | File/folder |
+
+## `_meta.json` (Per Folder)
+
+Place a `_meta.json` inside any content folder to control folder label/order and child item order.
+
+```json
+{
+  "order": 1,
+  "label": "Web Dev",
+  "items": {
+    "learn-html": 1,
+    "learn-javascript": 2
+  }
+}
+```
+
+Field meanings:
+
+- `order` — position of this folder in parent sidebar
+- `label` — display name override in sidebar
+- `items` — map of clean child filename/folder-name to sort index
+
+## Frontmatter Reference
+
+Orbit reads frontmatter for both navigation and SEO:
+
+```yaml
+---
+title: Laptop Hardware Components
+description: Understand laptop hardware components for CompTIA A+ prep.
+author: Webnotes
+order: 1
+image: /content/assets/laptop-og.png
+keywords:
+  - comptia a+
+  - laptop hardware
+canonical: https://webnotes.site/content/compTia-a-plus/mobile-devices/laptop-hardware-components/
+twitterCard: summary_large_image
+twitterSite: "@webnotes"
+schemaType: TechArticle
+date: 2026-04-08
+lastModified: 2026-04-09
+---
+```
+
+## Global Metadata (`metadata.json`)
+
+Create/edit `metadata.json` at project root to define defaults used across the whole site.
+
+```json
+{
+  "siteName": "Webnotes",
+  "url": "https://webnotes.site",
+  "defaultTitle": "Webnotes",
+  "defaultDescription": "Practical learning notes for web development, programming, and tech concepts.",
+  "defaultImage": "/content/assets/og-default.png",
+  "author": "Webnotes",
+  "twitterCard": "summary_large_image",
+  "twitterSite": "@webnotes",
+  "language": "en",
+  "strictSeo": false,
+  "minifyHtml": true,
+  "keywords": [
+    "web development notes",
+    "programming notes",
+    "developer learning"
+  ]
+}
+```
+
+### Metadata fields
+
+- `siteName` — brand/site label used in title composition
+- `url` — canonical site base URL (required for best sitemap/canonical/feed output)
+- `defaultTitle` — fallback title
+- `defaultDescription` — fallback description
+- `defaultImage` — fallback social image (relative or absolute URL)
+- `author` — default author
+- `twitterCard` — default twitter card type
+- `twitterSite` — default twitter handle
+- `language` — page language
+- `keywords` — fallback keyword list
+- `strictSeo` — fail build when SEO warnings exist
+- `minifyHtml` — minify generated HTML
+
+## SEO Pipeline (Autogenerated During Build)
+
+Orbit generates SEO data automatically every build:
+
+- Page-level `<title>`, `<meta name="description">`, OpenGraph, and Twitter tags
+- Canonical URLs
+- JSON-LD structured data (`TechArticle` by default, override with `schemaType`)
+- `dist/sitemap.xml`
+- `dist/robots.txt`
+- `dist/feed.xml` (RSS)
+- `dist/seo-report.json`
+
+### SEO fallback strategy per page
+
+For each page, Orbit resolves fields in this order:
+
+1. Frontmatter value  
+2. Auto-generated value from markdown content (for description excerpt)  
+3. Global default from `metadata.json`
+
+This ensures each page has usable SEO even if only minimal frontmatter is provided.
+
+## Pagination and Navigation
+
+- Sidebar and page order are generated from the same internal tree.
+- Previous/Next links are automatically injected into every content page.
+- Active page state is reflected in sidebar navigation.
+
+## Project Structure
+
+```text
+├── src/
+│   ├── pages/                 # Markdown sources
+│   │   └── .../_meta.json     # Optional folder config
+│   └── styles/                # Styles copied to dist/content/styles
+├── public/                    # Static assets copied to dist/content/assets
+├── dist/                      # Generated static output
+├── metadata.json              # Global SEO/site defaults
+├── main.js                    # Build engine + watch mode + SEO generation
+├── layout.js                  # Page template and meta tag rendering
+├── utils.js                   # Shared utility helpers
+└── .orbit/.sidebar/
+    ├── sidebar.js             # Sidebar config + rendering logic
+    ├── sidebar.css            # Sidebar styles
+    └── config.json            # Auto-generated tree snapshot
+```
+
+## Troubleshooting
+
+- Missing canonical/sitemap URLs:
+  - Ensure `metadata.json` has a valid `url`
+- Build fails in strict SEO mode:
+  - Check `dist/seo-report.json` and fix warnings
+- Sidebar order not as expected:
+  - Verify `order` in frontmatter, `_meta.json`, and filename prefixes
+- Social image not showing:
+  - Confirm `image` path exists in `public/` (or use absolute URL)
+
+## Recommended Workflow
+
+1. Add/update content in `src/pages`
+2. Fill frontmatter for important pages (title, description, image, date)
+3. Run `npm run build`
+4. Review `dist/seo-report.json`
+5. Use `npm run preview` to verify pages and metadata output locally

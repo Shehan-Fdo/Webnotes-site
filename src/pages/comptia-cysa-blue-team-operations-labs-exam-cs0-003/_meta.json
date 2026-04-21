@@ -1,0 +1,4 @@
+{
+  "label": "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003)",
+  "description": "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) is a hands-on study notes course built for SOC analysts who want tactical, exam-focused practice in continuous monitoring and incident response. Work through realistic labs in Splunk, Microsoft Sentinel, Elastic SIEM, Graylog, and CrowdStrike Falcon to triage alerts, write detections with Sigma, KQL, and SPL, hunt with MITRE ATT&CK, and perform end-to-end analysis of vulnerabilities, malware, PCAPs, and threat intelligence feeds."
+}

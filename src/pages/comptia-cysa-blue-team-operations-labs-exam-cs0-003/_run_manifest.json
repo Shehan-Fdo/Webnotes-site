@@ -1,0 +1,2748 @@
+{
+  "courseName": "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003)",
+  "courseSlug": "comptia-cysa-blue-team-operations-labs-exam-cs0-003",
+  "model": "gpt-5.4-mini",
+  "startedAt": "2026-04-21T13:00:07.799Z",
+  "config": {
+    "maxRetrievalAttempts": 3,
+    "minFetchedPages": 3,
+    "maxUrlsPerAttempt": 5,
+    "searchResultsPerQuery": 5,
+    "maxEvidenceChars": 12000,
+    "generationRetries": 2
+  },
+  "topics": [
+    {
+      "topic": "Sigma rule authoring and translation concepts",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[2]__module-2-siem-querying-and-detection-logic-engineering\\[2.3]__sigma-rule-authoring-and-translation-concepts.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Sigma rule format title logsource detection condition falsepositives level documentation"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 5,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Enrichment with asset, user, and threat intelligence context",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[1]__module-1-soc-alert-triage-foundations-in-live-platforms\\[1.4]__enrichment-with-asset-user-and-threat-intelligence-context.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "security alert enrichment asset user threat intelligence context SOC triage"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "CrowdStrike Falcon asset context user context threat intel enrichment workflow"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 1: SOC Alert Triage Foundations in Live Platforms Enrichment with asset, user, and threat intelligence context explanation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 1: SOC Alert Triage Foundations in Live Platforms Enrichment with asset, user, and threat intelligence context best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 1: SOC Alert Triage Foundations in Live Platforms Enrichment with asset, user, and threat intelligence context troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Alert queue management and SLA-driven prioritization",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[1]__module-1-soc-alert-triage-foundations-in-live-platforms\\[1.1]__alert-queue-management-and-sla-driven-prioritization.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "SOC alert triage workflow SLA prioritization best practices Splunk ES Sentinel Graylog"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "security alert queue management deduplication correlation analyst workflow documentation"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 1: SOC Alert Triage Foundations in Live Platforms Alert queue management and SLA-driven prioritization explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 1: SOC Alert Triage Foundations in Live Platforms Alert queue management and SLA-driven prioritization best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 1: SOC Alert Triage Foundations in Live Platforms Alert queue management and SLA-driven prioritization troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 1: SOC Alert Triage Foundations in Live Platforms Alert queue management and SLA-driven prioritization official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 16,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "SPL search, stats, transaction, rex, and lookup enrichment",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[2]__module-2-siem-querying-and-detection-logic-engineering\\[2.2]__spl-search-stats-transaction-rex-and-lookup-enrichment.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Splunk SPL stats transaction rex lookup enrichment security detection examples"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Splunk SPL security hunting query patterns field extraction correlation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 2: SIEM Querying and Detection Logic Engineering SPL search, stats, transaction, rex, and lookup enrichment explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 2: SIEM Querying and Detection Logic Engineering SPL search, stats, transaction, rex, and lookup enrichment troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 2: SIEM Querying and Detection Logic Engineering SPL search, stats, transaction, rex, and lookup enrichment official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 14,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Severity assessment and escalation thresholds",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[1]__module-1-soc-alert-triage-foundations-in-live-platforms\\[1.2]__severity-assessment-and-escalation-thresholds.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "security incident severity assessment criteria escalation thresholds SOC analyst guide"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "alert severity scoring asset criticality user context threat intel enrichment"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 1: SOC Alert Triage Foundations in Live Platforms Severity assessment and escalation thresholds explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 1: SOC Alert Triage Foundations in Live Platforms Severity assessment and escalation thresholds best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 1: SOC Alert Triage Foundations in Live Platforms Severity assessment and escalation thresholds troubleshooting"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 1: SOC Alert Triage Foundations in Live Platforms Severity assessment and escalation thresholds official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 16,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "KQL filtering, summarization, joins, and time binning",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[2]__module-2-siem-querying-and-detection-logic-engineering\\[2.1]__kql-filtering-summarization-joins-and-time-binning.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Microsoft Sentinel KQL summarize join bin time entity correlation documentation"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "KQL security hunting queries filtering aggregation joins examples"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 2: SIEM Querying and Detection Logic Engineering KQL filtering, summarization, joins, and time binning explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 2: SIEM Querying and Detection Logic Engineering KQL filtering, summarization, joins, and time binning best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 2: SIEM Querying and Detection Logic Engineering KQL filtering, summarization, joins, and time binning troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 2: SIEM Querying and Detection Logic Engineering KQL filtering, summarization, joins, and time binning official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Triage notes, priority assignment, and initial containment recommendation",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[1]__module-1-soc-alert-triage-foundations-in-live-platforms\\[1.6]__triage-notes-priority-assignment-and-initial-containment-recommendation.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "SOC triage notes template priority assignment containment recommendation incident ticket"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "security analyst handoff documentation initial containment recommendation format"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 1: SOC Alert Triage Foundations in Live Platforms Triage notes, priority assignment, and initial containment recommendation explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 1: SOC Alert Triage Foundations in Live Platforms Triage notes, priority assignment, and initial containment recommendation best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 1: SOC Alert Triage Foundations in Live Platforms Triage notes, priority assignment, and initial containment recommendation troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 1: SOC Alert Triage Foundations in Live Platforms Triage notes, priority assignment, and initial containment recommendation official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Field mapping, normalization, and schema alignment",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[2]__module-2-siem-querying-and-detection-logic-engineering\\[2.4]__field-mapping-normalization-and-schema-alignment.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "SIEM field normalization schema mapping security telemetry common information model"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "KQL SPL field mapping normalization detection engineering guide"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 2: SIEM Querying and Detection Logic Engineering Field mapping, normalization, and schema alignment explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 2: SIEM Querying and Detection Logic Engineering Field mapping, normalization, and schema alignment best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 2: SIEM Querying and Detection Logic Engineering Field mapping, normalization, and schema alignment troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 2: SIEM Querying and Detection Logic Engineering Field mapping, normalization, and schema alignment official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 14,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Platform triage labs: Splunk ES, Microsoft Sentinel, Elastic SIEM, Graylog, CrowdStrike Falcon",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[1]__module-1-soc-alert-triage-foundations-in-live-platforms\\[1.5]__platform-triage-labs-splunk-es-microsoft-sentinel-elastic-siem-graylog-crowdstrike-falcon.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Splunk Enterprise Security notable event triage documentation analyst workflow"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Microsoft Sentinel incident triage KQL Elastic SIEM Graylog CrowdStrike Falcon investigation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 1: SOC Alert Triage Foundations in Live Platforms Platform triage labs: Splunk ES, Microsoft Sentinel, Elastic SIEM, Graylog, CrowdStrike Falcon explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.46,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 1: SOC Alert Triage Foundations in Live Platforms Platform triage labs: Splunk ES, Microsoft Sentinel, Elastic SIEM, Graylog, CrowdStrike Falcon best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.46,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 1: SOC Alert Triage Foundations in Live Platforms Platform triage labs: Splunk ES, Microsoft Sentinel, Elastic SIEM, Graylog, CrowdStrike Falcon troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 1: SOC Alert Triage Foundations in Live Platforms Platform triage labs: Splunk ES, Microsoft Sentinel, Elastic SIEM, Graylog, CrowdStrike Falcon official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Process trees and parent-child process relationships",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[3]__module-3-endpoint-investigation-and-edr-workflows\\[3.1]__process-trees-and-parent-child-process-relationships.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "CrowdStrike Falcon process tree investigation parent child relationship documentation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Windows endpoint process tree analysis suspicious process lineage guide"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 7,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Thresholding, aggregation, sequence-based detections, and tuning",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[2]__module-2-siem-querying-and-detection-logic-engineering\\[2.5]__thresholding-aggregation-sequence-based-detections-and-tuning.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "security detection threshold aggregation sequence based detection tuning false positives"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.46,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "SIEM correlation rule time window tuning detection validation sample telemetry"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 2: SIEM Querying and Detection Logic Engineering Thresholding, aggregation, sequence-based detections, and tuning explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 2: SIEM Querying and Detection Logic Engineering Thresholding, aggregation, sequence-based detections, and tuning best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 2: SIEM Querying and Detection Logic Engineering Thresholding, aggregation, sequence-based detections, and tuning troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 2: SIEM Querying and Detection Logic Engineering Thresholding, aggregation, sequence-based detections, and tuning official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Deduplication, correlation, and false-positive identification",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[1]__module-1-soc-alert-triage-foundations-in-live-platforms\\[1.3]__deduplication-correlation-and-false-positive-identification.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "SIEM alert deduplication correlation false positive reduction analyst workflow"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Splunk ES notable event correlation false positive triage enrichment"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 1: SOC Alert Triage Foundations in Live Platforms Deduplication, correlation, and false-positive identification explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 1: SOC Alert Triage Foundations in Live Platforms Deduplication, correlation, and false-positive identification official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "2026-era enterprise TTP examples and hunt planning",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[4]__module-4-threat-hunting-with-mitre-attck-navigator\\[4.3]__2026-era-enterprise-ttp-examples-and-hunt-planning.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "modern enterprise threat hunting identity token theft cloud control plane abuse ATT&CK"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.86,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 5,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "ATT&CK technique selection and hunt hypothesis development",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[4]__module-4-threat-hunting-with-mitre-attck-navigator\\[4.1]__attack-technique-selection-and-hunt-hypothesis-development.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "MITRE ATT&CK hunt hypothesis development technique selection guide"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "threat hunting hypothesis driven ATT&CK Navigator workflow"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.86,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 6,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Detection validation with known-good and known-bad telemetry",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[2]__module-2-siem-querying-and-detection-logic-engineering\\[2.6]__detection-validation-with-known-good-and-known-bad-telemetry.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "detection engineering validation known good known bad telemetry test cases"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": null,
+          "ready": false,
+          "needsMoreResearch": false
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Sigma KQL SPL rule testing false positive tuning validation criteria"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 2: SIEM Querying and Detection Logic Engineering Detection validation with known-good and known-bad telemetry best practices"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 2: SIEM Querying and Detection Logic Engineering Detection validation with known-good and known-bad telemetry official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 8,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Risk prioritization and exploitability context",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[5]__module-5-vulnerability-management-end-to-end\\[5.2]__risk-prioritization-and-exploitability-context.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "vulnerability risk prioritization exploitability context remediation prioritization guide"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 86,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 5,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Command-line analysis and suspicious PowerShell activity",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[3]__module-3-endpoint-investigation-and-edr-workflows\\[3.2]__command-line-analysis-and-suspicious-powershell-activity.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "PowerShell suspicious command line analysis SOC investigation guide"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "EDR command line analysis living off the land binaries PowerShell detection"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 3: Endpoint Investigation and EDR Workflows Command-line analysis and suspicious PowerShell activity explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 3: Endpoint Investigation and EDR Workflows Command-line analysis and suspicious PowerShell activity best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 3: Endpoint Investigation and EDR Workflows Command-line analysis and suspicious PowerShell activity troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 3: Endpoint Investigation and EDR Workflows Command-line analysis and suspicious PowerShell activity official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Persistence indicators: registry, scheduled tasks, services, startup items",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[3]__module-3-endpoint-investigation-and-edr-workflows\\[3.3]__persistence-indicators-registry-scheduled-tasks-services-startup-items.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Windows persistence registry scheduled task service startup item investigation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Sysmon registry scheduled task persistence detection analyst guide"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 3: Endpoint Investigation and EDR Workflows Persistence indicators: registry, scheduled tasks, services, startup items explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 3: Endpoint Investigation and EDR Workflows Persistence indicators: registry, scheduled tasks, services, startup items best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 3: Endpoint Investigation and EDR Workflows Persistence indicators: registry, scheduled tasks, services, startup items troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 3: Endpoint Investigation and EDR Workflows Persistence indicators: registry, scheduled tasks, services, startup items official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Endpoint timeline reconstruction and containment decisions",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[3]__module-3-endpoint-investigation-and-edr-workflows\\[3.5]__endpoint-timeline-reconstruction-and-containment-decisions.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "endpoint timeline reconstruction incident response containment decision workflow"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "EDR investigation timeline host artifacts containment recommendation template"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 3: Endpoint Investigation and EDR Workflows Endpoint timeline reconstruction and containment decisions explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 3: Endpoint Investigation and EDR Workflows Endpoint timeline reconstruction and containment decisions best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 3: Endpoint Investigation and EDR Workflows Endpoint timeline reconstruction and containment decisions official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 14,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "ATT&CK Navigator layer creation and coverage mapping",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[4]__module-4-threat-hunting-with-mitre-attck-navigator\\[4.2]__attack-navigator-layer-creation-and-coverage-mapping.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "MITRE ATT&CK Navigator layer creation coverage mapping documentation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "ATT&CK Navigator hunt layer export import analyst workflow"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 4: Threat Hunting with MITRE ATT&CK Navigator ATT&CK Navigator layer creation and coverage mapping explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 4: Threat Hunting with MITRE ATT&CK Navigator ATT&CK Navigator layer creation and coverage mapping troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 4: Threat Hunting with MITRE ATT&CK Navigator ATT&CK Navigator layer creation and coverage mapping official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 8,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Hunt execution, evidence summary, and detection conversion",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[4]__module-4-threat-hunting-with-mitre-attck-navigator\\[4.4]__hunt-execution-evidence-summary-and-detection-conversion.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "threat hunt evidence summary convert hunt to detection SOC workflow"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "ATT&CK hunt to detection engineering process documentation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 4: Threat Hunting with MITRE ATT&CK Navigator Hunt execution, evidence summary, and detection conversion explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 4: Threat Hunting with MITRE ATT&CK Navigator Hunt execution, evidence summary, and detection conversion best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 4: Threat Hunting with MITRE ATT&CK Navigator Hunt execution, evidence summary, and detection conversion official documentation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "File hash, reputation checks, and artifact triage",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[3]__module-3-endpoint-investigation-and-edr-workflows\\[3.4]__file-hash-reputation-checks-and-artifact-triage.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "file hash reputation triage SOC analyst workflow malware investigation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "CrowdStrike Falcon file reputation hash lookup endpoint investigation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 3: Endpoint Investigation and EDR Workflows File hash, reputation checks, and artifact triage explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 3: Endpoint Investigation and EDR Workflows File hash, reputation checks, and artifact triage best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 3: Endpoint Investigation and EDR Workflows File hash, reputation checks, and artifact triage official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Remediation recommendations, exceptions, and retesting",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[5]__module-5-vulnerability-management-end-to-end\\[5.3]__remediation-recommendations-exceptions-and-retesting.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "vulnerability remediation plan exception handling retesting workflow Tenable Qualys"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.18,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "security vulnerability retest validation remediation recommendation template"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 5: Vulnerability Management End-to-End Remediation recommendations, exceptions, and retesting explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 5: Vulnerability Management End-to-End Remediation recommendations, exceptions, and retesting official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Asset inventory correlation and scan interpretation",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[5]__module-5-vulnerability-management-end-to-end\\[5.1]__asset-inventory-correlation-and-scan-interpretation.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Tenable.io asset inventory correlation scan interpretation analyst guide"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Qualys vulnerability scan results interpretation asset context prioritization"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 5: Vulnerability Management End-to-End Asset inventory correlation and scan interpretation explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 5: Vulnerability Management End-to-End Asset inventory correlation and scan interpretation best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 5: Vulnerability Management End-to-End Asset inventory correlation and scan interpretation troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 5: Vulnerability Management End-to-End Asset inventory correlation and scan interpretation official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "File reputation, metadata review, and PE header analysis",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[6]__module-6-malware-triage-and-static-dynamic-analysis\\[6.1]__file-reputation-metadata-review-and-pe-header-analysis.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "PEStudio file metadata PE header analysis malware triage guide"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "malware triage file reputation static analysis PEStudio documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 6: Malware Triage and Static/Dynamic Analysis File reputation, metadata review, and PE header analysis explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 6: Malware Triage and Static/Dynamic Analysis File reputation, metadata review, and PE header analysis best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 6: Malware Triage and Static/Dynamic Analysis File reputation, metadata review, and PE header analysis troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 6: Malware Triage and Static/Dynamic Analysis File reputation, metadata review, and PE header analysis official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 8,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "YARA syntax, structure, and rule components",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[7]__module-7-yara-rule-crafting-and-validation\\[7.1]__yara-syntax-structure-and-rule-components.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "YARA rule syntax strings condition meta documentation"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "YARA rule structure authoring guide malware detection"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 7: YARA Rule Crafting and Validation YARA syntax, structure, and rule components best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.86,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 8,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "String selection and condition logic",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[7]__module-7-yara-rule-crafting-and-validation\\[7.2]__string-selection-and-condition-logic.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "YARA string selection condition logic false positive reduction guide"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "YARA rule crafting strings hex regex condition examples"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 7: YARA Rule Crafting and Validation String selection and condition logic explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.86,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Imports, exports, and strings analysis",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[6]__module-6-malware-triage-and-static-dynamic-analysis\\[6.2]__imports-exports-and-strings-analysis.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "PE file imports exports strings analysis malware triage workflow"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": null,
+          "ready": false,
+          "needsMoreResearch": false
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "static malware analysis strings imports exports suspicious indicators"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 6: Malware Triage and Static/Dynamic Analysis Imports, exports, and strings analysis explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 6: Malware Triage and Static/Dynamic Analysis Imports, exports, and strings analysis best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 6: Malware Triage and Static/Dynamic Analysis Imports, exports, and strings analysis troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 6: Malware Triage and Static/Dynamic Analysis Imports, exports, and strings analysis official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "IOC extraction and triage-level classification",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[6]__module-6-malware-triage-and-static-dynamic-analysis\\[6.4]__ioc-extraction-and-triage-level-classification.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "malware triage IOC extraction behavioral summary classification guide"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "suspicious file triage worksheet indicators of compromise extraction"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 6: Malware Triage and Static/Dynamic Analysis IOC extraction and triage-level classification explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 6: Malware Triage and Static/Dynamic Analysis IOC extraction and triage-level classification troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 6: Malware Triage and Static/Dynamic Analysis IOC extraction and triage-level classification official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Any.run sandbox execution and behavior observation",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[6]__module-6-malware-triage-and-static-dynamic-analysis\\[6.3]__any-run-sandbox-execution-and-behavior-observation.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Any.run sandbox malware behavior analysis network callback persistence documentation"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "dynamic malware analysis sandbox triage workflow Any.run"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 6: Malware Triage and Static/Dynamic Analysis Any.run sandbox execution and behavior observation explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 6: Malware Triage and Static/Dynamic Analysis Any.run sandbox execution and behavior observation best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 6: Malware Triage and Static/Dynamic Analysis Any.run sandbox execution and behavior observation official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Rule testing against benign and malicious samples",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[7]__module-7-yara-rule-crafting-and-validation\\[7.3]__rule-testing-against-benign-and-malicious-samples.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "YARA rule validation benign malicious sample testing workflow"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "YARA tuning false positives validation criteria malware samples"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 7: YARA Rule Crafting and Validation Rule testing against benign and malicious samples explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 7: YARA Rule Crafting and Validation Rule testing against benign and malicious samples official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 7,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "PCAP filtering and protocol identification in Wireshark",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[8]__module-8-malicious-pcap-analysis-and-network-forensics\\[8.1]__pcap-filtering-and-protocol-identification-in-wireshark.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Wireshark display filters PCAP protocol identification security analysis"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "malicious PCAP analysis workflow Wireshark documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 8: Malicious PCAP Analysis and Network Forensics PCAP filtering and protocol identification in Wireshark explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 7,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "DNS, HTTP/S, TLS, SMB, and RDP traffic analysis",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[8]__module-8-malicious-pcap-analysis-and-network-forensics\\[8.2]__dns-http-s-tls-smb-and-rdp-traffic-analysis.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Wireshark DNS HTTP TLS SMB RDP malicious traffic analysis guide"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "network forensics protocol analysis beaconing C2 indicators Wireshark"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 8: Malicious PCAP Analysis and Network Forensics DNS, HTTP/S, TLS, SMB, and RDP traffic analysis explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 8: Malicious PCAP Analysis and Network Forensics DNS, HTTP/S, TLS, SMB, and RDP traffic analysis best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 8: Malicious PCAP Analysis and Network Forensics DNS, HTTP/S, TLS, SMB, and RDP traffic analysis troubleshooting"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 8: Malicious PCAP Analysis and Network Forensics DNS, HTTP/S, TLS, SMB, and RDP traffic analysis official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Beaconing, C2, download, and exfiltration indicators",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[8]__module-8-malicious-pcap-analysis-and-network-forensics\\[8.3]__beaconing-c2-download-and-exfiltration-indicators.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "beaconing detection PCAP C2 exfiltration indicators network forensics"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "malicious traffic analysis low and slow exfiltration beaconing patterns"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 8: Malicious PCAP Analysis and Network Forensics Beaconing, C2, download, and exfiltration indicators explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 8: Malicious PCAP Analysis and Network Forensics Beaconing, C2, download, and exfiltration indicators best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Correlation of network activity with endpoint events",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[8]__module-8-malicious-pcap-analysis-and-network-forensics\\[8.4]__correlation-of-network-activity-with-endpoint-events.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "correlate PCAP with endpoint events SIEM EDR investigation workflow"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "network forensics endpoint correlation timeline reconstruction guide"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 8: Malicious PCAP Analysis and Network Forensics Correlation of network activity with endpoint events best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 8: Malicious PCAP Analysis and Network Forensics Correlation of network activity with endpoint events official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "TTP enrichment and intel-to-detection conversion",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[9]__module-9-threat-intelligence-ingestion-and-operationalization\\[9.3]__ttp-enrichment-and-intel-to-detection-conversion.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "threat intelligence to detection engineering workflow ATT&CK enrichment"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "OpenCTI intel to detection conversion SOC analyst guide"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 9: Threat Intelligence Ingestion and Operationalization TTP enrichment and intel-to-detection conversion explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 8,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Rule maintenance and operational deployment considerations",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[7]__module-7-yara-rule-crafting-and-validation\\[7.4]__rule-maintenance-and-operational-deployment-considerations.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "YARA rule maintenance versioning deployment operational considerations"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "malware detection rule lifecycle YARA maintenance best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 7: YARA Rule Crafting and Validation Rule maintenance and operational deployment considerations explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 7: YARA Rule Crafting and Validation Rule maintenance and operational deployment considerations best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Intel-to-hunt conversion and case enrichment",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[9]__module-9-threat-intelligence-ingestion-and-operationalization\\[9.4]__intel-to-hunt-conversion-and-case-enrichment.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "threat intelligence to hunt conversion workflow ATT&CK Navigator"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "case enrichment threat intel operationalization SOC investigation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 9: Threat Intelligence Ingestion and Operationalization Intel-to-hunt conversion and case enrichment explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Containment options by asset type and identity-based response actions",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[10]__module-10-incident-response-decision-trees-in-hybrid-cloud\\[10.1]__containment-options-by-asset-type-and-identity-based-response-actions.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "incident response containment options endpoint identity cloud workload decision tree"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "token revocation credential reset endpoint isolation hybrid cloud response"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 10: Incident Response Decision Trees in Hybrid Cloud Containment options by asset type and identity-based response actions explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 10: Incident Response Decision Trees in Hybrid Cloud Containment options by asset type and identity-based response actions best practices"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 10: Incident Response Decision Trees in Hybrid Cloud Containment options by asset type and identity-based response actions troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "STIX/TAXII ingestion and OpenCTI workflows",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[9]__module-9-threat-intelligence-ingestion-and-operationalization\\[9.1]__stix-taxii-ingestion-and-opencti-workflows.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "OpenCTI STIX TAXII ingestion workflow documentation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "threat intelligence platform OpenCTI STIX TAXII analyst guide"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 9: Threat Intelligence Ingestion and Operationalization STIX/TAXII ingestion and OpenCTI workflows best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 9: Threat Intelligence Ingestion and Operationalization STIX/TAXII ingestion and OpenCTI workflows troubleshooting"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 9: Threat Intelligence Ingestion and Operationalization STIX/TAXII ingestion and OpenCTI workflows official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "IOC lifecycle management and disposition decisions",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[9]__module-9-threat-intelligence-ingestion-and-operationalization\\[9.2]__ioc-lifecycle-management-and-disposition-decisions.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "IOC lifecycle management disposition decision threat intelligence workflow"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "threat intel IOC confidence source reliability analyst guide"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 9: Threat Intelligence Ingestion and Operationalization IOC lifecycle management and disposition decisions explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 9: Threat Intelligence Ingestion and Operationalization IOC lifecycle management and disposition decisions best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 9: Threat Intelligence Ingestion and Operationalization IOC lifecycle management and disposition decisions troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 9: Threat Intelligence Ingestion and Operationalization IOC lifecycle management and disposition decisions official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Evidence preservation and escalation handoff",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[10]__module-10-incident-response-decision-trees-in-hybrid-cloud\\[10.2]__evidence-preservation-and-escalation-handoff.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "incident response evidence preservation escalation handoff analyst workflow"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "digital forensics evidence collection SOC incident ticket update template"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 10: Incident Response Decision Trees in Hybrid Cloud Evidence preservation and escalation handoff explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 10: Incident Response Decision Trees in Hybrid Cloud Evidence preservation and escalation handoff best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 10: Incident Response Decision Trees in Hybrid Cloud Evidence preservation and escalation handoff official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Hybrid-cloud coordination across endpoint, identity, and cloud control plane",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[10]__module-10-incident-response-decision-trees-in-hybrid-cloud\\[10.4]__hybrid-cloud-coordination-across-endpoint-identity-and-cloud-control-plane.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "hybrid cloud incident response identity endpoint cloud control plane coordination"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "cloud workload containment suspicious access pattern response guide"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 10: Incident Response Decision Trees in Hybrid Cloud Hybrid-cloud coordination across endpoint, identity, and cloud control plane explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 10: Incident Response Decision Trees in Hybrid Cloud Hybrid-cloud coordination across endpoint, identity, and cloud control plane best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 10: Incident Response Decision Trees in Hybrid Cloud Hybrid-cloud coordination across endpoint, identity, and cloud control plane troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 14,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Recovery validation and post-containment monitoring",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-cysa-blue-team-operations-labs-exam-cs0-003\\[10]__module-10-incident-response-decision-trees-in-hybrid-cloud\\[10.3]__recovery-validation-and-post-containment-monitoring.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "incident recovery validation checklist post containment monitoring SOC"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "hybrid cloud incident response recovery validation workflow"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 10: Incident Response Decision Trees in Hybrid Cloud Recovery validation and post-containment monitoring explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 10: Incident Response Decision Trees in Hybrid Cloud Recovery validation and post-containment monitoring best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 10: Incident Response Decision Trees in Hybrid Cloud Recovery validation and post-containment monitoring troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA CySA+ Blue Team Operations Labs (Exam CS0-003) Module 10: Incident Response Decision Trees in Hybrid Cloud Recovery validation and post-containment monitoring official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 14,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    }
+  ],
+  "totalTopics": 44,
+  "writtenTopics": 44,
+  "failedTopics": 0,
+  "finishedAt": "2026-04-21T13:06:50.091Z"
+}

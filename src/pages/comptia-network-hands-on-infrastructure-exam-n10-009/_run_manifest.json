@@ -1,0 +1,3427 @@
+{
+  "courseName": "CompTIA Network+ Hands-On Infrastructure (Exam N10-009)",
+  "courseSlug": "comptia-network-hands-on-infrastructure-exam-n10-009",
+  "model": "gpt-5.4-mini",
+  "startedAt": "2026-04-21T12:07:37.910Z",
+  "config": {
+    "maxRetrievalAttempts": 3,
+    "minFetchedPages": 3,
+    "maxUrlsPerAttempt": 5,
+    "searchResultsPerQuery": 5,
+    "maxEvidenceChars": 12000,
+    "generationRetries": 2
+  },
+  "topics": [
+    {
+      "topic": "Manual Subnetting Worksheet with Worked Solutions",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[2]__module-2-applied-ipv4-subnetting-and-address-plan-implementation\\[2.1]__manual-subnetting-worksheet-worked-solutions.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "IPv4 subnetting worked examples network broadcast usable host range"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ N10-009 subnetting practice with solutions"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 2: Applied IPv4 Subnetting and Address Plan Implementation Manual Subnetting Worksheet with Worked Solutions troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 2: Applied IPv4 Subnetting and Address Plan Implementation Manual Subnetting Worksheet with Worked Solutions official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Converting Subnet Calculations into Lab Addressing",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[2]__module-2-applied-ipv4-subnetting-and-address-plan-implementation\\[2.2]__converting-subnet-calculations-into-lab-addressing.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "enterprise IP addressing plan VLAN WAN cloud subnet mapping"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "apply IPv4 subnet plan to lab topology addressing"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 2: Applied IPv4 Subnetting and Address Plan Implementation Converting Subnet Calculations into Lab Addressing best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 2: Applied IPv4 Subnetting and Address Plan Implementation Converting Subnet Calculations into Lab Addressing official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Create and Verify VLANs on a Switch",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[3]__module-3-vlans-trunking-and-segmentation\\[3.1]__create-verify-vlans-switch.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Cisco IOS VLAN creation verification show vlan brief"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Cisco IOS XE VLAN configuration lab guide"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 3: VLANs, Trunking, and Segmentation Create and Verify VLANs on a Switch best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 3: VLANs, Trunking, and Segmentation Create and Verify VLANs on a Switch troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 3: VLANs, Trunking, and Segmentation Create and Verify VLANs on a Switch official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Interface Mapping, Link State, and Baseline Validation",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[1]__module-1-lab-platform-setup-and-enterprise-topology-construction\\[1.4]__interface-mapping-link-state-baseline-validation.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Cisco IOS show interfaces status link state validation commands"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "GNS3 EVE-NG interface mapping and baseline verification workflow"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 1: Lab Platform Setup and Enterprise Topology Construction Interface Mapping, Link State, and Baseline Validation explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.46,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 1: Lab Platform Setup and Enterprise Topology Construction Interface Mapping, Link State, and Baseline Validation official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Management Network Design and Console Access",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[1]__module-1-lab-platform-setup-and-enterprise-topology-construction\\[1.3]__management-network-design-console-access.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "GNS3 EVE-NG management network design console access best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.12,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Cisco IOS XE console access interface mapping lab"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 1: Lab Platform Setup and Enterprise Topology Construction Management Network Design and Console Access explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 1: Lab Platform Setup and Enterprise Topology Construction Management Network Design and Console Access best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 1: Lab Platform Setup and Enterprise Topology Construction Management Network Design and Console Access troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 1: Lab Platform Setup and Enterprise Topology Construction Management Network Design and Console Access official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Host Reachability and Gateway Validation",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[2]__module-2-applied-ipv4-subnetting-and-address-plan-implementation\\[2.3]__host-reachability-gateway-validation.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "ping gateway validation in segmented lab topology"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 2: Applied IPv4 Subnetting and Address Plan Implementation Host Reachability and Gateway Validation explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 2: Applied IPv4 Subnetting and Address Plan Implementation Host Reachability and Gateway Validation best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 2: Applied IPv4 Subnetting and Address Plan Implementation Host Reachability and Gateway Validation troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 2: Applied IPv4 Subnetting and Address Plan Implementation Host Reachability and Gateway Validation official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 8,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Reusable Baseline Snapshot and Lab Reset Workflow",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[1]__module-1-lab-platform-setup-and-enterprise-topology-construction\\[1.5]__reusable-baseline-snapshot-lab-reset-workflow.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "GNS3 snapshot restore workflow lab reset"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "EVE-NG checkpoint snapshot restore enterprise lab"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 1: Lab Platform Setup and Enterprise Topology Construction Reusable Baseline Snapshot and Lab Reset Workflow explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 1: Lab Platform Setup and Enterprise Topology Construction Reusable Baseline Snapshot and Lab Reset Workflow troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 1: Lab Platform Setup and Enterprise Topology Construction Reusable Baseline Snapshot and Lab Reset Workflow official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Importing Appliances and Building Reusable Topologies",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[1]__module-1-lab-platform-setup-and-enterprise-topology-construction\\[1.2]__importing-appliances-building-reusable-topologies.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "GNS3 EVE-NG import Cisco IOS XE pfSense Linux appliance images"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "EVE-NG reusable topology snapshots and template management"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.46,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 1: Lab Platform Setup and Enterprise Topology Construction Importing Appliances and Building Reusable Topologies explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.46,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 1: Lab Platform Setup and Enterprise Topology Construction Importing Appliances and Building Reusable Topologies best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 1: Lab Platform Setup and Enterprise Topology Construction Importing Appliances and Building Reusable Topologies official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "GNS3 and EVE-NG Environment Preparation",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[1]__module-1-lab-platform-setup-and-enterprise-topology-construction\\[1.1]__gns3-eve-ng-environment-preparation.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "GNS3 2026 appliance import and lab setup documentation"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "EVE-NG 2026 enterprise topology build guide"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 1: Lab Platform Setup and Enterprise Topology Construction GNS3 and EVE-NG Environment Preparation explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 1: Lab Platform Setup and Enterprise Topology Construction GNS3 and EVE-NG Environment Preparation best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 1: Lab Platform Setup and Enterprise Topology Construction GNS3 and EVE-NG Environment Preparation troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 1: Lab Platform Setup and Enterprise Topology Construction GNS3 and EVE-NG Environment Preparation official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 14,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Troubleshooting Addressing Conflicts and Mask Errors",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[2]__module-2-applied-ipv4-subnetting-and-address-plan-implementation\\[2.4]__troubleshooting-addressing-conflicts-mask-errors.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "IPv4 addressing conflict subnet mask troubleshooting lab"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.46,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Cisco IOS IP address mask mismatch troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 2: Applied IPv4 Subnetting and Address Plan Implementation Troubleshooting Addressing Conflicts and Mask Errors troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 2: Applied IPv4 Subnetting and Address Plan Implementation Troubleshooting Addressing Conflicts and Mask Errors official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Enable Inter-VLAN Routing",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[3]__module-3-vlans-trunking-and-segmentation\\[3.3]__enable-inter-vlan-routing.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Cisco inter-VLAN routing router on a stick IOS XE lab"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "SVI inter-VLAN routing configuration and verification"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 3: VLANs, Trunking, and Segmentation Enable Inter-VLAN Routing explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 3: VLANs, Trunking, and Segmentation Enable Inter-VLAN Routing best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 3: VLANs, Trunking, and Segmentation Enable Inter-VLAN Routing official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 8,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Configure Access Ports and Trunk Links",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[3]__module-3-vlans-trunking-and-segmentation\\[3.2]__configure-access-ports-trunk-links.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Cisco trunk configuration allowed VLANs native VLAN lab"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "switchport mode access trunk configuration Cisco IOS"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 3: VLANs, Trunking, and Segmentation Configure Access Ports and Trunk Links explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 3: VLANs, Trunking, and Segmentation Configure Access Ports and Trunk Links troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 3: VLANs, Trunking, and Segmentation Configure Access Ports and Trunk Links official documentation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Implement NAT and PAT for External Connectivity",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[4]__module-4-routing-and-forwarding-services\\[4.4]__implement-nat-pat-external-connectivity.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Cisco IOS NAT overload PAT configuration verification"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "pfSense outbound NAT and Cisco NAT lab"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 4: Routing and Forwarding Services Implement NAT and PAT for External Connectivity explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 4: Routing and Forwarding Services Implement NAT and PAT for External Connectivity best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 4: Routing and Forwarding Services Implement NAT and PAT for External Connectivity troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 4: Routing and Forwarding Services Implement NAT and PAT for External Connectivity official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Configure Multi-Hop Static Routing",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[4]__module-4-routing-and-forwarding-services\\[4.1]__configure-multi-hop-static-routing.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Cisco static route configuration next hop verification lab"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "multi-hop static routing Cisco IOS XE example"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 4: Routing and Forwarding Services Configure Multi-Hop Static Routing explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 4: Routing and Forwarding Services Configure Multi-Hop Static Routing best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 4: Routing and Forwarding Services Configure Multi-Hop Static Routing troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 4: Routing and Forwarding Services Configure Multi-Hop Static Routing official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Implement Basic Dynamic Routing",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[4]__module-4-routing-and-forwarding-services\\[4.2]__implement-basic-dynamic-routing.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Cisco OSPF single area lab configuration verification"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "dynamic routing troubleshooting adjacency route propagation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 4: Routing and Forwarding Services Implement Basic Dynamic Routing explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 4: Routing and Forwarding Services Implement Basic Dynamic Routing best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 4: Routing and Forwarding Services Implement Basic Dynamic Routing troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 4: Routing and Forwarding Services Implement Basic Dynamic Routing official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Troubleshoot Missing Routes, Incorrect Next Hops, and Asymmetric Paths",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[4]__module-4-routing-and-forwarding-services\\[4.5]__troubleshoot-missing-routes-incorrect-next-hops-asymmetric-paths.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Cisco routing troubleshooting asymmetric return path lab"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "missing route incorrect next hop troubleshooting commands"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 4: Routing and Forwarding Services Troubleshoot Missing Routes, Incorrect Next Hops, and Asymmetric Paths explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 4: Routing and Forwarding Services Troubleshoot Missing Routes, Incorrect Next Hops, and Asymmetric Paths best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 4: Routing and Forwarding Services Troubleshoot Missing Routes, Incorrect Next Hops, and Asymmetric Paths official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Validate Route Tables and Forwarding Decisions",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[4]__module-4-routing-and-forwarding-services\\[4.3]__validate-route-tables-forwarding-decisions.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Cisco show ip route forwarding decision troubleshooting"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "route table verification and path tracing lab"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 4: Routing and Forwarding Services Validate Route Tables and Forwarding Decisions explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 4: Routing and Forwarding Services Validate Route Tables and Forwarding Decisions troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 4: Routing and Forwarding Services Validate Route Tables and Forwarding Decisions official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Troubleshoot Blocked Traffic, Rule Precedence, and State Table Issues",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[5]__module-5-firewall-deployment-and-policy-enforcement\\[5.5]__troubleshoot-blocked-traffic-rule-precedence-state-table-issues.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "pfSense state table troubleshooting blocked traffic"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.86,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 4,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Configure pfSense Interfaces, Rules, and NAT",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[5]__module-5-firewall-deployment-and-policy-enforcement\\[5.2]__configure-pfsense-interfaces-rules-nat.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "pfSense interface assignment firewall rules outbound NAT documentation"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "pfSense stateful firewall rule order verification"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 5: Firewall Deployment and Policy Enforcement Configure pfSense Interfaces, Rules, and NAT explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 5: Firewall Deployment and Policy Enforcement Configure pfSense Interfaces, Rules, and NAT best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 5: Firewall Deployment and Policy Enforcement Configure pfSense Interfaces, Rules, and NAT troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.88,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Troubleshoot Native VLAN, Allowed VLAN, and Access Port Errors",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[3]__module-3-vlans-trunking-and-segmentation\\[3.4]__troubleshoot-native-vlan-allowed-vlan-access-port-errors.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Cisco native VLAN mismatch troubleshooting show interfaces trunk"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "VLAN allowed list access port misconfiguration troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 3: VLANs, Trunking, and Segmentation Troubleshoot Native VLAN, Allowed VLAN, and Access Port Errors explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 3: VLANs, Trunking, and Segmentation Troubleshoot Native VLAN, Allowed VLAN, and Access Port Errors best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 3: VLANs, Trunking, and Segmentation Troubleshoot Native VLAN, Allowed VLAN, and Access Port Errors official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Implement Cisco ACL-Based Filtering",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[5]__module-5-firewall-deployment-and-policy-enforcement\\[5.3]__implement-cisco-acl-based-filtering.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Cisco IOS extended ACL configuration verification lab"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Cisco ACL interface direction troubleshooting show access-lists"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 5: Firewall Deployment and Policy Enforcement Implement Cisco ACL-Based Filtering explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 5: Firewall Deployment and Policy Enforcement Implement Cisco ACL-Based Filtering best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 5: Firewall Deployment and Policy Enforcement Implement Cisco ACL-Based Filtering official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Deploy pfSense as an Edge Firewall",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[5]__module-5-firewall-deployment-and-policy-enforcement\\[5.1]__deploy-pfsense-edge-firewall.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "pfSense 2026 initial setup interface assignment firewall rules"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "pfSense edge firewall deployment lab guide"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 5: Firewall Deployment and Policy Enforcement Deploy pfSense as an Edge Firewall explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 5: Firewall Deployment and Policy Enforcement Deploy pfSense as an Edge Firewall best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 5: Firewall Deployment and Policy Enforcement Deploy pfSense as an Edge Firewall troubleshooting"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 5: Firewall Deployment and Policy Enforcement Deploy pfSense as an Edge Firewall official documentation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Build iptables Policies on a Linux Host",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[5]__module-5-firewall-deployment-and-policy-enforcement\\[5.4]__build-iptables-policies-linux-host.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "iptables nftables compatibility firewall rules lab"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Linux iptables stateful filtering and logging examples"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 5: Firewall Deployment and Policy Enforcement Build iptables Policies on a Linux Host explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 5: Firewall Deployment and Policy Enforcement Build iptables Policies on a Linux Host best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 5: Firewall Deployment and Policy Enforcement Build iptables Policies on a Linux Host troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Configure DHCP Relay and Verify Lease Assignment",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[7]__module-7-network-services-and-operational-troubleshooting\\[7.1]__configure-dhcp-relay-verify-lease-assignment.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Cisco ip helper-address DHCP relay configuration verification"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "DHCP relay troubleshooting across VLANs lab"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 7: Network Services and Operational Troubleshooting Configure DHCP Relay and Verify Lease Assignment explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 7: Network Services and Operational Troubleshooting Configure DHCP Relay and Verify Lease Assignment troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Use Wireshark Filters to Isolate Failure Conditions",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[6]__module-6-traffic-capture-packet-analysis-network-visibility\\[6.2]__use-wireshark-filters-isolate-failure-conditions.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Wireshark display filters troubleshooting network failures"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Wireshark capture filters for DHCP DNS TCP reset analysis"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 6: Traffic Capture, Packet Analysis, and Network Visibility Use Wireshark Filters to Isolate Failure Conditions explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 6: Traffic Capture, Packet Analysis, and Network Visibility Use Wireshark Filters to Isolate Failure Conditions best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 6: Traffic Capture, Packet Analysis, and Network Visibility Use Wireshark Filters to Isolate Failure Conditions official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Capture and Analyze DHCP, DNS, ARP, ICMP, TCP, and Routing Traffic",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[6]__module-6-traffic-capture-packet-analysis-network-visibility\\[6.1]__capture-analyze-dhcp-dns-arp-icmp-tcp-routing-traffic.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Wireshark DHCP DNS ARP ICMP TCP handshake analysis guide"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "packet capture routing protocol analysis Wireshark lab"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 6: Traffic Capture, Packet Analysis, and Network Visibility Capture and Analyze DHCP, DNS, ARP, ICMP, TCP, and Routing Traffic explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 6: Traffic Capture, Packet Analysis, and Network Visibility Capture and Analyze DHCP, DNS, ARP, ICMP, TCP, and Routing Traffic best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 6: Traffic Capture, Packet Analysis, and Network Visibility Capture and Analyze DHCP, DNS, ARP, ICMP, TCP, and Routing Traffic troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 6: Traffic Capture, Packet Analysis, and Network Visibility Capture and Analyze DHCP, DNS, ARP, ICMP, TCP, and Routing Traffic official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Deploy Zeek and Review Logs",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[6]__module-6-traffic-capture-packet-analysis-network-visibility\\[6.3]__deploy-zeek-review-logs.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Zeek 2026 installation connection dns notice logs guide"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Zeek network security monitoring lab documentation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 6: Traffic Capture, Packet Analysis, and Network Visibility Deploy Zeek and Review Logs explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 6: Traffic Capture, Packet Analysis, and Network Visibility Deploy Zeek and Review Logs best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 6: Traffic Capture, Packet Analysis, and Network Visibility Deploy Zeek and Review Logs troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 6: Traffic Capture, Packet Analysis, and Network Visibility Deploy Zeek and Review Logs official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 16,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Troubleshoot Service Reachability and Gateway Issues",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[7]__module-7-network-services-and-operational-troubleshooting\\[7.3]__troubleshoot-service-reachability-gateway-issues.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "network service reachability troubleshooting default gateway issues"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "enterprise lab troubleshooting DHCP DNS gateway connectivity"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 7: Network Services and Operational Troubleshooting Troubleshoot Service Reachability and Gateway Issues explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 7: Network Services and Operational Troubleshooting Troubleshoot Service Reachability and Gateway Issues best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 7: Network Services and Operational Troubleshooting Troubleshoot Service Reachability and Gateway Issues official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Validate DNS Resolution Across Segmented Networks",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[7]__module-7-network-services-and-operational-troubleshooting\\[7.2]__validate-dns-resolution-across-segmented-networks.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "DNS resolution troubleshooting across VLANs and firewalls"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "dig nslookup validation in enterprise lab topology"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 7: Network Services and Operational Troubleshooting Validate DNS Resolution Across Segmented Networks explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 7: Network Services and Operational Troubleshooting Validate DNS Resolution Across Segmented Networks best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 7: Network Services and Operational Troubleshooting Validate DNS Resolution Across Segmented Networks troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Identify Misconfigurations Through Packet Evidence",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[6]__module-6-traffic-capture-packet-analysis-network-visibility\\[6.4]__identify-misconfigurations-through-packet-evidence.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Wireshark packet evidence for VLAN routing firewall misconfiguration"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Zeek logs troubleshooting network misconfiguration"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 6: Traffic Capture, Packet Analysis, and Network Visibility Identify Misconfigurations Through Packet Evidence explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 6: Traffic Capture, Packet Analysis, and Network Visibility Identify Misconfigurations Through Packet Evidence troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 6: Traffic Capture, Packet Analysis, and Network Visibility Identify Misconfigurations Through Packet Evidence official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 14,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Use Scripts to Generate or Apply Device Configurations",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[8]__module-8-network-automation-and-configuration-at-scale\\[8.1]__use-scripts-generate-apply-device-configurations.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Python network automation generate Cisco IOS configuration"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "shell script push network device configuration lab"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 8: Network Automation and Configuration at Scale Use Scripts to Generate or Apply Device Configurations explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 8: Network Automation and Configuration at Scale Use Scripts to Generate or Apply Device Configurations best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 8: Network Automation and Configuration at Scale Use Scripts to Generate or Apply Device Configurations troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 8: Network Automation and Configuration at Scale Use Scripts to Generate or Apply Device Configurations official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Use Packet Captures to Confirm Service Behavior",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[7]__module-7-network-services-and-operational-troubleshooting\\[7.4]__use-packet-captures-confirm-service-behavior.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Wireshark DHCP DNS service validation packet capture"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "packet capture confirms service behavior troubleshooting"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 7: Network Services and Operational Troubleshooting Use Packet Captures to Confirm Service Behavior explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 7: Network Services and Operational Troubleshooting Use Packet Captures to Confirm Service Behavior best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 7: Network Services and Operational Troubleshooting Use Packet Captures to Confirm Service Behavior troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 7: Network Services and Operational Troubleshooting Use Packet Captures to Confirm Service Behavior official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Configure Route Tables and Security Policies",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[10]__module-10-cloud-networking-and-hybrid-connectivity\\[10.2]__configure-route-tables-security-policies.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "AWS route table security group configuration validation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.86,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 3,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Establish Site-to-Site VPN Connectivity",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[10]__module-10-cloud-networking-and-hybrid-connectivity\\[10.3]__establish-site-to-site-vpn-connectivity.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "AWS site-to-site VPN lab configuration validation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 3,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Verify Configuration State After Automation Runs",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[8]__module-8-network-automation-and-configuration-at-scale\\[8.3]__verify-configuration-state-after-automation-runs.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "network automation post-check verification commands Cisco IOS"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "automation validation compare running config and intended state"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 8: Network Automation and Configuration at Scale Verify Configuration State After Automation Runs explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 8: Network Automation and Configuration at Scale Verify Configuration State After Automation Runs best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 8: Network Automation and Configuration at Scale Verify Configuration State After Automation Runs troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 8: Network Automation and Configuration at Scale Verify Configuration State After Automation Runs official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 14,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Troubleshoot Script Syntax, Authentication, and Transport Failures",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[8]__module-8-network-automation-and-configuration-at-scale\\[8.4]__troubleshoot-script-syntax-authentication-transport-failures.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Python network automation authentication transport troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Netmiko NAPALM script failure troubleshooting guide"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 8: Network Automation and Configuration at Scale Troubleshoot Script Syntax, Authentication, and Transport Failures explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 8: Network Automation and Configuration at Scale Troubleshoot Script Syntax, Authentication, and Transport Failures best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 8: Network Automation and Configuration at Scale Troubleshoot Script Syntax, Authentication, and Transport Failures official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Deploy an SDN Controller in the Lab",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[9]__module-9-software-defined-networking-implementation\\[9.1]__deploy-sdn-controller-in-the-lab.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "OpenDaylight 2026 installation lab guide"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "SDN controller deployment in GNS3 EVE-NG"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 9: Software-Defined Networking Implementation Deploy an SDN Controller in the Lab explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 9: Software-Defined Networking Implementation Deploy an SDN Controller in the Lab official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Automate VLAN, Route, or ACL Deployment",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[8]__module-8-network-automation-and-configuration-at-scale\\[8.2]__automate-vlan-route-acl-deployment.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "network automation VLAN route ACL deployment Python Netmiko NAPALM"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "idempotent network configuration automation examples"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 8: Network Automation and Configuration at Scale Automate VLAN, Route, or ACL Deployment explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 8: Network Automation and Configuration at Scale Automate VLAN, Route, or ACL Deployment best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 8: Network Automation and Configuration at Scale Automate VLAN, Route, or ACL Deployment troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 8: Network Automation and Configuration at Scale Automate VLAN, Route, or ACL Deployment official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Build Segmented AWS VPC and Azure VNet Topologies",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[10]__module-10-cloud-networking-and-hybrid-connectivity\\[10.1]__build-segmented-aws-vpc-azure-vnet-topologies.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "AWS VPC subnet route table security group lab 2026"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Azure Virtual Network subnet NSG route table lab"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 10: Cloud Networking and Hybrid Connectivity Build Segmented AWS VPC and Azure VNet Topologies best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 10: Cloud Networking and Hybrid Connectivity Build Segmented AWS VPC and Azure VNet Topologies troubleshooting"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 10: Cloud Networking and Hybrid Connectivity Build Segmented AWS VPC and Azure VNet Topologies official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Register Managed Nodes or Simulated Endpoints",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[9]__module-9-software-defined-networking-implementation\\[9.2]__register-managed-nodes-simulated-endpoints.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "OpenDaylight device registration southbound connectivity lab"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "SDN managed node onboarding simulation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 9: Software-Defined Networking Implementation Register Managed Nodes or Simulated Endpoints explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 9: Software-Defined Networking Implementation Register Managed Nodes or Simulated Endpoints best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 9: Software-Defined Networking Implementation Register Managed Nodes or Simulated Endpoints official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Troubleshoot Controller Connectivity and Policy Application Failures",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[9]__module-9-software-defined-networking-implementation\\[9.4]__troubleshoot-controller-connectivity-policy-application-failures.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "OpenDaylight controller connectivity troubleshooting logs"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Cisco ACI policy deployment troubleshooting lab"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 9: Software-Defined Networking Implementation Troubleshoot Controller Connectivity and Policy Application Failures best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 9: Software-Defined Networking Implementation Troubleshoot Controller Connectivity and Policy Application Failures troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 9: Software-Defined Networking Implementation Troubleshoot Controller Connectivity and Policy Application Failures official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Troubleshoot Tunnel Negotiation, Routing, and Security Policy Mismatches",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[10]__module-10-cloud-networking-and-hybrid-connectivity\\[10.5]__troubleshoot-tunnel-negotiation-routing-security-policy-mismatches.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "site-to-site VPN tunnel negotiation troubleshooting AWS Azure"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "cloud routing security policy mismatch troubleshooting lab"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 10: Cloud Networking and Hybrid Connectivity Troubleshoot Tunnel Negotiation, Routing, and Security Policy Mismatches explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 10: Cloud Networking and Hybrid Connectivity Troubleshoot Tunnel Negotiation, Routing, and Security Policy Mismatches best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 10: Cloud Networking and Hybrid Connectivity Troubleshoot Tunnel Negotiation, Routing, and Security Policy Mismatches official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Apply Policy and Validate Traffic Steering or Segmentation",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[9]__module-9-software-defined-networking-implementation\\[9.3]__apply-policy-validate-traffic-steering-segmentation.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "OpenDaylight policy application traffic steering validation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "Cisco ACI policy segmentation lab validation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 9: Software-Defined Networking Implementation Apply Policy and Validate Traffic Steering or Segmentation explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 9: Software-Defined Networking Implementation Apply Policy and Validate Traffic Steering or Segmentation best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 9: Software-Defined Networking Implementation Apply Policy and Validate Traffic Steering or Segmentation troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 9: Software-Defined Networking Implementation Apply Policy and Validate Traffic Steering or Segmentation official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Implement Segmented Access Policies Across Internal Zones",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[11]__module-11-zero-trust-policy-implementation\\[11.1]__implement-segmented-access-policies-across-internal-zones.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "zero trust network segmentation policy implementation lab"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "internal zone access policy enforcement pfSense ACL Cisco"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 11: Zero Trust Policy Implementation Implement Segmented Access Policies Across Internal Zones best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 11: Zero Trust Policy Implementation Implement Segmented Access Policies Across Internal Zones official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Enforce Least-Privilege Connectivity Between Workloads",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[11]__module-11-zero-trust-policy-implementation\\[11.2]__enforce-least-privilege-connectivity-between-workloads.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "least privilege network access control microsegmentation lab"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "workload-to-workload access policy enforcement examples"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 11: Zero Trust Policy Implementation Enforce Least-Privilege Connectivity Between Workloads explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 11: Zero Trust Policy Implementation Enforce Least-Privilege Connectivity Between Workloads best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Validate Denied and Permitted Flows with Packet Evidence",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[11]__module-11-zero-trust-policy-implementation\\[11.3]__validate-denied-permitted-flows-packet-evidence.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Wireshark verify denied permitted traffic zero trust policy"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "packet evidence for microsegmentation policy validation"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 11: Zero Trust Policy Implementation Validate Denied and Permitted Flows with Packet Evidence explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 11: Zero Trust Policy Implementation Validate Denied and Permitted Flows with Packet Evidence best practices"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 11: Zero Trust Policy Implementation Validate Denied and Permitted Flows with Packet Evidence troubleshooting"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Troubleshoot Policy Conflicts and Unintended Access Paths",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[11]__module-11-zero-trust-policy-implementation\\[11.4]__troubleshoot-policy-conflicts-unintended-access-paths.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "zero trust policy conflict troubleshooting network lab"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "microsegmentation unintended access path troubleshooting"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 11: Zero Trust Policy Implementation Troubleshoot Policy Conflicts and Unintended Access Paths explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Validate On-Prem to Cloud and Cloud-to-Cloud Reachability",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[10]__module-10-cloud-networking-and-hybrid-connectivity\\[10.4]__validate-on-prem-to-cloud-cloud-to-cloud-reachability.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "hybrid connectivity validation on-prem to AWS Azure lab"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "cloud to cloud reachability troubleshooting VPN routing"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 10: Cloud Networking and Hybrid Connectivity Validate On-Prem to Cloud and Cloud-to-Cloud Reachability best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 10: Cloud Networking and Hybrid Connectivity Validate On-Prem to Cloud and Cloud-to-Cloud Reachability official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Restore Full Connectivity and Document Remediation Steps",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[12]__module-12-integrated-capstone-troubleshooting-lab\\[12.4]__restore-full-connectivity-document-remediation-steps.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "network remediation documentation troubleshooting lab"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "restore enterprise connectivity after configuration failure"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 12: Integrated Capstone Troubleshooting Lab Restore Full Connectivity and Document Remediation Steps explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 12: Integrated Capstone Troubleshooting Lab Restore Full Connectivity and Document Remediation Steps best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 12: Integrated Capstone Troubleshooting Lab Restore Full Connectivity and Document Remediation Steps troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 12: Integrated Capstone Troubleshooting Lab Restore Full Connectivity and Document Remediation Steps official documentation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Diagnose a Broken Enterprise Topology with Multiple Simultaneous Faults",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[12]__module-12-integrated-capstone-troubleshooting-lab\\[12.1]__diagnose-broken-enterprise-topology-multiple-simultaneous-faults.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "enterprise network troubleshooting multi fault lab topology"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ integrated troubleshooting scenario lab"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 12: Integrated Capstone Troubleshooting Lab Diagnose a Broken Enterprise Topology with Multiple Simultaneous Faults explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 12: Integrated Capstone Troubleshooting Lab Diagnose a Broken Enterprise Topology with Multiple Simultaneous Faults best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 12: Integrated Capstone Troubleshooting Lab Diagnose a Broken Enterprise Topology with Multiple Simultaneous Faults troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 12: Integrated Capstone Troubleshooting Lab Diagnose a Broken Enterprise Topology with Multiple Simultaneous Faults official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Resolve VLAN, Routing, Firewall, Cloud, and Monitoring Issues",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[12]__module-12-integrated-capstone-troubleshooting-lab\\[12.2]__resolve-vlan-routing-firewall-cloud-monitoring-issues.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "multi domain network troubleshooting VLAN routing firewall cloud lab"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "end to end enterprise network remediation workflow"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 12: Integrated Capstone Troubleshooting Lab Resolve VLAN, Routing, Firewall, Cloud, and Monitoring Issues explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 12: Integrated Capstone Troubleshooting Lab Resolve VLAN, Routing, Firewall, Cloud, and Monitoring Issues best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 12: Integrated Capstone Troubleshooting Lab Resolve VLAN, Routing, Firewall, Cloud, and Monitoring Issues troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 12: Integrated Capstone Troubleshooting Lab Resolve VLAN, Routing, Firewall, Cloud, and Monitoring Issues official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 34,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Use Wireshark and Zeek Evidence to Isolate Root Cause",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\comptia-network-hands-on-infrastructure-exam-n10-009\\[12]__module-12-integrated-capstone-troubleshooting-lab\\[12.3]__use-wireshark-zeek-evidence-isolate-root-cause.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "Wireshark Zeek root cause analysis network troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "packet capture and Zeek logs for enterprise incident analysis"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 12: Integrated Capstone Troubleshooting Lab Use Wireshark and Zeek Evidence to Isolate Root Cause explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 12: Integrated Capstone Troubleshooting Lab Use Wireshark and Zeek Evidence to Isolate Root Cause best practices"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "CompTIA Network+ Hands-On Infrastructure (Exam N10-009) Module 12: Integrated Capstone Troubleshooting Lab Use Wireshark and Zeek Evidence to Isolate Root Cause official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    }
+  ],
+  "totalTopics": 52,
+  "writtenTopics": 52,
+  "failedTopics": 0,
+  "finishedAt": "2026-04-21T12:22:04.258Z"
+}
