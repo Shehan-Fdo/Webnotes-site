@@ -428,6 +428,12 @@ function generateRootIndex(sidebarConfig, globalMeta) {
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>${pageTitle}</title>
   <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
+  <!-- Favicon -->
+  <link rel="apple-touch-icon" sizes="180x180" href="content/assets/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="content/assets/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="content/assets/favicon/favicon-16x16.png">
+  <link rel="manifest" href="content/assets/favicon/site.webmanifest">
+  <link rel="shortcut icon" href="content/assets/favicon/favicon.ico">
   <meta name="description" content="${pageDescription}">
   <meta name="author" content="${globalMeta.author || 'Webnotes'}">
   ${canonical ? `<link rel="canonical" href="${canonical}">` : ''}
@@ -642,6 +648,12 @@ function generateCourseIndex(courseName, courseData, globalMeta, slug, backLink 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>${pageTitle}</title>
   <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
+  <!-- Favicon -->
+  <link rel="apple-touch-icon" sizes="180x180" href="${baseRel}assets/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="${baseRel}assets/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="${baseRel}assets/favicon/favicon-16x16.png">
+  <link rel="manifest" href="${baseRel}assets/favicon/site.webmanifest">
+  <link rel="shortcut icon" href="${baseRel}assets/favicon/favicon.ico">
   <meta name="description" content="${pageDescription}">
   <meta name="author" content="${globalMeta.author || 'Webnotes'}">
   ${canonical ? `<link rel="canonical" href="${canonical}">` : ''}

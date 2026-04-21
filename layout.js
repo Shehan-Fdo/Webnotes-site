@@ -42,6 +42,13 @@ export default function Layout(seo = {}, content, sidebarHtml = '', baseRel = '.
     <title>${siteTitle}</title>
     <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
     
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="${baseRel}assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="${baseRel}assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="${baseRel}assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="${baseRel}assets/favicon/site.webmanifest">
+    <link rel="shortcut icon" href="${baseRel}assets/favicon/favicon.ico">
+    
     <!-- Primary Meta Tags -->
     <meta name="description" content="${description}">
     <meta name="author" content="${author}">
