@@ -579,44 +579,56 @@ function generateCourseIndex(courseName, courseData, globalMeta, slug, backLink 
   
   const baseRel = '../'.repeat(depth);
 
-  function renderSections(folders) {
-    const sortedFolders = Object.entries(folders).sort(([nameA, childA], [nameB, childB]) => {
-      const cmp = compareOrders(childA.order, childB.order);
-      return cmp !== 0 ? cmp : nameA.localeCompare(nameB, undefined, { numeric: true, sensitivity: 'base' });
+  function renderSections(node) {
+    const allChildren = [
+      ...(node.files || []).map(f => ({ type: 'file', ...f })),
+      ...Object.entries(node.folders || {}).map(([name, child]) => ({ type: 'folder', name, child, order: child.order }))
+    ];
+
+    allChildren.sort((a, b) => {
+      const cmp = compareOrders(a.order, b.order);
+      const titleA = a.type === 'file' ? a.title : a.name;
+      const titleB = b.type === 'file' ? b.title : b.name;
+      return cmp !== 0 ? cmp : titleA.localeCompare(titleB, undefined, { numeric: true, sensitivity: 'base' });
     });
-    return sortedFolders.map(([folderName, folderData]) => {
-      const files = folderData.files || [];
-      const subFolders = folderData.folders || {};
 
-      const fileLinks = files.map(file => `
-        <li>
-          <a href="${baseRel}${file.path}"><span>${file.title}</span></a>
-        </li>`).join('');
+    let html = '';
+    let inList = false;
 
-      const subSections = renderSections(subFolders);
-
-      let formattedName = folderName;
-      const modMatch = folderName.match(/^(module\s+\d+)(.*)$/i);
-      if (modMatch) {
-        formattedName = `<span style="color: var(--accent);">${modMatch[1]}</span>${modMatch[2]}`;
-      }
-
-      return `
+    allChildren.forEach(child => {
+      if (child.type === 'file') {
+        if (!inList) {
+          html += `<ul class="subtopic-list">`;
+          inList = true;
+        }
+        html += `<li><a href="${baseRel}${child.path}"><span>${child.title}</span></a></li>`;
+      } else {
+        if (inList) {
+          html += `</ul>`;
+          inList = false;
+        }
+        const subSections = renderSections(child.child);
+        let formattedName = child.name;
+        const modMatch = child.name.match(/^(module\s+\d+)(.*)$/i);
+        if (modMatch) {
+          formattedName = `<span style="color: var(--accent);">${modMatch[1]}</span>${modMatch[2]}`;
+        }
+        html += `
     <div class="topic-section">
       <h2>${formattedName}</h2>
-      ${files.length > 0 ? `<ul class="subtopic-list">${fileLinks}</ul>` : ''}
       ${subSections}
     </div>`;
-    }).join('');
+      }
+    });
+
+    if (inList) {
+      html += `</ul>`;
+    }
+
+    return html;
   }
 
-  const sectionsHtml = renderSections(courseData.folders || {});
-
-  const topFiles = (courseData.files || []).map(file => `
-    <li>
-      <a href="${baseRel}${file.path}"><span>${file.title}</span></a>
-    </li>`).join('');
-  const topFilesHtml = topFiles ? `<ul class="subtopic-list">${topFiles}</ul>` : '';
+  const sectionsHtml = renderSections(courseData);
 
   const meta = courseData || {};
   const descriptionHtml = meta.description
@@ -808,7 +820,6 @@ function generateCourseIndex(courseName, courseData, globalMeta, slug, backLink 
     <a href="${backLink}" class="back-link">← ${backText}</a>
     <h1>${courseName}</h1>
     ${descriptionHtml}
-    ${topFilesHtml}
     ${sectionsHtml}
     <footer>&copy; ${year} webnotes</footer>
   </div>

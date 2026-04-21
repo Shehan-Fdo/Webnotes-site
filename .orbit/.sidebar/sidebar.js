@@ -158,34 +158,50 @@ function isPathActive(node, currentPath) {
 function renderNode(node, baseRel, currentPath, isRoot = false) {
   let html = '';
 
-  // Files at this level
-  if (node.files.length > 0) {
-    if (isRoot) html += `<div class="sidebar-group root-group">`;
-    html += `<ul${isRoot ? ' class="root-links" style="margin-top:0;margin-bottom:2rem;"' : ''}>`;
-    node.files.forEach(item => {
-      const active = item.path === currentPath ? ' class="active"' : '';
-      html += `<li><a href="${baseRel}${item.path}"${active}>${item.title}</a></li>`;
-    });
-    html += `</ul>`;
-    if (isRoot) html += `</div>`;
+  const allChildren = [
+    ...(node.files || []).map(f => ({ type: 'file', ...f })),
+    ...Object.entries(node.folders || {}).map(([name, child]) => ({ type: 'folder', name, child, order: child.order }))
+  ];
+
+  allChildren.sort((a, b) => compareOrders(a.order, b.order));
+
+  if (isRoot && allChildren.length > 0) {
+    html += `<div class="sidebar-group root-group">`;
   }
 
-  // Sub-folders sorted by numeric prefix order, then alphabetically as fallback
-  const folderEntries = Object.entries(node.folders).sort(([nameA, childA], [nameB, childB]) => {
-    const cmp = compareOrders(childA.order, childB.order);
-    return cmp !== 0 ? cmp : nameA.localeCompare(nameB, undefined, { numeric: true, sensitivity: 'base' });
+  let inList = false;
+
+  allChildren.forEach(child => {
+    if (child.type === 'file') {
+      if (!isRoot && !inList) {
+        html += `<ul${isRoot ? ' class="root-links" style="margin-top:0;margin-bottom:0;"' : ''}>`;
+        inList = true;
+      }
+      const active = child.path === currentPath ? ' class="active"' : '';
+      html += `<li><a href="${baseRel}${child.path}"${active}>${child.title}</a></li>`;
+    } else {
+      if (inList) {
+        html += `</ul>`;
+        inList = false;
+      }
+      const active = isPathActive(child.child, currentPath);
+      const cls = isRoot ? 'sidebar-group' : 'sidebar-group sidebar-subgroup';
+      html += `<div class="${cls}">`;
+      html += `<details${active ? ' open' : ''}>`;
+      html += `<summary><h3>${child.name}</h3></summary>`;
+      html += renderNode(child.child, baseRel, currentPath, false);
+      html += `</details>`;
+      html += `</div>`;
+    }
   });
 
-  folderEntries.forEach(([name, child]) => {
-    const active = isPathActive(child, currentPath);
-    const cls = isRoot ? 'sidebar-group' : 'sidebar-group sidebar-subgroup';
-    html += `<div class="${cls}">`;
-    html += `<details${active ? ' open' : ''}>`;
-    html += `<summary><h3>${name}</h3></summary>`;
-    html += renderNode(child, baseRel, currentPath, false);
-    html += `</details>`;
+  if (inList) {
+    html += `</ul>`;
+  }
+
+  if (isRoot && allChildren.length > 0) {
     html += `</div>`;
-  });
+  }
 
   return html;
 }
@@ -222,15 +238,25 @@ export function getFlatPageList(tree) {
   const pages = [];
 
   function walk(node) {
-    // Files at this level (already sorted by buildTree → sortNode)
-    node.files.forEach(f => pages.push({ title: f.title, path: f.path }));
+    const allChildren = [
+      ...node.files.map(f => ({ type: 'file', ...f })),
+      ...Object.entries(node.folders).map(([name, child]) => ({ type: 'folder', name, child, order: child.order }))
+    ];
 
-    // Sub-folders in the same order renderNode uses
-    const folderEntries = Object.entries(node.folders).sort(([nameA, childA], [nameB, childB]) => {
-      const cmp = compareOrders(childA.order, childB.order);
-      return cmp !== 0 ? cmp : nameA.localeCompare(nameB, undefined, { numeric: true, sensitivity: 'base' });
+    allChildren.sort((a, b) => {
+      const cmp = compareOrders(a.order, b.order);
+      const titleA = a.type === 'file' ? a.title : a.name;
+      const titleB = b.type === 'file' ? b.title : b.name;
+      return cmp !== 0 ? cmp : titleA.localeCompare(titleB, undefined, { numeric: true, sensitivity: 'base' });
     });
-    folderEntries.forEach(([, child]) => walk(child));
+
+    allChildren.forEach(child => {
+      if (child.type === 'file') {
+        pages.push({ title: child.title, path: child.path });
+      } else {
+        walk(child.child);
+      }
+    });
   }
 
   walk(tree);
