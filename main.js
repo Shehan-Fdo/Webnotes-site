@@ -451,6 +451,37 @@ function generateRootIndex(sidebarConfig, globalMeta) {
   <meta name="twitter:title" content="${pageTitle}">
   <meta name="twitter:description" content="${pageDescription}">
   ${ogImage ? `<meta name="twitter:image" content="${ogImage}">` : ''}
+  <script type="application/ld+json">${JSON.stringify([
+    {
+      '@context': 'https://schema.org',
+      '@type': 'WebSite',
+      name: globalMeta.siteName || 'Webnotes',
+      url: canonical || globalMeta.url || '',
+      description: pageDescription,
+      inLanguage: globalMeta.language || 'en',
+      ...(ogImage ? { image: ogImage } : {}),
+      publisher: {
+        '@type': 'Organization',
+        name: globalMeta.siteName || 'Webnotes',
+        ...(canonical ? { url: canonical } : {}),
+        ...(ogImage ? { logo: { '@type': 'ImageObject', url: ogImage } } : {}),
+      },
+    },
+    {
+      '@context': 'https://schema.org',
+      '@type': 'ItemList',
+      name: 'Courses',
+      numberOfItems: courses.filter(([, d]) => getCourseSlug(d)).length,
+      itemListElement: courses
+        .filter(([, d]) => getCourseSlug(d))
+        .map(([name, data], idx) => ({
+          '@type': 'ListItem',
+          position: idx + 1,
+          name,
+          url: normalizeAbsoluteUrl(globalMeta.url, `content/${getCourseSlug(data)}/`),
+        })),
+    },
+  ]).replace(/<\//g, '<\\/')}</script>
   <script defer src="/_vercel/insights/script.js"></script>
   <script defer src="/_vercel/speed-insights/script.js"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
