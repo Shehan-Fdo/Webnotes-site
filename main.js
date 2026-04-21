@@ -6,7 +6,7 @@ import chokidar from 'chokidar';
 import { createHighlighter } from 'shiki';
 import Layout from './layout.js';
 import { generateSidebarConfig, renderSidebar, getFlatPageList } from './.orbit/.sidebar/sidebar.js';
-import { getAllFiles, cleanRelPath } from './utils.js';
+import { getAllFiles, cleanRelPath, compareOrders } from './utils.js';
 
 const pagesDir = './src/pages';
 const distDir = './dist/content';
@@ -113,21 +113,55 @@ function buildPageSeo(frontmatter = {}, markdownContent = '', cleanPath = '', fa
   const modifiedTime = frontmatter.lastModified || frontmatter.updatedAt || publishedTime || null;
   const type = frontmatter.schemaType || 'TechArticle';
 
-  const structuredData = {
+  const urlParts = cleanPath.replace(/\/$/, '').split('/').filter(Boolean);
+  const breadcrumbItems = [
+    {
+      '@type': 'ListItem',
+      position: 1,
+      name: globalMeta.siteName || 'Webnotes',
+      item: normalizeAbsoluteUrl(globalMeta.url, ''),
+    }
+  ];
+
+  let accumPath = 'content';
+  urlParts.forEach((part, index) => {
+    accumPath += `/${part}`;
+    let partName = part.split(/[-_]/).map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+    if (index === urlParts.length - 1) {
+      partName = frontmatter.title || fallbackTitle || partName;
+    }
+    breadcrumbItems.push({
+      '@type': 'ListItem',
+      position: index + 2,
+      name: partName,
+      item: normalizeAbsoluteUrl(globalMeta.url, `${accumPath}/`),
+    });
+  });
+
+  const breadcrumbSchema = {
     '@context': 'https://schema.org',
-    '@type': type,
-    headline: title,
-    description,
-    author: {
-      '@type': 'Person',
-      name: frontmatter.author || globalMeta.author || 'Webnotes',
-    },
-    mainEntityOfPage: pageUrl,
-    inLanguage: globalMeta.language || 'en',
-    ...(image ? { image: [image] } : {}),
-    ...(publishedTime ? { datePublished: formatIsoDate(publishedTime) } : {}),
-    ...(modifiedTime ? { dateModified: formatIsoDate(modifiedTime) } : {}),
+    '@type': 'BreadcrumbList',
+    itemListElement: breadcrumbItems,
   };
+
+  const structuredData = [
+    {
+      '@context': 'https://schema.org',
+      '@type': type,
+      headline: title,
+      description,
+      author: {
+        '@type': 'Person',
+        name: frontmatter.author || globalMeta.author || 'Webnotes',
+      },
+      mainEntityOfPage: pageUrl,
+      inLanguage: globalMeta.language || 'en',
+      ...(image ? { image: [image] } : {}),
+      ...(publishedTime ? { datePublished: formatIsoDate(publishedTime) } : {}),
+      ...(modifiedTime ? { dateModified: formatIsoDate(modifiedTime) } : {}),
+    },
+    breadcrumbSchema
+  ];
 
   return {
     title,
@@ -361,7 +395,10 @@ function generate404Page(globalMeta) {
 // Root index — just lists course names
 function generateRootIndex(sidebarConfig, globalMeta) {
   const year = new Date().getFullYear();
-  const courses = Object.entries(sidebarConfig.folders || {});
+  const courses = Object.entries(sidebarConfig.folders || {}).sort(([nameA, childA], [nameB, childB]) => {
+    const cmp = compareOrders(childA.order, childB.order);
+    return cmp !== 0 ? cmp : nameA.localeCompare(nameB, undefined, { numeric: true, sensitivity: 'base' });
+  });
   const pageTitle = globalMeta.defaultTitle || globalMeta.siteName || 'Webnotes';
   const pageDescription = globalMeta.defaultDescription || 'Learning notes and topics';
   const canonical = normalizeAbsoluteUrl(globalMeta.url, '');
@@ -534,7 +571,11 @@ function generateCourseIndex(courseName, courseData, globalMeta, slug) {
     : normalizeAbsoluteUrl(globalMeta.url, globalMeta.defaultImage || '');
 
   function renderSections(folders) {
-    return Object.entries(folders).map(([folderName, folderData]) => {
+    const sortedFolders = Object.entries(folders).sort(([nameA, childA], [nameB, childB]) => {
+      const cmp = compareOrders(childA.order, childB.order);
+      return cmp !== 0 ? cmp : nameA.localeCompare(nameB, undefined, { numeric: true, sensitivity: 'base' });
+    });
+    return sortedFolders.map(([folderName, folderData]) => {
       const files = folderData.files || [];
       const subFolders = folderData.folders || {};
 
@@ -545,9 +586,15 @@ function generateCourseIndex(courseName, courseData, globalMeta, slug) {
 
       const subSections = renderSections(subFolders);
 
+      let formattedName = folderName;
+      const modMatch = folderName.match(/^(module\s+\d+)(.*)$/i);
+      if (modMatch) {
+        formattedName = `<span style="color: var(--accent);">${modMatch[1]}</span>${modMatch[2]}`;
+      }
+
       return `
     <div class="topic-section">
-      <h2>${folderName}</h2>
+      <h2>${formattedName}</h2>
       ${files.length > 0 ? `<ul class="subtopic-list">${fileLinks}</ul>` : ''}
       ${subSections}
     </div>`;
@@ -764,6 +811,7 @@ async function init() {
   });
 
   const md = new MarkdownIt({
+    html: true,
     highlight: (code, lang) => {
       const validLang = lang && highlighter.getLoadedLanguages().includes(lang) ? lang : 'text';
       try {
@@ -823,9 +871,7 @@ async function init() {
       if (parts.length <= 1) {
         cleanRelative = parts[0].replace(/\.mdx?$/, '');
       } else {
-        const courseSlug = parts[0];
-        const pageSlug = parts[parts.length - 1].replace(/\.mdx?$/, '');
-        cleanRelative = `${courseSlug}/${pageSlug}`;
+        cleanRelative = parts.slice(0, -1).join('/') + '/' + parts[parts.length - 1].replace(/\.mdx?$/, '');
       }
 
       const cleanPath = normalizeRoutePath(cleanRelative);

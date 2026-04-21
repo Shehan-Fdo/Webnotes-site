@@ -14,9 +14,8 @@ function toRoutePath(relPath) {
   if (parts.length <= 1) {
     return `${parts[0].replace(/\.mdx?$/, '')}/`;
   }
-  const course = parts[0];
-  const filename = parts[parts.length - 1].replace(/\.mdx?$/, '');
-  return `${course}/${filename}/`;
+  const cleanRelative = parts.slice(0, -1).join('/') + '/' + parts[parts.length - 1].replace(/\.mdx?$/, '');
+  return `${cleanRelative}/`;
 }
 
 /**
@@ -135,7 +134,7 @@ function buildTree(files, pagesDir) {
   function sortNode(node) {
     node.files.sort((a, b) => {
       const cmp = compareOrders(a.order, b.order);
-      return cmp !== 0 ? cmp : a.title.localeCompare(b.title);
+      return cmp !== 0 ? cmp : a.title.localeCompare(b.title, undefined, { numeric: true, sensitivity: 'base' });
     });
     Object.values(node.folders).forEach(sortNode);
   }
@@ -169,7 +168,7 @@ function renderNode(node, baseRel, currentPath, isRoot = false) {
   // Sub-folders sorted by numeric prefix order, then alphabetically as fallback
   const folderEntries = Object.entries(node.folders).sort(([nameA, childA], [nameB, childB]) => {
     const cmp = compareOrders(childA.order, childB.order);
-    return cmp !== 0 ? cmp : nameA.localeCompare(nameB);
+    return cmp !== 0 ? cmp : nameA.localeCompare(nameB, undefined, { numeric: true, sensitivity: 'base' });
   });
 
   folderEntries.forEach(([name, child]) => {
@@ -224,7 +223,7 @@ export function getFlatPageList(tree) {
     // Sub-folders in the same order renderNode uses
     const folderEntries = Object.entries(node.folders).sort(([nameA, childA], [nameB, childB]) => {
       const cmp = compareOrders(childA.order, childB.order);
-      return cmp !== 0 ? cmp : nameA.localeCompare(nameB);
+      return cmp !== 0 ? cmp : nameA.localeCompare(nameB, undefined, { numeric: true, sensitivity: 'base' });
     });
     folderEntries.forEach(([, child]) => walk(child));
   }

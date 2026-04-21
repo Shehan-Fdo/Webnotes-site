@@ -27,6 +27,10 @@ export default function Layout(seo = {}, content, sidebarHtml = '', baseRel = '.
   const twitterCard = seo.twitterCard || siteMeta.twitterCard || 'summary_large_image';
   const twitterSite = seo.twitterSite || siteMeta.twitterSite || '';
   const structuredData = seo.structuredData ? JSON.stringify(seo.structuredData) : '';
+  const ogType = seo.publishedTime ? 'article' : 'website';
+  const articleTags = ogType === 'article' ? `
+    <meta property="article:published_time" content="${seo.publishedTime}">
+    ${seo.modifiedTime ? `<meta property="article:modified_time" content="${seo.modifiedTime}">` : ''}` : '';
 
   // <script src="https://pl28879057.profitablecpmratenetwork.com/6f/85/84/6f85842f0b72b56041e693d0b4e6718c.js"></script> Ads terra
   return `
@@ -44,7 +48,8 @@ export default function Layout(seo = {}, content, sidebarHtml = '', baseRel = '.
     ${canonical ? `<link rel="canonical" href="${canonical}">` : ''}
     
     <!-- OpenGraph / Facebook -->
-    <meta property="og:type" content="website">
+    <meta property="og:type" content="${ogType}">
+    ${articleTags}
     <meta property="og:title" content="${siteTitle}">
     <meta property="og:description" content="${description}">
     ${canonical ? `<meta property="og:url" content="${canonical}">` : ''}

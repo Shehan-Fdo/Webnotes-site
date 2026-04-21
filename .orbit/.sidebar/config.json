@@ -8,32 +8,32 @@
           "files": [
             {
               "title": "Definitions of AI, machine learning, and generative AI",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/definitions-of-ai-machine-learning-and-generative-ai/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-10-basic-ai-concepts-for-it-support/definitions-of-ai-machine-learning-and-generative-ai/",
               "order": 80
             },
             {
               "title": "Common AI use cases in IT support",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/common-ai-use-cases-in-it-support/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-10-basic-ai-concepts-for-it-support/common-ai-use-cases-in-it-support/",
               "order": 81
             },
             {
               "title": "AI-assisted search, summarization, and ticket triage",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/ai-assisted-search-summarization-and-ticket-triage/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-10-basic-ai-concepts-for-it-support/ai-assisted-search-summarization-and-ticket-triage/",
               "order": 82
             },
             {
               "title": "Risks: hallucinations, bias, privacy, and data leakage",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/risks-hallucinations-bias-privacy-and-data-leakage/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-10-basic-ai-concepts-for-it-support/risks-hallucinations-bias-privacy-and-data-leakage/",
               "order": 83
             },
             {
               "title": "Appropriate and inappropriate uses of AI tools in support workflows",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/appropriate-and-inappropriate-uses-of-ai-tools-in-support-workflows/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-10-basic-ai-concepts-for-it-support/appropriate-and-inappropriate-uses-of-ai-tools-in-support-workflows/",
               "order": 84
             },
             {
               "title": "Policy and governance considerations for end users and technicians",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/policy-and-governance-considerations-for-end-users-and-technicians/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-10-basic-ai-concepts-for-it-support/policy-and-governance-considerations-for-end-users-and-technicians/",
               "order": 85
             }
           ],
@@ -44,42 +44,42 @@
           "files": [
             {
               "title": "Change management basics",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/change-management-basics/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-11-operational-procedures-safety-and-documentation/change-management-basics/",
               "order": 86
             },
             {
               "title": "Backup and restore concepts",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/backup-and-restore-concepts/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-11-operational-procedures-safety-and-documentation/backup-and-restore-concepts/",
               "order": 87
             },
             {
               "title": "Asset tagging and chain of custody",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/asset-tagging-and-chain-of-custody/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-11-operational-procedures-safety-and-documentation/asset-tagging-and-chain-of-custody/",
               "order": 88
             },
             {
               "title": "Licensing and software compliance",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/licensing-and-software-compliance/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-11-operational-procedures-safety-and-documentation/licensing-and-software-compliance/",
               "order": 89
             },
             {
               "title": "Safety procedures and regulatory awareness",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/safety-procedures-and-regulatory-awareness/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-11-operational-procedures-safety-and-documentation/safety-procedures-and-regulatory-awareness/",
               "order": 90
             },
             {
               "title": "Environmental and disposal considerations",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/environmental-and-disposal-considerations/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-11-operational-procedures-safety-and-documentation/environmental-and-disposal-considerations/",
               "order": 91
             },
             {
               "title": "Documentation quality and knowledge base usage",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/documentation-quality-and-knowledge-base-usage/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-11-operational-procedures-safety-and-documentation/documentation-quality-and-knowledge-base-usage/",
               "order": 92
             },
             {
               "title": "Communication with users and stakeholders",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/communication-with-users-and-stakeholders/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-11-operational-procedures-safety-and-documentation/communication-with-users-and-stakeholders/",
               "order": 93
             }
           ],
@@ -90,37 +90,37 @@
           "files": [
             {
               "title": "IT support roles, responsibilities, and escalation paths",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/it-support-roles-responsibilities-and-escalation-paths/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-1-it-support-foundations-and-professional-practice/it-support-roles-responsibilities-and-escalation-paths/",
               "order": 1
             },
             {
               "title": "Ticketing systems, documentation standards, and change tracking",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/ticketing-systems-documentation-standards-and-change-tracking/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-1-it-support-foundations-and-professional-practice/ticketing-systems-documentation-standards-and-change-tracking/",
               "order": 2
             },
             {
               "title": "Customer service, communication, and professionalism",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/customer-service-communication-and-professionalism/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-1-it-support-foundations-and-professional-practice/customer-service-communication-and-professionalism/",
               "order": 3
             },
             {
               "title": "Remote support workflows and endpoint management basics",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/remote-support-workflows-and-endpoint-management-basics/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-1-it-support-foundations-and-professional-practice/remote-support-workflows-and-endpoint-management-basics/",
               "order": 4
             },
             {
               "title": "Asset management, inventory, and lifecycle concepts",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/asset-management-inventory-and-lifecycle-concepts/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-1-it-support-foundations-and-professional-practice/asset-management-inventory-and-lifecycle-concepts/",
               "order": 5
             },
             {
               "title": "Safety, ESD, and environmental handling procedures",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/safety-esd-and-environmental-handling-procedures/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-1-it-support-foundations-and-professional-practice/safety-esd-and-environmental-handling-procedures/",
               "order": 6
             },
             {
               "title": "Basic troubleshooting methodology and root-cause thinking",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/basic-troubleshooting-methodology-and-root-cause-thinking/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-1-it-support-foundations-and-professional-practice/basic-troubleshooting-methodology-and-root-cause-thinking/",
               "order": 7
             }
           ],
@@ -131,42 +131,42 @@
           "files": [
             {
               "title": "Motherboards, chipsets, BIOS/UEFI, and firmware settings",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/motherboards-chipsets-bios-uefi-and-firmware-settings/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-2-pc-hardware-and-device-components/motherboards-chipsets-bios-uefi-and-firmware-settings/",
               "order": 8
             },
             {
               "title": "CPUs, cooling systems, and thermal management",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/cpus-cooling-systems-and-thermal-management/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-2-pc-hardware-and-device-components/cpus-cooling-systems-and-thermal-management/",
               "order": 9
             },
             {
               "title": "Storage devices: HDD, SSD, NVMe, SATA, and M.2",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/storage-devices-hdd-ssd-nvme-sata-and-m2/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-2-pc-hardware-and-device-components/storage-devices-hdd-ssd-nvme-sata-and-m2/",
               "order": 11
             },
             {
               "title": "Power supplies, wattage, connectors, and protection features",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/power-supplies-wattage-connectors-and-protection-features/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-2-pc-hardware-and-device-components/power-supplies-wattage-connectors-and-protection-features/",
               "order": 12
             },
             {
               "title": "Expansion cards and internal buses",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/expansion-cards-and-internal-buses/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-2-pc-hardware-and-device-components/expansion-cards-and-internal-buses/",
               "order": 13
             },
             {
               "title": "PC cases, form factors, and airflow considerations",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/pc-cases-form-factors-and-airflow-considerations/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-2-pc-hardware-and-device-components/pc-cases-form-factors-and-airflow-considerations/",
               "order": 14
             },
             {
               "title": "Input/output ports and connectors",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/input-output-ports-and-connectors/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-2-pc-hardware-and-device-components/input-output-ports-and-connectors/",
               "order": 15
             },
             {
               "title": "Peripheral devices and common accessories",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/peripheral-devices-and-common-accessories/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-2-pc-hardware-and-device-components/peripheral-devices-and-common-accessories/",
               "order": 16
             }
           ],
@@ -177,42 +177,42 @@
           "files": [
             {
               "title": "Laptop hardware components and replaceable parts",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/laptop-hardware-components-and-replaceable-parts/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-3-laptops-mobile-devices-and-hybrid-work-endpoints/laptop-hardware-components-and-replaceable-parts/",
               "order": 17
             },
             {
               "title": "Docking stations, port replicators, and USB-C/Thunderbolt docks",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/docking-stations-port-replicators-and-usb-c-thunderbolt-docks/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-3-laptops-mobile-devices-and-hybrid-work-endpoints/docking-stations-port-replicators-and-usb-c-thunderbolt-docks/",
               "order": 18
             },
             {
               "title": "Mobile device types: smartphones, tablets, and wearables",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/mobile-device-types-smartphones-tablets-and-wearables/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-3-laptops-mobile-devices-and-hybrid-work-endpoints/mobile-device-types-smartphones-tablets-and-wearables/",
               "order": 19
             },
             {
               "title": "Mobile device connectivity: Wi-Fi, Bluetooth, NFC, hotspot, and tethering",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/mobile-device-connectivity-wi-fi-bluetooth-nfc-hotspot-and-tethering/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-3-laptops-mobile-devices-and-hybrid-work-endpoints/mobile-device-connectivity-wi-fi-bluetooth-nfc-hotspot-and-tethering/",
               "order": 20
             },
             {
               "title": "Mobile device management basics",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/mobile-device-management-basics/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-3-laptops-mobile-devices-and-hybrid-work-endpoints/mobile-device-management-basics/",
               "order": 21
             },
             {
               "title": "Battery technologies, charging, and power optimization",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/battery-technologies-charging-and-power-optimization/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-3-laptops-mobile-devices-and-hybrid-work-endpoints/battery-technologies-charging-and-power-optimization/",
               "order": 22
             },
             {
               "title": "Touchscreens, digitizers, cameras, microphones, and sensors",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/touchscreens-digitizers-cameras-microphones-and-sensors/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-3-laptops-mobile-devices-and-hybrid-work-endpoints/touchscreens-digitizers-cameras-microphones-and-sensors/",
               "order": 23
             },
             {
               "title": "BYOD, COPE, and remote work support considerations",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/byod-cope-and-remote-work-support-considerations/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-3-laptops-mobile-devices-and-hybrid-work-endpoints/byod-cope-and-remote-work-support-considerations/",
               "order": 24
             }
           ],
@@ -223,47 +223,47 @@
           "files": [
             {
               "title": "Printer types: laser, inkjet, thermal, impact, and multifunction devices",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/printer-types-laser-inkjet-thermal-impact-and-multifunction-devices/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-4-printers-multifunction-devices-and-3d-printing-support/printer-types-laser-inkjet-thermal-impact-and-multifunction-devices/",
               "order": 25
             },
             {
               "title": "Printer installation, drivers, queues, and sharing",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/printer-installation-drivers-queues-and-sharing/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-4-printers-multifunction-devices-and-3d-printing-support/printer-installation-drivers-queues-and-sharing/",
               "order": 26
             },
             {
               "title": "Common printer maintenance and consumables",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/common-printer-maintenance-and-consumables/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-4-printers-multifunction-devices-and-3d-printing-support/common-printer-maintenance-and-consumables/",
               "order": 27
             },
             {
               "title": "Wireless and network printer setup",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/wireless-and-network-printer-setup/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-4-printers-multifunction-devices-and-3d-printing-support/wireless-and-network-printer-setup/",
               "order": 28
             },
             {
               "title": "Print quality issues and troubleshooting",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/print-quality-issues-and-troubleshooting/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-4-printers-multifunction-devices-and-3d-printing-support/print-quality-issues-and-troubleshooting/",
               "order": 29
             },
             {
               "title": "3D printing fundamentals",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/3d-printing-fundamentals/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-4-printers-multifunction-devices-and-3d-printing-support/3d-printing-fundamentals/",
               "order": 30
             },
             {
               "title": "3D printer components, filament/resin concepts, and basic workflow",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/3d-printer-components-filament-resin-concepts-and-basic-workflow/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-4-printers-multifunction-devices-and-3d-printing-support/3d-printer-components-filament-resin-concepts-and-basic-workflow/",
               "order": 31
             },
             {
               "title": "Common 3D printing failures and support considerations",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/common-3d-printing-failures-and-support-considerations/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-4-printers-multifunction-devices-and-3d-printing-support/common-3d-printing-failures-and-support-considerations/",
               "order": 32
             },
             {
               "title": "Safety and maintenance for print devices",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/safety-and-maintenance-for-print-devices/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-4-printers-multifunction-devices-and-3d-printing-support/safety-and-maintenance-for-print-devices/",
               "order": 33
             }
           ],
@@ -274,47 +274,47 @@
           "files": [
             {
               "title": "Network types: LAN, WAN, WLAN, PAN, and MAN",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/network-types-lan-wan-wlan-pan-and-man/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-5-networking-fundamentals-and-connectivity/network-types-lan-wan-wlan-pan-and-man/",
               "order": 34
             },
             {
               "title": "Network devices: routers, switches, access points, firewalls, and modems",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/network-devices-routers-switches-access-points-firewalls-and-modems/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-5-networking-fundamentals-and-connectivity/network-devices-routers-switches-access-points-firewalls-and-modems/",
               "order": 35
             },
             {
               "title": "IP addressing, subnet basics, DHCP, DNS, and NAT",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/ip-addressing-subnet-basics-dhcp-dns-and-nat/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-5-networking-fundamentals-and-connectivity/ip-addressing-subnet-basics-dhcp-dns-and-nat/",
               "order": 36
             },
             {
               "title": "Common ports and protocols",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/common-ports-and-protocols/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-5-networking-fundamentals-and-connectivity/common-ports-and-protocols/",
               "order": 37
             },
             {
               "title": "Wi-Fi standards, bands, channels, and security modes",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/wi-fi-standards-bands-channels-and-security-modes/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-5-networking-fundamentals-and-connectivity/wi-fi-standards-bands-channels-and-security-modes/",
               "order": 38
             },
             {
               "title": "Ethernet cabling, connectors, and standards",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/ethernet-cabling-connectors-and-standards/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-5-networking-fundamentals-and-connectivity/ethernet-cabling-connectors-and-standards/",
               "order": 39
             },
             {
               "title": "VPN concepts and remote access basics",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/vpn-concepts-and-remote-access-basics/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-5-networking-fundamentals-and-connectivity/vpn-concepts-and-remote-access-basics/",
               "order": 40
             },
             {
               "title": "Internet connectivity troubleshooting",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/internet-connectivity-troubleshooting/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-5-networking-fundamentals-and-connectivity/internet-connectivity-troubleshooting/",
               "order": 41
             },
             {
               "title": "Network troubleshooting tools and commands",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/network-troubleshooting-tools-and-commands/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-5-networking-fundamentals-and-connectivity/network-troubleshooting-tools-and-commands/",
               "order": 42
             }
           ],
@@ -325,37 +325,37 @@
           "files": [
             {
               "title": "Virtual machines and hypervisors",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/virtual-machines-and-hypervisors/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-6-virtualization-cloud-and-modern-workplace-services/virtual-machines-and-hypervisors/",
               "order": 43
             },
             {
               "title": "Desktop virtualization concepts",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/desktop-virtualization-concepts/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-6-virtualization-cloud-and-modern-workplace-services/desktop-virtualization-concepts/",
               "order": 44
             },
             {
               "title": "Cloud storage and synchronization",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/cloud-storage-and-synchronization/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-6-virtualization-cloud-and-modern-workplace-services/cloud-storage-and-synchronization/",
               "order": 45
             },
             {
               "title": "SaaS, PaaS, and IaaS at a conceptual level",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/saas-paas-and-iaas-at-a-conceptual-level/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-6-virtualization-cloud-and-modern-workplace-services/saas-paas-and-iaas-at-a-conceptual-level/",
               "order": 46
             },
             {
               "title": "Collaboration and productivity platforms",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/collaboration-and-productivity-platforms/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-6-virtualization-cloud-and-modern-workplace-services/collaboration-and-productivity-platforms/",
               "order": 47
             },
             {
               "title": "Remote desktop and remote access tools",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/remote-desktop-and-remote-access-tools/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-6-virtualization-cloud-and-modern-workplace-services/remote-desktop-and-remote-access-tools/",
               "order": 48
             },
             {
               "title": "Shared resources and identity-based access concepts",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/shared-resources-and-identity-based-access-concepts/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-6-virtualization-cloud-and-modern-workplace-services/shared-resources-and-identity-based-access-concepts/",
               "order": 49
             }
           ],
@@ -366,47 +366,47 @@
           "files": [
             {
               "title": "Windows installation types, editions, and upgrade paths",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/windows-installation-types-editions-and-upgrade-paths/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-7-operating-systems-installation-configuration-and-support/windows-installation-types-editions-and-upgrade-paths/",
               "order": 50
             },
             {
               "title": "Windows 11 hardware requirements and compatibility concepts",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/windows-11-hardware-requirements-and-compatibility-concepts/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-7-operating-systems-installation-configuration-and-support/windows-11-hardware-requirements-and-compatibility-concepts/",
               "order": 51
             },
             {
               "title": "Installation media, recovery media, and deployment basics",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/installation-media-recovery-media-and-deployment-basics/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-7-operating-systems-installation-configuration-and-support/installation-media-recovery-media-and-deployment-basics/",
               "order": 52
             },
             {
               "title": "User profiles, accounts, permissions, and UAC",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/user-profiles-accounts-permissions-and-uac/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-7-operating-systems-installation-configuration-and-support/user-profiles-accounts-permissions-and-uac/",
               "order": 53
             },
             {
               "title": "File systems and storage management",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/file-systems-and-storage-management/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-7-operating-systems-installation-configuration-and-support/file-systems-and-storage-management/",
               "order": 54
             },
             {
               "title": "Device Manager, Disk Management, Task Manager, and Services",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/device-manager-disk-management-task-manager-and-services/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-7-operating-systems-installation-configuration-and-support/device-manager-disk-management-task-manager-and-services/",
               "order": 55
             },
             {
               "title": "System utilities and administrative tools",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/system-utilities-and-administrative-tools/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-7-operating-systems-installation-configuration-and-support/system-utilities-and-administrative-tools/",
               "order": 56
             },
             {
               "title": "macOS and Linux support basics",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/macos-and-linux-support-basics/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-7-operating-systems-installation-configuration-and-support/macos-and-linux-support-basics/",
               "order": 57
             },
             {
               "title": "Command-line fundamentals for support tasks",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/command-line-fundamentals-for-support-tasks/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-7-operating-systems-installation-configuration-and-support/command-line-fundamentals-for-support-tasks/",
               "order": 58
             }
           ],
@@ -417,52 +417,52 @@
           "files": [
             {
               "title": "Security principles: CIA triad, least privilege, and defense in depth",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/security-principles-cia-triad-least-privilege-and-defense-in-depth/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-8-security-fundamentals-and-endpoint-protection/security-principles-cia-triad-least-privilege-and-defense-in-depth/",
               "order": 59
             },
             {
               "title": "Authentication, authorization, and accounting",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/authentication-authorization-and-accounting/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-8-security-fundamentals-and-endpoint-protection/authentication-authorization-and-accounting/",
               "order": 60
             },
             {
               "title": "Malware types and prevention",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/malware-types-and-prevention/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-8-security-fundamentals-and-endpoint-protection/malware-types-and-prevention/",
               "order": 62
             },
             {
               "title": "Endpoint protection and antivirus",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/endpoint-protection-and-antivirus/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-8-security-fundamentals-and-endpoint-protection/endpoint-protection-and-antivirus/",
               "order": 63
             },
             {
               "title": "Encryption concepts and secure storage",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/encryption-concepts-and-secure-storage/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-8-security-fundamentals-and-endpoint-protection/encryption-concepts-and-secure-storage/",
               "order": 64
             },
             {
               "title": "Physical security controls",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/physical-security-controls/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-8-security-fundamentals-and-endpoint-protection/physical-security-controls/",
               "order": 65
             },
             {
               "title": "Social engineering and phishing",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/social-engineering-and-phishing/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-8-security-fundamentals-and-endpoint-protection/social-engineering-and-phishing/",
               "order": 66
             },
             {
               "title": "Secure browsing, email safety, and user awareness",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/secure-browsing-email-safety-and-user-awareness/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-8-security-fundamentals-and-endpoint-protection/secure-browsing-email-safety-and-user-awareness/",
               "order": 67
             },
             {
               "title": "Mobile and remote-work security practices",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/mobile-and-remote-work-security-practices/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-8-security-fundamentals-and-endpoint-protection/mobile-and-remote-work-security-practices/",
               "order": 68
             },
             {
               "title": "Basic incident response awareness",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/basic-incident-response-awareness/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-8-security-fundamentals-and-endpoint-protection/basic-incident-response-awareness/",
               "order": 69
             }
           ],
@@ -473,52 +473,52 @@
           "files": [
             {
               "title": "Application installation and removal",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/application-installation-and-removal/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-9-software-troubleshooting-and-application-support/application-installation-and-removal/",
               "order": 70
             },
             {
               "title": "Compatibility issues and version conflicts",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/compatibility-issues-and-version-conflicts/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-9-software-troubleshooting-and-application-support/compatibility-issues-and-version-conflicts/",
               "order": 71
             },
             {
               "title": "Browser troubleshooting",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/browser-troubleshooting/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-9-software-troubleshooting-and-application-support/browser-troubleshooting/",
               "order": 72
             },
             {
               "title": "Email and calendaring issues",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/email-and-calendaring-issues/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-9-software-troubleshooting-and-application-support/email-and-calendaring-issues/",
               "order": 73
             },
             {
               "title": "Productivity suite support",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/productivity-suite-support/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-9-software-troubleshooting-and-application-support/productivity-suite-support/",
               "order": 74
             },
             {
               "title": "Printing from applications",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/printing-from-applications/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-9-software-troubleshooting-and-application-support/printing-from-applications/",
               "order": 75
             },
             {
               "title": "File access, permissions, and association issues",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/file-access-permissions-and-association-issues/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-9-software-troubleshooting-and-application-support/file-access-permissions-and-association-issues/",
               "order": 76
             },
             {
               "title": "Performance problems and resource contention",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/performance-problems-and-resource-contention/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-9-software-troubleshooting-and-application-support/performance-problems-and-resource-contention/",
               "order": 77
             },
             {
               "title": "Startup and login issues",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/startup-and-login-issues/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-9-software-troubleshooting-and-application-support/startup-and-login-issues/",
               "order": 78
             },
             {
               "title": "Update failures and patch-related issues",
-              "path": "comptia-a-exams-220-1201-220-1202-v15/update-failures-and-patch-related-issues/",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/module-9-software-troubleshooting-and-application-support/update-failures-and-patch-related-issues/",
               "order": 79
             }
           ],
@@ -535,47 +535,47 @@
           "files": [
             {
               "title": "Troubleshooting Methodology",
-              "path": "comptia-network-exam-n10-009/troubleshooting-methodology/",
+              "path": "comptia-network-exam-n10-009/module-10-network-troubleshooting-methodology-and-tool-usage/troubleshooting-methodology/",
               "order": 85
             },
             {
               "title": "Layered Troubleshooting with OSI and TCP/IP",
-              "path": "comptia-network-exam-n10-009/layered-troubleshooting-with-osi-and-tcp-ip/",
+              "path": "comptia-network-exam-n10-009/module-10-network-troubleshooting-methodology-and-tool-usage/layered-troubleshooting-with-osi-and-tcp-ip/",
               "order": 86
             },
             {
               "title": "Common Connectivity Issues",
-              "path": "comptia-network-exam-n10-009/common-connectivity-issues/",
+              "path": "comptia-network-exam-n10-009/module-10-network-troubleshooting-methodology-and-tool-usage/common-connectivity-issues/",
               "order": 87
             },
             {
               "title": "Wireless Troubleshooting Scenarios",
-              "path": "comptia-network-exam-n10-009/wireless-troubleshooting-scenarios/",
+              "path": "comptia-network-exam-n10-009/module-10-network-troubleshooting-methodology-and-tool-usage/wireless-troubleshooting-scenarios/",
               "order": 88
             },
             {
               "title": "Performance Troubleshooting",
-              "path": "comptia-network-exam-n10-009/performance-troubleshooting/",
+              "path": "comptia-network-exam-n10-009/module-10-network-troubleshooting-methodology-and-tool-usage/performance-troubleshooting/",
               "order": 89
             },
             {
               "title": "Security-Related Connectivity Issues",
-              "path": "comptia-network-exam-n10-009/security-related-connectivity-issues/",
+              "path": "comptia-network-exam-n10-009/module-10-network-troubleshooting-methodology-and-tool-usage/security-related-connectivity-issues/",
               "order": 90
             },
             {
               "title": "Command-Line Troubleshooting Tools",
-              "path": "comptia-network-exam-n10-009/command-line-troubleshooting-tools/",
+              "path": "comptia-network-exam-n10-009/module-10-network-troubleshooting-methodology-and-tool-usage/command-line-troubleshooting-tools/",
               "order": 91
             },
             {
               "title": "Packet Capture and Log Review",
-              "path": "comptia-network-exam-n10-009/packet-capture-and-log-review/",
+              "path": "comptia-network-exam-n10-009/module-10-network-troubleshooting-methodology-and-tool-usage/packet-capture-and-log-review/",
               "order": 92
             },
             {
               "title": "Escalation and Handoff",
-              "path": "comptia-network-exam-n10-009/escalation-and-handoff/",
+              "path": "comptia-network-exam-n10-009/module-10-network-troubleshooting-methodology-and-tool-usage/escalation-and-handoff/",
               "order": 93
             }
           ],
@@ -586,42 +586,42 @@
           "files": [
             {
               "title": "Availability and Resilience",
-              "path": "comptia-network-exam-n10-009/availability-and-resilience/",
+              "path": "comptia-network-exam-n10-009/module-11-network-design-considerations-and-business-continuity/availability-and-resilience/",
               "order": 94
             },
             {
               "title": "Single Points of Failure",
-              "path": "comptia-network-exam-n10-009/single-points-of-failure/",
+              "path": "comptia-network-exam-n10-009/module-11-network-design-considerations-and-business-continuity/single-points-of-failure/",
               "order": 95
             },
             {
               "title": "Disaster Recovery and Business Continuity",
-              "path": "comptia-network-exam-n10-009/disaster-recovery-and-business-continuity/",
+              "path": "comptia-network-exam-n10-009/module-11-network-design-considerations-and-business-continuity/disaster-recovery-and-business-continuity/",
               "order": 96
             },
             {
               "title": "Backup Connectivity and Failover Design",
-              "path": "comptia-network-exam-n10-009/backup-connectivity-and-failover-design/",
+              "path": "comptia-network-exam-n10-009/module-11-network-design-considerations-and-business-continuity/backup-connectivity-and-failover-design/",
               "order": 97
             },
             {
               "title": "Geographic Redundancy and Multi-Site Considerations",
-              "path": "comptia-network-exam-n10-009/geographic-redundancy-and-multi-site-considerations/",
+              "path": "comptia-network-exam-n10-009/module-11-network-design-considerations-and-business-continuity/geographic-redundancy-and-multi-site-considerations/",
               "order": 98
             },
             {
               "title": "Scalability and Growth Planning",
-              "path": "comptia-network-exam-n10-009/scalability-and-growth-planning/",
+              "path": "comptia-network-exam-n10-009/module-11-network-design-considerations-and-business-continuity/scalability-and-growth-planning/",
               "order": 99
             },
             {
               "title": "Tradeoffs in Network Design",
-              "path": "comptia-network-exam-n10-009/tradeoffs-in-network-design/",
+              "path": "comptia-network-exam-n10-009/module-11-network-design-considerations-and-business-continuity/tradeoffs-in-network-design/",
               "order": 100
             },
             {
               "title": "Compliance Physical Security and Environmental Risks",
-              "path": "comptia-network-exam-n10-009/compliance-physical-security-and-environmental-risks/",
+              "path": "comptia-network-exam-n10-009/module-11-network-design-considerations-and-business-continuity/compliance-physical-security-and-environmental-risks/",
               "order": 101
             }
           ],
@@ -632,32 +632,32 @@
           "files": [
             {
               "title": "Exam Objective Mapping Review",
-              "path": "comptia-network-exam-n10-009/exam-objective-mapping-review/",
+              "path": "comptia-network-exam-n10-009/module-12-exam-preparation-and-scenario-based-review/exam-objective-mapping-review/",
               "order": 102
             },
             {
               "title": "Scenario-Based Practice Questions",
-              "path": "comptia-network-exam-n10-009/scenario-based-practice-questions/",
+              "path": "comptia-network-exam-n10-009/module-12-exam-preparation-and-scenario-based-review/scenario-based-practice-questions/",
               "order": 103
             },
             {
               "title": "Performance-Based Task Practice",
-              "path": "comptia-network-exam-n10-009/performance-based-task-practice/",
+              "path": "comptia-network-exam-n10-009/module-12-exam-preparation-and-scenario-based-review/performance-based-task-practice/",
               "order": 104
             },
             {
               "title": "Terminology Distinctions and Exam Traps",
-              "path": "comptia-network-exam-n10-009/terminology-distinctions-and-exam-traps/",
+              "path": "comptia-network-exam-n10-009/module-12-exam-preparation-and-scenario-based-review/terminology-distinctions-and-exam-traps/",
               "order": 105
             },
             {
               "title": "Time Management and Test Strategy",
-              "path": "comptia-network-exam-n10-009/time-management-and-test-strategy/",
+              "path": "comptia-network-exam-n10-009/module-12-exam-preparation-and-scenario-based-review/time-management-and-test-strategy/",
               "order": 106
             },
             {
               "title": "Final Diagnostic Assessment and Remediation",
-              "path": "comptia-network-exam-n10-009/final-diagnostic-assessment-and-remediation/",
+              "path": "comptia-network-exam-n10-009/module-12-exam-preparation-and-scenario-based-review/final-diagnostic-assessment-and-remediation/",
               "order": 107
             }
           ],
@@ -668,47 +668,47 @@
           "files": [
             {
               "title": "Network Types and Use Cases",
-              "path": "comptia-network-exam-n10-009/network-types-and-use-cases/",
+              "path": "comptia-network-exam-n10-009/module-1-networking-fundamentals-and-core-concepts/network-types-and-use-cases/",
               "order": 1
             },
             {
               "title": "OSI and TCP/IP Models",
-              "path": "comptia-network-exam-n10-009/osi-and-tcp-ip-models/",
+              "path": "comptia-network-exam-n10-009/module-1-networking-fundamentals-and-core-concepts/osi-and-tcp-ip-models/",
               "order": 2
             },
             {
               "title": "Network Topologies",
-              "path": "comptia-network-exam-n10-009/network-topologies/",
+              "path": "comptia-network-exam-n10-009/module-1-networking-fundamentals-and-core-concepts/network-topologies/",
               "order": 3
             },
             {
               "title": "Network Communication Concepts",
-              "path": "comptia-network-exam-n10-009/network-communication-concepts/",
+              "path": "comptia-network-exam-n10-009/module-1-networking-fundamentals-and-core-concepts/network-communication-concepts/",
               "order": 4
             },
             {
               "title": "Performance Metrics and Availability",
-              "path": "comptia-network-exam-n10-009/performance-metrics-and-availability/",
+              "path": "comptia-network-exam-n10-009/module-1-networking-fundamentals-and-core-concepts/performance-metrics-and-availability/",
               "order": 5
             },
             {
               "title": "IPv4 and IPv6 Fundamentals",
-              "path": "comptia-network-exam-n10-009/ipv4-and-ipv6-fundamentals/",
+              "path": "comptia-network-exam-n10-009/module-1-networking-fundamentals-and-core-concepts/ipv4-and-ipv6-fundamentals/",
               "order": 6
             },
             {
               "title": "Subnetting and CIDR Notation",
-              "path": "comptia-network-exam-n10-009/subnetting-and-cidr-notation/",
+              "path": "comptia-network-exam-n10-009/module-1-networking-fundamentals-and-core-concepts/subnetting-and-cidr-notation/",
               "order": 7
             },
             {
               "title": "Common Ports and Protocols",
-              "path": "comptia-network-exam-n10-009/common-ports-and-protocols/",
+              "path": "comptia-network-exam-n10-009/module-1-networking-fundamentals-and-core-concepts/common-ports-and-protocols/",
               "order": 8
             },
             {
               "title": "Network Documentation Basics",
-              "path": "comptia-network-exam-n10-009/network-documentation-basics/",
+              "path": "comptia-network-exam-n10-009/module-1-networking-fundamentals-and-core-concepts/network-documentation-basics/",
               "order": 9
             }
           ],
@@ -719,57 +719,57 @@
           "files": [
             {
               "title": "Network Interface Components",
-              "path": "comptia-network-exam-n10-009/network-interface-components/",
+              "path": "comptia-network-exam-n10-009/module-2-network-infrastructure-and-hardware/network-interface-components/",
               "order": 10
             },
             {
               "title": "Switches Routers Access Points and Security Devices",
-              "path": "comptia-network-exam-n10-009/switches-routers-access-points-and-security-devices/",
+              "path": "comptia-network-exam-n10-009/module-2-network-infrastructure-and-hardware/switches-routers-access-points-and-security-devices/",
               "order": 11
             },
             {
               "title": "Modems, CSU/DSU, and ISP Handoff",
-              "path": "comptia-network-exam-n10-009/modems-csu-dsu-and-isp-handoff/",
+              "path": "comptia-network-exam-n10-009/module-2-network-infrastructure-and-hardware/modems-csu-dsu-and-isp-handoff/",
               "order": 12
             },
             {
               "title": "Power over Ethernet",
-              "path": "comptia-network-exam-n10-009/power-over-ethernet/",
+              "path": "comptia-network-exam-n10-009/module-2-network-infrastructure-and-hardware/power-over-ethernet/",
               "order": 13
             },
             {
               "title": "Copper Cabling and Connectors",
-              "path": "comptia-network-exam-n10-009/copper-cabling-and-connectors/",
+              "path": "comptia-network-exam-n10-009/module-2-network-infrastructure-and-hardware/copper-cabling-and-connectors/",
               "order": 14
             },
             {
               "title": "Fiber Cabling and Connectors",
-              "path": "comptia-network-exam-n10-009/fiber-cabling-and-connectors/",
+              "path": "comptia-network-exam-n10-009/module-2-network-infrastructure-and-hardware/fiber-cabling-and-connectors/",
               "order": 15
             },
             {
               "title": "Wireless Standards and Frequency Bands",
-              "path": "comptia-network-exam-n10-009/wireless-standards-and-frequency-bands/",
+              "path": "comptia-network-exam-n10-009/module-2-network-infrastructure-and-hardware/wireless-standards-and-frequency-bands/",
               "order": 16
             },
             {
               "title": "Antenna Types and Coverage",
-              "path": "comptia-network-exam-n10-009/antenna-types-and-coverage/",
+              "path": "comptia-network-exam-n10-009/module-2-network-infrastructure-and-hardware/antenna-types-and-coverage/",
               "order": 17
             },
             {
               "title": "Racks, Patch Panels, and Cable Management",
-              "path": "comptia-network-exam-n10-009/racks-patch-panels-and-cable-management/",
+              "path": "comptia-network-exam-n10-009/module-2-network-infrastructure-and-hardware/racks-patch-panels-and-cable-management/",
               "order": 18
             },
             {
               "title": "Environmental and Power Considerations",
-              "path": "comptia-network-exam-n10-009/environmental-and-power-considerations/",
+              "path": "comptia-network-exam-n10-009/module-2-network-infrastructure-and-hardware/environmental-and-power-considerations/",
               "order": 19
             },
             {
               "title": "High Availability Concepts",
-              "path": "comptia-network-exam-n10-009/high-availability-concepts/",
+              "path": "comptia-network-exam-n10-009/module-2-network-infrastructure-and-hardware/high-availability-concepts/",
               "order": 20
             }
           ],
@@ -780,52 +780,52 @@
           "files": [
             {
               "title": "IPv4 Addressing and Route Selection",
-              "path": "comptia-network-exam-n10-009/ipv4-addressing-and-route-selection/",
+              "path": "comptia-network-exam-n10-009/module-3-network-addressing-services-and-name-resolution/ipv4-addressing-and-route-selection/",
               "order": 21
             },
             {
               "title": "IPv6 Addressing and Prefix Notation",
-              "path": "comptia-network-exam-n10-009/ipv6-addressing-and-prefix-notation/",
+              "path": "comptia-network-exam-n10-009/module-3-network-addressing-services-and-name-resolution/ipv6-addressing-and-prefix-notation/",
               "order": 22
             },
             {
               "title": "DHCP Operation and Relay",
-              "path": "comptia-network-exam-n10-009/dhcp-operation-and-relay/",
+              "path": "comptia-network-exam-n10-009/module-3-network-addressing-services-and-name-resolution/dhcp-operation-and-relay/",
               "order": 23
             },
             {
               "title": "DNS Operation and Resolution Flow",
-              "path": "comptia-network-exam-n10-009/dns-operation-and-resolution-flow/",
+              "path": "comptia-network-exam-n10-009/module-3-network-addressing-services-and-name-resolution/dns-operation-and-resolution-flow/",
               "order": 24
             },
             {
               "title": "NAT and PAT",
-              "path": "comptia-network-exam-n10-009/nat-and-pat/",
+              "path": "comptia-network-exam-n10-009/module-3-network-addressing-services-and-name-resolution/nat-and-pat/",
               "order": 25
             },
             {
               "title": "VLAN-Aware Addressing Concepts",
-              "path": "comptia-network-exam-n10-009/vlan-aware-addressing-concepts/",
+              "path": "comptia-network-exam-n10-009/module-3-network-addressing-services-and-name-resolution/vlan-aware-addressing-concepts/",
               "order": 26
             },
             {
               "title": "Static and Dynamic Addressing",
-              "path": "comptia-network-exam-n10-009/static-and-dynamic-addressing/",
+              "path": "comptia-network-exam-n10-009/module-3-network-addressing-services-and-name-resolution/static-and-dynamic-addressing/",
               "order": 27
             },
             {
               "title": "Addressing for Common Device Types",
-              "path": "comptia-network-exam-n10-009/addressing-for-common-device-types/",
+              "path": "comptia-network-exam-n10-009/module-3-network-addressing-services-and-name-resolution/addressing-for-common-device-types/",
               "order": 28
             },
             {
               "title": "Time Synchronization with NTP",
-              "path": "comptia-network-exam-n10-009/time-synchronization-with-ntp/",
+              "path": "comptia-network-exam-n10-009/module-3-network-addressing-services-and-name-resolution/time-synchronization-with-ntp/",
               "order": 29
             },
             {
               "title": "Directory and Authentication Services",
-              "path": "comptia-network-exam-n10-009/directory-and-authentication-services/",
+              "path": "comptia-network-exam-n10-009/module-3-network-addressing-services-and-name-resolution/directory-and-authentication-services/",
               "order": 30
             }
           ],
@@ -836,47 +836,47 @@
           "files": [
             {
               "title": "Switching Concepts",
-              "path": "comptia-network-exam-n10-009/switching-concepts/",
+              "path": "comptia-network-exam-n10-009/module-4-switching-routing-and-network-segmentation/switching-concepts/",
               "order": 31
             },
             {
               "title": "VLANs and Trunking",
-              "path": "comptia-network-exam-n10-009/vlans-and-trunking/",
+              "path": "comptia-network-exam-n10-009/module-4-switching-routing-and-network-segmentation/vlans-and-trunking/",
               "order": 32
             },
             {
               "title": "STP and RSTP",
-              "path": "comptia-network-exam-n10-009/stp-and-rstp/",
+              "path": "comptia-network-exam-n10-009/module-4-switching-routing-and-network-segmentation/stp-and-rstp/",
               "order": 33
             },
             {
               "title": "Routing Fundamentals",
-              "path": "comptia-network-exam-n10-009/routing-fundamentals/",
+              "path": "comptia-network-exam-n10-009/module-4-switching-routing-and-network-segmentation/routing-fundamentals/",
               "order": 34
             },
             {
               "title": "Common Routing Protocol Awareness",
-              "path": "comptia-network-exam-n10-009/common-routing-protocol-awareness/",
+              "path": "comptia-network-exam-n10-009/module-4-switching-routing-and-network-segmentation/common-routing-protocol-awareness/",
               "order": 35
             },
             {
               "title": "Layer 3 Switching and Routed Interfaces",
-              "path": "comptia-network-exam-n10-009/layer-3-switching-and-routed-interfaces/",
+              "path": "comptia-network-exam-n10-009/module-4-switching-routing-and-network-segmentation/layer-3-switching-and-routed-interfaces/",
               "order": 36
             },
             {
               "title": "Network Segmentation",
-              "path": "comptia-network-exam-n10-009/network-segmentation/",
+              "path": "comptia-network-exam-n10-009/module-4-switching-routing-and-network-segmentation/network-segmentation/",
               "order": 37
             },
             {
               "title": "QoS Basics",
-              "path": "comptia-network-exam-n10-009/qos-basics/",
+              "path": "comptia-network-exam-n10-009/module-4-switching-routing-and-network-segmentation/qos-basics/",
               "order": 38
             },
             {
               "title": "WAN Connectivity Concepts",
-              "path": "comptia-network-exam-n10-009/wan-connectivity-concepts/",
+              "path": "comptia-network-exam-n10-009/module-4-switching-routing-and-network-segmentation/wan-connectivity-concepts/",
               "order": 39
             }
           ],
@@ -887,42 +887,42 @@
           "files": [
             {
               "title": "Wireless Standards and Wi-Fi Generations",
-              "path": "comptia-network-exam-n10-009/wireless-standards-and-wi-fi-generations/",
+              "path": "comptia-network-exam-n10-009/module-5-wireless-networking/wireless-standards-and-wi-fi-generations/",
               "order": 40
             },
             {
               "title": "Frequency Bands Channel Planning and Interference",
-              "path": "comptia-network-exam-n10-009/frequency-bands-channel-planning-and-interference/",
+              "path": "comptia-network-exam-n10-009/module-5-wireless-networking/frequency-bands-channel-planning-and-interference/",
               "order": 41
             },
             {
               "title": "Wireless Architecture and Client Association",
-              "path": "comptia-network-exam-n10-009/wireless-architecture-and-client-association/",
+              "path": "comptia-network-exam-n10-009/module-5-wireless-networking/wireless-architecture-and-client-association/",
               "order": 42
             },
             {
               "title": "Wireless Security Modes",
-              "path": "comptia-network-exam-n10-009/wireless-security-modes/",
+              "path": "comptia-network-exam-n10-009/module-5-wireless-networking/wireless-security-modes/",
               "order": 43
             },
             {
               "title": "Guest Access and Captive Portals",
-              "path": "comptia-network-exam-n10-009/guest-access-and-captive-portals/",
+              "path": "comptia-network-exam-n10-009/module-5-wireless-networking/guest-access-and-captive-portals/",
               "order": 44
             },
             {
               "title": "AP Placement and Site Surveys",
-              "path": "comptia-network-exam-n10-009/ap-placement-and-site-surveys/",
+              "path": "comptia-network-exam-n10-009/module-5-wireless-networking/ap-placement-and-site-surveys/",
               "order": 45
             },
             {
               "title": "Wireless Controller and Cloud-Managed WLANs",
-              "path": "comptia-network-exam-n10-009/wireless-controller-and-cloud-managed-wlans/",
+              "path": "comptia-network-exam-n10-009/module-5-wireless-networking/wireless-controller-and-cloud-managed-wlans/",
               "order": 46
             },
             {
               "title": "Wireless Troubleshooting",
-              "path": "comptia-network-exam-n10-009/wireless-troubleshooting/",
+              "path": "comptia-network-exam-n10-009/module-5-wireless-networking/wireless-troubleshooting/",
               "order": 47
             }
           ],
@@ -933,57 +933,57 @@
           "files": [
             {
               "title": "Security Principles",
-              "path": "comptia-network-exam-n10-009/security-principles/",
+              "path": "comptia-network-exam-n10-009/module-6-network-security-fundamentals-and-zero-trust-architecture/security-principles/",
               "order": 48
             },
             {
               "title": "AAA and MFA",
-              "path": "comptia-network-exam-n10-009/aaa-and-mfa/",
+              "path": "comptia-network-exam-n10-009/module-6-network-security-fundamentals-and-zero-trust-architecture/aaa-and-mfa/",
               "order": 49
             },
             {
               "title": "Network Access Control",
-              "path": "comptia-network-exam-n10-009/network-access-control/",
+              "path": "comptia-network-exam-n10-009/module-6-network-security-fundamentals-and-zero-trust-architecture/network-access-control/",
               "order": 50
             },
             {
               "title": "Firewalls and Next-Generation Firewalls",
-              "path": "comptia-network-exam-n10-009/firewalls-and-next-generation-firewalls/",
+              "path": "comptia-network-exam-n10-009/module-6-network-security-fundamentals-and-zero-trust-architecture/firewalls-and-next-generation-firewalls/",
               "order": 51
             },
             {
               "title": "IDS, IPS, and Alert Interpretation",
-              "path": "comptia-network-exam-n10-009/ids-ips-and-alert-interpretation/",
+              "path": "comptia-network-exam-n10-009/module-6-network-security-fundamentals-and-zero-trust-architecture/ids-ips-and-alert-interpretation/",
               "order": 52
             },
             {
               "title": "VPNs and Tunneling",
-              "path": "comptia-network-exam-n10-009/vpns-and-tunneling/",
+              "path": "comptia-network-exam-n10-009/module-6-network-security-fundamentals-and-zero-trust-architecture/vpns-and-tunneling/",
               "order": 53
             },
             {
               "title": "Secure Protocols and Encrypted Management",
-              "path": "comptia-network-exam-n10-009/secure-protocols-and-encrypted-management/",
+              "path": "comptia-network-exam-n10-009/module-6-network-security-fundamentals-and-zero-trust-architecture/secure-protocols-and-encrypted-management/",
               "order": 54
             },
             {
               "title": "Segmentation, Microsegmentation, and Zero Trust",
-              "path": "comptia-network-exam-n10-009/segmentation-microsegmentation-and-zero-trust/",
+              "path": "comptia-network-exam-n10-009/module-6-network-security-fundamentals-and-zero-trust-architecture/segmentation-microsegmentation-and-zero-trust/",
               "order": 55
             },
             {
               "title": "Security Zones and DMZs",
-              "path": "comptia-network-exam-n10-009/security-zones-and-dmzs/",
+              "path": "comptia-network-exam-n10-009/module-6-network-security-fundamentals-and-zero-trust-architecture/security-zones-and-dmzs/",
               "order": 56
             },
             {
               "title": "Common Attacks and Threats",
-              "path": "comptia-network-exam-n10-009/common-attacks-and-threats/",
+              "path": "comptia-network-exam-n10-009/module-6-network-security-fundamentals-and-zero-trust-architecture/common-attacks-and-threats/",
               "order": 57
             },
             {
               "title": "Security Controls and Incident Response Awareness",
-              "path": "comptia-network-exam-n10-009/security-controls-and-incident-response-awareness/",
+              "path": "comptia-network-exam-n10-009/module-6-network-security-fundamentals-and-zero-trust-architecture/security-controls-and-incident-response-awareness/",
               "order": 58
             }
           ],
@@ -994,47 +994,47 @@
           "files": [
             {
               "title": "Cloud Service and Deployment Models",
-              "path": "comptia-network-exam-n10-009/cloud-service-and-deployment-models/",
+              "path": "comptia-network-exam-n10-009/module-7-cloud-connectivity-virtualization-and-modern-network-architectures/cloud-service-and-deployment-models/",
               "order": 59
             },
             {
               "title": "Virtualization Concepts",
-              "path": "comptia-network-exam-n10-009/virtualization-concepts/",
+              "path": "comptia-network-exam-n10-009/module-7-cloud-connectivity-virtualization-and-modern-network-architectures/virtualization-concepts/",
               "order": 60
             },
             {
               "title": "Cloud Networking Constructs",
-              "path": "comptia-network-exam-n10-009/cloud-networking-constructs/",
+              "path": "comptia-network-exam-n10-009/module-7-cloud-connectivity-virtualization-and-modern-network-architectures/cloud-networking-constructs/",
               "order": 61
             },
             {
               "title": "Cloud Connectivity Options",
-              "path": "comptia-network-exam-n10-009/cloud-connectivity-options/",
+              "path": "comptia-network-exam-n10-009/module-7-cloud-connectivity-virtualization-and-modern-network-architectures/cloud-connectivity-options/",
               "order": 62
             },
             {
               "title": "Shared Responsibility Model",
-              "path": "comptia-network-exam-n10-009/shared-responsibility-model/",
+              "path": "comptia-network-exam-n10-009/module-7-cloud-connectivity-virtualization-and-modern-network-architectures/shared-responsibility-model/",
               "order": 63
             },
             {
               "title": "Cloud Load Balancing and Application Access",
-              "path": "comptia-network-exam-n10-009/cloud-load-balancing-and-application-access/",
+              "path": "comptia-network-exam-n10-009/module-7-cloud-connectivity-virtualization-and-modern-network-architectures/cloud-load-balancing-and-application-access/",
               "order": 64
             },
             {
               "title": "Container and Microservice Networking Awareness",
-              "path": "comptia-network-exam-n10-009/container-and-microservice-networking-awareness/",
+              "path": "comptia-network-exam-n10-009/module-7-cloud-connectivity-virtualization-and-modern-network-architectures/container-and-microservice-networking-awareness/",
               "order": 65
             },
             {
               "title": "SDN, SD-WAN, and NFV",
-              "path": "comptia-network-exam-n10-009/sdn-sd-wan-and-nfv/",
+              "path": "comptia-network-exam-n10-009/module-7-cloud-connectivity-virtualization-and-modern-network-architectures/sdn-sd-wan-and-nfv/",
               "order": 66
             },
             {
               "title": "Cloud Troubleshooting Considerations",
-              "path": "comptia-network-exam-n10-009/cloud-troubleshooting-considerations/",
+              "path": "comptia-network-exam-n10-009/module-7-cloud-connectivity-virtualization-and-modern-network-architectures/cloud-troubleshooting-considerations/",
               "order": 67
             }
           ],
@@ -1045,47 +1045,47 @@
           "files": [
             {
               "title": "Automation Concepts and Business Value",
-              "path": "comptia-network-exam-n10-009/automation-concepts-and-business-value/",
+              "path": "comptia-network-exam-n10-009/module-8-network-automation-and-programmability/automation-concepts-and-business-value/",
               "order": 68
             },
             {
               "title": "Configuration Management and Infrastructure as Code",
-              "path": "comptia-network-exam-n10-009/configuration-management-and-infrastructure-as-code/",
+              "path": "comptia-network-exam-n10-009/module-8-network-automation-and-programmability/configuration-management-and-infrastructure-as-code/",
               "order": 69
             },
             {
               "title": "Scripting Awareness",
-              "path": "comptia-network-exam-n10-009/scripting-awareness/",
+              "path": "comptia-network-exam-n10-009/module-8-network-automation-and-programmability/scripting-awareness/",
               "order": 70
             },
             {
               "title": "APIs and REST",
-              "path": "comptia-network-exam-n10-009/apis-and-rest/",
+              "path": "comptia-network-exam-n10-009/module-8-network-automation-and-programmability/apis-and-rest/",
               "order": 71
             },
             {
               "title": "JSON and YAML",
-              "path": "comptia-network-exam-n10-009/json-and-yaml/",
+              "path": "comptia-network-exam-n10-009/module-8-network-automation-and-programmability/json-and-yaml/",
               "order": 72
             },
             {
               "title": "Automation Tools and Version Control",
-              "path": "comptia-network-exam-n10-009/automation-tools-and-version-control/",
+              "path": "comptia-network-exam-n10-009/module-8-network-automation-and-programmability/automation-tools-and-version-control/",
               "order": 73
             },
             {
               "title": "Orchestration and Controller-Based Management",
-              "path": "comptia-network-exam-n10-009/orchestration-and-controller-based-management/",
+              "path": "comptia-network-exam-n10-009/module-8-network-automation-and-programmability/orchestration-and-controller-based-management/",
               "order": 74
             },
             {
               "title": "Automation Use Cases and Governance",
-              "path": "comptia-network-exam-n10-009/automation-use-cases-and-governance/",
+              "path": "comptia-network-exam-n10-009/module-8-network-automation-and-programmability/automation-use-cases-and-governance/",
               "order": 75
             },
             {
               "title": "Reading Automation Outputs and Logs",
-              "path": "comptia-network-exam-n10-009/reading-automation-outputs-and-logs/",
+              "path": "comptia-network-exam-n10-009/module-8-network-automation-and-programmability/reading-automation-outputs-and-logs/",
               "order": 76
             }
           ],
@@ -1096,42 +1096,42 @@
           "files": [
             {
               "title": "Monitoring Protocols and Telemetry",
-              "path": "comptia-network-exam-n10-009/monitoring-protocols-and-telemetry/",
+              "path": "comptia-network-exam-n10-009/module-9-network-operations-monitoring-and-documentation/monitoring-protocols-and-telemetry/",
               "order": 77
             },
             {
               "title": "Metrics Thresholds and Baselines",
-              "path": "comptia-network-exam-n10-009/metrics-thresholds-and-baselines/",
+              "path": "comptia-network-exam-n10-009/module-9-network-operations-monitoring-and-documentation/metrics-thresholds-and-baselines/",
               "order": 78
             },
             {
               "title": "Event Correlation and Alert Triage",
-              "path": "comptia-network-exam-n10-009/event-correlation-and-alert-triage/",
+              "path": "comptia-network-exam-n10-009/module-9-network-operations-monitoring-and-documentation/event-correlation-and-alert-triage/",
               "order": 79
             },
             {
               "title": "Documentation and Change Control",
-              "path": "comptia-network-exam-n10-009/documentation-and-change-control/",
+              "path": "comptia-network-exam-n10-009/module-9-network-operations-monitoring-and-documentation/documentation-and-change-control/",
               "order": 80
             },
             {
               "title": "Configuration Backup and Versioning",
-              "path": "comptia-network-exam-n10-009/configuration-backup-and-versioning/",
+              "path": "comptia-network-exam-n10-009/module-9-network-operations-monitoring-and-documentation/configuration-backup-and-versioning/",
               "order": 81
             },
             {
               "title": "Asset Lifecycle and Capacity Planning",
-              "path": "comptia-network-exam-n10-009/asset-lifecycle-and-capacity-planning/",
+              "path": "comptia-network-exam-n10-009/module-9-network-operations-monitoring-and-documentation/asset-lifecycle-and-capacity-planning/",
               "order": 82
             },
             {
               "title": "Service Levels and Operational Reporting",
-              "path": "comptia-network-exam-n10-009/service-levels-and-operational-reporting/",
+              "path": "comptia-network-exam-n10-009/module-9-network-operations-monitoring-and-documentation/service-levels-and-operational-reporting/",
               "order": 83
             },
             {
               "title": "Remote and Out-of-Band Management",
-              "path": "comptia-network-exam-n10-009/remote-and-out-of-band-management/",
+              "path": "comptia-network-exam-n10-009/module-9-network-operations-monitoring-and-documentation/remote-and-out-of-band-management/",
               "order": 84
             }
           ],
