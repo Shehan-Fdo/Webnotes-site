@@ -72,7 +72,13 @@ function buildTree(files, pagesDir) {
   }
 
   files.forEach(({ fullPath, relPath }) => {
-    const mdFile = fs.readFileSync(fullPath, 'utf-8');
+    let mdFile;
+    try {
+      mdFile = fs.readFileSync(fullPath, 'utf-8');
+    } catch (err) {
+      console.warn(`[Orbit] ⚠️  Could not read ${fullPath} — skipping.`);
+      return;
+    }
     const { data } = matter(mdFile);
 
     const parts = relPath.split('/');

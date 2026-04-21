@@ -1,0 +1,4346 @@
+{
+  "courseName": "Building Wealth Online with AI in 2026: A Complete Guide",
+  "courseSlug": "building-wealth-online-with-ai-in-2026-a-complete-guide",
+  "model": "gpt-5.4-mini",
+  "startedAt": "2026-04-20T18:19:42.797Z",
+  "config": {
+    "maxRetrievalAttempts": 3,
+    "minFetchedPages": 3,
+    "maxUrlsPerAttempt": 5,
+    "searchResultsPerQuery": 5,
+    "maxEvidenceChars": 12000,
+    "generationRetries": 2
+  },
+  "topics": [
+    {
+      "topic": "Prompt Engineering for Business Tasks",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[3]__ai-fundamentals-for-online-entrepreneurs\\[3.2]__prompt-engineering-for-business-tasks.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "prompt engineering best practices business workflows"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "effective prompting for LLMs documentation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 7,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Setting Realistic Wealth Goals and Time Horizons",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[1]__course-orientation-and-wealth-building-mindset\\[1.2]__setting-realistic-wealth-goals-and-time-horizons.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "goal setting framework financial independence time horizon"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "wealth planning SMART goals online business"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Course Orientation and Wealth-Building Mindset Setting Realistic Wealth Goals and Time Horizons explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Course Orientation and Wealth-Building Mindset Setting Realistic Wealth Goals and Time Horizons best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Course Orientation and Wealth-Building Mindset Setting Realistic Wealth Goals and Time Horizons official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Major Income Streams in the AI Era",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[2]__the-2026-online-wealth-landscape\\[2.1]__major-income-streams-in-the-ai-era.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "AI monetization models 2026 digital products services"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "online income streams creator economy SaaS affiliate"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide The 2026 Online Wealth Landscape Major Income Streams in the AI Era explanation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide The 2026 Online Wealth Landscape Major Income Streams in the AI Era official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Adopting an AI-First Entrepreneurial Mindset",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[1]__course-orientation-and-wealth-building-mindset\\[1.3]__adopting-an-ai-first-entrepreneurial-mindset.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "AI-first business strategy best practices"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "human in the loop AI entrepreneurship workflow"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Course Orientation and Wealth-Building Mindset Adopting an AI-First Entrepreneurial Mindset explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Course Orientation and Wealth-Building Mindset Adopting an AI-First Entrepreneurial Mindset official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "The Role of Personal Brand in Wealth Creation",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[2]__the-2026-online-wealth-landscape\\[2.4]__the-role-of-personal-brand-in-wealth-creation.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "personal brand monetization strategy online business"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "creator personal brand trust authority framework"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide The 2026 Online Wealth Landscape The Role of Personal Brand in Wealth Creation explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide The 2026 Online Wealth Landscape The Role of Personal Brand in Wealth Creation best practices"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide The 2026 Online Wealth Landscape The Role of Personal Brand in Wealth Creation troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide The 2026 Online Wealth Landscape The Role of Personal Brand in Wealth Creation official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 16,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Ethics, Trust, and Long-Term Reputation",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[1]__course-orientation-and-wealth-building-mindset\\[1.4]__ethics-trust-and-long-term-reputation.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "digital business ethics trust building online brand"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "AI content disclosure best practices consumer trust"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Course Orientation and Wealth-Building Mindset Ethics, Trust, and Long-Term Reputation explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Course Orientation and Wealth-Building Mindset Ethics, Trust, and Long-Term Reputation best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Course Orientation and Wealth-Building Mindset Ethics, Trust, and Long-Term Reputation official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Platform Shifts and Algorithm Dependence",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[2]__the-2026-online-wealth-landscape\\[2.2]__platform-shifts-and-algorithm-dependence.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "platform risk diversification creator business strategy"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "algorithm changes social media business resilience"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide The 2026 Online Wealth Landscape Platform Shifts and Algorithm Dependence explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide The 2026 Online Wealth Landscape Platform Shifts and Algorithm Dependence best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide The 2026 Online Wealth Landscape Platform Shifts and Algorithm Dependence troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "How Modern AI Systems Work",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[3]__ai-fundamentals-for-online-entrepreneurs\\[3.1]__how-modern-ai-systems-work.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "large language models fundamentals documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "generative AI architecture overview transformers"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide AI Fundamentals for Online Entrepreneurs How Modern AI Systems Work explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide AI Fundamentals for Online Entrepreneurs How Modern AI Systems Work best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide AI Fundamentals for Online Entrepreneurs How Modern AI Systems Work official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Why Speed, Distribution, and Automation Matter",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[2]__the-2026-online-wealth-landscape\\[2.3]__why-speed-distribution-and-automation-matter.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "business automation distribution leverage online growth"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "AI automation for small business operations guide"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide The 2026 Online Wealth Landscape Why Speed, Distribution, and Automation Matter explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide The 2026 Online Wealth Landscape Why Speed, Distribution, and Automation Matter best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide The 2026 Online Wealth Landscape Why Speed, Distribution, and Automation Matter troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide The 2026 Online Wealth Landscape Why Speed, Distribution, and Automation Matter official documentation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 17,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "What Building Wealth Online Means in 2026",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[1]__course-orientation-and-wealth-building-mindset\\[1.1]__what-building-wealth-online-means-in-2026.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "online income models 2026 AI economy overview"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "digital entrepreneurship trends 2026 creator economy AI"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Course Orientation and Wealth-Building Mindset What Building Wealth Online Means in 2026 explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Course Orientation and Wealth-Building Mindset What Building Wealth Online Means in 2026 troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Course Orientation and Wealth-Building Mindset What Building Wealth Online Means in 2026 official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Evaluating AI Output Quality and Reliability",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[3]__ai-fundamentals-for-online-entrepreneurs\\[3.4]__evaluating-ai-output-quality-and-reliability.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "LLM output evaluation accuracy hallucination mitigation"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.86,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 5,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Finding Pain Points Worth Solving",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[5]__market-research-and-opportunity-discovery\\[5.1]__finding-pain-points-worth-solving.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "customer pain point discovery methods"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 5,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Affiliate and Performance Marketing",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[4]__choosing-a-wealth-path\\[4.5]__affiliate-and-performance-marketing.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "affiliate marketing strategy SEO email funnel"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "performance marketing attribution optimization guide"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Digital Products and Courses",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[4]__choosing-a-wealth-path\\[4.3]__digital-products-and-courses.md",
+      "attempts": [
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "AI-assisted digital product development workflow"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.18,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Choosing a Wealth Path Digital Products and Courses explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Choosing a Wealth Path Digital Products and Courses best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Choosing a Wealth Path Digital Products and Courses official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 8,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Content and Audience Business",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[4]__choosing-a-wealth-path\\[4.2]__content-and-audience-business.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "audience building monetization content business model"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "creator economy content flywheel strategy"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Choosing a Wealth Path Content and Audience Business explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Choosing a Wealth Path Content and Audience Business best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Choosing a Wealth Path Content and Audience Business official documentation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Service Business with AI",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[4]__choosing-a-wealth-path\\[4.1]__service-business-with-ai.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "AI-powered service business model examples"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "productized services with AI automation guide"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Choosing a Wealth Path Service Business with AI explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Choosing a Wealth Path Service Business with AI best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Choosing a Wealth Path Service Business with AI troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Choosing a Wealth Path Service Business with AI official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.56,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "AI Tool Categories and Use Cases",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[3]__ai-fundamentals-for-online-entrepreneurs\\[3.3]__ai-tool-categories-and-use-cases.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "AI tools categories content marketing automation analytics"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "business use cases for generative AI tools"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide AI Fundamentals for Online Entrepreneurs AI Tool Categories and Use Cases explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide AI Fundamentals for Online Entrepreneurs AI Tool Categories and Use Cases best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide AI Fundamentals for Online Entrepreneurs AI Tool Categories and Use Cases troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide AI Fundamentals for Online Entrepreneurs AI Tool Categories and Use Cases official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 16,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Validating Demand Before Building",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[5]__market-research-and-opportunity-discovery\\[5.3]__validating-demand-before-building.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "pre-sell validation landing page demand testing"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "market validation techniques for online business"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Market Research and Opportunity Discovery Validating Demand Before Building explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Market Research and Opportunity Discovery Validating Demand Before Building official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Brand Strategy and Differentiation",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[6]__building-your-ai-powered-brand\\[6.1]__brand-strategy-and-differentiation.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "brand strategy differentiation online business"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "unique value proposition framework creator brand"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Building Your AI-Powered Brand Brand Strategy and Differentiation explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Software, Micro-SaaS, and AI Apps",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[4]__choosing-a-wealth-path\\[4.4]__software-micro-saas-and-ai-apps.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "micro SaaS validation and launch guide"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "AI app startup MVP documentation"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Choosing a Wealth Path Software, Micro-SaaS, and AI Apps explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Choosing a Wealth Path Software, Micro-SaaS, and AI Apps best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Choosing a Wealth Path Software, Micro-SaaS, and AI Apps troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Choosing a Wealth Path Software, Micro-SaaS, and AI Apps official documentation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 17,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Niche Selection and Positioning",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[5]__market-research-and-opportunity-discovery\\[5.4]__niche-selection-and-positioning.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "niche selection framework online business positioning"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "positioning statement for digital products and services"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Market Research and Opportunity Discovery Niche Selection and Positioning explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Market Research and Opportunity Discovery Niche Selection and Positioning best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Market Research and Opportunity Discovery Niche Selection and Positioning official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 14,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Voice, Messaging, and Storytelling",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[6]__building-your-ai-powered-brand\\[6.2]__voice-messaging-and-storytelling.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "brand voice messaging framework storytelling"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "copywriting brand narrative online audience"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Building Your AI-Powered Brand Voice, Messaging, and Storytelling explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.71,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Building Your AI-Powered Brand Voice, Messaging, and Storytelling best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.71,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Building Your AI-Powered Brand Voice, Messaging, and Storytelling official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 14,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Using AI for Market and Competitor Research",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[5]__market-research-and-opportunity-discovery\\[5.2]__using-ai-for-market-and-competitor-research.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "AI competitor analysis workflow market research"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "LLM assisted market research methods"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Market Research and Opportunity Discovery Using AI for Market and Competitor Research explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Market Research and Opportunity Discovery Using AI for Market and Competitor Research best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Market Research and Opportunity Discovery Using AI for Market and Competitor Research troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Market Research and Opportunity Discovery Using AI for Market and Competitor Research official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Trust Signals, Proof, and Social Credibility",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[6]__building-your-ai-powered-brand\\[6.4]__trust-signals-proof-and-social-credibility.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "social proof trust signals conversion optimization"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "online credibility building case studies testimonials"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Building Your AI-Powered Brand Trust Signals, Proof, and Social Credibility explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 78,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "AI-Assisted Personal Branding Workflow",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[6]__building-your-ai-powered-brand\\[6.3]__ai-assisted-personal-branding-workflow.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "AI personal branding workflow content creation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "LLM assisted brand messaging system"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Building Your AI-Powered Brand AI-Assisted Personal Branding Workflow explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Building Your AI-Powered Brand AI-Assisted Personal Branding Workflow best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Building Your AI-Powered Brand AI-Assisted Personal Branding Workflow troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Building Your AI-Powered Brand AI-Assisted Personal Branding Workflow official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 42,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Repurposing Content Across Channels",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[7]__content-creation-systems-with-ai\\[7.4]__repurposing-content-across-channels.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "content repurposing workflow social media newsletter blog"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "multi-channel content distribution strategy"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Content Creation Systems with AI Repurposing Content Across Channels explanation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Content Creation Systems with AI Repurposing Content Across Channels best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Content Creation Systems with AI Repurposing Content Across Channels official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 16,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Email List Building and Newsletter Strategy",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[8]__audience-growth-and-distribution\\[8.3]__email-list-building-and-newsletter-strategy.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "email list building lead magnet newsletter strategy"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "newsletter growth and monetization guide"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Audience Growth and Distribution Email List Building and Newsletter Strategy explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "SEO for AI-Assisted Content",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[8]__audience-growth-and-distribution\\[8.1]__seo-for-ai-assisted-content.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "SEO content optimization best practices 2026"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "AI-assisted SEO workflow keyword research"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Audience Growth and Distribution SEO for AI-Assisted Content explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Audience Growth and Distribution SEO for AI-Assisted Content best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Audience Growth and Distribution SEO for AI-Assisted Content troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Audience Growth and Distribution SEO for AI-Assisted Content official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Writing with AI Without Losing Originality",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[7]__content-creation-systems-with-ai\\[7.2]__writing-with-ai-without-losing-originality.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "AI writing workflow originality human editing"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.28,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "best practices for AI-assisted content creation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Content Creation Systems with AI Writing with AI Without Losing Originality explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Content Creation Systems with AI Writing with AI Without Losing Originality best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Content Creation Systems with AI Writing with AI Without Losing Originality official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Video, Audio, and Visual Content Pipelines",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[7]__content-creation-systems-with-ai\\[7.3]__video-audio-and-visual-content-pipelines.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "AI video content workflow documentation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "AI audio visual content production pipeline"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Content Creation Systems with AI Video, Audio, and Visual Content Pipelines explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Content Creation Systems with AI Video, Audio, and Visual Content Pipelines best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Content Creation Systems with AI Video, Audio, and Visual Content Pipelines official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Content Strategy and Editorial Planning",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[7]__content-creation-systems-with-ai\\[7.1]__content-strategy-and-editorial-planning.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "content strategy editorial calendar framework"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "AI content planning workflow for creators"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Content Creation Systems with AI Content Strategy and Editorial Planning explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Content Creation Systems with AI Content Strategy and Editorial Planning best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Content Creation Systems with AI Content Strategy and Editorial Planning troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Content Creation Systems with AI Content Strategy and Editorial Planning official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Short-Form Social Growth",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[8]__audience-growth-and-distribution\\[8.2]__short-form-social-growth.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "short form social media growth strategy"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "TikTok Reels Shorts content distribution best practices"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Audience Growth and Distribution Short-Form Social Growth explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Audience Growth and Distribution Short-Form Social Growth best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Audience Growth and Distribution Short-Form Social Growth troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Audience Growth and Distribution Short-Form Social Growth official documentation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Community Building and Owned Media",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[8]__audience-growth-and-distribution\\[8.4]__community-building-and-owned-media.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "owned media community building strategy"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.46,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "online community engagement and retention framework"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Audience Growth and Distribution Community Building and Owned Media explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.46,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Quality Control, Human Review, and Fail-Safes",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[10]__ai-automation-for-solo-operators\\[10.4]__quality-control-human-review-and-fail-safes.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "human in the loop automation quality control"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 5,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Services, Consulting, and Done-for-You Offers",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[9]__monetization-models-and-revenue-design\\[9.1]__services-consulting-and-done-for-you-offers.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "consulting offer design pricing packaging"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "done for you service business model online"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Monetization Models and Revenue Design Services, Consulting, and Done-for-You Offers explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Monetization Models and Revenue Design Services, Consulting, and Done-for-You Offers best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Digital Products, Templates, and Assets",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[9]__monetization-models-and-revenue-design\\[9.2]__digital-products-templates-and-assets.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "digital product creation templates assets monetization"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": null,
+          "ready": false,
+          "needsMoreResearch": false
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "sell templates online business model"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Monetization Models and Revenue Design Digital Products, Templates, and Assets explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Monetization Models and Revenue Design Digital Products, Templates, and Assets best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Monetization Models and Revenue Design Digital Products, Templates, and Assets troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Monetization Models and Revenue Design Digital Products, Templates, and Assets official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Subscriptions, Memberships, and Recurring Revenue",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[9]__monetization-models-and-revenue-design\\[9.3]__subscriptions-memberships-and-recurring-revenue.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "membership business model recurring revenue guide"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "subscription pricing and retention strategy"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Monetization Models and Revenue Design Subscriptions, Memberships, and Recurring Revenue explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Monetization Models and Revenue Design Subscriptions, Memberships, and Recurring Revenue official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Licensing, White-Labeling, and B2B Deals",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[9]__monetization-models-and-revenue-design\\[9.5]__licensing-white-labeling-and-b2b-deals.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "software licensing white label business model"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "B2B partnership deal structure online products"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Monetization Models and Revenue Design Licensing, White-Labeling, and B2B Deals explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Monetization Models and Revenue Design Licensing, White-Labeling, and B2B Deals official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "No-Code and Low-Code Automation Tools",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[10]__ai-automation-for-solo-operators\\[10.2]__no-code-and-low-code-automation-tools.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "no-code automation tools documentation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "low-code workflow automation platform comparison"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide AI Automation for Solo Operators No-Code and Low-Code Automation Tools explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide AI Automation for Solo Operators No-Code and Low-Code Automation Tools best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide AI Automation for Solo Operators No-Code and Low-Code Automation Tools troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide AI Automation for Solo Operators No-Code and Low-Code Automation Tools official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Affiliate Revenue and Partnerships",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[9]__monetization-models-and-revenue-design\\[9.4]__affiliate-revenue-and-partnerships.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "affiliate partnership strategy disclosure compliance"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "affiliate revenue optimization content funnel"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Monetization Models and Revenue Design Affiliate Revenue and Partnerships explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Monetization Models and Revenue Design Affiliate Revenue and Partnerships best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Workflow Mapping and Process Design",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[10]__ai-automation-for-solo-operators\\[10.1]__workflow-mapping-and-process-design.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "business process mapping workflow design guide"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "automation opportunity assessment for small business"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide AI Automation for Solo Operators Workflow Mapping and Process Design explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide AI Automation for Solo Operators Workflow Mapping and Process Design best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide AI Automation for Solo Operators Workflow Mapping and Process Design official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Offer Creation and Value Proposition",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[11]__sales-systems-and-conversion-optimization\\[11.1]__offer-creation-and-value-proposition.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "value proposition offer creation framework"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "high converting offer design online business"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Sales Systems and Conversion Optimization Offer Creation and Value Proposition explanation"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Sales Systems and Conversion Optimization Offer Creation and Value Proposition best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Sales Systems and Conversion Optimization Offer Creation and Value Proposition troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 14,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "AI Agents and Task Delegation",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[10]__ai-automation-for-solo-operators\\[10.3]__ai-agents-and-task-delegation.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "AI agents task automation best practices"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "agentic workflow design documentation"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide AI Automation for Solo Operators AI Agents and Task Delegation explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide AI Automation for Solo Operators AI Agents and Task Delegation best practices"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide AI Automation for Solo Operators AI Agents and Task Delegation troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide AI Automation for Solo Operators AI Agents and Task Delegation official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 17,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Business Structure and Entity Basics",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[13]__legal-privacy-and-compliance\\[13.1]__business-structure-and-entity-basics.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "small business entity selection guide"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "LLC vs sole proprietorship online business"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.86,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 8,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Funnels, Lead Magnets, and Nurture Sequences",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[11]__sales-systems-and-conversion-optimization\\[11.3]__funnels-lead-magnets-and-nurture-sequences.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "lead magnet funnel nurture sequence strategy"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "email funnel conversion optimization guide"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Sales Systems and Conversion Optimization Funnels, Lead Magnets, and Nurture Sequences explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Sales Systems and Conversion Optimization Funnels, Lead Magnets, and Nurture Sequences best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Sales Systems and Conversion Optimization Funnels, Lead Magnets, and Nurture Sequences official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 14,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Taxes, Compliance, and Recordkeeping",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[12]__financial-foundations-for-online-wealth\\[12.2]__taxes-compliance-and-recordkeeping.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "online business tax compliance recordkeeping guide"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "self employed taxes digital entrepreneur documentation"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Financial Foundations for Online Wealth Taxes, Compliance, and Recordkeeping explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Business Banking, Bookkeeping, and Cash Flow",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[12]__financial-foundations-for-online-wealth\\[12.1]__business-banking-bookkeeping-and-cash-flow.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "small business bookkeeping cash flow management"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "business banking setup for online entrepreneurs"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Financial Foundations for Online Wealth Business Banking, Bookkeeping, and Cash Flow explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Contracts, Terms, and Client Agreements",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[13]__legal-privacy-and-compliance\\[13.2]__contracts-terms-and-client-agreements.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "client contract template online services"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 4,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Pricing, Packaging, and Upsells",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[11]__sales-systems-and-conversion-optimization\\[11.4]__pricing-packaging-and-upsells.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "pricing strategy packaging upsell framework"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "value based pricing online services products"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Sales Systems and Conversion Optimization Pricing, Packaging, and Upsells explanation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Sales Systems and Conversion Optimization Pricing, Packaging, and Upsells troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Sales Systems and Conversion Optimization Pricing, Packaging, and Upsells official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 17,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Landing Pages and Sales Pages",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[11]__sales-systems-and-conversion-optimization\\[11.2]__landing-pages-and-sales-pages.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "landing page conversion best practices"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "sales page copywriting framework documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Sales Systems and Conversion Optimization Landing Pages and Sales Pages explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Sales Systems and Conversion Optimization Landing Pages and Sales Pages best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Sales Systems and Conversion Optimization Landing Pages and Sales Pages troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Sales Systems and Conversion Optimization Landing Pages and Sales Pages official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Emergency Funds and Risk Management",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[12]__financial-foundations-for-online-wealth\\[12.4]__emergency-funds-and-risk-management.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "business risk management emergency fund planning"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "financial resilience for self employed entrepreneurs"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Financial Foundations for Online Wealth Emergency Funds and Risk Management explanation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Financial Foundations for Online Wealth Emergency Funds and Risk Management best practices"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Financial Foundations for Online Wealth Emergency Funds and Risk Management official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Budgeting for Growth and Reinvestment",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[12]__financial-foundations-for-online-wealth\\[12.3]__budgeting-for-growth-and-reinvestment.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "business budgeting reinvestment strategy"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "cash allocation framework for startups and creators"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Financial Foundations for Online Wealth Budgeting for Growth and Reinvestment explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Financial Foundations for Online Wealth Budgeting for Growth and Reinvestment best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Financial Foundations for Online Wealth Budgeting for Growth and Reinvestment troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Financial Foundations for Online Wealth Budgeting for Growth and Reinvestment official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 16,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Copyright, Trademarks, and AI Content Rights",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[13]__legal-privacy-and-compliance\\[13.3]__copyright-trademarks-and-ai-content-rights.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "AI generated content copyright rights guide"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.74,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "trademark basics for online brands"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Legal, Privacy, and Compliance Copyright, Trademarks, and AI Content Rights explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Legal, Privacy, and Compliance Copyright, Trademarks, and AI Content Rights best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Defining North Star Metrics",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[14]__analytics-metrics-and-decision-making\\[14.1]__defining-north-star-metrics.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "north star metric framework for online business"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "growth metrics selection guide"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Analytics, Metrics, and Decision-Making Defining North Star Metrics explanation"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Analytics, Metrics, and Decision-Making Defining North Star Metrics best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Analytics, Metrics, and Decision-Making Defining North Star Metrics troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Analytics, Metrics, and Decision-Making Defining North Star Metrics official documentation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 16,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Standard Operating Procedures and Documentation",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[15]__scaling-from-solo-to-systemized-business\\[15.1]__standard-operating-procedures-and-documentation.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "SOP documentation best practices small business"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "process documentation workflow templates"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Scaling from Solo to Systemized Business Standard Operating Procedures and Documentation explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Scaling from Solo to Systemized Business Standard Operating Procedures and Documentation official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Using AI for Reporting and Insights",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[14]__analytics-metrics-and-decision-making\\[14.3]__using-ai-for-reporting-and-insights.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "AI analytics reporting workflow business insights"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "LLM assisted data analysis for marketers"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Analytics, Metrics, and Decision-Making Using AI for Reporting and Insights explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Analytics, Metrics, and Decision-Making Using AI for Reporting and Insights best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Analytics, Metrics, and Decision-Making Using AI for Reporting and Insights troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Analytics, Metrics, and Decision-Making Using AI for Reporting and Insights official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Privacy, Data Protection, and Disclosure",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[13]__legal-privacy-and-compliance\\[13.4]__privacy-data-protection-and-disclosure.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "privacy policy requirements online business"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "AI disclosure and data protection compliance"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Legal, Privacy, and Compliance Privacy, Data Protection, and Disclosure explanation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Legal, Privacy, and Compliance Privacy, Data Protection, and Disclosure best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Legal, Privacy, and Compliance Privacy, Data Protection, and Disclosure troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Legal, Privacy, and Compliance Privacy, Data Protection, and Disclosure official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 18,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Hiring Contractors and Building a Team",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[15]__scaling-from-solo-to-systemized-business\\[15.2]__hiring-contractors-and-building-a-team.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "hiring contractors for online business guide"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "remote team management for creators and startups"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Scaling from Solo to Systemized Business Hiring Contractors and Building a Team explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Scaling from Solo to Systemized Business Hiring Contractors and Building a Team troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Scaling from Solo to Systemized Business Hiring Contractors and Building a Team official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Experimentation and Continuous Improvement",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[14]__analytics-metrics-and-decision-making\\[14.4]__experimentation-and-continuous-improvement.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "A/B testing experimentation framework online business"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "continuous improvement growth loop strategy"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Analytics, Metrics, and Decision-Making Experimentation and Continuous Improvement explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Analytics, Metrics, and Decision-Making Experimentation and Continuous Improvement best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Analytics, Metrics, and Decision-Making Experimentation and Continuous Improvement troubleshooting"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Analytics, Metrics, and Decision-Making Experimentation and Continuous Improvement official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 16,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Tracking Traffic, Leads, and Revenue",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[14]__analytics-metrics-and-decision-making\\[14.2]__tracking-traffic-leads-and-revenue.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "marketing funnel metrics tracking guide"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "revenue attribution and lead tracking documentation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Analytics, Metrics, and Decision-Making Tracking Traffic, Leads, and Revenue explanation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Analytics, Metrics, and Decision-Making Tracking Traffic, Leads, and Revenue best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Analytics, Metrics, and Decision-Making Tracking Traffic, Leads, and Revenue troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Analytics, Metrics, and Decision-Making Tracking Traffic, Leads, and Revenue official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 14,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Delegation, Management, and Accountability",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[15]__scaling-from-solo-to-systemized-business\\[15.3]__delegation-management-and-accountability.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "delegation framework accountability systems"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "team management operating cadence guide"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.42,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Scaling from Solo to Systemized Business Delegation, Management, and Accountability explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Scaling from Solo to Systemized Business Delegation, Management, and Accountability best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Scaling from Solo to Systemized Business Delegation, Management, and Accountability official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 12,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Scaling Infrastructure and Tooling",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[15]__scaling-from-solo-to-systemized-business\\[15.4]__scaling-infrastructure-and-tooling.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "business infrastructure scaling tools guide"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.46,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "automation stack for scaling online business"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Scaling from Solo to Systemized Business Scaling Infrastructure and Tooling explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Scaling from Solo to Systemized Business Scaling Infrastructure and Tooling best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Scaling from Solo to Systemized Business Scaling Infrastructure and Tooling troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Scaling from Solo to Systemized Business Scaling Infrastructure and Tooling official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 14,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Building Custom GPTs and Internal Assistants",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[16]__advanced-ai-strategies-for-2026\\[16.1]__building-custom-gpts-and-internal-assistants.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "custom GPT building documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.34,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "internal AI assistant workflow for business"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Advanced AI Strategies for 2026 Building Custom GPTs and Internal Assistants explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Advanced AI Strategies for 2026 Building Custom GPTs and Internal Assistants best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.58,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 9,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "AI Search, Answer Engines, and Discovery",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[16]__advanced-ai-strategies-for-2026\\[16.4]__ai-search-answer-engines-and-discovery.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "AI search optimization answer engine optimization guide"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "generative engine optimization GEO documentation"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Advanced AI Strategies for 2026 AI Search, Answer Engines, and Discovery explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.84,
+          "ready": true,
+          "needsMoreResearch": false
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Retrieval-Augmented Generation for Knowledge Work",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[16]__advanced-ai-strategies-for-2026\\[16.2]__retrieval-augmented-generation-for-knowledge-work.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "retrieval augmented generation RAG documentation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "RAG system design for business knowledge base"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Advanced AI Strategies for 2026 Retrieval-Augmented Generation for Knowledge Work explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.84,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Advanced AI Strategies for 2026 Retrieval-Augmented Generation for Knowledge Work best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Advanced AI Strategies for 2026 Retrieval-Augmented Generation for Knowledge Work official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 11,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Multimodal AI for Content and Commerce",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[16]__advanced-ai-strategies-for-2026\\[16.3]__multimodal-ai-for-content-and-commerce.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "multimodal AI applications for content commerce"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "image audio video AI workflow documentation"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Advanced AI Strategies for 2026 Multimodal AI for Content and Commerce explanation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Advanced AI Strategies for 2026 Multimodal AI for Content and Commerce best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Advanced AI Strategies for 2026 Multimodal AI for Content and Commerce troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Advanced AI Strategies for 2026 Multimodal AI for Content and Commerce official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 13,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Creating Your Long-Term Wealth Flywheel",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[17]__capstone-launching-your-wealth-building-online-system\\[17.4]__creating-your-long-term-wealth-flywheel.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "wealth flywheel business model framework"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "compounding growth system for online business"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Capstone: Launching Your Wealth-Building Online System Creating Your Long-Term Wealth Flywheel explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Capstone: Launching Your Wealth-Building Online System Creating Your Long-Term Wealth Flywheel best practices"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Capstone: Launching Your Wealth-Building Online System Creating Your Long-Term Wealth Flywheel official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 10,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Designing Your 90-Day Execution Plan",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[17]__capstone-launching-your-wealth-building-online-system\\[17.2]__designing-your-90-day-execution-plan.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "90 day business execution plan template"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "startup roadmap milestone planning guide"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Capstone: Launching Your Wealth-Building Online System Designing Your 90-Day Execution Plan explanation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Capstone: Launching Your Wealth-Building Online System Designing Your 90-Day Execution Plan best practices"
+          ],
+          "fetchedCount": 4,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Capstone: Launching Your Wealth-Building Online System Designing Your 90-Day Execution Plan official documentation"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.62,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    },
+    {
+      "topic": "Launching, Measuring, and Iterating",
+      "filePath": "C:\\Users\\Laptop Outlet\\Desktop\\Coding\\Webnotes Content Generator\\pages\\building-wealth-online-with-ai-in-2026-a-complete-guide\\[17]__capstone-launching-your-wealth-building-online-system\\[17.3]__launching-measuring-and-iterating.md",
+      "attempts": [
+        {
+          "attempt": 1,
+          "queryCount": 1,
+          "queries": [
+            "product launch measurement iteration framework"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 2,
+          "queryCount": 1,
+          "queries": [
+            "launch feedback loop optimization guide"
+          ],
+          "fetchedCount": 5,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 3,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Capstone: Launching Your Wealth-Building Online System Launching, Measuring, and Iterating explanation"
+          ],
+          "fetchedCount": 3,
+          "qualityScore": 0.78,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 4,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Capstone: Launching Your Wealth-Building Online System Launching, Measuring, and Iterating best practices"
+          ],
+          "fetchedCount": 2,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 5,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Capstone: Launching Your Wealth-Building Online System Launching, Measuring, and Iterating troubleshooting"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.72,
+          "ready": false,
+          "needsMoreResearch": true
+        },
+        {
+          "attempt": 6,
+          "queryCount": 1,
+          "queries": [
+            "Building Wealth Online with AI in 2026: A Complete Guide Capstone: Launching Your Wealth-Building Online System Launching, Measuring, and Iterating official documentation"
+          ],
+          "fetchedCount": 1,
+          "qualityScore": 0.68,
+          "ready": false,
+          "needsMoreResearch": true
+        }
+      ],
+      "fetchedUrlCount": 15,
+      "wroteFile": true,
+      "validation": {
+        "ok": true
+      },
+      "failureReason": null
+    }
+  ],
+  "finishedAt": "2026-04-20T18:27:31.919Z",
+  "totalTopics": 69,
+  "writtenTopics": 69,
+  "failedTopics": 0
+}

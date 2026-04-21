@@ -807,7 +807,13 @@ async function init() {
     const feedEntries = [];
 
     files.forEach(({ fullPath, relPath }) => {
-      const mdFile = fs.readFileSync(fullPath, 'utf-8');
+      let mdFile;
+      try {
+        mdFile = fs.readFileSync(fullPath, 'utf-8');
+      } catch (err) {
+        console.warn(`[Orbit] ⚠️ Could not read ${fullPath} — skipping.`);
+        return;
+      }
       const { content, data } = matter(mdFile);
       const htmlContent = md.render(content);
 
@@ -958,4 +964,4 @@ async function init() {
   }
 }
 
-init();
+init().catch(console.error);

@@ -1,383 +1,525 @@
 {
   "files": [],
   "folders": {
-    "Building Wealth Online With Tech A Complete Guide": {
+    "Comptia A Exams 220 1201 220 1202 V15": {
       "files": [],
       "folders": {
-        "Pricing And Offer Design": {
+        "Module 10 Basic Ai Concepts For It Support": {
           "files": [
             {
-              "title": "Value-Based Pricing",
-              "path": "building-wealth-online-with-tech-a-complete-guide/value-based-pricing/",
-              "order": 42
+              "title": "Definitions of AI, machine learning, and generative AI",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/definitions-of-ai-machine-learning-and-generative-ai/",
+              "order": 80
             },
             {
-              "title": "Packaging Offers and Bundles",
-              "path": "building-wealth-online-with-tech-a-complete-guide/packaging-offers-and-bundles/",
-              "order": 43
+              "title": "Common AI use cases in IT support",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/common-ai-use-cases-in-it-support/",
+              "order": 81
             },
             {
-              "title": "Creating Entry, Core, and Premium Offers",
-              "path": "building-wealth-online-with-tech-a-complete-guide/creating-entry-core-and-premium-offers/",
-              "order": 44
+              "title": "AI-assisted search, summarization, and ticket triage",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/ai-assisted-search-summarization-and-ticket-triage/",
+              "order": 82
             },
             {
-              "title": "Discounts, Promotions, and Anchoring",
-              "path": "building-wealth-online-with-tech-a-complete-guide/discounts-promotions-and-anchoring/",
-              "order": 45
+              "title": "Risks: hallucinations, bias, privacy, and data leakage",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/risks-hallucinations-bias-privacy-and-data-leakage/",
+              "order": 83
+            },
+            {
+              "title": "Appropriate and inappropriate uses of AI tools in support workflows",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/appropriate-and-inappropriate-uses-of-ai-tools-in-support-workflows/",
+              "order": 84
+            },
+            {
+              "title": "Policy and governance considerations for end users and technicians",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/policy-and-governance-considerations-for-end-users-and-technicians/",
+              "order": 85
             }
           ],
           "folders": {},
           "order": "10"
         },
-        "Sales Funnels And Conversion": {
+        "Module 11 Operational Procedures Safety And Documentation": {
           "files": [
             {
-              "title": "Awareness to Purchase Journey",
-              "path": "building-wealth-online-with-tech-a-complete-guide/awareness-to-purchase-journey/",
-              "order": 46
+              "title": "Change management basics",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/change-management-basics/",
+              "order": 86
             },
             {
-              "title": "Landing Pages That Convert",
-              "path": "building-wealth-online-with-tech-a-complete-guide/landing-pages-that-convert/",
-              "order": 47
+              "title": "Backup and restore concepts",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/backup-and-restore-concepts/",
+              "order": 87
             },
             {
-              "title": "Copywriting Fundamentals",
-              "path": "building-wealth-online-with-tech-a-complete-guide/copywriting-fundamentals/",
-              "order": 48
+              "title": "Asset tagging and chain of custody",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/asset-tagging-and-chain-of-custody/",
+              "order": 88
             },
             {
-              "title": "Calls to Action and Conversion Optimization",
-              "path": "building-wealth-online-with-tech-a-complete-guide/calls-to-action-and-conversion-optimization/",
-              "order": 49
+              "title": "Licensing and software compliance",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/licensing-and-software-compliance/",
+              "order": 89
+            },
+            {
+              "title": "Safety procedures and regulatory awareness",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/safety-procedures-and-regulatory-awareness/",
+              "order": 90
+            },
+            {
+              "title": "Environmental and disposal considerations",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/environmental-and-disposal-considerations/",
+              "order": 91
+            },
+            {
+              "title": "Documentation quality and knowledge base usage",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/documentation-quality-and-knowledge-base-usage/",
+              "order": 92
+            },
+            {
+              "title": "Communication with users and stakeholders",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/communication-with-users-and-stakeholders/",
+              "order": 93
             }
           ],
           "folders": {},
           "order": "11"
         },
-        "Automation And Ai For Efficiency": {
+        "Module 1 It Support Foundations And Professional Practice": {
           "files": [
             {
-              "title": "Workflow Automation Basics",
-              "path": "building-wealth-online-with-tech-a-complete-guide/workflow-automation-basics/",
-              "order": 50
-            },
-            {
-              "title": "Using AI for Research and Ideation",
-              "path": "building-wealth-online-with-tech-a-complete-guide/using-ai-for-research-and-ideation/",
-              "order": 51
-            },
-            {
-              "title": "AI for Content Drafting and Editing",
-              "path": "building-wealth-online-with-tech-a-complete-guide/ai-for-content-drafting-and-editing/",
-              "order": 52
-            },
-            {
-              "title": "Automating Lead Capture and Follow-Up",
-              "path": "building-wealth-online-with-tech-a-complete-guide/automating-lead-capture-and-follow-up/",
-              "order": 53
-            }
-          ],
-          "folders": {},
-          "order": "12"
-        },
-        "Data Analytics And Optimization": {
-          "files": [
-            {
-              "title": "Key Metrics for Online Wealth Building",
-              "path": "building-wealth-online-with-tech-a-complete-guide/key-metrics-for-online-wealth-building/",
-              "order": 54
-            },
-            {
-              "title": "Tracking Traffic, Leads, and Sales",
-              "path": "building-wealth-online-with-tech-a-complete-guide/tracking-traffic-leads-and-sales/",
-              "order": 55
-            },
-            {
-              "title": "A/B Testing and Experimentation",
-              "path": "building-wealth-online-with-tech-a-complete-guide/a-b-testing-and-experimentation/",
-              "order": 56
-            },
-            {
-              "title": "Using Data to Improve Decisions",
-              "path": "building-wealth-online-with-tech-a-complete-guide/using-data-to-improve-decisions/",
-              "order": 57
-            }
-          ],
-          "folders": {},
-          "order": "13"
-        },
-        "Financial Management For Online Entrepreneurs": {
-          "files": [
-            {
-              "title": "Separating Personal and Business Finances",
-              "path": "building-wealth-online-with-tech-a-complete-guide/separating-personal-and-business-finances/",
-              "order": 58
-            },
-            {
-              "title": "Budgeting and Cash Flow Management",
-              "path": "building-wealth-online-with-tech-a-complete-guide/budgeting-and-cash-flow-management/",
-              "order": 59
-            }
-          ],
-          "folders": {},
-          "order": "14"
-        },
-        "Course Introduction And Wealth Mindset": {
-          "files": [
-            {
-              "title": "What Building Wealth Online Means",
-              "path": "building-wealth-online-with-tech-a-complete-guide/what-building-wealth-online-means/",
+              "title": "IT support roles, responsibilities, and escalation paths",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/it-support-roles-responsibilities-and-escalation-paths/",
               "order": 1
             },
             {
-              "title": "The Role of Technology in Modern Wealth Creation",
-              "path": "building-wealth-online-with-tech-a-complete-guide/the-role-of-technology-in-modern-wealth-creation/",
+              "title": "Ticketing systems, documentation standards, and change tracking",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/ticketing-systems-documentation-standards-and-change-tracking/",
               "order": 2
             },
             {
-              "title": "Setting Realistic Expectations and Time Horizons",
-              "path": "building-wealth-online-with-tech-a-complete-guide/setting-realistic-expectations-and-time-horizons/",
+              "title": "Customer service, communication, and professionalism",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/customer-service-communication-and-professionalism/",
               "order": 3
             },
             {
-              "title": "Ethics, Legality, and Long-Term Thinking",
-              "path": "building-wealth-online-with-tech-a-complete-guide/ethics-legality-and-long-term-thinking/",
+              "title": "Remote support workflows and endpoint management basics",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/remote-support-workflows-and-endpoint-management-basics/",
               "order": 4
+            },
+            {
+              "title": "Asset management, inventory, and lifecycle concepts",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/asset-management-inventory-and-lifecycle-concepts/",
+              "order": 5
+            },
+            {
+              "title": "Safety, ESD, and environmental handling procedures",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/safety-esd-and-environmental-handling-procedures/",
+              "order": 6
+            },
+            {
+              "title": "Basic troubleshooting methodology and root-cause thinking",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/basic-troubleshooting-methodology-and-root-cause-thinking/",
+              "order": 7
             }
           ],
           "folders": {},
           "order": "1"
         },
-        "Foundations Of The Online Economy": {
+        "Module 2 Pc Hardware And Device Components": {
           "files": [
             {
-              "title": "How Digital Markets Work",
-              "path": "building-wealth-online-with-tech-a-complete-guide/how-digital-markets-work/",
-              "order": 5
-            },
-            {
-              "title": "Understanding Supply, Demand, and Attention",
-              "path": "building-wealth-online-with-tech-a-complete-guide/understanding-supply-demand-and-attention/",
-              "order": 6
-            },
-            {
-              "title": "Business Models in the Digital Age",
-              "path": "building-wealth-online-with-tech-a-complete-guide/business-models-in-the-digital-age/",
-              "order": 7
-            },
-            {
-              "title": "Value Creation vs. Value Capture",
-              "path": "building-wealth-online-with-tech-a-complete-guide/value-creation-vs-value-capture/",
+              "title": "Motherboards, chipsets, BIOS/UEFI, and firmware settings",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/motherboards-chipsets-bios-uefi-and-firmware-settings/",
               "order": 8
+            },
+            {
+              "title": "CPUs, cooling systems, and thermal management",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/cpus-cooling-systems-and-thermal-management/",
+              "order": 9
+            },
+            {
+              "title": "Storage devices: HDD, SSD, NVMe, SATA, and M.2",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/storage-devices-hdd-ssd-nvme-sata-and-m2/",
+              "order": 11
+            },
+            {
+              "title": "Power supplies, wattage, connectors, and protection features",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/power-supplies-wattage-connectors-and-protection-features/",
+              "order": 12
+            },
+            {
+              "title": "Expansion cards and internal buses",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/expansion-cards-and-internal-buses/",
+              "order": 13
+            },
+            {
+              "title": "PC cases, form factors, and airflow considerations",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/pc-cases-form-factors-and-airflow-considerations/",
+              "order": 14
+            },
+            {
+              "title": "Input/output ports and connectors",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/input-output-ports-and-connectors/",
+              "order": 15
+            },
+            {
+              "title": "Peripheral devices and common accessories",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/peripheral-devices-and-common-accessories/",
+              "order": 16
             }
           ],
           "folders": {},
           "order": "2"
         },
-        "Choosing A Wealth Building Path": {
+        "Module 3 Laptops Mobile Devices And Hybrid Work Endpoints": {
           "files": [
             {
-              "title": "Freelancing and Service Businesses",
-              "path": "building-wealth-online-with-tech-a-complete-guide/freelancing-and-service-businesses/",
-              "order": 9
+              "title": "Laptop hardware components and replaceable parts",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/laptop-hardware-components-and-replaceable-parts/",
+              "order": 17
             },
             {
-              "title": "Digital Products and Courses",
-              "path": "building-wealth-online-with-tech-a-complete-guide/digital-products-and-courses/",
-              "order": 10
+              "title": "Docking stations, port replicators, and USB-C/Thunderbolt docks",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/docking-stations-port-replicators-and-usb-c-thunderbolt-docks/",
+              "order": 18
             },
             {
-              "title": "Content Creation and Audience Monetization",
-              "path": "building-wealth-online-with-tech-a-complete-guide/content-creation-and-audience-monetization/",
-              "order": 11
+              "title": "Mobile device types: smartphones, tablets, and wearables",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/mobile-device-types-smartphones-tablets-and-wearables/",
+              "order": 19
             },
             {
-              "title": "E-commerce and Dropshipping",
-              "path": "building-wealth-online-with-tech-a-complete-guide/e-commerce-and-dropshipping/",
-              "order": 12
+              "title": "Mobile device connectivity: Wi-Fi, Bluetooth, NFC, hotspot, and tethering",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/mobile-device-connectivity-wi-fi-bluetooth-nfc-hotspot-and-tethering/",
+              "order": 20
             },
             {
-              "title": "Software, Apps, and SaaS",
-              "path": "building-wealth-online-with-tech-a-complete-guide/software-apps-and-saas/",
-              "order": 13
+              "title": "Mobile device management basics",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/mobile-device-management-basics/",
+              "order": 21
             },
             {
-              "title": "Affiliate Marketing and Partnerships",
-              "path": "building-wealth-online-with-tech-a-complete-guide/affiliate-marketing-and-partnerships/",
-              "order": 14
+              "title": "Battery technologies, charging, and power optimization",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/battery-technologies-charging-and-power-optimization/",
+              "order": 22
+            },
+            {
+              "title": "Touchscreens, digitizers, cameras, microphones, and sensors",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/touchscreens-digitizers-cameras-microphones-and-sensors/",
+              "order": 23
+            },
+            {
+              "title": "BYOD, COPE, and remote work support considerations",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/byod-cope-and-remote-work-support-considerations/",
+              "order": 24
             }
           ],
           "folders": {},
           "order": "3"
         },
-        "Market Research And Opportunity Validation": {
+        "Module 4 Printers Multifunction Devices And 3d Printing Support": {
           "files": [
             {
-              "title": "Identifying Profitable Niches",
-              "path": "building-wealth-online-with-tech-a-complete-guide/identifying-profitable-niches/",
-              "order": 15
+              "title": "Printer types: laser, inkjet, thermal, impact, and multifunction devices",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/printer-types-laser-inkjet-thermal-impact-and-multifunction-devices/",
+              "order": 25
             },
             {
-              "title": "Competitor Analysis",
-              "path": "building-wealth-online-with-tech-a-complete-guide/competitor-analysis/",
-              "order": 16
+              "title": "Printer installation, drivers, queues, and sharing",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/printer-installation-drivers-queues-and-sharing/",
+              "order": 26
             },
             {
-              "title": "Customer Pain Points and Jobs-to-be-Done",
-              "path": "building-wealth-online-with-tech-a-complete-guide/customer-pain-points-and-jobs-to-be-done/",
-              "order": 17
+              "title": "Common printer maintenance and consumables",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/common-printer-maintenance-and-consumables/",
+              "order": 27
             },
             {
-              "title": "Validating Demand Before Building",
-              "path": "building-wealth-online-with-tech-a-complete-guide/validating-demand-before-building/",
-              "order": 18
+              "title": "Wireless and network printer setup",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/wireless-and-network-printer-setup/",
+              "order": 28
+            },
+            {
+              "title": "Print quality issues and troubleshooting",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/print-quality-issues-and-troubleshooting/",
+              "order": 29
+            },
+            {
+              "title": "3D printing fundamentals",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/3d-printing-fundamentals/",
+              "order": 30
+            },
+            {
+              "title": "3D printer components, filament/resin concepts, and basic workflow",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/3d-printer-components-filament-resin-concepts-and-basic-workflow/",
+              "order": 31
+            },
+            {
+              "title": "Common 3D printing failures and support considerations",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/common-3d-printing-failures-and-support-considerations/",
+              "order": 32
+            },
+            {
+              "title": "Safety and maintenance for print devices",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/safety-and-maintenance-for-print-devices/",
+              "order": 33
             }
           ],
           "folders": {},
           "order": "4"
         },
-        "Personal Brand And Positioning": {
+        "Module 5 Networking Fundamentals And Connectivity": {
           "files": [
             {
-              "title": "Defining Your Unique Value Proposition",
-              "path": "building-wealth-online-with-tech-a-complete-guide/defining-your-unique-value-proposition/",
-              "order": 19
+              "title": "Network types: LAN, WAN, WLAN, PAN, and MAN",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/network-types-lan-wan-wlan-pan-and-man/",
+              "order": 34
             },
             {
-              "title": "Building Authority and Trust Online",
-              "path": "building-wealth-online-with-tech-a-complete-guide/building-authority-and-trust-online/",
-              "order": 20
+              "title": "Network devices: routers, switches, access points, firewalls, and modems",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/network-devices-routers-switches-access-points-firewalls-and-modems/",
+              "order": 35
             },
             {
-              "title": "Brand Voice, Story, and Messaging",
-              "path": "building-wealth-online-with-tech-a-complete-guide/brand-voice-story-and-messaging/",
-              "order": 21
+              "title": "IP addressing, subnet basics, DHCP, DNS, and NAT",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/ip-addressing-subnet-basics-dhcp-dns-and-nat/",
+              "order": 36
             },
             {
-              "title": "Choosing a Niche and Audience",
-              "path": "building-wealth-online-with-tech-a-complete-guide/choosing-a-niche-and-audience/",
-              "order": 22
+              "title": "Common ports and protocols",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/common-ports-and-protocols/",
+              "order": 37
+            },
+            {
+              "title": "Wi-Fi standards, bands, channels, and security modes",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/wi-fi-standards-bands-channels-and-security-modes/",
+              "order": 38
+            },
+            {
+              "title": "Ethernet cabling, connectors, and standards",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/ethernet-cabling-connectors-and-standards/",
+              "order": 39
+            },
+            {
+              "title": "VPN concepts and remote access basics",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/vpn-concepts-and-remote-access-basics/",
+              "order": 40
+            },
+            {
+              "title": "Internet connectivity troubleshooting",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/internet-connectivity-troubleshooting/",
+              "order": 41
+            },
+            {
+              "title": "Network troubleshooting tools and commands",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/network-troubleshooting-tools-and-commands/",
+              "order": 42
             }
           ],
           "folders": {},
           "order": "5"
         },
-        "Digital Infrastructure And Tools": {
+        "Module 6 Virtualization Cloud And Modern Workplace Services": {
           "files": [
             {
-              "title": "Domain Names, Hosting, and Websites",
-              "path": "building-wealth-online-with-tech-a-complete-guide/domain-names-hosting-and-websites/",
-              "order": 23
+              "title": "Virtual machines and hypervisors",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/virtual-machines-and-hypervisors/",
+              "order": 43
             },
             {
-              "title": "Email Marketing Platforms",
-              "path": "building-wealth-online-with-tech-a-complete-guide/email-marketing-platforms/",
-              "order": 24
+              "title": "Desktop virtualization concepts",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/desktop-virtualization-concepts/",
+              "order": 44
             },
             {
-              "title": "Payment Processing and Checkout Systems",
-              "path": "building-wealth-online-with-tech-a-complete-guide/payment-processing-and-checkout-systems/",
-              "order": 25
+              "title": "Cloud storage and synchronization",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/cloud-storage-and-synchronization/",
+              "order": 45
             },
             {
-              "title": "Project Management and Productivity Tools",
-              "path": "building-wealth-online-with-tech-a-complete-guide/project-management-and-productivity-tools/",
-              "order": 26
+              "title": "SaaS, PaaS, and IaaS at a conceptual level",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/saas-paas-and-iaas-at-a-conceptual-level/",
+              "order": 46
             },
             {
-              "title": "Analytics and Tracking Tools",
-              "path": "building-wealth-online-with-tech-a-complete-guide/analytics-and-tracking-tools/",
-              "order": 27
+              "title": "Collaboration and productivity platforms",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/collaboration-and-productivity-platforms/",
+              "order": 47
+            },
+            {
+              "title": "Remote desktop and remote access tools",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/remote-desktop-and-remote-access-tools/",
+              "order": 48
+            },
+            {
+              "title": "Shared resources and identity-based access concepts",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/shared-resources-and-identity-based-access-concepts/",
+              "order": 49
             }
           ],
           "folders": {},
           "order": "6"
         },
-        "Content Strategy For Growth": {
+        "Module 7 Operating Systems Installation Configuration And Support": {
           "files": [
             {
-              "title": "Content Pillars and Editorial Planning",
-              "path": "building-wealth-online-with-tech-a-complete-guide/content-pillars-and-editorial-planning/",
-              "order": 28
+              "title": "Windows installation types, editions, and upgrade paths",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/windows-installation-types-editions-and-upgrade-paths/",
+              "order": 50
             },
             {
-              "title": "SEO Basics for Organic Traffic",
-              "path": "building-wealth-online-with-tech-a-complete-guide/seo-basics-for-organic-traffic/",
-              "order": 29
+              "title": "Windows 11 hardware requirements and compatibility concepts",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/windows-11-hardware-requirements-and-compatibility-concepts/",
+              "order": 51
             },
             {
-              "title": "Social Media Content Systems",
-              "path": "building-wealth-online-with-tech-a-complete-guide/social-media-content-systems/",
-              "order": 30
+              "title": "Installation media, recovery media, and deployment basics",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/installation-media-recovery-media-and-deployment-basics/",
+              "order": 52
             },
             {
-              "title": "Video, Audio, and Written Content Formats",
-              "path": "building-wealth-online-with-tech-a-complete-guide/video-audio-and-written-content-formats/",
-              "order": 31
+              "title": "User profiles, accounts, permissions, and UAC",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/user-profiles-accounts-permissions-and-uac/",
+              "order": 53
             },
             {
-              "title": "Repurposing Content Across Channels",
-              "path": "building-wealth-online-with-tech-a-complete-guide/repurposing-content-across-channels/",
-              "order": 32
+              "title": "File systems and storage management",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/file-systems-and-storage-management/",
+              "order": 54
+            },
+            {
+              "title": "Device Manager, Disk Management, Task Manager, and Services",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/device-manager-disk-management-task-manager-and-services/",
+              "order": 55
+            },
+            {
+              "title": "System utilities and administrative tools",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/system-utilities-and-administrative-tools/",
+              "order": 56
+            },
+            {
+              "title": "macOS and Linux support basics",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/macos-and-linux-support-basics/",
+              "order": 57
+            },
+            {
+              "title": "Command-line fundamentals for support tasks",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/command-line-fundamentals-for-support-tasks/",
+              "order": 58
             }
           ],
           "folders": {},
           "order": "7"
         },
-        "Audience Building And Community": {
+        "Module 8 Security Fundamentals And Endpoint Protection": {
           "files": [
             {
-              "title": "Growing an Email List",
-              "path": "building-wealth-online-with-tech-a-complete-guide/growing-an-email-list/",
-              "order": 33
+              "title": "Security principles: CIA triad, least privilege, and defense in depth",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/security-principles-cia-triad-least-privilege-and-defense-in-depth/",
+              "order": 59
             },
             {
-              "title": "Social Media Growth Strategies",
-              "path": "building-wealth-online-with-tech-a-complete-guide/social-media-growth-strategies/",
-              "order": 34
+              "title": "Authentication, authorization, and accounting",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/authentication-authorization-and-accounting/",
+              "order": 60
             },
             {
-              "title": "Community Platforms and Engagement",
-              "path": "building-wealth-online-with-tech-a-complete-guide/community-platforms-and-engagement/",
-              "order": 35
+              "title": "Malware types and prevention",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/malware-types-and-prevention/",
+              "order": 62
             },
             {
-              "title": "Lead Magnets and Opt-In Offers",
-              "path": "building-wealth-online-with-tech-a-complete-guide/lead-magnets-and-opt-in-offers/",
-              "order": 36
+              "title": "Endpoint protection and antivirus",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/endpoint-protection-and-antivirus/",
+              "order": 63
+            },
+            {
+              "title": "Encryption concepts and secure storage",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/encryption-concepts-and-secure-storage/",
+              "order": 64
+            },
+            {
+              "title": "Physical security controls",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/physical-security-controls/",
+              "order": 65
+            },
+            {
+              "title": "Social engineering and phishing",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/social-engineering-and-phishing/",
+              "order": 66
+            },
+            {
+              "title": "Secure browsing, email safety, and user awareness",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/secure-browsing-email-safety-and-user-awareness/",
+              "order": 67
+            },
+            {
+              "title": "Mobile and remote-work security practices",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/mobile-and-remote-work-security-practices/",
+              "order": 68
+            },
+            {
+              "title": "Basic incident response awareness",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/basic-incident-response-awareness/",
+              "order": 69
             }
           ],
           "folders": {},
           "order": "8"
         },
-        "Monetization Strategies": {
+        "Module 9 Software Troubleshooting And Application Support": {
           "files": [
             {
-              "title": "Selling Services",
-              "path": "building-wealth-online-with-tech-a-complete-guide/selling-services/",
-              "order": 37
+              "title": "Application installation and removal",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/application-installation-and-removal/",
+              "order": 70
             },
             {
-              "title": "Selling Digital Products",
-              "path": "building-wealth-online-with-tech-a-complete-guide/selling-digital-products/",
-              "order": 38
+              "title": "Compatibility issues and version conflicts",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/compatibility-issues-and-version-conflicts/",
+              "order": 71
             },
             {
-              "title": "Subscriptions and Memberships",
-              "path": "building-wealth-online-with-tech-a-complete-guide/subscriptions-and-memberships/",
-              "order": 39
+              "title": "Browser troubleshooting",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/browser-troubleshooting/",
+              "order": 72
             },
             {
-              "title": "Advertising and Sponsorships",
-              "path": "building-wealth-online-with-tech-a-complete-guide/advertising-and-sponsorships/",
-              "order": 40
+              "title": "Email and calendaring issues",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/email-and-calendaring-issues/",
+              "order": 73
             },
             {
-              "title": "Affiliate Revenue Models",
-              "path": "building-wealth-online-with-tech-a-complete-guide/affiliate-revenue-models/",
-              "order": 41
+              "title": "Productivity suite support",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/productivity-suite-support/",
+              "order": 74
+            },
+            {
+              "title": "Printing from applications",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/printing-from-applications/",
+              "order": 75
+            },
+            {
+              "title": "File access, permissions, and association issues",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/file-access-permissions-and-association-issues/",
+              "order": 76
+            },
+            {
+              "title": "Performance problems and resource contention",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/performance-problems-and-resource-contention/",
+              "order": 77
+            },
+            {
+              "title": "Startup and login issues",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/startup-and-login-issues/",
+              "order": 78
+            },
+            {
+              "title": "Update failures and patch-related issues",
+              "path": "comptia-a-exams-220-1201-220-1202-v15/update-failures-and-patch-related-issues/",
+              "order": 79
             }
           ],
           "folders": {},
@@ -386,1937 +528,618 @@
       },
       "order": null
     },
-    "Comptia A 220 1201": {
+    "Comptia Network Exam N10 009": {
       "files": [],
       "folders": {
-        "Comptia A Plus 220 1201 Overview": {
-          "files": [
-            {
-              "title": "Exam Objectives and Domains",
-              "path": "comptia-a-220-1201/exam-objectives-and-domains/",
-              "order": 1
-            },
-            {
-              "title": "Hardware and Networking Focus",
-              "path": "comptia-a-220-1201/hardware-and-networking-focus/",
-              "order": 2
-            },
-            {
-              "title": "Troubleshooting and Support Mindset",
-              "path": "comptia-a-220-1201/troubleshooting-and-support-mindset/",
-              "order": 3
-            },
-            {
-              "title": "Best Practices for Study and Lab Work",
-              "path": "comptia-a-220-1201/best-practices-for-study-and-lab-work/",
-              "order": 4
-            }
-          ],
-          "folders": {},
-          "order": "1"
-        },
-        "Mobile Devices": {
-          "files": [
-            {
-              "title": "Mobile Device Types",
-              "path": "comptia-a-220-1201/mobile-device-types/",
-              "order": 5
-            },
-            {
-              "title": "Mobile Device Components",
-              "path": "comptia-a-220-1201/mobile-device-components/",
-              "order": 6
-            },
-            {
-              "title": "Mobile Device Accessories",
-              "path": "comptia-a-220-1201/mobile-device-accessories/",
-              "order": 7
-            },
-            {
-              "title": "Mobile Device Connectivity",
-              "path": "comptia-a-220-1201/mobile-device-connectivity/",
-              "order": 8
-            },
-            {
-              "title": "Mobile Device Synchronization and Data Transfer",
-              "path": "comptia-a-220-1201/mobile-device-synchronization-and-data-transfer/",
-              "order": 9
-            },
-            {
-              "title": "Mobile Device Security",
-              "path": "comptia-a-220-1201/mobile-device-security/",
-              "order": 10
-            },
-            {
-              "title": "Mobile Device Troubleshooting",
-              "path": "comptia-a-220-1201/mobile-device-troubleshooting/",
-              "order": 11
-            }
-          ],
-          "folders": {},
-          "order": "2"
-        },
-        "Networking": {
-          "files": [
-            {
-              "title": "Networking Concepts",
-              "path": "comptia-a-220-1201/networking-concepts/",
-              "order": 12
-            },
-            {
-              "title": "Network Types and Topologies",
-              "path": "comptia-a-220-1201/network-types-and-topologies/",
-              "order": 13
-            },
-            {
-              "title": "Cables and Connectors",
-              "path": "comptia-a-220-1201/cables-and-connectors/",
-              "order": 14
-            },
-            {
-              "title": "Wireless Networking Standards",
-              "path": "comptia-a-220-1201/wireless-networking-standards/",
-              "order": 15
-            },
-            {
-              "title": "Network Devices",
-              "path": "comptia-a-220-1201/network-devices/",
-              "order": 16
-            },
-            {
-              "title": "TCP/IP and Common Ports",
-              "path": "comptia-a-220-1201/tcp-ip-and-common-ports/",
-              "order": 17
-            },
-            {
-              "title": "SOHO Network Setup",
-              "path": "comptia-a-220-1201/soho-network-setup/",
-              "order": 18
-            },
-            {
-              "title": "Internet Connection Types",
-              "path": "comptia-a-220-1201/internet-connection-types/",
-              "order": 19
-            },
-            {
-              "title": "Network Troubleshooting",
-              "path": "comptia-a-220-1201/network-troubleshooting/",
-              "order": 20
-            }
-          ],
-          "folders": {},
-          "order": "3"
-        },
-        "Hardware": {
-          "files": [
-            {
-              "title": "Motherboards and CPUs",
-              "path": "comptia-a-220-1201/motherboards-and-cpus/",
-              "order": 21
-            },
-            {
-              "title": "Memory and Storage",
-              "path": "comptia-a-220-1201/memory-and-storage/",
-              "order": 22
-            },
-            {
-              "title": "Power Supplies and Cooling",
-              "path": "comptia-a-220-1201/power-supplies-and-cooling/",
-              "order": 23
-            },
-            {
-              "title": "Expansion Cards and Ports",
-              "path": "comptia-a-220-1201/expansion-cards-and-ports/",
-              "order": 24
-            },
-            {
-              "title": "Peripherals and Input Devices",
-              "path": "comptia-a-220-1201/peripherals-and-input-devices/",
-              "order": 25
-            },
-            {
-              "title": "Printers and Imaging Devices",
-              "path": "comptia-a-220-1201/printers-and-imaging-devices/",
-              "order": 26
-            },
-            {
-              "title": "Display Technologies",
-              "path": "comptia-a-220-1201/display-technologies/",
-              "order": 27
-            },
-            {
-              "title": "Hardware Installation and Configuration",
-              "path": "comptia-a-220-1201/hardware-installation-and-configuration/",
-              "order": 28
-            },
-            {
-              "title": "Hardware Troubleshooting",
-              "path": "comptia-a-220-1201/hardware-troubleshooting/",
-              "order": 29
-            }
-          ],
-          "folders": {},
-          "order": "4"
-        },
-        "Virtualization And Cloud Computing": {
-          "files": [
-            {
-              "title": "Virtualization Concepts",
-              "path": "comptia-a-220-1201/virtualization-concepts/",
-              "order": 30
-            },
-            {
-              "title": "Virtual Desktop Infrastructure",
-              "path": "comptia-a-220-1201/virtual-desktop-infrastructure/",
-              "order": 31
-            },
-            {
-              "title": "Cloud Service Models",
-              "path": "comptia-a-220-1201/cloud-service-models/",
-              "order": 32
-            },
-            {
-              "title": "Cloud Deployment Models",
-              "path": "comptia-a-220-1201/cloud-deployment-models/",
-              "order": 33
-            },
-            {
-              "title": "Virtualization and Cloud Troubleshooting",
-              "path": "comptia-a-220-1201/virtualization-and-cloud-troubleshooting/",
-              "order": 34
-            }
-          ],
-          "folders": {},
-          "order": "5"
-        },
-        "Hardware And Network Troubleshooting Methodology": {
-          "files": [
-            {
-              "title": "Troubleshooting Theory and Process",
-              "path": "comptia-a-220-1201/troubleshooting-theory-and-process/",
-              "order": 35
-            },
-            {
-              "title": "Identifying Symptoms and Root Causes",
-              "path": "comptia-a-220-1201/identifying-symptoms-and-root-causes/",
-              "order": 36
-            },
-            {
-              "title": "Using Diagnostic Tools",
-              "path": "comptia-a-220-1201/using-diagnostic-tools/",
-              "order": 37
-            },
-            {
-              "title": "Documentation and Escalation",
-              "path": "comptia-a-220-1201/documentation-and-escalation/",
-              "order": 38
-            },
-            {
-              "title": "Customer Communication and Professionalism",
-              "path": "comptia-a-220-1201/customer-communication-and-professionalism/",
-              "order": 39
-            }
-          ],
-          "folders": {},
-          "order": "6"
-        }
-      },
-      "order": "1"
-    },
-    "Comptia Network Plus": {
-      "files": [],
-      "folders": {
-        "Virtualization Cloud And Emerging Technologies": {
-          "files": [
-            {
-              "title": "Virtual Networks and Virtualization Concepts",
-              "path": "comptia-network-plus/virtual-networks-and-virtualization-concepts/",
-              "order": 53
-            },
-            {
-              "title": "Cloud Service Models and Deployment Models",
-              "path": "comptia-network-plus/cloud-service-models-and-deployment-models/",
-              "order": 54
-            },
-            {
-              "title": "Software-Defined Networking",
-              "path": "comptia-network-plus/software-defined-networking/",
-              "order": 55
-            },
-            {
-              "title": "Network Automation and Orchestration",
-              "path": "comptia-network-plus/network-automation-and-orchestration/",
-              "order": 56
-            },
-            {
-              "title": "Internet of Things and Industrial Networks",
-              "path": "comptia-network-plus/internet-of-things-and-industrial-networks/",
-              "order": 57
-            }
-          ],
-          "folders": {},
-          "order": "10"
-        },
-        "Final Review And Exam Preparation": {
-          "files": [
-            {
-              "title": "Practice Exams and Question Analysis for CompTIA Network+ N10-009",
-              "path": "comptia-network-plus/practice-exams-and-question-analysis/",
-              "order": 58
-            },
-            {
-              "title": "Hands-On Lab Review",
-              "path": "comptia-network-plus/hands-on-lab-review/",
-              "order": 59
-            },
-            {
-              "title": "Memory Aids and Acronym Review",
-              "path": "comptia-network-plus/memory-aids-and-acronym-review/",
-              "order": 60
-            },
-            {
-              "title": "Exam Day Readiness",
-              "path": "comptia-network-plus/exam-day-readiness/",
-              "order": 61
-            }
-          ],
-          "folders": {},
-          "order": "11"
-        },
-        "Course Introduction And Exam Overview": {
-          "files": [
-            {
-              "title": "CompTIA Network+ Certification Objectives",
-              "path": "comptia-network-plus/comptia-network-plus-certification-objectives/",
-              "order": 1
-            },
-            {
-              "title": "Exam Domains and Weighting",
-              "path": "comptia-network-plus/exam-domains-and-weighting/",
-              "order": 2
-            },
-            {
-              "title": "Study Strategies and Lab Expectations",
-              "path": "comptia-network-plus/study-strategies-and-lab-expectations/",
-              "order": 3
-            },
-            {
-              "title": "Networking Career Roles and Use Cases",
-              "path": "comptia-network-plus/networking-career-roles-and-use-cases/",
-              "order": 4
-            }
-          ],
-          "folders": {},
-          "order": "1"
-        },
-        "Networking Concepts And Fundamentals": {
-          "files": [
-            {
-              "title": "Network Types and Topologies",
-              "path": "comptia-network-plus/network-types-and-topologies/",
-              "order": 5
-            },
-            {
-              "title": "Network Models: OSI and TCP/IP",
-              "path": "comptia-network-plus/network-models-osi-and-tcp-ip/",
-              "order": 6
-            },
-            {
-              "title": "Encapsulation and Decapsulation",
-              "path": "comptia-network-plus/encapsulation-and-decapsulation/",
-              "order": 7
-            },
-            {
-              "title": "Bandwidth, Throughput, Latency, and Jitter",
-              "path": "comptia-network-plus/bandwidth-throughput-latency-and-jitter/",
-              "order": 8
-            },
-            {
-              "title": "Common Networking Standards and Organizations",
-              "path": "comptia-network-plus/common-networking-standards-and-organizations/",
-              "order": 9
-            }
-          ],
-          "folders": {},
-          "order": "2"
-        },
-        "Network Infrastructure": {
-          "files": [
-            {
-              "title": "Cabling Types and Connectors",
-              "path": "comptia-network-plus/cabling-types-and-connectors/",
-              "order": 10
-            },
-            {
-              "title": "Copper Cabling Standards",
-              "path": "comptia-network-plus/copper-cabling-standards/",
-              "order": 11
-            },
-            {
-              "title": "Fiber Optic Cabling Standards",
-              "path": "comptia-network-plus/fiber-optic-cabling-standards/",
-              "order": 12
-            },
-            {
-              "title": "Wireless Media and Antennas",
-              "path": "comptia-network-plus/wireless-media-and-antennas/",
-              "order": 13
-            },
-            {
-              "title": "Network Devices: Hubs, Switches, Routers, and Access Points",
-              "path": "comptia-network-plus/network-devices-hubs-switches-routers-and-access-points/",
-              "order": 14
-            },
-            {
-              "title": "Firewalls, Load Balancers, and Proxies",
-              "path": "comptia-network-plus/firewalls-load-balancers-and-proxies/",
-              "order": 15
-            },
-            {
-              "title": "Power and Environmental Considerations",
-              "path": "comptia-network-plus/power-and-environmental-considerations/",
-              "order": 16
-            }
-          ],
-          "folders": {},
-          "order": "3"
-        },
-        "Network Addressing And Subnetting": {
-          "files": [
-            {
-              "title": "IPv4 Addressing Basics",
-              "path": "comptia-network-plus/ipv4-addressing-basics/",
-              "order": 17
-            },
-            {
-              "title": "Subnet Masks and CIDR Notation",
-              "path": "comptia-network-plus/subnet-masks-and-cidr-notation/",
-              "order": 18
-            },
-            {
-              "title": "Subnetting Techniques and Calculations",
-              "path": "comptia-network-plus/subnetting-techniques-and-calculations/",
-              "order": 19
-            },
-            {
-              "title": "IPv6 Addressing Basics",
-              "path": "comptia-network-plus/ipv6-addressing-basics/",
-              "order": 20
-            },
-            {
-              "title": "Public, Private, and Special-Use Addresses",
-              "path": "comptia-network-plus/public-private-and-special-use-addresses/",
-              "order": 21
-            },
-            {
-              "title": "Default Gateway, DNS, and DHCP Concepts",
-              "path": "comptia-network-plus/default-gateway-dns-and-dhcp-concepts/",
-              "order": 22
-            }
-          ],
-          "folders": {},
-          "order": "4"
-        },
-        "Routing And Switching": {
-          "files": [
-            {
-              "title": "Switching Concepts and VLANs",
-              "path": "comptia-network-plus/switching-concepts-and-vlans/",
-              "order": 23
-            },
-            {
-              "title": "Inter-VLAN Routing",
-              "path": "comptia-network-plus/inter-vlan-routing/",
-              "order": 24
-            },
-            {
-              "title": "Routing Concepts and Protocols",
-              "path": "comptia-network-plus/routing-concepts-and-protocols/",
-              "order": 25
-            },
-            {
-              "title": "Static and Dynamic Routing",
-              "path": "comptia-network-plus/static-and-dynamic-routing/",
-              "order": 26
-            },
-            {
-              "title": "Routing Tables and Metrics",
-              "path": "comptia-network-plus/routing-tables-and-metrics/",
-              "order": 27
-            },
-            {
-              "title": "Spanning Tree Protocol",
-              "path": "comptia-network-plus/spanning-tree-protocol/",
-              "order": 28
-            }
-          ],
-          "folders": {},
-          "order": "5"
-        },
-        "Network Services And Applications": {
-          "files": [
-            {
-              "title": "Common Network Ports and Protocols",
-              "path": "comptia-network-plus/common-network-ports-and-protocols/",
-              "order": 29
-            },
-            {
-              "title": "DNS, DHCP, and NTP",
-              "path": "comptia-network-plus/dns-dhcp-and-ntp/",
-              "order": 30
-            },
-            {
-              "title": "File, Email, and Web Services",
-              "path": "comptia-network-plus/file-email-and-web-services/",
-              "order": 31
-            },
-            {
-              "title": "Remote Access Services",
-              "path": "comptia-network-plus/remote-access-services/",
-              "order": 32
-            },
-            {
-              "title": "Voice and Video over IP",
-              "path": "comptia-network-plus/voice-and-video-over-ip/",
-              "order": 33
-            },
-            {
-              "title": "Network Time and Synchronization",
-              "path": "comptia-network-plus/network-time-and-synchronization/",
-              "order": 34
-            }
-          ],
-          "folders": {},
-          "order": "6"
-        },
-        "Network Operations": {
-          "files": [
-            {
-              "title": "Monitoring and Alerting",
-              "path": "comptia-network-plus/monitoring-and-alerting/",
-              "order": 35
-            },
-            {
-              "title": "Performance Baselines and Metrics",
-              "path": "comptia-network-plus/performance-baselines-and-metrics/",
-              "order": 36
-            },
-            {
-              "title": "Documentation and Change Management",
-              "path": "comptia-network-plus/documentation-and-change-management/",
-              "order": 37
-            },
-            {
-              "title": "High Availability and Redundancy",
-              "path": "comptia-network-plus/high-availability-and-redundancy/",
-              "order": 38
-            },
-            {
-              "title": "Disaster Recovery and Business Continuity",
-              "path": "comptia-network-plus/disaster-recovery-and-business-continuity/",
-              "order": 39
-            },
-            {
-              "title": "Network Troubleshooting Methodology",
-              "path": "comptia-network-plus/network-troubleshooting-methodology/",
-              "order": 40
-            }
-          ],
-          "folders": {},
-          "order": "7"
-        },
-        "Network Security": {
-          "files": [
-            {
-              "title": "Security Principles and Threats",
-              "path": "comptia-network-plus/security-principles-and-threats/",
-              "order": 41
-            },
-            {
-              "title": "Authentication, Authorization, and Accounting",
-              "path": "comptia-network-plus/authentication-authorization-and-accounting/",
-              "order": 42
-            },
-            {
-              "title": "Network Access Control",
-              "path": "comptia-network-plus/network-access-control/",
-              "order": 43
-            },
-            {
-              "title": "Wireless Security",
-              "path": "comptia-network-plus/wireless-security/",
-              "order": 44
-            },
-            {
-              "title": "Secure Protocols and Encryption",
-              "path": "comptia-network-plus/secure-protocols-and-encryption/",
-              "order": 45
-            },
-            {
-              "title": "Segmentation and Zero Trust Concepts",
-              "path": "comptia-network-plus/segmentation-and-zero-trust-concepts/",
-              "order": 46
-            }
-          ],
-          "folders": {},
-          "order": "8"
-        },
-        "Network Troubleshooting And Tools": {
-          "files": [
-            {
-              "title": "Troubleshooting Tools and Utilities",
-              "path": "comptia-network-plus/troubleshooting-tools-and-utilities/",
-              "order": 47
-            },
-            {
-              "title": "Cable Testing and Certification Tools",
-              "path": "comptia-network-plus/cable-testing-and-certification-tools/",
-              "order": 48
-            },
-            {
-              "title": "Wireless Troubleshooting Tools",
-              "path": "comptia-network-plus/wireless-troubleshooting-tools/",
-              "order": 49
-            },
-            {
-              "title": "Command-Line Network Tools",
-              "path": "comptia-network-plus/command-line-network-tools/",
-              "order": 50
-            },
-            {
-              "title": "Packet Capture and Analysis",
-              "path": "comptia-network-plus/packet-capture-and-analysis/",
-              "order": 51
-            },
-            {
-              "title": "Common Network Faults and Remediation",
-              "path": "comptia-network-plus/common-network-faults-and-remediation/",
-              "order": 52
-            }
-          ],
-          "folders": {},
-          "order": "9"
-        }
-      },
-      "order": "2"
-    },
-    "Comptia Security Plus": {
-      "files": [],
-      "folders": {
-        "Course Introduction And Security Fundamentals": {
-          "files": [
-            {
-              "title": "CompTIA Security+ Exam Overview",
-              "path": "comptia-security-plus/comptia-security-plus-exam-overview/",
-              "order": 1
-            },
-            {
-              "title": "Security Concepts and Principles",
-              "path": "comptia-security-plus/security-concepts-and-principles/",
-              "order": 2
-            },
-            {
-              "title": "CIA Triad and Security Objectives",
-              "path": "comptia-security-plus/cia-triad-and-security-objectives/",
-              "order": 3
-            },
-            {
-              "title": "Threats, Vulnerabilities, and Risk",
-              "path": "comptia-security-plus/threats-vulnerabilities-and-risk/",
-              "order": 4
-            },
-            {
-              "title": "Security Controls and Safeguards",
-              "path": "comptia-security-plus/security-controls-and-safeguards/",
-              "order": 5
-            }
-          ],
-          "folders": {},
-          "order": "1"
-        },
-        "Threats Attacks And Vulnerabilities": {
-          "files": [
-            {
-              "title": "Malware Types and Behaviors",
-              "path": "comptia-security-plus/malware-types-and-behaviors/",
-              "order": 6
-            },
-            {
-              "title": "Social Engineering Attacks",
-              "path": "comptia-security-plus/social-engineering-attacks/",
-              "order": 7
-            },
-            {
-              "title": "Password Attacks",
-              "path": "comptia-security-plus/password-attacks/",
-              "order": 8
-            },
-            {
-              "title": "Network Attacks",
-              "path": "comptia-security-plus/network-attacks/",
-              "order": 9
-            },
-            {
-              "title": "Wireless Attacks",
-              "path": "comptia-security-plus/wireless-attacks/",
-              "order": 10
-            },
-            {
-              "title": "Application and Web Attacks",
-              "path": "comptia-security-plus/application-and-web-attacks/",
-              "order": 11
-            },
-            {
-              "title": "Vulnerability Scanning and Assessment",
-              "path": "comptia-security-plus/vulnerability-scanning-and-assessment/",
-              "order": 12
-            },
-            {
-              "title": "Indicators of Compromise",
-              "path": "comptia-security-plus/indicators-of-compromise/",
-              "order": 13
-            }
-          ],
-          "folders": {},
-          "order": "2"
-        },
-        "Architecture And Design": {
-          "files": [
-            {
-              "title": "Secure Network Architecture",
-              "path": "comptia-security-plus/secure-network-architecture/",
-              "order": 14
-            },
-            {
-              "title": "Segmentation and Isolation",
-              "path": "comptia-security-plus/segmentation-and-isolation/",
-              "order": 15
-            },
-            {
-              "title": "Cloud and Virtualization Security",
-              "path": "comptia-security-plus/cloud-and-virtualization-security/",
-              "order": 16
-            },
-            {
-              "title": "Secure Application Development Concepts",
-              "path": "comptia-security-plus/secure-application-development-concepts/",
-              "order": 17
-            },
-            {
-              "title": "Resilience and High Availability",
-              "path": "comptia-security-plus/resilience-and-high-availability/",
-              "order": 18
-            },
-            {
-              "title": "Embedded and Specialized Systems Security",
-              "path": "comptia-security-plus/embedded-and-specialized-systems-security/",
-              "order": 19
-            }
-          ],
-          "folders": {},
-          "order": "3"
-        },
-        "Implementation": {
-          "files": [
-            {
-              "title": "Secure Protocols and Services",
-              "path": "comptia-security-plus/secure-protocols-and-services/",
-              "order": 20
-            },
-            {
-              "title": "Identity and Access Management",
-              "path": "comptia-security-plus/identity-and-access-management/",
-              "order": 21
-            },
-            {
-              "title": "Authentication Methods",
-              "path": "comptia-security-plus/authentication-methods/",
-              "order": 22
-            },
-            {
-              "title": "Authorization and Accounting",
-              "path": "comptia-security-plus/authorization-and-accounting/",
-              "order": 23
-            },
-            {
-              "title": "Public Key Infrastructure",
-              "path": "comptia-security-plus/public-key-infrastructure/",
-              "order": 24
-            },
-            {
-              "title": "Wireless Security Implementation",
-              "path": "comptia-security-plus/wireless-security-implementation/",
-              "order": 25
-            },
-            {
-              "title": "Endpoint Security",
-              "path": "comptia-security-plus/endpoint-security/",
-              "order": 26
-            },
-            {
-              "title": "Mobile Device Security",
-              "path": "comptia-security-plus/mobile-device-security/",
-              "order": 27
-            }
-          ],
-          "folders": {},
-          "order": "4"
-        },
-        "Operations And Incident Response": {
-          "files": [
-            {
-              "title": "Security Monitoring and Logging",
-              "path": "comptia-security-plus/security-monitoring-and-logging/",
-              "order": 28
-            },
-            {
-              "title": "Incident Response Process",
-              "path": "comptia-security-plus/incident-response-process/",
-              "order": 29
-            },
-            {
-              "title": "Digital Forensics Basics",
-              "path": "comptia-security-plus/digital-forensics-basics/",
-              "order": 30
-            },
-            {
-              "title": "Vulnerability Management",
-              "path": "comptia-security-plus/vulnerability-management/",
-              "order": 31
-            },
-            {
-              "title": "Backup, Recovery, and Business Continuity",
-              "path": "comptia-security-plus/backup-recovery-and-business-continuity/",
-              "order": 32
-            },
-            {
-              "title": "Disaster Recovery Planning",
-              "path": "comptia-security-plus/disaster-recovery-planning/",
-              "order": 33
-            },
-            {
-              "title": "Security Automation and Orchestration",
-              "path": "comptia-security-plus/security-automation-and-orchestration/",
-              "order": 34
-            }
-          ],
-          "folders": {},
-          "order": "5"
-        },
-        "Governance Risk And Compliance": {
-          "files": [
-            {
-              "title": "Security Policies and Procedures",
-              "path": "comptia-security-plus/security-policies-and-procedures/",
-              "order": 35
-            },
-            {
-              "title": "Risk Management Concepts",
-              "path": "comptia-security-plus/risk-management-concepts/",
-              "order": 36
-            },
-            {
-              "title": "Compliance and Legal Requirements",
-              "path": "comptia-security-plus/compliance-and-legal-requirements/",
-              "order": 37
-            },
-            {
-              "title": "Privacy and Data Protection",
-              "path": "comptia-security-plus/privacy-and-data-protection/",
-              "order": 38
-            },
-            {
-              "title": "Security Awareness and Training",
-              "path": "comptia-security-plus/security-awareness-and-training/",
-              "order": 39
-            },
-            {
-              "title": "Third-Party Risk Management",
-              "path": "comptia-security-plus/third-party-risk-management/",
-              "order": 40
-            }
-          ],
-          "folders": {},
-          "order": "6"
-        },
-        "Exam Preparation And Practice": {
-          "files": [
-            {
-              "title": "CompTIA Security+ Exam Objectives Review",
-              "path": "comptia-security-plus/exam-objectives-review/",
-              "order": 41
-            },
-            {
-              "title": "Performance-Based Questions Strategy",
-              "path": "comptia-security-plus/performance-based-questions-strategy/",
-              "order": 42
-            },
-            {
-              "title": "Multiple-Choice Question Strategy",
-              "path": "comptia-security-plus/multiple-choice-question-strategy/",
-              "order": 43
-            },
-            {
-              "title": "Study Plan and Time Management",
-              "path": "comptia-security-plus/study-plan-and-time-management/",
-              "order": 44
-            },
-            {
-              "title": "Practice Exams and Review for CompTIA Security+",
-              "path": "comptia-security-plus/practice-exams-and-review/",
-              "order": 45
-            }
-          ],
-          "folders": {},
-          "order": "7"
-        }
-      },
-      "order": "3"
-    },
-    "Ccna 200 301": {
-      "files": [],
-      "folders": {
-        "Network Troubleshooting And Operations": {
+        "Module 10 Network Troubleshooting Methodology And Tool Usage": {
           "files": [
             {
               "title": "Troubleshooting Methodology",
-              "path": "ccna-200-301/troubleshooting-methodology/",
-              "order": 64
+              "path": "comptia-network-exam-n10-009/troubleshooting-methodology/",
+              "order": 85
             },
             {
-              "title": "Common Network Problems",
-              "path": "ccna-200-301/common-network-problems/",
-              "order": 65
+              "title": "Layered Troubleshooting with OSI and TCP/IP",
+              "path": "comptia-network-exam-n10-009/layered-troubleshooting-with-osi-and-tcp-ip/",
+              "order": 86
             },
             {
-              "title": "Using Ping, Traceroute, and Telnet/SSH",
-              "path": "ccna-200-301/using-ping-traceroute-and-telnet-ssh/",
-              "order": 66
+              "title": "Common Connectivity Issues",
+              "path": "comptia-network-exam-n10-009/common-connectivity-issues/",
+              "order": 87
             },
             {
-              "title": "Show and Debug Commands",
-              "path": "ccna-200-301/show-and-debug-commands/",
-              "order": 67
+              "title": "Wireless Troubleshooting Scenarios",
+              "path": "comptia-network-exam-n10-009/wireless-troubleshooting-scenarios/",
+              "order": 88
             },
             {
-              "title": "Interface and Device Status Verification",
-              "path": "ccna-200-301/interface-and-device-status-verification/",
-              "order": 68
+              "title": "Performance Troubleshooting",
+              "path": "comptia-network-exam-n10-009/performance-troubleshooting/",
+              "order": 89
+            },
+            {
+              "title": "Security-Related Connectivity Issues",
+              "path": "comptia-network-exam-n10-009/security-related-connectivity-issues/",
+              "order": 90
+            },
+            {
+              "title": "Command-Line Troubleshooting Tools",
+              "path": "comptia-network-exam-n10-009/command-line-troubleshooting-tools/",
+              "order": 91
+            },
+            {
+              "title": "Packet Capture and Log Review",
+              "path": "comptia-network-exam-n10-009/packet-capture-and-log-review/",
+              "order": 92
+            },
+            {
+              "title": "Escalation and Handoff",
+              "path": "comptia-network-exam-n10-009/escalation-and-handoff/",
+              "order": 93
             }
           ],
           "folders": {},
           "order": "10"
         },
-        "Cisco Ios And Device Configuration": {
+        "Module 11 Network Design Considerations And Business Continuity": {
           "files": [
             {
-              "title": "Cisco Device Boot Process",
-              "path": "ccna-200-301/cisco-device-boot-process/",
-              "order": 70
+              "title": "Availability and Resilience",
+              "path": "comptia-network-exam-n10-009/availability-and-resilience/",
+              "order": 94
             },
             {
-              "title": "IOS Modes and Navigation",
-              "path": "ccna-200-301/ios-modes-and-navigation/",
-              "order": 71
+              "title": "Single Points of Failure",
+              "path": "comptia-network-exam-n10-009/single-points-of-failure/",
+              "order": 95
             },
             {
-              "title": "Basic Device Configuration",
-              "path": "ccna-200-301/basic-device-configuration/",
-              "order": 72
+              "title": "Disaster Recovery and Business Continuity",
+              "path": "comptia-network-exam-n10-009/disaster-recovery-and-business-continuity/",
+              "order": 96
             },
             {
-              "title": "Interface Configuration",
-              "path": "ccna-200-301/interface-configuration/",
-              "order": 73
+              "title": "Backup Connectivity and Failover Design",
+              "path": "comptia-network-exam-n10-009/backup-connectivity-and-failover-design/",
+              "order": 97
             },
             {
-              "title": "Password and User Management",
-              "path": "ccna-200-301/password-and-user-management/",
-              "order": 74
+              "title": "Geographic Redundancy and Multi-Site Considerations",
+              "path": "comptia-network-exam-n10-009/geographic-redundancy-and-multi-site-considerations/",
+              "order": 98
             },
             {
-              "title": "Saving and Restoring Configurations",
-              "path": "ccna-200-301/saving-and-restoring-configurations/",
-              "order": 75
+              "title": "Scalability and Growth Planning",
+              "path": "comptia-network-exam-n10-009/scalability-and-growth-planning/",
+              "order": 99
             },
             {
-              "title": "Cisco Licensing and Image Management",
-              "path": "ccna-200-301/cisco-licensing-and-image-management/",
-              "order": 76
+              "title": "Tradeoffs in Network Design",
+              "path": "comptia-network-exam-n10-009/tradeoffs-in-network-design/",
+              "order": 100
+            },
+            {
+              "title": "Compliance Physical Security and Environmental Risks",
+              "path": "comptia-network-exam-n10-009/compliance-physical-security-and-environmental-risks/",
+              "order": 101
             }
           ],
           "folders": {},
           "order": "11"
         },
-        "Ccna Lab Practice And Exam Preparation": {
+        "Module 12 Exam Preparation And Scenario Based Review": {
           "files": [
             {
-              "title": "Subnetting Drills",
-              "path": "ccna-200-301/subnetting-drills/",
-              "order": 78
+              "title": "Exam Objective Mapping Review",
+              "path": "comptia-network-exam-n10-009/exam-objective-mapping-review/",
+              "order": 102
             },
             {
-              "title": "Switching and VLAN Labs",
-              "path": "ccna-200-301/switching-and-vlan-labs/",
-              "order": 79
+              "title": "Scenario-Based Practice Questions",
+              "path": "comptia-network-exam-n10-009/scenario-based-practice-questions/",
+              "order": 103
             },
             {
-              "title": "Routing and Inter-VLAN Labs",
-              "path": "ccna-200-301/routing-and-inter-vlan-labs/",
-              "order": 80
+              "title": "Performance-Based Task Practice",
+              "path": "comptia-network-exam-n10-009/performance-based-task-practice/",
+              "order": 104
             },
             {
-              "title": "Full-Length Practice Exams",
-              "path": "ccna-200-301/full-length-practice-exams/",
-              "order": 82
+              "title": "Terminology Distinctions and Exam Traps",
+              "path": "comptia-network-exam-n10-009/terminology-distinctions-and-exam-traps/",
+              "order": 105
             },
             {
-              "title": "Exam Strategy and Time Management",
-              "path": "ccna-200-301/exam-strategy-and-time-management/",
-              "order": 83
+              "title": "Time Management and Test Strategy",
+              "path": "comptia-network-exam-n10-009/time-management-and-test-strategy/",
+              "order": 106
+            },
+            {
+              "title": "Final Diagnostic Assessment and Remediation",
+              "path": "comptia-network-exam-n10-009/final-diagnostic-assessment-and-remediation/",
+              "order": 107
             }
           ],
           "folders": {},
           "order": "12"
         },
-        "Networking Fundamentals": {
+        "Module 1 Networking Fundamentals And Core Concepts": {
           "files": [
             {
-              "title": "Introduction to Networks",
-              "path": "ccna-200-301/introduction-to-networks/",
+              "title": "Network Types and Use Cases",
+              "path": "comptia-network-exam-n10-009/network-types-and-use-cases/",
               "order": 1
             },
             {
-              "title": "Network Components and Devices",
-              "path": "ccna-200-301/network-components-and-devices/",
+              "title": "OSI and TCP/IP Models",
+              "path": "comptia-network-exam-n10-009/osi-and-tcp-ip-models/",
               "order": 2
             },
             {
               "title": "Network Topologies",
-              "path": "ccna-200-301/network-topologies/",
+              "path": "comptia-network-exam-n10-009/network-topologies/",
               "order": 3
             },
             {
-              "title": "Network Types and Architectures",
-              "path": "ccna-200-301/network-types-and-architectures/",
+              "title": "Network Communication Concepts",
+              "path": "comptia-network-exam-n10-009/network-communication-concepts/",
               "order": 4
             },
             {
-              "title": "The OSI and TCP/IP Models",
-              "path": "ccna-200-301/osi-and-tcp-ip-models/",
+              "title": "Performance Metrics and Availability",
+              "path": "comptia-network-exam-n10-009/performance-metrics-and-availability/",
               "order": 5
             },
             {
-              "title": "Data Encapsulation and Decapsulation",
-              "path": "ccna-200-301/data-encapsulation-and-decapsulation/",
+              "title": "IPv4 and IPv6 Fundamentals",
+              "path": "comptia-network-exam-n10-009/ipv4-and-ipv6-fundamentals/",
               "order": 6
             },
             {
-              "title": "Network Standards and Organizations",
-              "path": "ccna-200-301/network-standards-and-organizations/",
+              "title": "Subnetting and CIDR Notation",
+              "path": "comptia-network-exam-n10-009/subnetting-and-cidr-notation/",
               "order": 7
+            },
+            {
+              "title": "Common Ports and Protocols",
+              "path": "comptia-network-exam-n10-009/common-ports-and-protocols/",
+              "order": 8
+            },
+            {
+              "title": "Network Documentation Basics",
+              "path": "comptia-network-exam-n10-009/network-documentation-basics/",
+              "order": 9
             }
           ],
           "folders": {},
           "order": "1"
         },
-        "Ethernet Lans": {
+        "Module 2 Network Infrastructure And Hardware": {
           "files": [
             {
-              "title": "Ethernet Basics",
-              "path": "ccna-200-301/ethernet-basics/",
-              "order": 8
-            },
-            {
-              "title": "MAC Addresses",
-              "path": "ccna-200-301/mac-addresses/",
-              "order": 9
-            },
-            {
-              "title": "Ethernet Frames",
-              "path": "ccna-200-301/ethernet-frames/",
+              "title": "Network Interface Components",
+              "path": "comptia-network-exam-n10-009/network-interface-components/",
               "order": 10
             },
             {
-              "title": "Switching Concepts",
-              "path": "ccna-200-301/switching-concepts/",
+              "title": "Switches Routers Access Points and Security Devices",
+              "path": "comptia-network-exam-n10-009/switches-routers-access-points-and-security-devices/",
               "order": 11
             },
             {
-              "title": "Collision Domains and Broadcast Domains",
-              "path": "ccna-200-301/collision-and-broadcast-domains/",
+              "title": "Modems, CSU/DSU, and ISP Handoff",
+              "path": "comptia-network-exam-n10-009/modems-csu-dsu-and-isp-handoff/",
               "order": 12
             },
             {
-              "title": "ARP and Address Resolution",
-              "path": "ccna-200-301/arp-and-address-resolution/",
+              "title": "Power over Ethernet",
+              "path": "comptia-network-exam-n10-009/power-over-ethernet/",
               "order": 13
             },
             {
-              "title": "VLAN Concepts",
-              "path": "ccna-200-301/vlan-concepts/",
+              "title": "Copper Cabling and Connectors",
+              "path": "comptia-network-exam-n10-009/copper-cabling-and-connectors/",
               "order": 14
             },
             {
-              "title": "Trunking and 802.1Q",
-              "path": "ccna-200-301/trunking-and-802-1q/",
+              "title": "Fiber Cabling and Connectors",
+              "path": "comptia-network-exam-n10-009/fiber-cabling-and-connectors/",
               "order": 15
+            },
+            {
+              "title": "Wireless Standards and Frequency Bands",
+              "path": "comptia-network-exam-n10-009/wireless-standards-and-frequency-bands/",
+              "order": 16
+            },
+            {
+              "title": "Antenna Types and Coverage",
+              "path": "comptia-network-exam-n10-009/antenna-types-and-coverage/",
+              "order": 17
+            },
+            {
+              "title": "Racks, Patch Panels, and Cable Management",
+              "path": "comptia-network-exam-n10-009/racks-patch-panels-and-cable-management/",
+              "order": 18
+            },
+            {
+              "title": "Environmental and Power Considerations",
+              "path": "comptia-network-exam-n10-009/environmental-and-power-considerations/",
+              "order": 19
+            },
+            {
+              "title": "High Availability Concepts",
+              "path": "comptia-network-exam-n10-009/high-availability-concepts/",
+              "order": 20
             }
           ],
           "folders": {},
           "order": "2"
         },
-        "Ip Addressing And Subnetting": {
+        "Module 3 Network Addressing Services And Name Resolution": {
           "files": [
             {
-              "title": "IPv4 Address Structure",
-              "path": "ccna-200-301/ipv4-address-structure/",
-              "order": 16
-            },
-            {
-              "title": "IPv4 Classes and Private Addressing",
-              "path": "ccna-200-301/ipv4-classes-and-private-addressing/",
-              "order": 17
-            },
-            {
-              "title": "Subnet Masks and Prefix Lengths",
-              "path": "ccna-200-301/subnet-masks-and-prefix-lengths/",
-              "order": 18
-            },
-            {
-              "title": "Subnetting IPv4 Networks",
-              "path": "ccna-200-301/subnetting-ipv4-networks/",
-              "order": 19
-            },
-            {
-              "title": "IPv6 Addressing",
-              "path": "ccna-200-301/ipv6-addressing/",
+              "title": "IPv4 Addressing and Route Selection",
+              "path": "comptia-network-exam-n10-009/ipv4-addressing-and-route-selection/",
               "order": 21
             },
             {
-              "title": "IPv6 Address Types",
-              "path": "ccna-200-301/ipv6-address-types/",
+              "title": "IPv6 Addressing and Prefix Notation",
+              "path": "comptia-network-exam-n10-009/ipv6-addressing-and-prefix-notation/",
               "order": 22
             },
             {
-              "title": "IPv6 Subnetting and Prefixes",
-              "path": "ccna-200-301/ipv6-subnetting-and-prefixes/",
+              "title": "DHCP Operation and Relay",
+              "path": "comptia-network-exam-n10-009/dhcp-operation-and-relay/",
               "order": 23
+            },
+            {
+              "title": "DNS Operation and Resolution Flow",
+              "path": "comptia-network-exam-n10-009/dns-operation-and-resolution-flow/",
+              "order": 24
+            },
+            {
+              "title": "NAT and PAT",
+              "path": "comptia-network-exam-n10-009/nat-and-pat/",
+              "order": 25
+            },
+            {
+              "title": "VLAN-Aware Addressing Concepts",
+              "path": "comptia-network-exam-n10-009/vlan-aware-addressing-concepts/",
+              "order": 26
+            },
+            {
+              "title": "Static and Dynamic Addressing",
+              "path": "comptia-network-exam-n10-009/static-and-dynamic-addressing/",
+              "order": 27
+            },
+            {
+              "title": "Addressing for Common Device Types",
+              "path": "comptia-network-exam-n10-009/addressing-for-common-device-types/",
+              "order": 28
+            },
+            {
+              "title": "Time Synchronization with NTP",
+              "path": "comptia-network-exam-n10-009/time-synchronization-with-ntp/",
+              "order": 29
+            },
+            {
+              "title": "Directory and Authentication Services",
+              "path": "comptia-network-exam-n10-009/directory-and-authentication-services/",
+              "order": 30
             }
           ],
           "folders": {},
           "order": "3"
         },
-        "Routing Fundamentals": {
+        "Module 4 Switching Routing And Network Segmentation": {
           "files": [
             {
-              "title": "Routing Concepts",
-              "path": "ccna-200-301/routing-concepts/",
-              "order": 24
+              "title": "Switching Concepts",
+              "path": "comptia-network-exam-n10-009/switching-concepts/",
+              "order": 31
             },
             {
-              "title": "Routing Tables",
-              "path": "ccna-200-301/routing-tables/",
-              "order": 25
+              "title": "VLANs and Trunking",
+              "path": "comptia-network-exam-n10-009/vlans-and-trunking/",
+              "order": 32
             },
             {
-              "title": "Static Routing",
-              "path": "ccna-200-301/static-routing/",
-              "order": 26
+              "title": "STP and RSTP",
+              "path": "comptia-network-exam-n10-009/stp-and-rstp/",
+              "order": 33
             },
             {
-              "title": "Default Routes",
-              "path": "ccna-200-301/default-routes/",
-              "order": 27
+              "title": "Routing Fundamentals",
+              "path": "comptia-network-exam-n10-009/routing-fundamentals/",
+              "order": 34
             },
             {
-              "title": "Dynamic Routing Overview",
-              "path": "ccna-200-301/dynamic-routing-overview/",
-              "order": 28
+              "title": "Common Routing Protocol Awareness",
+              "path": "comptia-network-exam-n10-009/common-routing-protocol-awareness/",
+              "order": 35
             },
             {
-              "title": "Inter-VLAN Routing",
-              "path": "ccna-200-301/inter-vlan-routing/",
-              "order": 29
+              "title": "Layer 3 Switching and Routed Interfaces",
+              "path": "comptia-network-exam-n10-009/layer-3-switching-and-routed-interfaces/",
+              "order": 36
             },
             {
-              "title": "First Hop Redundancy Concepts",
-              "path": "ccna-200-301/first-hop-redundancy-concepts/",
-              "order": 30
+              "title": "Network Segmentation",
+              "path": "comptia-network-exam-n10-009/network-segmentation/",
+              "order": 37
+            },
+            {
+              "title": "QoS Basics",
+              "path": "comptia-network-exam-n10-009/qos-basics/",
+              "order": 38
+            },
+            {
+              "title": "WAN Connectivity Concepts",
+              "path": "comptia-network-exam-n10-009/wan-connectivity-concepts/",
+              "order": 39
             }
           ],
           "folders": {},
           "order": "4"
         },
-        "Routing Protocols": {
+        "Module 5 Wireless Networking": {
           "files": [
             {
-              "title": "Distance Vector vs Link State",
-              "path": "ccna-200-301/distance-vector-vs-link-state/",
-              "order": 31
+              "title": "Wireless Standards and Wi-Fi Generations",
+              "path": "comptia-network-exam-n10-009/wireless-standards-and-wi-fi-generations/",
+              "order": 40
             },
             {
-              "title": "RIP Concepts",
-              "path": "ccna-200-301/rip-concepts/",
-              "order": 32
+              "title": "Frequency Bands Channel Planning and Interference",
+              "path": "comptia-network-exam-n10-009/frequency-bands-channel-planning-and-interference/",
+              "order": 41
             },
             {
-              "title": "OSPF Concepts",
-              "path": "ccna-200-301/ospf-concepts/",
-              "order": 33
+              "title": "Wireless Architecture and Client Association",
+              "path": "comptia-network-exam-n10-009/wireless-architecture-and-client-association/",
+              "order": 42
             },
             {
-              "title": "OSPF Neighbor Relationships",
-              "path": "ccna-200-301/ospf-neighbor-relationships/",
-              "order": 34
+              "title": "Wireless Security Modes",
+              "path": "comptia-network-exam-n10-009/wireless-security-modes/",
+              "order": 43
             },
             {
-              "title": "OSPF Areas and LSAs",
-              "path": "ccna-200-301/ospf-areas-and-lsas/",
-              "order": 35
+              "title": "Guest Access and Captive Portals",
+              "path": "comptia-network-exam-n10-009/guest-access-and-captive-portals/",
+              "order": 44
             },
             {
-              "title": "Route Selection and Administrative Distance",
-              "path": "ccna-200-301/route-selection-and-administrative-distance/",
-              "order": 36
+              "title": "AP Placement and Site Surveys",
+              "path": "comptia-network-exam-n10-009/ap-placement-and-site-surveys/",
+              "order": 45
+            },
+            {
+              "title": "Wireless Controller and Cloud-Managed WLANs",
+              "path": "comptia-network-exam-n10-009/wireless-controller-and-cloud-managed-wlans/",
+              "order": 46
+            },
+            {
+              "title": "Wireless Troubleshooting",
+              "path": "comptia-network-exam-n10-009/wireless-troubleshooting/",
+              "order": 47
             }
           ],
           "folders": {},
           "order": "5"
         },
-        "Ip Services": {
+        "Module 6 Network Security Fundamentals And Zero Trust Architecture": {
           "files": [
             {
-              "title": "DHCP Concepts and Operation",
-              "path": "ccna-200-301/dhcp-concepts-and-operation/",
-              "order": 37
+              "title": "Security Principles",
+              "path": "comptia-network-exam-n10-009/security-principles/",
+              "order": 48
             },
             {
-              "title": "NAT and PAT",
-              "path": "ccna-200-301/nat-and-pat/",
-              "order": 38
+              "title": "AAA and MFA",
+              "path": "comptia-network-exam-n10-009/aaa-and-mfa/",
+              "order": 49
             },
             {
-              "title": "DNS Concepts",
-              "path": "ccna-200-301/dns-concepts/",
-              "order": 39
+              "title": "Network Access Control",
+              "path": "comptia-network-exam-n10-009/network-access-control/",
+              "order": 50
             },
             {
-              "title": "NTP Concepts",
-              "path": "ccna-200-301/ntp-concepts/",
-              "order": 40
+              "title": "Firewalls and Next-Generation Firewalls",
+              "path": "comptia-network-exam-n10-009/firewalls-and-next-generation-firewalls/",
+              "order": 51
             },
             {
-              "title": "SNMP Concepts",
-              "path": "ccna-200-301/snmp-concepts/",
-              "order": 41
+              "title": "IDS, IPS, and Alert Interpretation",
+              "path": "comptia-network-exam-n10-009/ids-ips-and-alert-interpretation/",
+              "order": 52
             },
             {
-              "title": "Syslog Concepts",
-              "path": "ccna-200-301/syslog-concepts/",
-              "order": 42
+              "title": "VPNs and Tunneling",
+              "path": "comptia-network-exam-n10-009/vpns-and-tunneling/",
+              "order": 53
             },
             {
-              "title": "QoS Fundamentals",
-              "path": "ccna-200-301/qos-fundamentals/",
-              "order": 43
+              "title": "Secure Protocols and Encrypted Management",
+              "path": "comptia-network-exam-n10-009/secure-protocols-and-encrypted-management/",
+              "order": 54
+            },
+            {
+              "title": "Segmentation, Microsegmentation, and Zero Trust",
+              "path": "comptia-network-exam-n10-009/segmentation-microsegmentation-and-zero-trust/",
+              "order": 55
+            },
+            {
+              "title": "Security Zones and DMZs",
+              "path": "comptia-network-exam-n10-009/security-zones-and-dmzs/",
+              "order": 56
+            },
+            {
+              "title": "Common Attacks and Threats",
+              "path": "comptia-network-exam-n10-009/common-attacks-and-threats/",
+              "order": 57
+            },
+            {
+              "title": "Security Controls and Incident Response Awareness",
+              "path": "comptia-network-exam-n10-009/security-controls-and-incident-response-awareness/",
+              "order": 58
             }
           ],
           "folders": {},
           "order": "6"
         },
-        "Network Access And Wireless": {
+        "Module 7 Cloud Connectivity Virtualization And Modern Network Architectures": {
           "files": [
             {
-              "title": "Switch Port Security",
-              "path": "ccna-200-301/switch-port-security/",
-              "order": 44
+              "title": "Cloud Service and Deployment Models",
+              "path": "comptia-network-exam-n10-009/cloud-service-and-deployment-models/",
+              "order": 59
             },
             {
-              "title": "Spanning Tree Protocol (STP)",
-              "path": "ccna-200-301/spanning-tree-protocol-stp/",
-              "order": 45
+              "title": "Virtualization Concepts",
+              "path": "comptia-network-exam-n10-009/virtualization-concepts/",
+              "order": 60
             },
             {
-              "title": "Rapid Spanning Tree Protocol (RSTP)",
-              "path": "ccna-200-301/rapid-spanning-tree-protocol-rstp/",
-              "order": 46
+              "title": "Cloud Networking Constructs",
+              "path": "comptia-network-exam-n10-009/cloud-networking-constructs/",
+              "order": 61
             },
             {
-              "title": "EtherChannel Concepts",
-              "path": "ccna-200-301/etherchannel-concepts/",
-              "order": 47
+              "title": "Cloud Connectivity Options",
+              "path": "comptia-network-exam-n10-009/cloud-connectivity-options/",
+              "order": 62
             },
             {
-              "title": "Wireless LAN Fundamentals",
-              "path": "ccna-200-301/wireless-lan-fundamentals/",
-              "order": 48
+              "title": "Shared Responsibility Model",
+              "path": "comptia-network-exam-n10-009/shared-responsibility-model/",
+              "order": 63
             },
             {
-              "title": "Wireless Standards and Frequencies",
-              "path": "ccna-200-301/wireless-standards-and-frequencies/",
-              "order": 49
+              "title": "Cloud Load Balancing and Application Access",
+              "path": "comptia-network-exam-n10-009/cloud-load-balancing-and-application-access/",
+              "order": 64
             },
             {
-              "title": "Wireless Security",
-              "path": "ccna-200-301/wireless-security/",
-              "order": 50
+              "title": "Container and Microservice Networking Awareness",
+              "path": "comptia-network-exam-n10-009/container-and-microservice-networking-awareness/",
+              "order": 65
             },
             {
-              "title": "WLAN Components and AP Modes",
-              "path": "ccna-200-301/wlan-components-and-ap-modes/",
-              "order": 51
+              "title": "SDN, SD-WAN, and NFV",
+              "path": "comptia-network-exam-n10-009/sdn-sd-wan-and-nfv/",
+              "order": 66
+            },
+            {
+              "title": "Cloud Troubleshooting Considerations",
+              "path": "comptia-network-exam-n10-009/cloud-troubleshooting-considerations/",
+              "order": 67
             }
           ],
           "folders": {},
           "order": "7"
         },
-        "Security Fundamentals": {
+        "Module 8 Network Automation And Programmability": {
           "files": [
             {
-              "title": "Network Security Concepts",
-              "path": "ccna-200-301/network-security-concepts/",
-              "order": 52
+              "title": "Automation Concepts and Business Value",
+              "path": "comptia-network-exam-n10-009/automation-concepts-and-business-value/",
+              "order": 68
             },
             {
-              "title": "Threats, Vulnerabilities, and Exploits",
-              "path": "ccna-200-301/threats-vulnerabilities-and-exploits/",
-              "order": 53
+              "title": "Configuration Management and Infrastructure as Code",
+              "path": "comptia-network-exam-n10-009/configuration-management-and-infrastructure-as-code/",
+              "order": 69
             },
             {
-              "title": "Access Control Lists (ACLs)",
-              "path": "ccna-200-301/access-control-lists-acls/",
-              "order": 54
+              "title": "Scripting Awareness",
+              "path": "comptia-network-exam-n10-009/scripting-awareness/",
+              "order": 70
             },
             {
-              "title": "Device Hardening",
-              "path": "ccna-200-301/device-hardening/",
-              "order": 55
+              "title": "APIs and REST",
+              "path": "comptia-network-exam-n10-009/apis-and-rest/",
+              "order": 71
             },
             {
-              "title": "Authentication, Authorization, and Accounting (AAA)",
-              "path": "ccna-200-301/authentication-authorization-and-accounting-aaa/",
-              "order": 56
+              "title": "JSON and YAML",
+              "path": "comptia-network-exam-n10-009/json-and-yaml/",
+              "order": 72
             },
             {
-              "title": "VPN Concepts",
-              "path": "ccna-200-301/vpn-concepts/",
-              "order": 57
+              "title": "Automation Tools and Version Control",
+              "path": "comptia-network-exam-n10-009/automation-tools-and-version-control/",
+              "order": 73
+            },
+            {
+              "title": "Orchestration and Controller-Based Management",
+              "path": "comptia-network-exam-n10-009/orchestration-and-controller-based-management/",
+              "order": 74
+            },
+            {
+              "title": "Automation Use Cases and Governance",
+              "path": "comptia-network-exam-n10-009/automation-use-cases-and-governance/",
+              "order": 75
+            },
+            {
+              "title": "Reading Automation Outputs and Logs",
+              "path": "comptia-network-exam-n10-009/reading-automation-outputs-and-logs/",
+              "order": 76
             }
           ],
           "folders": {},
           "order": "8"
         },
-        "Automation And Programmability": {
+        "Module 9 Network Operations Monitoring And Documentation": {
           "files": [
             {
-              "title": "Network Automation Concepts",
-              "path": "ccna-200-301/network-automation-concepts/",
-              "order": 58
-            },
-            {
-              "title": "Controller-Based Networking",
-              "path": "ccna-200-301/controller-based-networking/",
-              "order": 59
-            },
-            {
-              "title": "APIs and REST",
-              "path": "ccna-200-301/apis-and-rest/",
-              "order": 60
-            },
-            {
-              "title": "Data Formats: JSON and XML",
-              "path": "ccna-200-301/data-formats-json-and-xml/",
-              "order": 61
-            },
-            {
-              "title": "Configuration Management Concepts",
-              "path": "ccna-200-301/configuration-management-concepts/",
-              "order": 62
-            },
-            {
-              "title": "Cisco DNA Center Overview",
-              "path": "ccna-200-301/cisco-dna-center-overview/",
-              "order": 63
-            }
-          ],
-          "folders": {},
-          "order": "9"
-        }
-      },
-      "order": "4"
-    },
-    "Html Essentials Complete Guide Beginner To Advanced": {
-      "files": [],
-      "folders": {
-        "Html Accessibility Essentials": {
-          "files": [
-            {
-              "title": "Accessibility Principles",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/accessibility-principles/",
-              "order": 55
-            },
-            {
-              "title": "Document Language and Metadata",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/document-language-and-metadata/",
-              "order": 56
-            },
-            {
-              "title": "Keyboard Navigation in HTML",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/keyboard-navigation/",
-              "order": 57
-            },
-            {
-              "title": "Accessible Forms",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/accessible-forms/",
-              "order": 58
-            },
-            {
-              "title": "Accessible Images and Media",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/accessible-images-and-media/",
-              "order": 59
-            },
-            {
-              "title": "ARIA Basics and When to Use It",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/aria-basics-and-when-to-use-it/",
-              "order": 60
-            }
-          ],
-          "folders": {},
-          "order": "10"
-        },
-        "Metadata And The Head Section": {
-          "files": [
-            {
-              "title": "title Element",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/title-element/",
-              "order": 61
-            },
-            {
-              "title": "meta Tags",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/meta-tags/",
-              "order": 62
-            },
-            {
-              "title": "Viewport Meta Tag",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/viewport-meta-tag/",
-              "order": 63
-            },
-            {
-              "title": "Linking Stylesheets and Icons",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/linking-stylesheets-and-icons/",
-              "order": 64
-            },
-            {
-              "title": "Open Graph and Social Metadata",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/open-graph-and-social-metadata/",
-              "order": 65
-            },
-            {
-              "title": "SEO Basics in HTML",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/seo-basics-in-html/",
-              "order": 66
-            }
-          ],
-          "folders": {},
-          "order": "11"
-        },
-        "Advanced Html Features": {
-          "files": [
-            {
-              "title": "data Attributes",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/data-attributes/",
-              "order": 67
-            },
-            {
-              "title": "Custom Attributes and Practical Uses",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/custom-attributes-and-practical-uses/",
-              "order": 68
-            },
-            {
-              "title": "The picture Element",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/the-picture-element/",
-              "order": 69
-            },
-            {
-              "title": "srcset and sizes",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/srcset-and-sizes/",
-              "order": 70
-            },
-            {
-              "title": "The dialog Element",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/the-dialog-element/",
-              "order": 71
-            },
-            {
-              "title": "The details and summary Elements",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/the-details-and-summary-elements/",
-              "order": 72
-            },
-            {
-              "title": "The template Element",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/the-template-element/",
-              "order": 73
-            }
-          ],
-          "folders": {},
-          "order": "12"
-        },
-        "Html Apis And Integration": {
-          "files": [
-            {
-              "title": "Embedding with iframe",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/embedding-with-iframe/",
-              "order": 74
-            },
-            {
-              "title": "Sandboxing and Security Considerations",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/sandboxing-and-security-considerations/",
-              "order": 75
-            },
-            {
-              "title": "Using HTML with JavaScript",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/using-html-with-javascript/",
-              "order": 76
-            },
-            {
-              "title": "DOM Basics for HTML Authors",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/dom-basics-for-html-authors/",
+              "title": "Monitoring Protocols and Telemetry",
+              "path": "comptia-network-exam-n10-009/monitoring-protocols-and-telemetry/",
               "order": 77
             },
             {
-              "title": "Progressive Enhancement",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/progressive-enhancement/",
+              "title": "Metrics Thresholds and Baselines",
+              "path": "comptia-network-exam-n10-009/metrics-thresholds-and-baselines/",
               "order": 78
-            }
-          ],
-          "folders": {},
-          "order": "13"
-        },
-        "Html Best Practices And Maintenance": {
-          "files": [
+            },
             {
-              "title": "Writing Clean and Maintainable HTML",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/writing-clean-and-maintainable-html/",
+              "title": "Event Correlation and Alert Triage",
+              "path": "comptia-network-exam-n10-009/event-correlation-and-alert-triage/",
               "order": 79
             },
             {
-              "title": "Common HTML Mistakes",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/common-html-mistakes/",
+              "title": "Documentation and Change Control",
+              "path": "comptia-network-exam-n10-009/documentation-and-change-control/",
               "order": 80
             },
             {
-              "title": "Debugging HTML Issues",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/debugging-html-issues/",
+              "title": "Configuration Backup and Versioning",
+              "path": "comptia-network-exam-n10-009/configuration-backup-and-versioning/",
               "order": 81
             },
             {
-              "title": "Validation with the W3C Validator",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/validation-with-the-w3c-validator/",
+              "title": "Asset Lifecycle and Capacity Planning",
+              "path": "comptia-network-exam-n10-009/asset-lifecycle-and-capacity-planning/",
               "order": 82
             },
             {
-              "title": "Performance Considerations",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/performance-considerations/",
+              "title": "Service Levels and Operational Reporting",
+              "path": "comptia-network-exam-n10-009/service-levels-and-operational-reporting/",
               "order": 83
             },
             {
-              "title": "Cross-Browser Compatibility",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/cross-browser-compatibility/",
+              "title": "Remote and Out-of-Band Management",
+              "path": "comptia-network-exam-n10-009/remote-and-out-of-band-management/",
               "order": 84
             }
           ],
           "folders": {},
-          "order": "14"
-        },
-        "Projects And Practice": {
-          "files": [
-            {
-              "title": "Build a Personal Profile Page",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/build-a-personal-profile-page/",
-              "order": 85
-            },
-            {
-              "title": "Create a Multi-Page Website",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/create-a-multi-page-website/",
-              "order": 86
-            },
-            {
-              "title": "Design a Product Landing Page",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/design-a-product-landing-page/",
-              "order": 87
-            },
-            {
-              "title": "Create a Blog Article Layout",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/create-a-blog-article-layout/",
-              "order": 88
-            },
-            {
-              "title": "Build an Accessible Contact Form",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/build-an-accessible-contact-form/",
-              "order": 89
-            },
-            {
-              "title": "Capstone Project: Complete Static Website",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/capstone-project-complete-static-website/",
-              "order": 90
-            }
-          ],
-          "folders": {},
-          "order": "15"
-        },
-        "Course Wrap Up": {
-          "files": [
-            {
-              "title": "Review of Key Concepts",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/review-of-key-concepts/",
-              "order": 91
-            },
-            {
-              "title": "Next Steps in Web Development",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/next-steps-in-web-development/",
-              "order": 92
-            },
-            {
-              "title": "Recommended Resources for HTML Essentials",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/recommended-resources/",
-              "order": 93
-            },
-            {
-              "title": "Final Assessment",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/final-assessment/",
-              "order": 94
-            }
-          ],
-          "folders": {},
-          "order": "16"
-        },
-        "Introduction To Html": {
-          "files": [
-            {
-              "title": "What is HTML?",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/what-is-html/",
-              "order": 1
-            },
-            {
-              "title": "How the Web Works",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/how-the-web-works/",
-              "order": 2
-            },
-            {
-              "title": "HTML, CSS, and JavaScript Roles",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/html-css-and-javascript-roles/",
-              "order": 3
-            },
-            {
-              "title": "Setting Expectations for the Course",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/setting-expectations-for-the-course/",
-              "order": 4
-            }
-          ],
-          "folders": {},
-          "order": "1"
-        },
-        "Getting Started With Html": {
-          "files": [
-            {
-              "title": "HTML Document Structure",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/html-document-structure/",
-              "order": 5
-            },
-            {
-              "title": "The DOCTYPE Declaration",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/the-doctype-declaration/",
-              "order": 6
-            },
-            {
-              "title": "The html, head, and body Elements",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/the-html-head-and-body-elements/",
-              "order": 7
-            },
-            {
-              "title": "Creating Your First Web Page",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/creating-your-first-web-page/",
-              "order": 8
-            },
-            {
-              "title": "Using a Code Editor",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/using-a-code-editor/",
-              "order": 9
-            },
-            {
-              "title": "Viewing HTML in the Browser",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/viewing-html-in-the-browser/",
-              "order": 10
-            }
-          ],
-          "folders": {},
-          "order": "2"
-        },
-        "Html Syntax And Core Concepts": {
-          "files": [
-            {
-              "title": "Elements, Tags, and Attributes",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/elements-tags-and-attributes/",
-              "order": 11
-            },
-            {
-              "title": "Nesting and Hierarchy in HTML",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/nesting-and-hierarchy/",
-              "order": 12
-            },
-            {
-              "title": "Block vs Inline Elements",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/block-vs-inline-elements/",
-              "order": 13
-            },
-            {
-              "title": "Comments in HTML",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/comments-in-html/",
-              "order": 14
-            },
-            {
-              "title": "Whitespace and Formatting",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/whitespace-and-formatting/",
-              "order": 15
-            },
-            {
-              "title": "Case Sensitivity and Best Practices",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/case-sensitivity-and-best-practices/",
-              "order": 16
-            }
-          ],
-          "folders": {},
-          "order": "3"
-        },
-        "Text Content And Semantics": {
-          "files": [
-            {
-              "title": "HTML Headings",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/headings/",
-              "order": 17
-            },
-            {
-              "title": "Paragraphs in HTML",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/paragraphs/",
-              "order": 18
-            },
-            {
-              "title": "Bold, Italic, and Emphasis",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/bold-italic-and-emphasis/",
-              "order": 19
-            },
-            {
-              "title": "Lists: Ordered, Unordered, and Description",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/lists-ordered-unordered-and-description/",
-              "order": 20
-            },
-            {
-              "title": "Quotes and Citations",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/quotes-and-citations/",
-              "order": 21
-            },
-            {
-              "title": "Line Breaks and Horizontal Rules",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/line-breaks-and-horizontal-rules/",
-              "order": 22
-            },
-            {
-              "title": "Semantic Text Elements",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/semantic-text-elements/",
-              "order": 23
-            }
-          ],
-          "folders": {},
-          "order": "4"
-        },
-        "Links And Navigation": {
-          "files": [
-            {
-              "title": "Anchor Tags and href",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/anchor-tags-and-href/",
-              "order": 24
-            },
-            {
-              "title": "Relative vs Absolute URLs",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/relative-vs-absolute-urls/",
-              "order": 25
-            },
-            {
-              "title": "Linking to Sections on a Page",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/linking-to-sections-on-a-page/",
-              "order": 26
-            },
-            {
-              "title": "Opening Links in New Tabs",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/opening-links-in-new-tabs/",
-              "order": 27
-            },
-            {
-              "title": "Email, Phone, and Download Links",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/email-phone-and-download-links/",
-              "order": 28
-            },
-            {
-              "title": "Building Navigation Menus",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/building-navigation-menus/",
-              "order": 29
-            }
-          ],
-          "folders": {},
-          "order": "5"
-        },
-        "Images And Media": {
-          "files": [
-            {
-              "title": "The img Element",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/the-img-element/",
-              "order": 30
-            },
-            {
-              "title": "Alt Text and Accessibility",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/alt-text-and-accessibility/",
-              "order": 31
-            },
-            {
-              "title": "Image Formats and Optimization",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/image-formats-and-optimization/",
-              "order": 32
-            },
-            {
-              "title": "Responsive Images Basics",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/responsive-images-basics/",
-              "order": 33
-            },
-            {
-              "title": "The figure and figcaption Elements",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/the-figure-and-figcaption-elements/",
-              "order": 34
-            },
-            {
-              "title": "Audio and Video Elements",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/audio-and-video-elements/",
-              "order": 35
-            },
-            {
-              "title": "Embedding External Media",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/embedding-external-media/",
-              "order": 36
-            }
-          ],
-          "folders": {},
-          "order": "6"
-        },
-        "Tables": {
-          "files": [
-            {
-              "title": "Table Structure",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/table-structure/",
-              "order": 37
-            },
-            {
-              "title": "Table Headers and Captions",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/table-headers-and-captions/",
-              "order": 38
-            },
-            {
-              "title": "Spanning Rows and Columns",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/spanning-rows-and-columns/",
-              "order": 39
-            },
-            {
-              "title": "Accessible Tables",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/accessible-tables/",
-              "order": 40
-            },
-            {
-              "title": "When to Use Tables",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/when-to-use-tables/",
-              "order": 41
-            }
-          ],
-          "folders": {},
-          "order": "7"
-        },
-        "Forms And User Input": {
-          "files": [
-            {
-              "title": "Form Basics",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/form-basics/",
-              "order": 42
-            },
-            {
-              "title": "Input Types",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/input-types/",
-              "order": 43
-            },
-            {
-              "title": "Labels, Placeholders, and Help Text",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/labels-placeholders-and-help-text/",
-              "order": 44
-            },
-            {
-              "title": "Textareas, Selects, and Buttons",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/textareas-selects-and-buttons/",
-              "order": 45
-            },
-            {
-              "title": "Radio Buttons and Checkboxes",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/radio-buttons-and-checkboxes/",
-              "order": 46
-            },
-            {
-              "title": "Fieldset and Legend",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/fieldset-and-legend/",
-              "order": 47
-            },
-            {
-              "title": "Form Validation Attributes",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/form-validation-attributes/",
-              "order": 48
-            },
-            {
-              "title": "Submitting and Resetting Forms",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/submitting-and-resetting-forms/",
-              "order": 49
-            }
-          ],
-          "folders": {},
-          "order": "8"
-        },
-        "Semantic Html And Page Structure": {
-          "files": [
-            {
-              "title": "Why Semantic HTML Matters",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/why-semantic-html-matters/",
-              "order": 50
-            },
-            {
-              "title": "HTML header, nav, main, and footer",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/header-nav-main-and-footer/",
-              "order": 51
-            },
-            {
-              "title": "article, section, and aside",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/article-section-and-aside/",
-              "order": 52
-            },
-            {
-              "title": "address, time, and small",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/address-time-and-small/",
-              "order": 53
-            },
-            {
-              "title": "Using Semantic Elements Correctly",
-              "path": "html-essentials-complete-guide-beginner-to-advanced/using-semantic-elements-correctly/",
-              "order": 54
-            }
-          ],
-          "folders": {},
           "order": "9"
         }
       },
-      "order": "5"
+      "order": null
     }
   },
   "order": null
