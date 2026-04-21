@@ -26,6 +26,10 @@ export default function Layout(seo = {}, content, sidebarHtml = '', baseRel = '.
   const homeHref = `${baseRel}../`;
   const twitterCard = seo.twitterCard || siteMeta.twitterCard || 'summary_large_image';
   const twitterSite = seo.twitterSite || siteMeta.twitterSite || '';
+  const twitterCreator = seo.twitterCreator || siteMeta.twitterCreator || '';
+  const themeColor = siteMeta.themeColor || '';
+  const locale = siteMeta.locale || '';
+  const robots = seo.robots || siteMeta.robots || '';
   const structuredData = seo.structuredData ? JSON.stringify(seo.structuredData) : '';
   const ogType = seo.publishedTime ? 'article' : 'website';
   const articleTags = ogType === 'article' ? `
@@ -52,6 +56,8 @@ export default function Layout(seo = {}, content, sidebarHtml = '', baseRel = '.
     <!-- Primary Meta Tags -->
     <meta name="description" content="${description}">
     <meta name="author" content="${author}">
+    ${robots ? `<meta name="robots" content="${robots}">` : ''}
+    ${themeColor ? `<meta name="theme-color" content="${themeColor}">` : ''}
     ${pageKeywords ? `<meta name="keywords" content="${pageKeywords}">` : ''}
     ${canonical ? `<link rel="canonical" href="${canonical}">` : ''}
     ${prev ? `<link rel="prev" href="${baseRel}${prev.path}">` : ''}
@@ -59,6 +65,7 @@ export default function Layout(seo = {}, content, sidebarHtml = '', baseRel = '.
     
     <!-- OpenGraph / Facebook -->
     <meta property="og:type" content="${ogType}">
+    ${locale ? `<meta property="og:locale" content="${locale}">` : ''}
     ${articleTags}
     <meta property="og:title" content="${siteTitle}">
     <meta property="og:description" content="${description}">
@@ -68,6 +75,7 @@ export default function Layout(seo = {}, content, sidebarHtml = '', baseRel = '.
     <!-- Twitter -->
     <meta name="twitter:card" content="${twitterCard}">
     ${twitterSite ? `<meta name="twitter:site" content="${twitterSite}">` : ''}
+    ${twitterCreator ? `<meta name="twitter:creator" content="${twitterCreator}">` : ''}
     <meta name="twitter:title" content="${siteTitle}">
     <meta name="twitter:description" content="${description}">
     ${image ? `<meta name="twitter:image" content="${image}">` : ''}

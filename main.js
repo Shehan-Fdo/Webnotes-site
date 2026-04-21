@@ -436,14 +436,18 @@ function generateRootIndex(sidebarConfig, globalMeta) {
   <link rel="shortcut icon" href="content/assets/favicon/favicon.ico">
   <meta name="description" content="${pageDescription}">
   <meta name="author" content="${globalMeta.author || 'Webnotes'}">
+  ${globalMeta.robots ? `<meta name="robots" content="${globalMeta.robots}">` : ''}
+  ${globalMeta.themeColor ? `<meta name="theme-color" content="${globalMeta.themeColor}">` : ''}
   ${canonical ? `<link rel="canonical" href="${canonical}">` : ''}
   <meta property="og:type" content="website">
+  ${globalMeta.locale ? `<meta property="og:locale" content="${globalMeta.locale}">` : ''}
   <meta property="og:title" content="${pageTitle}">
   <meta property="og:description" content="${pageDescription}">
   ${canonical ? `<meta property="og:url" content="${canonical}">` : ''}
   ${ogImage ? `<meta property="og:image" content="${ogImage}">` : ''}
   <meta name="twitter:card" content="${globalMeta.twitterCard || 'summary_large_image'}">
   ${globalMeta.twitterSite ? `<meta name="twitter:site" content="${globalMeta.twitterSite}">` : ''}
+  ${globalMeta.twitterCreator ? `<meta name="twitter:creator" content="${globalMeta.twitterCreator}">` : ''}
   <meta name="twitter:title" content="${pageTitle}">
   <meta name="twitter:description" content="${pageDescription}">
   ${ogImage ? `<meta name="twitter:image" content="${ogImage}">` : ''}
@@ -656,14 +660,18 @@ function generateCourseIndex(courseName, courseData, globalMeta, slug, backLink 
   <link rel="shortcut icon" href="${baseRel}assets/favicon/favicon.ico">
   <meta name="description" content="${pageDescription}">
   <meta name="author" content="${globalMeta.author || 'Webnotes'}">
+  ${globalMeta.robots ? `<meta name="robots" content="${globalMeta.robots}">` : ''}
+  ${globalMeta.themeColor ? `<meta name="theme-color" content="${globalMeta.themeColor}">` : ''}
   ${canonical ? `<link rel="canonical" href="${canonical}">` : ''}
   <meta property="og:type" content="website">
+  ${globalMeta.locale ? `<meta property="og:locale" content="${globalMeta.locale}">` : ''}
   <meta property="og:title" content="${pageTitle}">
   <meta property="og:description" content="${pageDescription}">
   ${canonical ? `<meta property="og:url" content="${canonical}">` : ''}
   ${ogImage ? `<meta property="og:image" content="${ogImage}">` : ''}
   <meta name="twitter:card" content="${globalMeta.twitterCard || 'summary_large_image'}">
   ${globalMeta.twitterSite ? `<meta name="twitter:site" content="${globalMeta.twitterSite}">` : ''}
+  ${globalMeta.twitterCreator ? `<meta name="twitter:creator" content="${globalMeta.twitterCreator}">` : ''}
   <meta name="twitter:title" content="${pageTitle}">
   <meta name="twitter:description" content="${pageDescription}">
   ${ogImage ? `<meta name="twitter:image" content="${ogImage}">` : ''}
