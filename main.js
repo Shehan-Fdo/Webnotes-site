@@ -186,11 +186,24 @@ function buildPageSeo(frontmatter = {}, markdownContent = '', cleanPath = '', fa
 
 function generateRobotsTxt(globalMeta) {
   const sitemapUrl = normalizeAbsoluteUrl(globalMeta.url, 'sitemap.xml');
+
+  // Build alternate sitemap URL so both www and non-www variants are declared
+  let altSitemapUrl = '';
+  try {
+    const parsed = new URL(sitemapUrl);
+    if (parsed.hostname.startsWith('www.')) {
+      parsed.hostname = parsed.hostname.slice(4);
+    } else {
+      parsed.hostname = `www.${parsed.hostname}`;
+    }
+    altSitemapUrl = parsed.toString();
+  } catch { /* ignore if URL is invalid */ }
+
   return `User-agent: *
 Allow: /
 
 Sitemap: ${sitemapUrl}
-`;
+${altSitemapUrl ? `Sitemap: ${altSitemapUrl}\n` : ''}`;
 }
 
 function xmlEscape(value = '') {
