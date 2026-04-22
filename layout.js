@@ -37,6 +37,8 @@ export default function Layout(seo = {}, content, sidebarHtml = '', baseRel = '.
     ${seo.modifiedTime ? `<meta property="article:modified_time" content="${new Date(seo.modifiedTime).toISOString()}">` : ''}` : '';
 
   // <script src="https://pl28879057.profitablecpmratenetwork.com/6f/85/84/6f85842f0b72b56041e693d0b4e6718c.js"></script> Ads terra
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4642057444797552"
+    crossorigin="anonymous"></script>
   return `
 <!DOCTYPE html>
 <html lang="${language}">
