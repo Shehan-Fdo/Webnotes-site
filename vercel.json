@@ -4,6 +4,13 @@
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
   "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://webnotes.site/:path*",
+      "permanent": true
+    }
+  ],
   "routes": [
     {
       "handle": "filesystem"
@@ -15,4 +22,3 @@
     }
   ]
 }
-
