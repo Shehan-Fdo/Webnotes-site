@@ -1,0 +1,658 @@
+[
+  {
+    "title": "Module 1: Course Orientation and Operational Workflow Setup",
+    "slug": "module-1-course-orientation-and-operational-workflow-setup",
+    "children": [
+      {
+        "title": "AWS CLI Configuration and Profile Management",
+        "slug": "aws-cli-configuration-and-profile-management",
+        "queries": [
+          "AWS CLI configure profiles named profiles documentation",
+          "AWS CLI credential and config file profile management best practices"
+        ]
+      },
+      {
+        "title": "CloudFormation Deployment Workflow and Template Conventions",
+        "slug": "cloudformation-deployment-workflow-and-template-conventions",
+        "queries": [
+          "AWS CloudFormation deploy validate describe-stack CLI workflow",
+          "CloudFormation YAML template structure parameters outputs mappings conditions documentation"
+        ]
+      },
+      {
+        "title": "Region and Account Validation",
+        "slug": "region-and-account-validation",
+        "queries": [
+          "AWS CLI get-caller-identity describe-regions validate account region",
+          "AWS account and region validation commands for operational workflows"
+        ]
+      },
+      {
+        "title": "Tagging Standards and Resource Naming for Labs",
+        "slug": "tagging-standards-and-resource-naming-for-labs",
+        "queries": [
+          "AWS resource tagging strategy operational governance best practices",
+          "AWS CLI create-tags tagging standards for lab resources"
+        ]
+      },
+      {
+        "title": "Baseline Permission Verification",
+        "slug": "baseline-permission-verification",
+        "queries": [
+          "AWS IAM policy simulation and permission verification CLI",
+          "AWS CLI test permissions for CloudFormation EC2 SSM CloudWatch"
+        ]
+      },
+      {
+        "title": "Safe Cleanup Procedures and Environment Teardown",
+        "slug": "safe-cleanup-procedures-and-environment-teardown",
+        "queries": [
+          "AWS CloudFormation delete-stack safe cleanup procedures CLI",
+          "AWS resource teardown order VPC EC2 RDS IAM cleanup best practices"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 2: Highly Available VPC Deployment with CloudFormation",
+    "slug": "module-2-highly-available-vpc-deployment-with-cloudformation",
+    "children": [
+      {
+        "title": "Multi-AZ VPC Architecture Deployment",
+        "slug": "multi-az-vpc-architecture-deployment",
+        "queries": [
+          "AWS CloudFormation VPC public private subnets multi AZ template",
+          "AWS VPC multi AZ deployment CloudFormation example with outputs"
+        ]
+      },
+      {
+        "title": "Internet Gateway NAT Gateway and Route Tables",
+        "slug": "internet-gateway-nat-gateway-and-route-tables",
+        "queries": [
+          "AWS CloudFormation internet gateway nat gateway route table associations",
+          "AWS VPC routing public private subnet CLI validation"
+        ]
+      },
+      {
+        "title": "Security Groups and Network ACLs for Operational Tiers",
+        "slug": "security-groups-and-network-acls-for-operational-tiers",
+        "queries": [
+          "AWS security groups network ACLs operational design CLI",
+          "AWS VPC NACL rules security group troubleshooting connectivity"
+        ]
+      },
+      {
+        "title": "VPC Endpoints for Systems Manager and S3",
+        "slug": "vpc-endpoints-for-systems-manager-and-s3",
+        "queries": [
+          "AWS VPC interface endpoints Systems Manager S3 CloudFormation",
+          "AWS PrivateLink endpoints for SSM and S3 operational access"
+        ]
+      },
+      {
+        "title": "CloudFormation Stack Deployment and Validation Commands",
+        "slug": "cloudformation-stack-deployment-and-validation-commands",
+        "queries": [
+          "AWS CLI cloudformation deploy describe-stacks validate-template examples",
+          "CloudFormation stack outputs and resource validation CLI commands"
+        ]
+      },
+      {
+        "title": "Intentional Misconfiguration Troubleshooting Lab",
+        "slug": "intentional-misconfiguration-troubleshooting-lab",
+        "queries": [
+          "AWS VPC troubleshooting broken route table security group lab",
+          "AWS reachability analyzer and CLI troubleshooting VPC connectivity"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 3: EC2 Operations, Instance Management, and Health Checks",
+    "slug": "module-3-ec2-operations-instance-management-and-health-checks",
+    "children": [
+      {
+        "title": "EC2 Launch via CLI and CloudFormation",
+        "slug": "ec2-launch-via-cli-and-cloudformation",
+        "queries": [
+          "AWS CLI run-instances EC2 launch with IAM role user data",
+          "CloudFormation EC2 instance launch template example operational"
+        ]
+      },
+      {
+        "title": "IAM Instance Profiles and SSM Managed Instance Setup",
+        "slug": "iam-instance-profiles-and-ssm-managed-instance-setup",
+        "queries": [
+          "AWS IAM instance profile Systems Manager managed instance setup",
+          "SSM managed instance role policy AmazonSSMManagedInstanceCore documentation"
+        ]
+      },
+      {
+        "title": "Instance Metadata System Logs and Status Checks",
+        "slug": "instance-metadata-system-logs-and-status-checks",
+        "queries": [
+          "EC2 instance metadata system logs status checks CLI troubleshooting",
+          "AWS EC2 describe-instance-status system reachability checks documentation"
+        ]
+      },
+      {
+        "title": "Auto Recovery Reboot and Replacement Decisions",
+        "slug": "auto-recovery-reboot-and-replacement-decisions",
+        "queries": [
+          "EC2 auto recovery CloudWatch alarm status check recovery documentation",
+          "AWS EC2 reboot stop start replace operational decision guide"
+        ]
+      },
+      {
+        "title": "SSM Connectivity Break and Restore Lab",
+        "slug": "ssm-connectivity-break-and-restore-lab",
+        "queries": [
+          "AWS Systems Manager agent not registering troubleshooting VPC endpoints",
+          "SSM managed instance connectivity troubleshooting security group IAM role"
+        ]
+      },
+      {
+        "title": "Failed Reachability and Impaired Status Check Troubleshooting",
+        "slug": "failed-reachability-and-impaired-status-check-troubleshooting",
+        "queries": [
+          "EC2 impaired status check troubleshooting system reachability instance reachability",
+          "AWS EC2 status check failed troubleshooting runbook"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 4: Systems Manager Core Operations",
+    "slug": "module-4-systems-manager-core-operations",
+    "children": [
+      {
+        "title": "Session Manager Access Without SSH",
+        "slug": "session-manager-access-without-ssh",
+        "queries": [
+          "AWS Systems Manager Session Manager setup without SSH documentation",
+          "Session Manager IAM permissions VPC endpoints operational access"
+        ]
+      },
+      {
+        "title": "Run Command at Scale",
+        "slug": "run-command-at-scale",
+        "queries": [
+          "AWS Systems Manager Run Command send-command multiple instances CLI",
+          "SSM Run Command document targets output logging best practices"
+        ]
+      },
+      {
+        "title": "Parameter Store for Operational Values",
+        "slug": "parameter-store-for-operational-values",
+        "queries": [
+          "AWS Systems Manager Parameter Store secure string CLI get-parameter put-parameter",
+          "Parameter Store operational configuration values CloudFormation dynamic references"
+        ]
+      },
+      {
+        "title": "Inventory Collection and Reporting",
+        "slug": "inventory-collection-and-reporting",
+        "queries": [
+          "AWS Systems Manager Inventory setup and reporting documentation",
+          "SSM inventory collection CLI managed instances"
+        ]
+      },
+      {
+        "title": "Automation Documents and Execution",
+        "slug": "automation-documents-and-execution",
+        "queries": [
+          "AWS Systems Manager Automation document create execute CLI",
+          "SSM automation runbook examples operational remediation"
+        ]
+      },
+      {
+        "title": "Maintenance Windows for Operational Tasks",
+        "slug": "maintenance-windows-for-operational-tasks",
+        "queries": [
+          "AWS Systems Manager Maintenance Windows create register targets tasks",
+          "SSM maintenance window patching and command execution documentation"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 5: Systems Manager Patch Manager and Patch Compliance",
+    "slug": "module-5-systems-manager-patch-manager-and-patch-compliance",
+    "children": [
+      {
+        "title": "Patch Baselines and Approval Rules",
+        "slug": "patch-baselines-and-approval-rules",
+        "queries": [
+          "AWS Systems Manager Patch Manager create patch baseline CLI",
+          "Patch baseline approval rules Linux Windows SSM documentation"
+        ]
+      },
+      {
+        "title": "Patch Groups and Tagging Strategy",
+        "slug": "patch-groups-and-tagging-strategy",
+        "queries": [
+          "AWS Systems Manager patch groups tagging strategy documentation",
+          "SSM patch group register patch baseline by tag CLI"
+        ]
+      },
+      {
+        "title": "Maintenance Windows for Patch Execution",
+        "slug": "maintenance-windows-for-patch-execution",
+        "queries": [
+          "AWS Systems Manager maintenance window patch install task CLI",
+          "Patch Manager maintenance window association targets documentation"
+        ]
+      },
+      {
+        "title": "Patch Scan Versus Patch Install Behavior",
+        "slug": "patch-scan-versus-patch-install-behavior",
+        "queries": [
+          "AWS Systems Manager patch scan vs install difference documentation",
+          "SSM patch compliance scan install reboot behavior"
+        ]
+      },
+      {
+        "title": "Patch Compliance Reporting and Remediation",
+        "slug": "patch-compliance-reporting-and-remediation",
+        "queries": [
+          "AWS Systems Manager patch compliance reporting CLI",
+          "Patch Manager noncompliant instance remediation workflow documentation"
+        ]
+      },
+      {
+        "title": "Patch Failure Troubleshooting and IAM Permissions",
+        "slug": "patch-failure-troubleshooting-and-iam-permissions",
+        "queries": [
+          "AWS Systems Manager patching failed due to IAM permissions troubleshooting",
+          "Patch Manager target not receiving patches incorrect tags troubleshooting"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 6: CloudWatch Metrics, Logs, and Advanced Alarming",
+    "slug": "module-6-cloudwatch-metrics-logs-and-advanced-alarming",
+    "children": [
+      {
+        "title": "Standard and Custom Metrics",
+        "slug": "standard-and-custom-metrics",
+        "queries": [
+          "Amazon CloudWatch custom metrics put-metric-data CLI documentation",
+          "CloudWatch standard metrics EC2 EBS RDS operational monitoring"
+        ]
+      },
+      {
+        "title": "CloudWatch Logs Ingestion and Log Groups",
+        "slug": "cloudwatch-logs-ingestion-and-log-groups",
+        "queries": [
+          "Amazon CloudWatch Logs agent ingestion log groups CLI",
+          "CloudWatch Logs create-log-group put-log-events operational setup"
+        ]
+      },
+      {
+        "title": "Metric Filters and Log-Based Alarms",
+        "slug": "metric-filters-and-log-based-alarms",
+        "queries": [
+          "CloudWatch Logs metric filter create alarm error pattern documentation",
+          "AWS CloudWatch metric filters from logs CLI examples"
+        ]
+      },
+      {
+        "title": "Composite Alarms and Anomaly Detection",
+        "slug": "composite-alarms-and-anomaly-detection",
+        "queries": [
+          "Amazon CloudWatch composite alarms anomaly detection documentation",
+          "CloudWatch alarm rule multiple metrics composite alarm examples"
+        ]
+      },
+      {
+        "title": "Alarm Actions SNS and Remediation Triggers",
+        "slug": "alarm-actions-sns-and-remediation-triggers",
+        "queries": [
+          "CloudWatch alarm actions SNS topic configuration documentation",
+          "AWS CloudWatch alarm trigger remediation EventBridge SNS"
+        ]
+      },
+      {
+        "title": "Dashboards and Alarm Tuning",
+        "slug": "dashboards-and-alarm-tuning",
+        "queries": [
+          "Amazon CloudWatch dashboards create widget CLI documentation",
+          "CloudWatch alarm tuning reduce noise operational best practices"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 7: Event-Driven Remediation and Automation",
+    "slug": "module-7-event-driven-remediation-and-automation",
+    "children": [
+      {
+        "title": "EventBridge Rules for Operational Events",
+        "slug": "eventbridge-rules-for-operational-events",
+        "queries": [
+          "Amazon EventBridge rule pattern operational events documentation",
+          "EventBridge target Systems Manager Automation SNS CLI"
+        ]
+      },
+      {
+        "title": "SNS Notifications for Incident Response",
+        "slug": "sns-notifications-for-incident-response",
+        "queries": [
+          "Amazon SNS topic subscription alarm notifications CLI",
+          "SNS publish from EventBridge and CloudWatch alarms documentation"
+        ]
+      },
+      {
+        "title": "Lambda-Based Remediation When Needed",
+        "slug": "lambda-based-remediation-when-needed",
+        "queries": [
+          "AWS Lambda remediation from EventBridge operational workflow",
+          "Lambda function for AWS incident remediation example"
+        ]
+      },
+      {
+        "title": "Systems Manager Automation for Corrective Actions",
+        "slug": "systems-manager-automation-for-corrective-actions",
+        "queries": [
+          "AWS Systems Manager Automation runbook remediation examples",
+          "SSM automation document stop start restart service operational"
+        ]
+      },
+      {
+        "title": "Auto-Remediation Patterns for Common Failures",
+        "slug": "auto-remediation-patterns-for-common-failures",
+        "queries": [
+          "AWS auto remediation patterns CloudWatch EventBridge Systems Manager",
+          "Operational remediation workflow for unhealthy EC2 instance documentation"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 8: Amazon RDS Operations, Backup, and Recovery",
+    "slug": "module-8-amazon-rds-operations-backup-and-recovery",
+    "children": [
+      {
+        "title": "RDS Multi-AZ Deployment and Operations",
+        "slug": "rds-multi-az-deployment-and-operations",
+        "queries": [
+          "Amazon RDS Multi-AZ create-db-instance CLI documentation",
+          "RDS operational monitoring Multi-AZ failover best practices"
+        ]
+      },
+      {
+        "title": "Automated Backups Retention and Manual Snapshots",
+        "slug": "automated-backups-retention-and-manual-snapshots",
+        "queries": [
+          "Amazon RDS automated backups retention manual snapshot CLI",
+          "RDS snapshot create describe restore documentation"
+        ]
+      },
+      {
+        "title": "Point-in-Time Recovery and Restore to New Instance",
+        "slug": "point-in-time-recovery-and-restore-to-new-instance",
+        "queries": [
+          "Amazon RDS point in time recovery restore-db-instance-to-point-in-time",
+          "RDS restore to new instance operational steps documentation"
+        ]
+      },
+      {
+        "title": "Parameter and Option Group Considerations",
+        "slug": "parameter-and-option-group-considerations",
+        "queries": [
+          "Amazon RDS parameter group option group operational considerations",
+          "RDS modify parameter group reboot apply immediately documentation"
+        ]
+      },
+      {
+        "title": "RDS Health and Storage Monitoring",
+        "slug": "rds-health-and-storage-monitoring",
+        "queries": [
+          "Amazon CloudWatch RDS metrics storage utilization monitoring",
+          "RDS enhanced monitoring and alarms documentation"
+        ]
+      },
+      {
+        "title": "RDS Recovery Troubleshooting",
+        "slug": "rds-recovery-troubleshooting",
+        "queries": [
+          "RDS restore failure troubleshooting permissions configuration",
+          "Amazon RDS backup restore connectivity validation troubleshooting"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 9: AWS Backup and EBS Recovery Operations",
+    "slug": "module-9-aws-backup-and-ebs-recovery-operations",
+    "children": [
+      {
+        "title": "Backup Plans and Vaults",
+        "slug": "backup-plans-and-vaults",
+        "queries": [
+          "AWS Backup create backup plan vault CLI documentation",
+          "AWS Backup vault encryption lifecycle operational setup"
+        ]
+      },
+      {
+        "title": "Tag-Based Backup Selection",
+        "slug": "tag-based-backup-selection",
+        "queries": [
+          "AWS Backup selection by tags CLI documentation",
+          "AWS Backup resource assignment tags backup selection"
+        ]
+      },
+      {
+        "title": "EBS Snapshot Creation and Restore",
+        "slug": "ebs-snapshot-creation-and-restore",
+        "queries": [
+          "Amazon EBS create snapshot restore volume CLI documentation",
+          "EBS snapshot restore attach volume operational steps"
+        ]
+      },
+      {
+        "title": "Recovery of Volumes and Attached Instances",
+        "slug": "recovery-of-volumes-and-attached-instances",
+        "queries": [
+          "EBS volume recovery replacement instance operational runbook",
+          "AWS EC2 recover root volume from snapshot documentation"
+        ]
+      },
+      {
+        "title": "Encryption and KMS Considerations",
+        "slug": "encryption-and-kms-considerations",
+        "queries": [
+          "AWS Backup KMS encryption permissions documentation",
+          "Amazon EBS encrypted snapshot restore KMS key policy"
+        ]
+      },
+      {
+        "title": "Backup Validation and Restore Testing",
+        "slug": "backup-validation-and-restore-testing",
+        "queries": [
+          "AWS Backup restore testing validation documentation",
+          "EBS backup compliance recovery time objective operational testing"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 10: IAM, Organizations, and SCP Governance",
+    "slug": "module-10-iam-organizations-and-scp-governance",
+    "children": [
+      {
+        "title": "IAM Roles Policies and Instance Profiles",
+        "slug": "iam-roles-policies-and-instance-profiles",
+        "queries": [
+          "AWS IAM roles policies instance profiles operational access documentation",
+          "IAM least privilege policy examples for SSM CloudWatch Backup"
+        ]
+      },
+      {
+        "title": "Least-Privilege Operational Access",
+        "slug": "least-privilege-operational-access",
+        "queries": [
+          "AWS IAM least privilege operational access troubleshooting",
+          "IAM policy evaluation and permission boundaries documentation"
+        ]
+      },
+      {
+        "title": "AWS Organizations Structure and SCP Application",
+        "slug": "aws-organizations-structure-and-scp-application",
+        "queries": [
+          "AWS Organizations service control policies apply to OU documentation",
+          "SCP examples restrict regions and services AWS Organizations"
+        ]
+      },
+      {
+        "title": "SCP Effects on Service Usage and Delegated Administration",
+        "slug": "scp-effects-on-service-usage-and-delegated-administration",
+        "queries": [
+          "AWS SCP effect on delegated administrator and service access",
+          "Service control policy evaluation explicit deny documentation"
+        ]
+      },
+      {
+        "title": "Troubleshooting IAM Versus SCP Denials",
+        "slug": "troubleshooting-iam-versus-scp-denials",
+        "queries": [
+          "AWS access denied troubleshoot IAM policy versus SCP",
+          "Organizations SCP blocked action troubleshooting CLI"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 11: Operational Troubleshooting Scenarios",
+    "slug": "module-11-operational-troubleshooting-scenarios",
+    "children": [
+      {
+        "title": "EC2 Instance Failing Status Checks",
+        "slug": "ec2-instance-failing-status-checks",
+        "queries": [
+          "EC2 instance status check failed troubleshooting runbook",
+          "AWS EC2 impaired system reachability recovery steps"
+        ]
+      },
+      {
+        "title": "SSM Agent Not Registering",
+        "slug": "ssm-agent-not-registering",
+        "queries": [
+          "Systems Manager agent not registering troubleshooting IAM VPC endpoints",
+          "SSM managed instance offline troubleshooting documentation"
+        ]
+      },
+      {
+        "title": "CloudWatch Alarm Not Triggering",
+        "slug": "cloudwatch-alarm-not-triggering",
+        "queries": [
+          "CloudWatch alarm not triggering troubleshooting metric namespace period",
+          "Amazon CloudWatch alarm state not changing troubleshooting"
+        ]
+      },
+      {
+        "title": "Patch Manager Targets Not Receiving Patches",
+        "slug": "patch-manager-targets-not-receiving-patches",
+        "queries": [
+          "AWS Systems Manager Patch Manager target not receiving patches troubleshooting",
+          "Patch group tag mismatch patch compliance troubleshooting"
+        ]
+      },
+      {
+        "title": "RDS Restore Failure",
+        "slug": "rds-restore-failure",
+        "queries": [
+          "Amazon RDS restore failure troubleshooting permissions parameter group",
+          "RDS point in time restore failed troubleshooting documentation"
+        ]
+      },
+      {
+        "title": "VPC Connectivity Failure",
+        "slug": "vpc-connectivity-failure",
+        "queries": [
+          "AWS VPC connectivity failure troubleshooting route table security group NACL",
+          "VPC reachability analyzer troubleshooting broken connectivity"
+        ]
+      },
+      {
+        "title": "SCP Blocking an Operational Task",
+        "slug": "scp-blocking-an-operational-task",
+        "queries": [
+          "AWS SCP blocking operational task troubleshooting access denied",
+          "Organizations service control policy deny troubleshooting examples"
+        ]
+      },
+      {
+        "title": "Missing IAM Permissions for Automation or Backup",
+        "slug": "missing-iam-permissions-for-automation-or-backup",
+        "queries": [
+          "AWS IAM missing permissions Systems Manager Automation Backup troubleshooting",
+          "AWS Backup access denied IAM role policy troubleshooting"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 12: Exam-Style Integrated Capstone",
+    "slug": "module-12-exam-style-integrated-capstone",
+    "children": [
+      {
+        "title": "Multi-Service Environment Deployment from CloudFormation",
+        "slug": "multi-service-environment-deployment-from-cloudformation",
+        "queries": [
+          "AWS CloudFormation multi service operational environment template example",
+          "CloudFormation deploy VPC EC2 RDS CloudWatch SSM integrated stack"
+        ]
+      },
+      {
+        "title": "Monitoring and Alerting Configuration",
+        "slug": "monitoring-and-alerting-configuration",
+        "queries": [
+          "CloudWatch alarms dashboards EventBridge SNS integrated operations",
+          "AWS operational monitoring configuration for EC2 RDS EBS"
+        ]
+      },
+      {
+        "title": "Patch Compliance Enforcement",
+        "slug": "patch-compliance-enforcement",
+        "queries": [
+          "AWS Systems Manager patch compliance enforcement operational workflow",
+          "Patch Manager compliance remediation integrated lab"
+        ]
+      },
+      {
+        "title": "Backup and Recovery Validation",
+        "slug": "backup-and-recovery-validation",
+        "queries": [
+          "AWS Backup restore validation operational test workflow",
+          "EBS and RDS recovery validation integrated scenario"
+        ]
+      },
+      {
+        "title": "SCP Governance Enforcement",
+        "slug": "scp-governance-enforcement",
+        "queries": [
+          "AWS Organizations SCP governance enforcement operational scenario",
+          "SCP region restriction validation and troubleshooting documentation"
+        ]
+      },
+      {
+        "title": "Incident Response and Remediation Workflow",
+        "slug": "incident-response-and-remediation-workflow",
+        "queries": [
+          "AWS incident response remediation workflow CloudWatch EventBridge SSM",
+          "Operational incident simulation remediation runbook AWS"
+        ]
+      },
+      {
+        "title": "Final Teardown and Cost Cleanup",
+        "slug": "final-teardown-and-cost-cleanup",
+        "queries": [
+          "AWS resource cleanup teardown checklist CloudFormation delete stack",
+          "AWS cost cleanup operational teardown best practices"
+        ]
+      }
+    ]
+  }
+]

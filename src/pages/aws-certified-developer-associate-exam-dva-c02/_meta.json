@@ -1,0 +1,4 @@
+{
+  "label": "AWS Certified Developer – Associate (Exam DVA-C02)",
+  "description": "AWS Certified Developer – Associate (Exam DVA-C02) is a strictly practical study-notes course for AWS developers, focused on hands-on labs with AWS CLI v2, SDKs, Lambda, API Gateway, DynamoDB, AWS CDK v2, and SAM. You’ll build and debug serverless applications, troubleshoot IAM and X-Ray issues, and automate deployment pipelines with CodePipeline using current AWS developer tools and runtimes."
+}

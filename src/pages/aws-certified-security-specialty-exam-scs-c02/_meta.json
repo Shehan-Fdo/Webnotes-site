@@ -1,0 +1,4 @@
+{
+  "label": "AWS Certified Security – Specialty (Exam SCS-C02)",
+  "description": "Practical lab notes for AWS Certified Security – Specialty (SCS-C02), built around real incident response and threat hunting in AWS. Work through hands-on exercises for GuardDuty triage, EventBridge-to-Lambda automated remediation, EC2 containment with exact AWS CLI commands, KMS key policy hardening, VPC Flow Logs analysis in Athena, and zero-trust access with AWS Verified Access."
+}

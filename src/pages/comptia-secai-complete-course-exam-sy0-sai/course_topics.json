@@ -1,0 +1,894 @@
+[
+  {
+    "title": "Course Orientation and SecAI+ Exam Strategy",
+    "slug": "course-orientation-secai-exam-strategy",
+    "children": [
+      {
+        "title": "Course Scope, Prerequisites, and Lab Safety",
+        "slug": "course-scope-prerequisites-lab-safety",
+        "queries": [
+          "CompTIA SecAI+ course prerequisites lab safety AI security training",
+          "safe AI security lab design containerized sandbox best practices"
+        ]
+      },
+      {
+        "title": "SecAI+ Exam Domains, Question Styles, and Study Plan",
+        "slug": "secai-exam-domains-question-styles-study-plan",
+        "queries": [
+          "CompTIA SecAI+ exam domains practice question styles study plan",
+          "certification exam strategy scenario based questions performance based questions"
+        ]
+      },
+      {
+        "title": "Instructor Guidance, Readiness Checks, and Common Pitfalls",
+        "slug": "instructor-guidance-readiness-checks-common-pitfalls",
+        "queries": [
+          "AI security certification teaching guidance common misconceptions",
+          "exam readiness checkpoint security practitioner AI course"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Domain 1: AI Fundamentals for Security Professionals",
+    "slug": "domain-1-ai-fundamentals-for-security-professionals",
+    "children": [
+      {
+        "title": "AI, ML, and Generative AI Core Concepts",
+        "slug": "ai-ml-generative-ai-core-concepts",
+        "queries": [
+          "AI vs machine learning vs generative AI security practitioner overview",
+          "core AI ML concepts for cybersecurity professionals"
+        ]
+      },
+      {
+        "title": "Learning Paradigms: Supervised, Unsupervised, Semi-Supervised, Reinforcement, and Deep Learning",
+        "slug": "learning-paradigms-supervised-unsupervised-semi-supervised-reinforcement-deep-learning",
+        "queries": [
+          "supervised unsupervised semi-supervised reinforcement learning deep learning security overview",
+          "machine learning learning types explained for security analysts"
+        ]
+      },
+      {
+        "title": "LLM Architecture Fundamentals",
+        "slug": "llm-architecture-fundamentals",
+        "queries": [
+          "LLM tokens embeddings attention context window transformers inference fine tuning RAG",
+          "large language model architecture explained for security professionals"
+        ]
+      },
+      {
+        "title": "AI System Lifecycle and Operational Phases",
+        "slug": "ai-system-lifecycle-operational-phases",
+        "queries": [
+          "AI system lifecycle training validation deployment monitoring retraining retirement",
+          "MLOps lifecycle security controls overview"
+        ]
+      },
+      {
+        "title": "AI Security Terminology and Components",
+        "slug": "ai-security-terminology-and-components",
+        "queries": [
+          "AI security terminology model weights parameters prompts system prompts guardrails agents tools vector databases",
+          "LLM application components glossary security"
+        ]
+      },
+      {
+        "title": "Enterprise AI Use Cases in Security Operations",
+        "slug": "enterprise-ai-use-cases-in-security-operations",
+        "queries": [
+          "enterprise AI use cases in SOC threat hunting incident response",
+          "AI for security operations practical use cases"
+        ]
+      },
+      {
+        "title": "AI Limitations, Failure Modes, and Security Implications",
+        "slug": "ai-limitations-failure-modes-security-implications",
+        "queries": [
+          "LLM hallucination bias drift overfitting underfitting data leakage non-determinism security",
+          "AI model failure modes and security implications"
+        ]
+      },
+      {
+        "title": "AI Application Architecture Diagramming and Trust Boundaries",
+        "slug": "ai-application-architecture-diagramming-trust-boundaries",
+        "queries": [
+          "AI application architecture trust boundaries data flow diagram security",
+          "LLM app architecture diagram security review"
+        ]
+      },
+      {
+        "title": "Enterprise AI Assistant Data Flow Mapping Lab",
+        "slug": "enterprise-ai-assistant-data-flow-mapping-lab",
+        "queries": [
+          "AI assistant data flow mapping lab security",
+          "enterprise AI workflow trust boundary mapping exercise"
+        ]
+      },
+      {
+        "title": "Domain 1 FAQ and Exam Review",
+        "slug": "domain-1-faq-exam-review",
+        "queries": [
+          "AI ML generative AI exam questions security practitioner",
+          "LLM prompt injection hallucination embeddings vector store exam review"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Domain 2: Threats Against AI/ML Systems",
+    "slug": "domain-2-threats-against-ai-ml-systems",
+    "children": [
+      {
+        "title": "Threat Modeling for AI Systems",
+        "slug": "threat-modeling-for-ai-systems",
+        "queries": [
+          "threat modeling AI systems attack surface trust boundaries",
+          "AI threat modeling methodology security"
+        ]
+      },
+      {
+        "title": "Prompt Injection, Indirect Prompt Injection, Jailbreaks, and Prompt Leakage",
+        "slug": "prompt-injection-indirect-prompt-injection-jailbreaks-prompt-leakage",
+        "queries": [
+          "prompt injection indirect prompt injection jailbreak prompt leakage examples",
+          "LLM prompt injection defense and detection"
+        ]
+      },
+      {
+        "title": "Model Poisoning and Training Data Manipulation",
+        "slug": "model-poisoning-training-data-manipulation",
+        "queries": [
+          "model poisoning training data manipulation detection mitigation",
+          "data poisoning backdoor attacks label flipping AI security"
+        ]
+      },
+      {
+        "title": "Adversarial Examples and Evasion Attacks",
+        "slug": "adversarial-examples-evasion-attacks",
+        "queries": [
+          "adversarial examples evasion attacks machine learning security",
+          "safe adversarial input testing lab for AI models"
+        ]
+      },
+      {
+        "title": "Model Extraction, Model Inversion, and Membership Inference",
+        "slug": "model-extraction-model-inversion-membership-inference",
+        "queries": [
+          "model extraction inversion membership inference attacks explained",
+          "AI privacy attacks model inversion membership inference mitigation"
+        ]
+      },
+      {
+        "title": "Sensitive Data Leakage from Prompts, Outputs, Logs, and Embeddings",
+        "slug": "sensitive-data-leakage-prompts-outputs-logs-embeddings",
+        "queries": [
+          "LLM sensitive data leakage prompts outputs logs embeddings",
+          "embedding vector store data leakage security risks"
+        ]
+      },
+      {
+        "title": "Agent Abuse, Tool Use Abuse, and Autonomous Workflow Risks",
+        "slug": "agent-abuse-tool-use-abuse-autonomous-workflow-risks",
+        "queries": [
+          "AI agent tool use abuse function calling security risks",
+          "autonomous workflow abuse in agentic AI systems"
+        ]
+      },
+      {
+        "title": "RAG-Specific Threats and Vector Database Abuse",
+        "slug": "rag-specific-threats-vector-database-abuse",
+        "queries": [
+          "RAG poisoned documents malicious retrieval vector database abuse",
+          "retrieval augmented generation security threats vector store"
+        ]
+      },
+      {
+        "title": "API Abuse Against AI Endpoints and Inference Services",
+        "slug": "api-abuse-against-ai-endpoints-inference-services",
+        "queries": [
+          "AI API abuse rate limit bypass credential abuse inference service security",
+          "LLM endpoint abuse detection logs telemetry"
+        ]
+      },
+      {
+        "title": "Deepfake, Synthetic Media, and AI-Enabled Social Engineering",
+        "slug": "deepfake-synthetic-media-ai-enabled-social-engineering",
+        "queries": [
+          "deepfake synthetic media social engineering enterprise security",
+          "AI enabled phishing impersonation threat intelligence"
+        ]
+      },
+      {
+        "title": "Open-Source Models, Model Hubs, and Third-Party AI Services",
+        "slug": "open-source-models-model-hubs-third-party-ai-services",
+        "queries": [
+          "open source model hub supply chain security risks",
+          "third party AI service risk assessment model provenance"
+        ]
+      },
+      {
+        "title": "Prompt Injection and Adversarial Testing Lab",
+        "slug": "prompt-injection-adversarial-testing-lab",
+        "queries": [
+          "safe prompt injection lab local LLM sandbox",
+          "adversarial testing of LLMs in controlled environment"
+        ]
+      },
+      {
+        "title": "Domain 2 FAQ and Exam Review",
+        "slug": "domain-2-faq-exam-review",
+        "queries": [
+          "prompt injection model poisoning evasion extraction inversion exam questions",
+          "RAG poisoned content security exam review AI threats"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Domain 3: Securing AI Pipelines, Models, and APIs",
+    "slug": "domain-3-securing-ai-pipelines-models-and-apis",
+    "children": [
+      {
+        "title": "Secure AI/ML Development Lifecycle and MLOps Security",
+        "slug": "secure-ai-ml-development-lifecycle-mlops-security",
+        "queries": [
+          "secure MLOps lifecycle security controls MLflow Kubeflow",
+          "AI SDLC security best practices model lifecycle"
+        ]
+      },
+      {
+        "title": "Data Governance, Sourcing, Validation, Provenance, and Integrity",
+        "slug": "data-governance-sourcing-validation-provenance-integrity",
+        "queries": [
+          "AI dataset provenance integrity validation governance",
+          "secure training data sourcing and validation controls"
+        ]
+      },
+      {
+        "title": "Model Artifact Protection, Signing, Versioning, and Provenance Tracking",
+        "slug": "model-artifact-protection-signing-versioning-provenance-tracking",
+        "queries": [
+          "model artifact signing provenance versioning security",
+          "AI model supply chain artifact protection best practices"
+        ]
+      },
+      {
+        "title": "Secure Training Environments, Secrets Management, and Access Control",
+        "slug": "secure-training-environments-secrets-management-access-control",
+        "queries": [
+          "secure training environment secrets management access control Vault Kubernetes",
+          "MLOps secrets management IAM KMS best practices"
+        ]
+      },
+      {
+        "title": "Secure Inference Architecture and Deployment Patterns",
+        "slug": "secure-inference-architecture-deployment-patterns",
+        "queries": [
+          "secure AI inference architecture cloud on premises hybrid",
+          "LLM inference security architecture best practices"
+        ]
+      },
+      {
+        "title": "AI API Security: Authentication, Authorization, Rate Limiting, and Abuse Prevention",
+        "slug": "ai-api-security-authentication-authorization-rate-limiting-abuse-prevention",
+        "queries": [
+          "AI API security authentication authorization rate limiting abuse prevention",
+          "LLM API security controls and testing"
+        ]
+      },
+      {
+        "title": "Prompt Handling, Input Validation, Output Validation, and Safe Completion Controls",
+        "slug": "prompt-handling-input-validation-output-validation-safe-completion-controls",
+        "queries": [
+          "LLM prompt input output validation safe completion controls",
+          "prompt sanitization and output filtering for AI applications"
+        ]
+      },
+      {
+        "title": "Guardrails, Content Filtering, and Policy Enforcement",
+        "slug": "guardrails-content-filtering-policy-enforcement",
+        "queries": [
+          "LLM guardrails content filtering policy enforcement architecture",
+          "AI safety guardrails enterprise implementation"
+        ]
+      },
+      {
+        "title": "Secure RAG Architecture and Vector Database Protection",
+        "slug": "secure-rag-architecture-vector-database-protection",
+        "queries": [
+          "secure RAG architecture vector database protection access control",
+          "retrieval augmented generation security controls vector store"
+        ]
+      },
+      {
+        "title": "Secure Agentic AI Design Patterns",
+        "slug": "secure-agentic-ai-design-patterns",
+        "queries": [
+          "secure agentic AI design patterns tool authorization human approval",
+          "agentic workflow security best practices"
+        ]
+      },
+      {
+        "title": "Logging, Monitoring, and Auditability for AI Systems",
+        "slug": "logging-monitoring-auditability-for-ai-systems",
+        "queries": [
+          "AI system logging monitoring auditability OpenTelemetry ELK",
+          "LLM observability security logging best practices"
+        ]
+      },
+      {
+        "title": "Cloud AI Security Controls: Azure OpenAI, AWS Bedrock, and Google Vertex AI",
+        "slug": "cloud-ai-security-controls-azure-openai-aws-bedrock-google-vertex-ai",
+        "queries": [
+          "Azure OpenAI security controls AWS Bedrock security Google Vertex AI security",
+          "cloud AI platform security controls IAM logging private networking"
+        ]
+      },
+      {
+        "title": "MLOps Pipeline Security Review Lab",
+        "slug": "mlops-pipeline-security-review-lab",
+        "queries": [
+          "MLOps pipeline security review lab MLflow Kubeflow Docker Kubernetes",
+          "secure model pipeline lab artifact access control"
+        ]
+      },
+      {
+        "title": "Domain 3 FAQ and Exam Review",
+        "slug": "domain-3-faq-exam-review",
+        "queries": [
+          "AI API security guardrails vector database exam questions",
+          "model artifact protection training data security exam review"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Domain 4: Governance, Risk, Compliance, and Responsible AI",
+    "slug": "domain-4-governance-risk-compliance-responsible-ai",
+    "children": [
+      {
+        "title": "AI Governance Principles and Enterprise Risk Management",
+        "slug": "ai-governance-principles-enterprise-risk-management",
+        "queries": [
+          "AI governance principles enterprise risk management security",
+          "responsible AI governance framework for enterprises"
+        ]
+      },
+      {
+        "title": "Responsible AI: Fairness, Transparency, Explainability, Accountability, Privacy, Safety, and Robustness",
+        "slug": "responsible-ai-fairness-transparency-explainability-accountability-privacy-safety-robustness",
+        "queries": [
+          "responsible AI fairness transparency explainability accountability privacy safety robustness",
+          "responsible AI controls for security teams"
+        ]
+      },
+      {
+        "title": "NIST AI RMF Core Functions and Implementation",
+        "slug": "nist-ai-rmf-core-functions-implementation",
+        "queries": [
+          "NIST AI RMF core functions govern map measure manage",
+          "NIST AI risk management framework implementation guide"
+        ]
+      },
+      {
+        "title": "EU AI Act Overview and Risk Classification",
+        "slug": "eu-ai-act-overview-risk-classification",
+        "queries": [
+          "EU AI Act risk classification overview enterprise AI",
+          "EU AI Act high level summary for security and compliance"
+        ]
+      },
+      {
+        "title": "ISO/IEC AI Governance and Risk Standards",
+        "slug": "iso-iec-ai-governance-risk-standards",
+        "queries": [
+          "ISO IEC AI governance risk standards overview",
+          "AI management system standard ISO IEC security"
+        ]
+      },
+      {
+        "title": "Policy Development, Acceptable Use, and Control Checklists",
+        "slug": "policy-development-acceptable-use-control-checklists",
+        "queries": [
+          "enterprise AI acceptable use policy template security",
+          "AI policy control checklist governance"
+        ]
+      },
+      {
+        "title": "Third-Party Risk Management for AI Vendors and Models",
+        "slug": "third-party-risk-management-ai-vendors-models",
+        "queries": [
+          "AI vendor risk management questionnaire security compliance",
+          "third party AI model risk assessment checklist"
+        ]
+      },
+      {
+        "title": "Privacy, Data Protection, Retention, and Consent",
+        "slug": "privacy-data-protection-retention-consent",
+        "queries": [
+          "AI privacy data protection retention consent enterprise",
+          "LLM privacy controls data minimization retention"
+        ]
+      },
+      {
+        "title": "Auditability, Documentation, Model Cards, and Human Oversight",
+        "slug": "auditability-documentation-model-cards-human-oversight",
+        "queries": [
+          "model cards auditability human oversight AI documentation",
+          "AI system documentation and audit trail best practices"
+        ]
+      },
+      {
+        "title": "Ethical Considerations in Security Operations and Automated Decision-Making",
+        "slug": "ethical-considerations-security-operations-automated-decision-making",
+        "queries": [
+          "ethical considerations automated decision making security operations",
+          "responsible AI in SOC automation ethics"
+        ]
+      },
+      {
+        "title": "NIST AI RMF Mapping and EU AI Act Classification Lab",
+        "slug": "nist-ai-rmf-mapping-eu-ai-act-classification-lab",
+        "queries": [
+          "NIST AI RMF mapping lab enterprise use case",
+          "EU AI Act classification exercise for AI system"
+        ]
+      },
+      {
+        "title": "Domain 4 FAQ and Exam Review",
+        "slug": "domain-4-faq-exam-review",
+        "queries": [
+          "NIST AI RMF EU AI Act responsible AI exam questions",
+          "AI governance compliance exam review security"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Domain 5: AI-Enhanced Threat Detection and SOC Automation",
+    "slug": "domain-5-ai-enhanced-threat-detection-and-soc-automation",
+    "children": [
+      {
+        "title": "AI Use Cases in SOC Operations",
+        "slug": "ai-use-cases-in-soc-operations",
+        "queries": [
+          "AI use cases in SOC operations alert triage enrichment correlation",
+          "AI for security operations center practical use cases"
+        ]
+      },
+      {
+        "title": "AI-Assisted Alert Triage, Enrichment, Correlation, and Prioritization",
+        "slug": "ai-assisted-alert-triage-enrichment-correlation-prioritization",
+        "queries": [
+          "AI assisted alert triage enrichment correlation prioritization workflow",
+          "SOC alert triage with LLM summarization"
+        ]
+      },
+      {
+        "title": "AI for Threat Hunting and Anomaly Detection",
+        "slug": "ai-for-threat-hunting-anomaly-detection",
+        "queries": [
+          "AI threat hunting anomaly detection SOC",
+          "machine learning anomaly detection for security operations"
+        ]
+      },
+      {
+        "title": "AI in SIEM and SOAR Workflows",
+        "slug": "ai-in-siem-and-soar-workflows",
+        "queries": [
+          "AI in SIEM and SOAR workflows Microsoft Sentinel Splunk Cortex XSOAR",
+          "SOAR automation with AI security operations"
+        ]
+      },
+      {
+        "title": "Detection Engineering with AI Support",
+        "slug": "detection-engineering-with-ai-support",
+        "queries": [
+          "detection engineering with AI support Sigma KQL SPL YARA",
+          "AI assisted detection content engineering"
+        ]
+      },
+      {
+        "title": "LLMs for Summarization, Investigation Assistance, and Playbook Generation",
+        "slug": "llms-for-summarization-investigation-assistance-playbook-generation",
+        "queries": [
+          "LLM summarization investigation assistance playbook generation SOC",
+          "AI copilot for incident investigation summaries"
+        ]
+      },
+      {
+        "title": "Automation Bias, Overreliance, and Human-in-the-Loop Decision Making",
+        "slug": "automation-bias-overreliance-human-in-the-loop-decision-making",
+        "queries": [
+          "automation bias in AI security operations human in the loop",
+          "overreliance on AI outputs SOC risk"
+        ]
+      },
+      {
+        "title": "Metrics for Evaluating AI-Assisted Detection Quality",
+        "slug": "metrics-for-evaluating-ai-assisted-detection-quality",
+        "queries": [
+          "metrics for AI assisted detection quality false positives false negatives",
+          "SOC AI performance evaluation metrics"
+        ]
+      },
+      {
+        "title": "SIEM Platforms: Microsoft Sentinel, Splunk, Google Chronicle, and Elastic Security",
+        "slug": "siem-platforms-microsoft-sentinel-splunk-google-chronicle-elastic-security",
+        "queries": [
+          "Microsoft Sentinel Splunk Chronicle Elastic Security AI integration",
+          "SIEM platform AI workflow examples"
+        ]
+      },
+      {
+        "title": "SOAR Platforms: Cortex XSOAR, Splunk SOAR, and Microsoft Sentinel Automation",
+        "slug": "soar-platforms-cortex-xsoar-splunk-soar-microsoft-sentinel-automation",
+        "queries": [
+          "Cortex XSOAR Splunk SOAR Microsoft Sentinel automation AI playbooks",
+          "SOAR playbook design with human approval"
+        ]
+      },
+      {
+        "title": "Threat Intelligence and Enrichment Sources",
+        "slug": "threat-intelligence-and-enrichment-sources",
+        "queries": [
+          "MISP OpenCTI VirusTotal AbuseIPDB enrichment SOC",
+          "threat intelligence enrichment workflow security operations"
+        ]
+      },
+      {
+        "title": "AI-Assisted Alert Triage and SOAR Playbook Lab",
+        "slug": "ai-assisted-alert-triage-soar-playbook-lab",
+        "queries": [
+          "AI assisted alert triage lab SOAR playbook human approval",
+          "SOC automation lab with LLM summarization"
+        ]
+      },
+      {
+        "title": "Domain 5 FAQ and Exam Review",
+        "slug": "domain-5-faq-exam-review",
+        "queries": [
+          "AI in SOC operations exam questions automation bias human in the loop",
+          "SIEM SOAR AI assisted triage exam review"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Domain 6: LLM-Integrated Application Security",
+    "slug": "domain-6-llm-integrated-application-security",
+    "children": [
+      {
+        "title": "Security Architecture of LLM-Integrated Applications",
+        "slug": "security-architecture-of-llm-integrated-applications",
+        "queries": [
+          "LLM integrated application security architecture chatbot copilot RAG agent",
+          "LLM app security architecture patterns and anti patterns"
+        ]
+      },
+      {
+        "title": "Common Application Patterns: Chatbots, Copilots, RAG Systems, and Agentic Workflows",
+        "slug": "common-application-patterns-chatbots-copilots-rag-systems-agentic-workflows",
+        "queries": [
+          "chatbot copilot RAG agentic workflow security patterns",
+          "LLM application patterns security considerations"
+        ]
+      },
+      {
+        "title": "OWASP Top 10 for LLM Applications and Related Taxonomies",
+        "slug": "owasp-top-10-for-llm-applications-related-taxonomies",
+        "queries": [
+          "OWASP Top 10 for LLM Applications latest guidance",
+          "LLM application risk taxonomy OWASP security"
+        ]
+      },
+      {
+        "title": "Prompt Injection Defenses and System Prompt Hardening",
+        "slug": "prompt-injection-defenses-system-prompt-hardening",
+        "queries": [
+          "prompt injection defenses system prompt hardening LLM",
+          "LLM prompt hardening best practices"
+        ]
+      },
+      {
+        "title": "Tool and Function-Call Abuse, Authorization Failures, and Cross-Tenant Leakage",
+        "slug": "tool-function-call-abuse-authorization-failures-cross-tenant-leakage",
+        "queries": [
+          "LLM tool calling authorization failures cross tenant data leakage",
+          "agent function call abuse security controls"
+        ]
+      },
+      {
+        "title": "Session Management, Memory, and Conversation State Risks",
+        "slug": "session-management-memory-conversation-state-risks",
+        "queries": [
+          "LLM session management memory conversation state security risks",
+          "chatbot memory leakage and session isolation"
+        ]
+      },
+      {
+        "title": "Secure Retrieval Design and Document Access Control",
+        "slug": "secure-retrieval-design-document-access-control",
+        "queries": [
+          "secure retrieval design document level access control RAG",
+          "RAG document access control security best practices"
+        ]
+      },
+      {
+        "title": "Output Validation, Content Moderation, and Policy Enforcement",
+        "slug": "output-validation-content-moderation-policy-enforcement",
+        "queries": [
+          "LLM output validation content moderation policy enforcement",
+          "safe completion controls for LLM applications"
+        ]
+      },
+      {
+        "title": "Logging, Observability, and Incident Response for LLM Apps",
+        "slug": "logging-observability-incident-response-for-llm-apps",
+        "queries": [
+          "LLM app logging observability incident response OpenTelemetry ELK",
+          "LLM application security logging and monitoring"
+        ]
+      },
+      {
+        "title": "Testing and Validation of LLM Application Security",
+        "slug": "testing-validation-of-llm-application-security",
+        "queries": [
+          "LLM application security testing prompt injection validation",
+          "testing RAG chatbot security with local sandbox model"
+        ]
+      },
+      {
+        "title": "LangChain and LlamaIndex Security Considerations",
+        "slug": "langchain-llamaindex-security-considerations",
+        "queries": [
+          "LangChain security considerations LlamaIndex security",
+          "LLM framework security best practices LangChain"
+        ]
+      },
+      {
+        "title": "LLM Chatbot and RAG Security Lab",
+        "slug": "llm-chatbot-rag-security-lab",
+        "queries": [
+          "LLM chatbot prompt injection lab RAG access control lab",
+          "safe local LLM application security testing lab"
+        ]
+      },
+      {
+        "title": "Domain 6 FAQ and Exam Review",
+        "slug": "domain-6-faq-exam-review",
+        "queries": [
+          "LLM application security exam questions prompt injection tool authorization",
+          "RAG chatbot security common failures exam review"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Domain 7: Enterprise AI Defense Scenarios and Incident Response",
+    "slug": "domain-7-enterprise-ai-defense-scenarios-and-incident-response",
+    "children": [
+      {
+        "title": "AI Incident Response Lifecycle",
+        "slug": "ai-incident-response-lifecycle",
+        "queries": [
+          "AI incident response lifecycle triage containment eradication recovery",
+          "incident response for AI systems enterprise"
+        ]
+      },
+      {
+        "title": "AI-Specific Incident Categories",
+        "slug": "ai-specific-incident-categories",
+        "queries": [
+          "AI specific incident categories prompt injection data leakage poisoned model synthetic media",
+          "types of AI security incidents enterprise"
+        ]
+      },
+      {
+        "title": "Evidence Collection, Forensics, and Chain of Custody for AI Systems",
+        "slug": "evidence-collection-forensics-chain-of-custody-for-ai-systems",
+        "queries": [
+          "AI forensics chain of custody prompts outputs model versions training data",
+          "evidence collection for LLM incident response"
+        ]
+      },
+      {
+        "title": "Business Continuity, Rollback, and Recovery Strategies",
+        "slug": "business-continuity-rollback-recovery-strategies",
+        "queries": [
+          "AI service rollback recovery business continuity strategies",
+          "LLM incident rollback and failover planning"
+        ]
+      },
+      {
+        "title": "Tabletop Exercises and Escalation Workflows",
+        "slug": "tabletop-exercises-escalation-workflows",
+        "queries": [
+          "AI incident tabletop exercise escalation workflow",
+          "enterprise AI incident response checklist escalation matrix"
+        ]
+      },
+      {
+        "title": "Compromised Chatbot Incident Tabletop Lab",
+        "slug": "compromised-chatbot-incident-tabletop-lab",
+        "queries": [
+          "compromised chatbot tabletop exercise lab",
+          "prompt injection incident response simulation"
+        ]
+      },
+      {
+        "title": "Poisoned RAG Knowledge Base Containment Lab",
+        "slug": "poisoned-rag-knowledge-base-containment-lab",
+        "queries": [
+          "poisoned RAG knowledge base containment exercise",
+          "RAG incident containment and rollback lab"
+        ]
+      },
+      {
+        "title": "Domain 7 FAQ and Exam Review",
+        "slug": "domain-7-faq-exam-review",
+        "queries": [
+          "AI incident response exam questions chain of custody rollback",
+          "prompt injection incident response exam review"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Domain 8: AI Security Tooling, Testing, and Validation",
+    "slug": "domain-8-ai-security-tooling-testing-and-validation",
+    "children": [
+      {
+        "title": "AI Security Testing Methodologies and Red Teaming",
+        "slug": "ai-security-testing-methodologies-red-teaming",
+        "queries": [
+          "AI security testing methodologies red teaming safe lab",
+          "LLM red teaming methodology security"
+        ]
+      },
+      {
+        "title": "Safe Lab Design and Ethical Boundaries",
+        "slug": "safe-lab-design-ethical-boundaries",
+        "queries": [
+          "safe AI security lab design ethical boundaries containerized",
+          "controlled environment for LLM security testing"
+        ]
+      },
+      {
+        "title": "Static and Dynamic Testing of AI Applications",
+        "slug": "static-dynamic-testing-ai-applications",
+        "queries": [
+          "static dynamic testing AI applications security",
+          "LLM application security testing techniques"
+        ]
+      },
+      {
+        "title": "Model Evaluation for Security-Relevant Behavior",
+        "slug": "model-evaluation-security-relevant-behavior",
+        "queries": [
+          "model evaluation security relevant behavior hallucination refusal robustness",
+          "LLM security evaluation benchmarks and methods"
+        ]
+      },
+      {
+        "title": "Prompt Fuzzing and Adversarial Input Generation",
+        "slug": "prompt-fuzzing-adversarial-input-generation",
+        "queries": [
+          "prompt fuzzing adversarial input generation LLM security",
+          "LLM fuzzing tools and techniques"
+        ]
+      },
+      {
+        "title": "Security Testing of APIs, Agents, and Retrieval Systems",
+        "slug": "security-testing-apis-agents-retrieval-systems",
+        "queries": [
+          "security testing AI APIs agents retrieval systems",
+          "RAG agent API security testing methodology"
+        ]
+      },
+      {
+        "title": "Monitoring for Drift, Abuse, and Anomalous Behavior",
+        "slug": "monitoring-for-drift-abuse-anomalous-behavior",
+        "queries": [
+          "monitoring AI drift abuse anomalous behavior logs",
+          "LLM anomaly detection and drift monitoring"
+        ]
+      },
+      {
+        "title": "Benchmarking and Validation of Defenses",
+        "slug": "benchmarking-validation-of-defenses",
+        "queries": [
+          "benchmarking AI security defenses validation methods",
+          "compare model responses before after guardrails"
+        ]
+      },
+      {
+        "title": "Python Notebook-Based Adversarial Testing Lab",
+        "slug": "python-notebook-based-adversarial-testing-lab",
+        "queries": [
+          "Python notebook adversarial testing AI models lab",
+          "Jupyter notebook prompt fuzzing security lab"
+        ]
+      },
+      {
+        "title": "Domain 8 FAQ and Exam Review",
+        "slug": "domain-8-faq-exam-review",
+        "queries": [
+          "AI red teaming prompt fuzzing exam questions",
+          "continuous validation AI systems exam review"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hands-On Lab Environment and Capstone",
+    "slug": "hands-on-lab-environment-and-capstone",
+    "children": [
+      {
+        "title": "Containerized Lab Architecture with Docker and Optional Kubernetes",
+        "slug": "containerized-lab-architecture-docker-optional-kubernetes",
+        "queries": [
+          "containerized AI security lab architecture Docker Kubernetes",
+          "reproducible sandbox lab for LLM security training"
+        ]
+      },
+      {
+        "title": "Local LLM Runtime Setup and Safe Demo Applications",
+        "slug": "local-llm-runtime-setup-safe-demo-applications",
+        "queries": [
+          "Ollama LM Studio local LLM runtime security lab",
+          "safe local chatbot demo application for prompt injection testing"
+        ]
+      },
+      {
+        "title": "RAG Demo App, Vector Database, and Synthetic Dataset",
+        "slug": "rag-demo-app-vector-database-synthetic-dataset",
+        "queries": [
+          "RAG demo app vector database synthetic dataset security lab",
+          "controlled retrieval augmented generation lab dataset"
+        ]
+      },
+      {
+        "title": "SIEM and SOAR Sandbox with Synthetic Telemetry",
+        "slug": "siem-soar-sandbox-synthetic-telemetry",
+        "queries": [
+          "SIEM SOAR sandbox synthetic telemetry security lab",
+          "SOC log analysis environment for AI security training"
+        ]
+      },
+      {
+        "title": "API Security Exercises and Proxy Tooling",
+        "slug": "api-security-exercises-proxy-tooling",
+        "queries": [
+          "Burp Suite OWASP ZAP Postman curl AI API security lab",
+          "API security testing exercises for LLM endpoints"
+        ]
+      },
+      {
+        "title": "Adversarial Input Analysis and Detection Engineering Exercises",
+        "slug": "adversarial-input-analysis-detection-engineering-exercises",
+        "queries": [
+          "adversarial input analysis detection engineering AI security lab",
+          "Sigma KQL SPL YARA AI detection exercises"
+        ]
+      },
+      {
+        "title": "Capstone Enterprise AI Security Scenario",
+        "slug": "capstone-enterprise-ai-security-scenario",
+        "queries": [
+          "enterprise AI security capstone scenario prompt injection RAG SOC governance",
+          "AI security capstone project for certification preparation"
+        ]
+      },
+      {
+        "title": "Final Comprehensive Review and Mock Exam Preparation",
+        "slug": "final-comprehensive-review-mock-exam-preparation",
+        "queries": [
+          "CompTIA SecAI+ mock exam preparation comprehensive review",
+          "AI security certification final review practice questions explanations"
+        ]
+      }
+    ]
+  }
+]

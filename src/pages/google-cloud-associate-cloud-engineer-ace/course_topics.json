@@ -1,0 +1,594 @@
+[
+  {
+    "title": "Module 1: GCP CLI Setup and Environment Configuration",
+    "slug": "module-1-gcp-cli-setup-and-environment-configuration",
+    "children": [
+      {
+        "title": "Install and initialize gcloud",
+        "slug": "install-and-initialize-gcloud",
+        "queries": [
+          "gcloud CLI install and initialize official documentation",
+          "gcloud init authentication configuration guide"
+        ]
+      },
+      {
+        "title": "Authenticate with Google Cloud",
+        "slug": "authenticate-with-google-cloud",
+        "queries": [
+          "gcloud auth login application default credentials documentation",
+          "gcloud authentication account management CLI"
+        ]
+      },
+      {
+        "title": "Set default project region and zone",
+        "slug": "set-default-project-region-and-zone",
+        "queries": [
+          "gcloud config set project region zone documentation",
+          "gcloud default compute region zone configuration"
+        ]
+      },
+      {
+        "title": "Inspect active account and project context",
+        "slug": "inspect-active-account-and-project-context",
+        "queries": [
+          "gcloud config list account project documentation",
+          "gcloud active account project verify CLI"
+        ]
+      },
+      {
+        "title": "Manage multiple gcloud configurations",
+        "slug": "manage-multiple-gcloud-configurations",
+        "queries": [
+          "gcloud config configurations create activate list documentation",
+          "gcloud multiple configurations CLI profiles guide"
+        ]
+      },
+      {
+        "title": "Use help, formatting, and output inspection",
+        "slug": "use-help-formatting-and-output-inspection",
+        "queries": [
+          "gcloud command help formats table json yaml documentation",
+          "gcloud output formatting and filtering guide"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 2: Resource Organization and Project Operations",
+    "slug": "module-2-resource-organization-and-project-operations",
+    "children": [
+      {
+        "title": "Identify and select projects",
+        "slug": "identify-and-select-projects",
+        "queries": [
+          "gcloud projects list describe select documentation",
+          "gcloud project identification and selection CLI"
+        ]
+      },
+      {
+        "title": "Enable required APIs",
+        "slug": "enable-required-apis",
+        "queries": [
+          "gcloud services enable compute gke iam storage bigquery documentation",
+          "Google Cloud service usage API enable CLI"
+        ]
+      },
+      {
+        "title": "List resources by project",
+        "slug": "list-resources-by-project",
+        "queries": [
+          "gcloud list resources by project compute storage iam bigquery",
+          "gcloud resource listing and filtering documentation"
+        ]
+      },
+      {
+        "title": "Apply and inspect labels",
+        "slug": "apply-and-inspect-labels",
+        "queries": [
+          "gcloud resource labels set update documentation",
+          "Google Cloud labels CLI manage resources"
+        ]
+      },
+      {
+        "title": "Clean up and delete test resources",
+        "slug": "clean-up-and-delete-test-resources",
+        "queries": [
+          "gcloud delete resources cleanup best practices documentation",
+          "gcloud compute storage bigquery delete CLI guide"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 3: Compute Engine Instance Provisioning and Administration",
+    "slug": "module-3-compute-engine-instance-provisioning-and-administration",
+    "children": [
+      {
+        "title": "Create a Compute Engine VM",
+        "slug": "create-a-compute-engine-vm",
+        "queries": [
+          "gcloud compute instances create documentation",
+          "Compute Engine VM creation gcloud CLI examples"
+        ]
+      },
+      {
+        "title": "Connect with gcloud compute ssh",
+        "slug": "connect-with-gcloud-compute-ssh",
+        "queries": [
+          "gcloud compute ssh documentation",
+          "Compute Engine SSH access via gcloud CLI"
+        ]
+      },
+      {
+        "title": "Verify a simple service on the VM",
+        "slug": "verify-a-simple-service-on-the-vm",
+        "queries": [
+          "Compute Engine install verify service via SSH CLI lab",
+          "gcloud compute ssh service validation commands"
+        ]
+      },
+      {
+        "title": "Stop start reset and delete instances",
+        "slug": "stop-start-reset-and-delete-instances",
+        "queries": [
+          "gcloud compute instances stop start reset delete documentation",
+          "Compute Engine instance lifecycle gcloud CLI"
+        ]
+      },
+      {
+        "title": "Troubleshoot SSH zone and firewall issues",
+        "slug": "troubleshoot-ssh-zone-and-firewall-issues",
+        "queries": [
+          "gcloud compute ssh troubleshooting zone firewall permissions",
+          "Compute Engine SSH denied firewall OS Login troubleshooting"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 4: VPC Networking Fundamentals for Operators",
+    "slug": "module-4-vpc-networking-fundamentals-for-operators",
+    "children": [
+      {
+        "title": "Create a custom VPC and subnet",
+        "slug": "create-a-custom-vpc-and-subnet",
+        "queries": [
+          "gcloud compute networks create subnets create documentation",
+          "VPC custom network subnet gcloud CLI examples"
+        ]
+      },
+      {
+        "title": "Create firewall rules for SSH and ICMP",
+        "slug": "create-firewall-rules-for-ssh-and-icmp",
+        "queries": [
+          "gcloud compute firewall-rules create ssh icmp documentation",
+          "Google Cloud firewall rules gcloud CLI ingress ICMP SSH"
+        ]
+      },
+      {
+        "title": "Assign network tags to a VM",
+        "slug": "assign-network-tags-to-a-vm",
+        "queries": [
+          "gcloud compute instances add-tags documentation",
+          "Compute Engine network tags firewall targeting CLI"
+        ]
+      },
+      {
+        "title": "Validate connectivity and inspect effective firewall behavior",
+        "slug": "validate-connectivity-and-inspect-effective-firewall-behavior",
+        "queries": [
+          "gcloud compute firewall-rules list effective connectivity validation",
+          "Google Cloud VPC connectivity troubleshooting CLI"
+        ]
+      },
+      {
+        "title": "Troubleshoot firewall and source range issues",
+        "slug": "troubleshoot-firewall-and-source-range-issues",
+        "queries": [
+          "Google Cloud firewall troubleshooting target tags source ranges",
+          "gcloud compute firewall rule priority conflict troubleshooting"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 5: VPC Peering Configuration and Validation",
+    "slug": "module-5-vpc-peering-configuration-and-validation",
+    "children": [
+      {
+        "title": "Create two custom VPC networks",
+        "slug": "create-two-custom-vpc-networks",
+        "queries": [
+          "gcloud compute networks create custom VPC documentation",
+          "Google Cloud create multiple VPC networks gcloud CLI"
+        ]
+      },
+      {
+        "title": "Configure VPC peering",
+        "slug": "configure-vpc-peering",
+        "queries": [
+          "gcloud compute networks peerings create documentation",
+          "Google Cloud VPC peering gcloud CLI setup"
+        ]
+      },
+      {
+        "title": "Verify peering state and exchanged routes",
+        "slug": "verify-peering-state-and-exchanged-routes",
+        "queries": [
+          "gcloud compute networks peerings list describe routes documentation",
+          "VPC peering route exchange verification CLI"
+        ]
+      },
+      {
+        "title": "Deploy test VMs and validate private connectivity",
+        "slug": "deploy-test-vms-and-validate-private-connectivity",
+        "queries": [
+          "Compute Engine private connectivity test between VPCs CLI",
+          "gcloud compute ssh ping private IP peered networks"
+        ]
+      },
+      {
+        "title": "Troubleshoot peering and overlapping CIDR issues",
+        "slug": "troubleshoot-peering-and-overlapping-cidr-issues",
+        "queries": [
+          "Google Cloud VPC peering overlapping CIDR troubleshooting",
+          "gcloud network peering permission route visibility issues"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 6: IAM, Roles, and Service Accounts",
+    "slug": "module-6-iam-roles-and-service-accounts",
+    "children": [
+      {
+        "title": "Inspect and modify IAM policy",
+        "slug": "inspect-and-modify-iam-policy",
+        "queries": [
+          "gcloud projects get-iam-policy set-iam-policy documentation",
+          "Google Cloud IAM policy CLI inspect modify"
+        ]
+      },
+      {
+        "title": "Use predefined roles for ACE tasks",
+        "slug": "use-predefined-roles-for-ace-tasks",
+        "queries": [
+          "Google Cloud predefined roles for compute storage bigquery gcloud",
+          "gcloud IAM roles list predefined documentation"
+        ]
+      },
+      {
+        "title": "Create and manage service accounts",
+        "slug": "create-and-manage-service-accounts",
+        "queries": [
+          "gcloud iam service-accounts create delete documentation",
+          "Google Cloud service account lifecycle gcloud CLI"
+        ]
+      },
+      {
+        "title": "Grant roles to users and service accounts",
+        "slug": "grant-roles-to-users-and-service-accounts",
+        "queries": [
+          "gcloud projects add-iam-policy-binding service account user documentation",
+          "Google Cloud IAM role binding CLI examples"
+        ]
+      },
+      {
+        "title": "Attach a service account to a VM and verify permissions",
+        "slug": "attach-a-service-account-to-a-vm-and-verify-permissions",
+        "queries": [
+          "gcloud compute instances set-service-account documentation",
+          "Compute Engine service account permissions verification CLI"
+        ]
+      },
+      {
+        "title": "Troubleshoot permission denied and identity confusion",
+        "slug": "troubleshoot-permission-denied-and-identity-confusion",
+        "queries": [
+          "Google Cloud permission denied troubleshooting IAM service account",
+          "gcloud auth list service account user identity confusion"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 7: Cloud Storage Administration with gsutil",
+    "slug": "module-7-cloud-storage-administration-with-gsutil",
+    "children": [
+      {
+        "title": "Create buckets with gsutil",
+        "slug": "create-buckets-with-gsutil",
+        "queries": [
+          "gsutil mb bucket creation documentation",
+          "Google Cloud Storage bucket create gsutil CLI"
+        ]
+      },
+      {
+        "title": "Upload download copy move and delete objects",
+        "slug": "upload-download-copy-move-and-delete-objects",
+        "queries": [
+          "gsutil cp mv rm rsync documentation",
+          "Cloud Storage object operations gsutil examples"
+        ]
+      },
+      {
+        "title": "Inspect permissions and uniform bucket-level access",
+        "slug": "inspect-permissions-and-uniform-bucket-level-access",
+        "queries": [
+          "gsutil iam get set uniform bucket-level access documentation",
+          "Google Cloud Storage ACL IAM uniform bucket-level access CLI"
+        ]
+      },
+      {
+        "title": "Copy objects between buckets and clean up safely",
+        "slug": "copy-objects-between-buckets-and-clean-up-safely",
+        "queries": [
+          "gsutil copy between buckets recursive cleanup documentation",
+          "Cloud Storage bucket cleanup gsutil CLI"
+        ]
+      },
+      {
+        "title": "Troubleshoot access denied and naming conflicts",
+        "slug": "troubleshoot-access-denied-and-naming-conflicts",
+        "queries": [
+          "gsutil access denied bucket object troubleshooting",
+          "Google Cloud Storage bucket name conflict location mismatch gsutil"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 8: BigQuery Operations with bq",
+    "slug": "module-8-bigquery-operations-with-bq",
+    "children": [
+      {
+        "title": "Create and delete datasets",
+        "slug": "create-and-delete-datasets",
+        "queries": [
+          "bq mk rm dataset documentation",
+          "BigQuery dataset create delete bq CLI"
+        ]
+      },
+      {
+        "title": "Create tables and load sample data",
+        "slug": "create-tables-and-load-sample-data",
+        "queries": [
+          "bq load create table documentation",
+          "BigQuery load CSV JSON table bq CLI examples"
+        ]
+      },
+      {
+        "title": "Run SQL queries from the CLI",
+        "slug": "run-sql-queries-from-the-cli",
+        "queries": [
+          "bq query standard SQL documentation",
+          "BigQuery query command line bq examples"
+        ]
+      },
+      {
+        "title": "Inspect jobs and query results",
+        "slug": "inspect-jobs-and-query-results",
+        "queries": [
+          "bq ls show job history documentation",
+          "BigQuery job status result inspection bq CLI"
+        ]
+      },
+      {
+        "title": "Troubleshoot access location and billing issues",
+        "slug": "troubleshoot-access-location-and-billing-issues",
+        "queries": [
+          "BigQuery access denied dataset location mismatch billing troubleshooting",
+          "bq permission denied query job failed troubleshooting"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 9: Google Kubernetes Engine (GKE) Cluster Administration",
+    "slug": "module-9-google-kubernetes-engine-gke-cluster-administration",
+    "children": [
+      {
+        "title": "Create a GKE cluster with gcloud",
+        "slug": "create-a-gke-cluster-with-gcloud",
+        "queries": [
+          "gcloud container clusters create documentation",
+          "GKE cluster creation gcloud CLI examples"
+        ]
+      },
+      {
+        "title": "Retrieve credentials and verify access",
+        "slug": "retrieve-credentials-and-verify-access",
+        "queries": [
+          "gcloud container clusters get-credentials documentation",
+          "kubectl get nodes verify GKE access gcloud"
+        ]
+      },
+      {
+        "title": "Inspect cluster and node pool status",
+        "slug": "inspect-cluster-and-node-pool-status",
+        "queries": [
+          "gcloud container clusters describe node pools list documentation",
+          "GKE cluster status node pool inspection CLI"
+        ]
+      },
+      {
+        "title": "Scale node pools and delete cluster resources",
+        "slug": "scale-node-pools-and-delete-cluster-resources",
+        "queries": [
+          "gcloud container node-pools resize delete documentation",
+          "GKE node pool scaling deletion gcloud CLI"
+        ]
+      },
+      {
+        "title": "Troubleshoot cluster creation and access issues",
+        "slug": "troubleshoot-cluster-creation-and-access-issues",
+        "queries": [
+          "GKE cluster creation quota API authentication troubleshooting",
+          "gcloud container get-credentials permission denied troubleshooting"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 10: Billing, Quotas, and Operational Troubleshooting",
+    "slug": "module-10-billing-quotas-and-operational-troubleshooting",
+    "children": [
+      {
+        "title": "Verify billing association for a project",
+        "slug": "verify-billing-association-for-a-project",
+        "queries": [
+          "gcloud beta billing projects describe link documentation",
+          "Google Cloud project billing association CLI"
+        ]
+      },
+      {
+        "title": "Interpret budget alerts and resource failures",
+        "slug": "interpret-budget-alerts-and-resource-failures",
+        "queries": [
+          "Google Cloud budget alert troubleshooting resource creation failure",
+          "Cloud Billing budget notifications operational response"
+        ]
+      },
+      {
+        "title": "Identify quota exhaustion symptoms",
+        "slug": "identify-quota-exhaustion-symptoms",
+        "queries": [
+          "gcloud compute quotas list troubleshooting",
+          "Google Cloud quota exceeded error diagnosis CLI"
+        ]
+      },
+      {
+        "title": "Resolve API enablement and billing issues",
+        "slug": "resolve-api-enablement-and-billing-issues",
+        "queries": [
+          "gcloud services enable troubleshooting API not enabled",
+          "Google Cloud billing disabled project resource creation error"
+        ]
+      },
+      {
+        "title": "Use logs and status output for troubleshooting",
+        "slug": "use-logs-and-status-output-for-troubleshooting",
+        "queries": [
+          "gcloud logging read troubleshooting resource errors",
+          "Google Cloud command output troubleshooting logs CLI"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 11: Integrated Troubleshooting Clinic",
+    "slug": "module-11-integrated-troubleshooting-clinic",
+    "children": [
+      {
+        "title": "Read error messages and identify root cause",
+        "slug": "read-error-messages-and-identify-root-cause",
+        "queries": [
+          "Google Cloud error message root cause analysis CLI",
+          "gcloud troubleshooting permission network billing errors"
+        ]
+      },
+      {
+        "title": "Use describe list and get-iam-policy effectively",
+        "slug": "use-describe-list-and-get-iam-policy-effectively",
+        "queries": [
+          "gcloud describe list get-iam-policy troubleshooting documentation",
+          "Google Cloud resource inspection CLI commands"
+        ]
+      },
+      {
+        "title": "Fix VM deployment failures",
+        "slug": "fix-vm-deployment-failures",
+        "queries": [
+          "Compute Engine VM deployment firewall IAM troubleshooting",
+          "gcloud compute instance creation failed remediation"
+        ]
+      },
+      {
+        "title": "Repair Cloud Storage access problems",
+        "slug": "repair-cloud-storage-access-problems",
+        "queries": [
+          "gsutil access denied troubleshooting bucket permissions",
+          "Google Cloud Storage object upload download permission fix"
+        ]
+      },
+      {
+        "title": "Resolve BigQuery access issues",
+        "slug": "resolve-bigquery-access-issues",
+        "queries": [
+          "BigQuery dataset access denied troubleshooting bq",
+          "bq permission fix dataset table query access"
+        ]
+      },
+      {
+        "title": "Correct GKE access or provisioning issues",
+        "slug": "correct-gke-access-or-provisioning-issues",
+        "queries": [
+          "GKE access provisioning troubleshooting gcloud kubectl",
+          "gcloud container cluster failure remediation"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 12: ACE Capstone Lab",
+    "slug": "module-12-ace-capstone-lab",
+    "children": [
+      {
+        "title": "Project setup and API enablement",
+        "slug": "project-setup-and-api-enablement",
+        "queries": [
+          "gcloud project setup enable APIs ACE capstone",
+          "Google Cloud CLI project initialization lab"
+        ]
+      },
+      {
+        "title": "Compute Engine and VPC buildout",
+        "slug": "compute-engine-and-vpc-buildout",
+        "queries": [
+          "gcloud compute instance VPC firewall lab",
+          "Google Cloud ACE capstone compute networking CLI"
+        ]
+      },
+      {
+        "title": "VPC peering validation",
+        "slug": "vpc-peering-validation",
+        "queries": [
+          "gcloud VPC peering validation lab CLI",
+          "Google Cloud peering connectivity verification commands"
+        ]
+      },
+      {
+        "title": "IAM and service account configuration",
+        "slug": "iam-and-service-account-configuration",
+        "queries": [
+          "gcloud IAM service account capstone lab",
+          "Google Cloud role binding service account verification CLI"
+        ]
+      },
+      {
+        "title": "Cloud Storage and BigQuery operations",
+        "slug": "cloud-storage-and-bigquery-operations",
+        "queries": [
+          "gsutil bq capstone lab Google Cloud CLI",
+          "Cloud Storage BigQuery operational lab commands"
+        ]
+      },
+      {
+        "title": "GKE cluster creation and verification",
+        "slug": "gke-cluster-creation-and-verification",
+        "queries": [
+          "gcloud GKE capstone cluster creation verification",
+          "Google Cloud GKE administration lab CLI"
+        ]
+      },
+      {
+        "title": "Injected failure troubleshooting and cleanup",
+        "slug": "injected-failure-troubleshooting-and-cleanup",
+        "queries": [
+          "Google Cloud capstone troubleshooting cleanup CLI",
+          "gcloud gsutil bq resource cleanup verification"
+        ]
+      }
+    ]
+  }
+]

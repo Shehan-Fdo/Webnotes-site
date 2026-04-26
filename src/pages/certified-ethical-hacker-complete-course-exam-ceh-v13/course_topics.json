@@ -1,0 +1,626 @@
+[
+  {
+    "title": "Module 1: Ethical Hacking Foundations and CEH v13 Orientation",
+    "slug": "module-1-ethical-hacking-foundations-ceh-v13-orientation",
+    "children": [
+      {
+        "title": "Ethical Hacking Definition, Scope, and Professional Boundaries",
+        "slug": "ethical-hacking-definition-scope-professional-boundaries",
+        "queries": [
+          "ethical hacking definition scope legal authorization rules of engagement CEH v13",
+          "ethical hacking professional boundaries compliance overview"
+        ]
+      },
+      {
+        "title": "CEH v13 Methodology and Exam Orientation",
+        "slug": "ceh-v13-methodology-exam-orientation",
+        "queries": [
+          "CEH v13 exam blueprint methodology domains overview",
+          "CEH v13 question style scenario based reasoning guide"
+        ]
+      },
+      {
+        "title": "Attack Lifecycle, Kill Chain, and Security Control Types",
+        "slug": "attack-lifecycle-kill-chain-security-control-types",
+        "queries": [
+          "cyber kill chain attack lifecycle preventive detective corrective controls",
+          "reconnaissance scanning exploitation post exploitation security controls"
+        ]
+      },
+      {
+        "title": "Threat Actors, Vulnerabilities, Exploits, Risk, and Exposure",
+        "slug": "threat-actors-vulnerabilities-exploits-risk-exposure",
+        "queries": [
+          "threat actor types vulnerability exploit risk exposure distinctions",
+          "cybersecurity risk vs vulnerability vs exploit vs exposure"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 2: Footprinting and Reconnaissance",
+    "slug": "module-2-footprinting-reconnaissance",
+    "children": [
+      {
+        "title": "Passive Reconnaissance and OSINT Fundamentals",
+        "slug": "passive-reconnaissance-osint-fundamentals",
+        "queries": [
+          "passive reconnaissance OSINT techniques for ethical hacking",
+          "open source intelligence gathering for cybersecurity assessment"
+        ]
+      },
+      {
+        "title": "Domain, DNS, WHOIS, and Subdomain Enumeration",
+        "slug": "domain-dns-whois-subdomain-enumeration",
+        "queries": [
+          "WHOIS DNS dig nslookup subdomain enumeration ethical hacking",
+          "domain reconnaissance and DNS intelligence gathering"
+        ]
+      },
+      {
+        "title": "Email, Metadata, and Public Record Intelligence",
+        "slug": "email-metadata-public-record-intelligence",
+        "queries": [
+          "email metadata extraction public record intelligence ethical hacking",
+          "document metadata reconnaissance and OSINT collection"
+        ]
+      },
+      {
+        "title": "Tooling: Nmap, Maltego, theHarvester, and Shodan",
+        "slug": "tooling-nmap-maltego-theharvester-shodan",
+        "queries": [
+          "Nmap Maltego theHarvester Shodan reconnaissance documentation",
+          "OSINT mapping tools ethical hacking lab usage"
+        ]
+      },
+      {
+        "title": "Attack Surface Mapping and Reconnaissance Reporting",
+        "slug": "attack-surface-mapping-reconnaissance-reporting",
+        "queries": [
+          "attack surface mapping methodology reconnaissance report",
+          "ethical hacking reconnaissance findings documentation"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 3: Scanning Networks and Enumeration",
+    "slug": "module-3-scanning-networks-enumeration",
+    "children": [
+      {
+        "title": "Host Discovery and Port Scanning Concepts",
+        "slug": "host-discovery-port-scanning-concepts",
+        "queries": [
+          "host discovery port scanning TCP UDP scan types Nmap",
+          "network scanning concepts for CEH exam"
+        ]
+      },
+      {
+        "title": "Service, Version, and OS Detection",
+        "slug": "service-version-os-detection",
+        "queries": [
+          "Nmap service version detection OS detection output interpretation",
+          "service fingerprinting and operating system detection ethical hacking"
+        ]
+      },
+      {
+        "title": "Banner Grabbing and Basic Enumeration",
+        "slug": "banner-grabbing-basic-enumeration",
+        "queries": [
+          "banner grabbing netcat enumeration examples",
+          "service enumeration HTTP SMB FTP SNMP LDAP SMTP DNS SSH RDP"
+        ]
+      },
+      {
+        "title": "Tooling: Nmap, Netcat, Gobuster, Dirb, and Nikto",
+        "slug": "tooling-nmap-netcat-gobuster-dirb-nikto",
+        "queries": [
+          "Nmap Netcat Gobuster Dirb Nikto ethical hacking lab usage",
+          "web and network enumeration tools documentation"
+        ]
+      },
+      {
+        "title": "Enumeration of Common Network Services",
+        "slug": "enumeration-common-network-services",
+        "queries": [
+          "SMB FTP HTTP SNMP LDAP SMTP DNS SSH RDP enumeration guide",
+          "common service enumeration for penetration testing"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 4: Vulnerability Analysis and Assessment",
+    "slug": "module-4-vulnerability-analysis-assessment",
+    "children": [
+      {
+        "title": "Vulnerability Identification Workflow and Risk Prioritization",
+        "slug": "vulnerability-identification-workflow-risk-prioritization",
+        "queries": [
+          "vulnerability assessment workflow CVSS risk prioritization",
+          "false positives confirmed findings remediation planning"
+        ]
+      },
+      {
+        "title": "Authenticated vs Unauthenticated Scanning",
+        "slug": "authenticated-vs-unauthenticated-scanning",
+        "queries": [
+          "authenticated vulnerability scanning vs unauthenticated scanning",
+          "scanner credentialed scan benefits and limitations"
+        ]
+      },
+      {
+        "title": "Tooling: Nessus and OpenVAS Greenbone",
+        "slug": "tooling-nessus-openvas-greenbone",
+        "queries": [
+          "Nessus OpenVAS Greenbone report interpretation remediation",
+          "vulnerability scanner output analysis CEH"
+        ]
+      },
+      {
+        "title": "Patch Management, Configuration Weaknesses, and Retesting",
+        "slug": "patch-management-configuration-weaknesses-retesting",
+        "queries": [
+          "patch management lifecycle compensating controls retesting",
+          "configuration weakness remediation verification vulnerability management"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 5: System Hacking and Credential Attacks",
+    "slug": "module-5-system-hacking-credential-attacks",
+    "children": [
+      {
+        "title": "Password Storage, Hashing, and Salting Basics",
+        "slug": "password-storage-hashing-salting-basics",
+        "queries": [
+          "password hashing salting key derivation basics cybersecurity",
+          "hashing algorithms and password storage best practices"
+        ]
+      },
+      {
+        "title": "Password Attack Types and Offline Cracking",
+        "slug": "password-attack-types-offline-cracking",
+        "queries": [
+          "brute force dictionary hybrid password spraying credential stuffing",
+          "offline hash cracking concepts John the Ripper Hashcat"
+        ]
+      },
+      {
+        "title": "Tooling: Hydra, John the Ripper, and Hashcat",
+        "slug": "tooling-hydra-john-the-ripper-hashcat",
+        "queries": [
+          "Hydra John the Ripper Hashcat lab usage and output interpretation",
+          "password auditing tools documentation ethical hacking"
+        ]
+      },
+      {
+        "title": "Privilege Escalation Fundamentals on Windows and Linux",
+        "slug": "privilege-escalation-fundamentals-windows-linux",
+        "queries": [
+          "Windows Linux privilege escalation fundamentals enumeration",
+          "common misconfigurations enabling privilege escalation"
+        ]
+      },
+      {
+        "title": "Tooling: Mimikatz, Impacket, and BloodHound",
+        "slug": "tooling-mimikatz-impacket-bloodhound",
+        "queries": [
+          "Mimikatz Impacket BloodHound Active Directory attack path analysis",
+          "credential abuse and AD enumeration tools documentation"
+        ]
+      },
+      {
+        "title": "Persistence, Lateral Movement, and Credential Abuse Concepts",
+        "slug": "persistence-lateral-movement-credential-abuse-concepts",
+        "queries": [
+          "persistence lateral movement token abuse conceptual overview",
+          "credential abuse and session token security concepts"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 6: Malware Threats and Analysis",
+    "slug": "module-6-malware-threats-analysis",
+    "children": [
+      {
+        "title": "Malware Categories and Lifecycle",
+        "slug": "malware-categories-lifecycle",
+        "queries": [
+          "malware categories virus worm trojan ransomware spyware rootkit botnet wiper",
+          "malware lifecycle delivery execution persistence evasion impact"
+        ]
+      },
+      {
+        "title": "Static and Dynamic Malware Analysis",
+        "slug": "static-dynamic-malware-analysis",
+        "queries": [
+          "static analysis dynamic analysis malware beginner guide",
+          "malware analysis indicators of compromise sandboxing"
+        ]
+      },
+      {
+        "title": "Tooling: VirusTotal, Cuckoo Sandbox, and YARA",
+        "slug": "tooling-virustotal-cuckoo-sandbox-yara",
+        "queries": [
+          "VirusTotal Cuckoo Sandbox YARA rule concepts documentation",
+          "malware sandbox analysis and YARA detection rules"
+        ]
+      },
+      {
+        "title": "Indicators of Compromise and Threat Hunting Basics",
+        "slug": "indicators-of-compromise-threat-hunting-basics",
+        "queries": [
+          "indicators of compromise threat hunting basics malware analysis",
+          "IOC enrichment containment and detection workflow"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 7: Sniffing and Man-in-the-Middle Attacks",
+    "slug": "module-7-sniffing-man-in-the-middle-attacks",
+    "children": [
+      {
+        "title": "Packet Capture Fundamentals and Promiscuous Mode",
+        "slug": "packet-capture-fundamentals-promiscuous-mode",
+        "queries": [
+          "packet capture fundamentals promiscuous mode Wireshark",
+          "network sniffing basics for ethical hacking"
+        ]
+      },
+      {
+        "title": "ARP Spoofing and MITM Concepts",
+        "slug": "arp-spoofing-mitm-concepts",
+        "queries": [
+          "ARP spoofing poisoning man in the middle concepts",
+          "MITM attack lifecycle and network defense"
+        ]
+      },
+      {
+        "title": "Tooling: Wireshark and Ettercap",
+        "slug": "tooling-wireshark-ettercap",
+        "queries": [
+          "Wireshark Ettercap lab usage packet analysis",
+          "network sniffing tools documentation and output interpretation"
+        ]
+      },
+      {
+        "title": "Cleartext Protocol Risks and Network Protections",
+        "slug": "cleartext-protocol-risks-network-protections",
+        "queries": [
+          "cleartext protocol risks TLS adoption network segmentation",
+          "defenses against sniffing and MITM attacks"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 8: Social Engineering",
+    "slug": "module-8-social-engineering",
+    "children": [
+      {
+        "title": "Psychological Principles and Human Factors",
+        "slug": "psychological-principles-human-factors",
+        "queries": [
+          "social engineering psychological principles trust authority urgency",
+          "human factors in cybersecurity social engineering"
+        ]
+      },
+      {
+        "title": "Phishing, Spear Phishing, Vishing, Smishing, and Pretexting",
+        "slug": "phishing-spear-phishing-vishing-smishing-pretexting",
+        "queries": [
+          "phishing spear phishing vishing smishing pretexting definitions",
+          "social engineering attack types and examples"
+        ]
+      },
+      {
+        "title": "Defensive Awareness, Reporting, and Verification Procedures",
+        "slug": "defensive-awareness-reporting-verification-procedures",
+        "queries": [
+          "security awareness training phishing reporting workflow",
+          "email authentication SPF DKIM DMARC social engineering defense"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 9: Session Hijacking and Web Session Security",
+    "slug": "module-9-session-hijacking-web-session-security",
+    "children": [
+      {
+        "title": "Session Concepts, Cookies, and Token Lifecycle",
+        "slug": "session-concepts-cookies-token-lifecycle",
+        "queries": [
+          "web session lifecycle cookies tokens session identifiers",
+          "session management security concepts for CEH"
+        ]
+      },
+      {
+        "title": "Session Hijacking, Fixation, and Replay Concepts",
+        "slug": "session-hijacking-fixation-replay-concepts",
+        "queries": [
+          "session hijacking fixation replay token theft concepts",
+          "secure cookie attributes and session binding"
+        ]
+      },
+      {
+        "title": "Tooling: Burp Suite and Browser Developer Tools",
+        "slug": "tooling-burp-suite-browser-developer-tools",
+        "queries": [
+          "Burp Suite proxy interception session analysis documentation",
+          "browser developer tools cookies headers session inspection"
+        ]
+      },
+      {
+        "title": "CSRF Protections and Secure Session Handling",
+        "slug": "csrf-protections-secure-session-handling",
+        "queries": [
+          "CSRF token concepts secure cookie flags session timeout rotation",
+          "web session security best practices"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 10: Web Application Attacks",
+    "slug": "module-10-web-application-attacks",
+    "children": [
+      {
+        "title": "Web Application Architecture and OWASP Top 10 Overview",
+        "slug": "web-application-architecture-owasp-top-10-overview",
+        "queries": [
+          "web application architecture OWASP Top 10 overview",
+          "OWASP Top 10 CEH web application security"
+        ]
+      },
+      {
+        "title": "SQL Injection and Database Interaction Flaws",
+        "slug": "sql-injection-database-interaction-flaws",
+        "queries": [
+          "SQL injection concepts parameterized queries SQLmap",
+          "SQL injection detection and remediation guide"
+        ]
+      },
+      {
+        "title": "Cross-Site Scripting, CSRF, and Broken Access Control",
+        "slug": "cross-site-scripting-csrf-broken-access-control",
+        "queries": [
+          "XSS CSRF broken access control OWASP concepts",
+          "web authorization flaws and output encoding"
+        ]
+      },
+      {
+        "title": "File Inclusion, Command Injection, and Directory Traversal",
+        "slug": "file-inclusion-command-injection-directory-traversal",
+        "queries": [
+          "file inclusion command injection directory traversal concepts",
+          "web input validation and path traversal defense"
+        ]
+      },
+      {
+        "title": "Tooling: Burp Suite, SQLmap, Nikto, Gobuster, and Dirb",
+        "slug": "tooling-burp-suite-sqlmap-nikto-gobuster-dirb",
+        "queries": [
+          "Burp Suite SQLmap Nikto Gobuster Dirb web testing documentation",
+          "web application security testing tools output interpretation"
+        ]
+      },
+      {
+        "title": "Lab Practice on DVWA and OWASP Juice Shop",
+        "slug": "lab-practice-dvwa-owasp-juice-shop",
+        "queries": [
+          "DVWA OWASP Juice Shop lab exercises web vulnerabilities",
+          "safe web application attack lab documentation"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 11: Cryptography and Cryptographic Attacks",
+    "slug": "module-11-cryptography-cryptographic-attacks",
+    "children": [
+      {
+        "title": "Symmetric and Asymmetric Cryptography",
+        "slug": "symmetric-asymmetric-cryptography",
+        "queries": [
+          "symmetric vs asymmetric cryptography fundamentals",
+          "public key cryptography and encryption basics"
+        ]
+      },
+      {
+        "title": "Hashing, Salting, and Key Derivation",
+        "slug": "hashing-salting-key-derivation",
+        "queries": [
+          "hashing salting key derivation password security",
+          "cryptographic hash functions and password storage"
+        ]
+      },
+      {
+        "title": "TLS, SSL, Certificates, and PKI",
+        "slug": "tls-ssl-certificates-pki",
+        "queries": [
+          "TLS SSL certificates PKI chain validation",
+          "certificate management and secure transport concepts"
+        ]
+      },
+      {
+        "title": "Weak Cryptography and Misconfiguration Analysis",
+        "slug": "weak-cryptography-misconfiguration-analysis",
+        "queries": [
+          "weak cryptography misconfiguration analysis CEH",
+          "modern cipher suites and cryptographic failures"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 12: Cloud Hacking and Cloud Security",
+    "slug": "module-12-cloud-hacking-cloud-security",
+    "children": [
+      {
+        "title": "Cloud Shared Responsibility Model and Service Models",
+        "slug": "cloud-shared-responsibility-service-models",
+        "queries": [
+          "cloud shared responsibility model IaaS PaaS SaaS",
+          "cloud service models security responsibilities"
+        ]
+      },
+      {
+        "title": "Cloud IAM, Storage Exposure, and Over-Permissioning",
+        "slug": "cloud-iam-storage-exposure-over-permissioning",
+        "queries": [
+          "AWS IAM S3 Azure Entra ID GCP IAM over permissioning",
+          "cloud storage exposure and identity misconfiguration"
+        ]
+      },
+      {
+        "title": "Cloud Logging, Monitoring, and Posture Management",
+        "slug": "cloud-logging-monitoring-posture-management",
+        "queries": [
+          "CloudTrail Azure Defender for Cloud GCP Cloud Logging",
+          "cloud security posture management logging monitoring"
+        ]
+      },
+      {
+        "title": "Container and Orchestration Security Basics",
+        "slug": "container-orchestration-security-basics",
+        "queries": [
+          "container security basics Kubernetes security overview",
+          "cloud container orchestration security concepts"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 13: Wireless, Mobile, and IoT Security Overview",
+    "slug": "module-13-wireless-mobile-iot-security-overview",
+    "children": [
+      {
+        "title": "Wi-Fi Security Fundamentals and Rogue AP Concepts",
+        "slug": "wi-fi-security-fundamentals-rogue-ap-concepts",
+        "queries": [
+          "Wi-Fi security fundamentals WPA2 WPA3 rogue access point",
+          "wireless security concepts for CEH"
+        ]
+      },
+      {
+        "title": "Bluetooth, Mobile, and Device Attack Surfaces",
+        "slug": "bluetooth-mobile-device-attack-surfaces",
+        "queries": [
+          "Bluetooth security mobile attack surface overview",
+          "mobile device security and MDM concepts"
+        ]
+      },
+      {
+        "title": "IoT Risks and Defensive Controls",
+        "slug": "iot-risks-defensive-controls",
+        "queries": [
+          "IoT security risks common weaknesses defensive controls",
+          "IoT inventory segmentation hardening guide"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 14: Cryptography, Steganography, and Data Protection Concepts",
+    "slug": "module-14-cryptography-steganography-data-protection-concepts",
+    "children": [
+      {
+        "title": "Data Confidentiality, Integrity, and Availability",
+        "slug": "data-confidentiality-integrity-availability",
+        "queries": [
+          "CIA triad data confidentiality integrity availability",
+          "data protection concepts cybersecurity"
+        ]
+      },
+      {
+        "title": "Steganography Concepts and Detection",
+        "slug": "steganography-concepts-detection",
+        "queries": [
+          "steganography concepts detection file analysis",
+          "hidden data detection in images and files"
+        ]
+      },
+      {
+        "title": "Data Loss Prevention, Secure Deletion, and Backup Security",
+        "slug": "data-loss-prevention-secure-deletion-backup-security",
+        "queries": [
+          "DLP secure deletion backup security ransomware resilience",
+          "data handling retention and backup protection"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 15: Penetration Testing Methodology and Reporting",
+    "slug": "module-15-penetration-testing-methodology-reporting",
+    "children": [
+      {
+        "title": "Scoping, Authorization, and Rules of Engagement",
+        "slug": "scoping-authorization-rules-of-engagement",
+        "queries": [
+          "penetration testing scoping authorization rules of engagement",
+          "ethical hacking engagement planning and legal boundaries"
+        ]
+      },
+      {
+        "title": "Evidence Collection, Severity, and Business Impact",
+        "slug": "evidence-collection-severity-business-impact",
+        "queries": [
+          "penetration test evidence collection severity business impact",
+          "finding prioritization and risk communication"
+        ]
+      },
+      {
+        "title": "Executive Summary, Technical Report, and Retesting",
+        "slug": "executive-summary-technical-report-retesting",
+        "queries": [
+          "penetration test report executive summary technical findings retesting",
+          "security assessment reporting best practices"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 16: CEH v13 Exam Preparation and Practice",
+    "slug": "module-16-ceh-v13-exam-preparation-practice",
+    "children": [
+      {
+        "title": "Exam Blueprint Alignment and High-Frequency Topics",
+        "slug": "exam-blueprint-alignment-high-frequency-topics",
+        "queries": [
+          "CEH v13 exam blueprint high frequency topics",
+          "CEH v13 domain review and topic mapping"
+        ]
+      },
+      {
+        "title": "Question Patterns, Distractors, and Terminology Traps",
+        "slug": "question-patterns-distractors-terminology-traps",
+        "queries": [
+          "CEH exam question patterns distractors terminology traps",
+          "multiple choice cybersecurity exam reasoning strategies"
+        ]
+      },
+      {
+        "title": "Scenario-Based Reasoning and Tool-to-Task Mapping",
+        "slug": "scenario-based-reasoning-tool-to-task-mapping",
+        "queries": [
+          "scenario based cybersecurity exam reasoning tool to task mapping",
+          "CEH v13 scenario questions and answer rationales"
+        ]
+      },
+      {
+        "title": "Final Review Exam and Practice Question Bank",
+        "slug": "final-review-exam-practice-question-bank",
+        "queries": [
+          "CEH v13 practice questions with explanations",
+          "cybersecurity certification final review exam questions"
+        ]
+      }
+    ]
+  }
+]

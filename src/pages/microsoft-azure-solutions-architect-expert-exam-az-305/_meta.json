@@ -1,0 +1,4 @@
+{
+  "label": "Microsoft Azure Solutions Architect Expert (Exam AZ-305)",
+  "description": "Microsoft Azure Solutions Architect Expert (Exam AZ-305) is a practical study notes course focused on enterprise Azure architecture design, not basic administration. It covers AZ-305 exam domains through real-world scenarios and labs, including Azure Virtual WAN, hybrid identity with Microsoft Entra ID Connect, globally distributed Cosmos DB solutions, multi-tier deployments with Bicep, and VMware-to-Azure migration planning with Azure Migrate."
+}

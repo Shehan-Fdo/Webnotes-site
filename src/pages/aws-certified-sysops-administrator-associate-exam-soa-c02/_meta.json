@@ -1,0 +1,4 @@
+{
+  "label": "AWS Certified SysOps Administrator – Associate (Exam SOA-C02)",
+  "description": "Hands-on study notes for AWS Certified SysOps Administrator – Associate (Exam SOA-C02), built as a fully lab-driven course with no introductory theory. You’ll deploy and troubleshoot highly available AWS environments using exact AWS CLI commands and CloudFormation templates, then practice real operational workflows for VPCs, EC2, SSM Patch Manager, CloudWatch alarms, RDS recovery, backup validation, and AWS Organizations SCP enforcement."
+}

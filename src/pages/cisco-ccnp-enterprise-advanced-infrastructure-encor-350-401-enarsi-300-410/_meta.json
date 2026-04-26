@@ -1,0 +1,4 @@
+{
+  "label": "Cisco CCNP Enterprise Advanced Infrastructure (ENCOR 350-401 & ENARSI 300-410)",
+  "description": "Practical CCNP Enterprise study notes for ENCOR 350-401 and ENARSI 300-410, built for hands-on exam prep in CML or EVE-NG with Cisco IOS XE-focused labs, exact syntax, debug-driven troubleshooting, and real-world misconfiguration fixes. Covers advanced routing and enterprise operations including multi-area OSPF, BGP policy and peering, redistribution, VRFs, IPv6, campus switching, SD-Access, SD-WAN, and automation with Python, REST APIs, NETCONF/RESTCONF, and YANG models."
+}

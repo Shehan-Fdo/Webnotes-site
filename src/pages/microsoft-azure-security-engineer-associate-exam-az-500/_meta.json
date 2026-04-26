@@ -1,0 +1,4 @@
+{
+  "label": "Microsoft Azure Security Engineer Associate (Exam AZ-500)",
+  "description": "Hands-on study notes for Microsoft Azure Security Engineer Associate (Exam AZ-500) focused on practical Azure security deployment, not theory. Follow step-by-step labs to configure Microsoft Defender for Cloud, build custom Azure Policies, implement Entra ID Conditional Access, secure VNet peering with Azure Firewall, and use exact Azure CLI/PowerShell commands for RBAC, key rotation, and incident response."
+}

@@ -1,0 +1,618 @@
+[
+  {
+    "title": "Module 1: Advanced Enterprise Lab Foundation and Operational Workflow",
+    "slug": "module-1-advanced-enterprise-lab-foundation-and-operational-workflow",
+    "children": [
+      {
+        "title": "Lab environment setup in CML or EVE-NG",
+        "slug": "lab-environment-setup-in-cml-or-eve-ng",
+        "queries": [
+          "Cisco Modeling Labs IOS XE enterprise lab setup CML EVE-NG",
+          "EVE-NG Cisco IOS XE lab environment best practices"
+        ]
+      },
+      {
+        "title": "IOS XE image selection and device role planning",
+        "slug": "ios-xe-image-selection-and-device-role-planning",
+        "queries": [
+          "Cisco IOS XE image selection for CML EVE-NG enterprise routing switching",
+          "Cisco IOS XE device role planning lab topology enterprise"
+        ]
+      },
+      {
+        "title": "Interface naming conventions and baseline management",
+        "slug": "interface-naming-conventions-and-baseline-management",
+        "queries": [
+          "Cisco IOS XE interface naming conventions enterprise lab baseline",
+          "Cisco configuration baseline management rollback workflow"
+        ]
+      },
+      {
+        "title": "Configuration backup, rollback, and documentation workflow",
+        "slug": "configuration-backup-rollback-and-documentation-workflow",
+        "queries": [
+          "Cisco IOS XE configuration archive rollback workflow",
+          "enterprise network configuration backup restore documentation best practices"
+        ]
+      },
+      {
+        "title": "Verification discipline and troubleshooting methodology",
+        "slug": "verification-discipline-and-troubleshooting-methodology",
+        "queries": [
+          "Cisco structured troubleshooting methodology show debug verification workflow",
+          "enterprise network troubleshooting methodology control plane data plane management plane"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 2: OSPF Multi-Area Design and Troubleshooting",
+    "slug": "module-2-ospf-multi-area-design-and-troubleshooting",
+    "children": [
+      {
+        "title": "Multi-area OSPF deployment",
+        "slug": "multi-area-ospf-deployment",
+        "queries": [
+          "Cisco IOS XE multi-area OSPF configuration enterprise",
+          "OSPF multi-area design Cisco IOS XE verification"
+        ]
+      },
+      {
+        "title": "Area 0 dependency design",
+        "slug": "area-0-dependency-design",
+        "queries": [
+          "OSPF area 0 dependency design Cisco enterprise",
+          "Cisco OSPF backbone area design troubleshooting"
+        ]
+      },
+      {
+        "title": "Stub, totally stubby, NSSA, and totally NSSA behavior",
+        "slug": "stub-totally-stubby-nssa-and-totally-nssa-behavior",
+        "queries": [
+          "Cisco OSPF stub totally stubby NSSA totally NSSA IOS XE",
+          "OSPF area types Cisco IOS XE operational behavior"
+        ]
+      },
+      {
+        "title": "Summarization at ABR and ASBR",
+        "slug": "summarization-at-abr-and-asbr",
+        "queries": [
+          "Cisco OSPF ABR ASBR summarization IOS XE",
+          "OSPF route summarization Cisco enterprise troubleshooting"
+        ]
+      },
+      {
+        "title": "Authentication and adjacency troubleshooting",
+        "slug": "authentication-and-adjacency-troubleshooting",
+        "queries": [
+          "Cisco OSPF authentication adjacency troubleshooting IOS XE",
+          "OSPF neighbor stuck exstart mtu mismatch authentication failure Cisco"
+        ]
+      },
+      {
+        "title": "LSA types and route propagation behavior",
+        "slug": "lsa-types-and-route-propagation-behavior",
+        "queries": [
+          "Cisco OSPF LSA types route propagation IOS XE",
+          "OSPF LSA flooding behavior Cisco enterprise verification"
+        ]
+      },
+      {
+        "title": "Redistribution into and out of OSPF",
+        "slug": "redistribution-into-and-out-of-ospf",
+        "queries": [
+          "Cisco OSPF redistribution route-map tag IOS XE",
+          "OSPF redistribution troubleshooting Cisco enterprise"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 3: EIGRP in Enterprise Redistribution and Legacy Integration Scenarios",
+    "slug": "module-3-eigrp-in-enterprise-redistribution-and-legacy-integration-scenarios",
+    "children": [
+      {
+        "title": "EIGRP adjacency and topology behavior",
+        "slug": "eigrp-adjacency-and-topology-behavior",
+        "queries": [
+          "Cisco EIGRP adjacency topology table IOS XE",
+          "EIGRP neighbor troubleshooting Cisco enterprise"
+        ]
+      },
+      {
+        "title": "Feasible successor logic in operational troubleshooting",
+        "slug": "feasible-successor-logic-in-operational-troubleshooting",
+        "queries": [
+          "Cisco EIGRP feasible successor troubleshooting IOS XE",
+          "EIGRP successor feasible successor operational behavior"
+        ]
+      },
+      {
+        "title": "Redistribution between EIGRP, OSPF, and BGP",
+        "slug": "redistribution-between-eigrp-ospf-and-bgp",
+        "queries": [
+          "Cisco EIGRP OSPF BGP redistribution route-map IOS XE",
+          "mixed protocol redistribution Cisco enterprise troubleshooting"
+        ]
+      },
+      {
+        "title": "Route tagging and loop avoidance",
+        "slug": "route-tagging-and-loop-avoidance",
+        "queries": [
+          "Cisco route tagging loop prevention redistribution IOS XE",
+          "EIGRP OSPF BGP route tag route-map loop avoidance"
+        ]
+      },
+      {
+        "title": "Metric manipulation and route filtering",
+        "slug": "metric-manipulation-and-route-filtering",
+        "queries": [
+          "Cisco EIGRP metric manipulation route filtering IOS XE",
+          "EIGRP redistribution metric route-map prefix-list Cisco"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 4: Advanced BGP for Enterprise Edge and Core",
+    "slug": "module-4-advanced-bgp-for-enterprise-edge-and-core",
+    "children": [
+      {
+        "title": "eBGP and iBGP design",
+        "slug": "ebgp-and-ibgp-design",
+        "queries": [
+          "Cisco eBGP iBGP enterprise edge core design IOS XE",
+          "BGP design enterprise dual-homed edge Cisco"
+        ]
+      },
+      {
+        "title": "Neighbor establishment and update-source behavior",
+        "slug": "neighbor-establishment-and-update-source-behavior",
+        "queries": [
+          "Cisco BGP neighbor establishment update-source troubleshooting IOS XE",
+          "BGP session not established update-source loopback Cisco"
+        ]
+      },
+      {
+        "title": "Next-hop handling",
+        "slug": "next-hop-handling",
+        "queries": [
+          "Cisco BGP next-hop handling next-hop-self IOS XE",
+          "BGP next hop reachability enterprise troubleshooting"
+        ]
+      },
+      {
+        "title": "Route reflection concepts where applicable",
+        "slug": "route-reflection-concepts-where-applicable",
+        "queries": [
+          "Cisco BGP route reflector IOS XE enterprise",
+          "BGP route reflection design and troubleshooting Cisco"
+        ]
+      },
+      {
+        "title": "BGP attributes and policy control",
+        "slug": "bgp-attributes-and-policy-control",
+        "queries": [
+          "Cisco BGP attributes local preference MED communities AS path IOS XE",
+          "BGP policy control route-map prefix-list Cisco enterprise"
+        ]
+      },
+      {
+        "title": "Prefix filtering, AS-path manipulation, local preference, MED, communities",
+        "slug": "prefix-filtering-as-path-manipulation-local-preference-med-communities",
+        "queries": [
+          "Cisco BGP prefix-list AS-path local preference MED communities configuration",
+          "BGP route policy filtering manipulation Cisco IOS XE"
+        ]
+      },
+      {
+        "title": "Default route injection and controlled advertisement",
+        "slug": "default-route-injection-and-controlled-advertisement",
+        "queries": [
+          "Cisco BGP default route injection controlled advertisement IOS XE",
+          "BGP originate default route route-map Cisco enterprise"
+        ]
+      },
+      {
+        "title": "BGP troubleshooting using exact IOS XE commands and debug outputs",
+        "slug": "bgp-troubleshooting-using-exact-ios-xe-commands-and-debug-outputs",
+        "queries": [
+          "Cisco BGP troubleshooting show ip bgp debug ip bgp IOS XE",
+          "BGP session troubleshooting Cisco IOS XE exact commands"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 5: Route Redistribution, Policy Control, and VRF-Lite",
+    "slug": "module-5-route-redistribution-policy-control-and-vrf-lite",
+    "children": [
+      {
+        "title": "Redistribution between OSPF, EIGRP, BGP, and static routes",
+        "slug": "redistribution-between-ospf-eigrp-bgp-and-static-routes",
+        "queries": [
+          "Cisco route redistribution OSPF EIGRP BGP static IOS XE",
+          "enterprise redistribution policy control Cisco IOS XE"
+        ]
+      },
+      {
+        "title": "Mutual redistribution hazards",
+        "slug": "mutual-redistribution-hazards",
+        "queries": [
+          "Cisco mutual redistribution loop prevention IOS XE",
+          "route redistribution hazards Cisco enterprise troubleshooting"
+        ]
+      },
+      {
+        "title": "Route-map design",
+        "slug": "route-map-design",
+        "queries": [
+          "Cisco route-map design redistribution filtering IOS XE",
+          "route-map match set policy Cisco enterprise"
+        ]
+      },
+      {
+        "title": "Administrative distance tuning",
+        "slug": "administrative-distance-tuning",
+        "queries": [
+          "Cisco administrative distance tuning IOS XE enterprise",
+          "route preference administrative distance Cisco troubleshooting"
+        ]
+      },
+      {
+        "title": "VRF-Lite deployment",
+        "slug": "vrf-lite-deployment",
+        "queries": [
+          "Cisco VRF-Lite IOS XE configuration enterprise",
+          "VRF-Lite routing separation Cisco IOS XE"
+        ]
+      },
+      {
+        "title": "Inter-VRF route leaking methods",
+        "slug": "inter-vrf-route-leaking-methods",
+        "queries": [
+          "Cisco inter-VRF route leaking static route import export IOS XE",
+          "VRF route leaking methods Cisco enterprise"
+        ]
+      },
+      {
+        "title": "Enterprise segmentation use cases",
+        "slug": "enterprise-segmentation-use-cases",
+        "queries": [
+          "Cisco VRF enterprise segmentation use cases IOS XE",
+          "multi-tenant VRF-Lite enterprise design Cisco"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 6: IPv6 Enterprise Routing and Dual-Stack Operations",
+    "slug": "module-6-ipv6-enterprise-routing-and-dual-stack-operations",
+    "children": [
+      {
+        "title": "Dual-stack routing design",
+        "slug": "dual-stack-routing-design",
+        "queries": [
+          "Cisco dual-stack routing design IOS XE enterprise",
+          "IPv4 IPv6 dual stack enterprise routing Cisco"
+        ]
+      },
+      {
+        "title": "OSPFv3 and BGP IPv6 behavior",
+        "slug": "ospfv3-and-bgp-ipv6-behavior",
+        "queries": [
+          "Cisco OSPFv3 BGP IPv6 IOS XE configuration",
+          "OSPFv3 BGP IPv6 troubleshooting Cisco enterprise"
+        ]
+      },
+      {
+        "title": "IPv6 redistribution and filtering",
+        "slug": "ipv6-redistribution-and-filtering",
+        "queries": [
+          "Cisco IPv6 redistribution filtering IOS XE",
+          "BGP OSPFv3 IPv6 route-map prefix-list Cisco"
+        ]
+      },
+      {
+        "title": "Link-local next-hop behavior",
+        "slug": "link-local-next-hop-behavior",
+        "queries": [
+          "Cisco IPv6 link-local next-hop behavior IOS XE",
+          "OSPFv3 BGP IPv6 link local next hop troubleshooting"
+        ]
+      },
+      {
+        "title": "Troubleshooting dual-stack adjacency and reachability issues",
+        "slug": "troubleshooting-dual-stack-adjacency-and-reachability-issues",
+        "queries": [
+          "Cisco dual stack adjacency troubleshooting IOS XE",
+          "IPv6 reachability troubleshooting show commands Cisco enterprise"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 7: Campus Switching, STP, EtherChannel, and FHRP Troubleshooting",
+    "slug": "module-7-campus-switching-stp-etherchannel-and-fhrp-troubleshooting",
+    "children": [
+      {
+        "title": "Rapid PVST+ and MST operational behavior",
+        "slug": "rapid-pvst-and-mst-operational-behavior",
+        "queries": [
+          "Cisco Rapid PVST MST operational behavior IOS XE",
+          "STP variants Cisco enterprise troubleshooting"
+        ]
+      },
+      {
+        "title": "Root bridge placement and loop prevention",
+        "slug": "root-bridge-placement-and-loop-prevention",
+        "queries": [
+          "Cisco STP root bridge placement loop prevention IOS XE",
+          "spanning tree root placement enterprise campus Cisco"
+        ]
+      },
+      {
+        "title": "EtherChannel negotiation and failure modes",
+        "slug": "etherchannel-negotiation-and-failure-modes",
+        "queries": [
+          "Cisco EtherChannel LACP negotiation troubleshooting IOS XE",
+          "EtherChannel mismatch failure modes Cisco enterprise"
+        ]
+      },
+      {
+        "title": "HSRP, VRRP, and GLBP deployment and validation",
+        "slug": "hsrp-vrrp-and-glbp-deployment-and-validation",
+        "queries": [
+          "Cisco HSRP VRRP GLBP deployment validation IOS XE",
+          "first hop redundancy protocol troubleshooting Cisco enterprise"
+        ]
+      },
+      {
+        "title": "Inter-VLAN routing and multilayer switching behavior",
+        "slug": "inter-vlan-routing-and-multilayer-switching-behavior",
+        "queries": [
+          "Cisco inter-VLAN routing multilayer switching IOS XE",
+          "SVI routing behavior Cisco campus switching"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 8: Cisco SD-Access Architecture and Fabric Operations",
+    "slug": "module-8-cisco-sd-access-architecture-and-fabric-operations",
+    "children": [
+      {
+        "title": "SD-Access underlay and overlay architecture",
+        "slug": "sd-access-underlay-and-overlay-architecture",
+        "queries": [
+          "Cisco SD-Access underlay overlay architecture Catalyst Center",
+          "SD-Access fabric architecture LISP VXLAN Cisco"
+        ]
+      },
+      {
+        "title": "Fabric roles: edge, border, control plane, and fusion",
+        "slug": "fabric-roles-edge-border-control-plane-and-fusion",
+        "queries": [
+          "Cisco SD-Access fabric roles edge border control plane fusion",
+          "Catalyst Center fabric node roles Cisco SD-Access"
+        ]
+      },
+      {
+        "title": "LISP and VXLAN operational behavior",
+        "slug": "lisp-and-vxlan-operational-behavior",
+        "queries": [
+          "Cisco SD-Access LISP VXLAN operational behavior IOS XE",
+          "LISP VXLAN troubleshooting Cisco fabric overlay"
+        ]
+      },
+      {
+        "title": "Fabric provisioning and policy application",
+        "slug": "fabric-provisioning-and-policy-application",
+        "queries": [
+          "Cisco Catalyst Center SD-Access fabric provisioning policy application",
+          "SD-Access provisioning workflow Cisco enterprise"
+        ]
+      },
+      {
+        "title": "Device onboarding and fabric extension",
+        "slug": "device-onboarding-and-fabric-extension",
+        "queries": [
+          "Cisco SD-Access device onboarding fabric extension Catalyst Center",
+          "fabric extension onboarding troubleshooting Cisco SD-Access"
+        ]
+      },
+      {
+        "title": "Troubleshooting fabric control-plane and data-plane issues",
+        "slug": "troubleshooting-fabric-control-plane-and-data-plane-issues",
+        "queries": [
+          "Cisco SD-Access troubleshooting control plane data plane IOS XE",
+          "SD-Access fabric troubleshooting LISP reachability policy failure"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 9: Cisco SD-WAN Deployment and Policy Operations",
+    "slug": "module-9-cisco-sd-wan-deployment-and-policy-operations",
+    "children": [
+      {
+        "title": "SD-WAN architecture and control connections",
+        "slug": "sd-wan-architecture-and-control-connections",
+        "queries": [
+          "Cisco SD-WAN architecture control connections vManage vSmart vBond",
+          "SD-WAN control plane architecture Cisco enterprise"
+        ]
+      },
+      {
+        "title": "OMP, TLOCs, transport tunnels, and VPN segmentation",
+        "slug": "omp-tlocs-transport-tunnels-and-vpn-segmentation",
+        "queries": [
+          "Cisco SD-WAN OMP TLOC transport tunnels VPN segmentation",
+          "SD-WAN route advertisement segmentation Cisco vManage"
+        ]
+      },
+      {
+        "title": "Centralized policy and application-aware routing",
+        "slug": "centralized-policy-and-application-aware-routing",
+        "queries": [
+          "Cisco SD-WAN centralized policy application aware routing",
+          "vManage policy application aware routing SLA Cisco"
+        ]
+      },
+      {
+        "title": "Template-based deployment workflow",
+        "slug": "template-based-deployment-workflow",
+        "queries": [
+          "Cisco SD-WAN template based deployment workflow vManage",
+          "vManage device template deployment Cisco SD-WAN"
+        ]
+      },
+      {
+        "title": "Operational troubleshooting of control and data planes",
+        "slug": "operational-troubleshooting-of-control-and-data-planes",
+        "queries": [
+          "Cisco SD-WAN troubleshooting control plane data plane show commands",
+          "SD-WAN certificate trust transport reachability policy troubleshooting"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 10: Cisco IOS XE Automation with Python, REST APIs, JSON, and YANG",
+    "slug": "module-10-cisco-ios-xe-automation-with-python-rest-apis-json-and-yang",
+    "children": [
+      {
+        "title": "Python scripts for device interaction",
+        "slug": "python-scripts-for-device-interaction",
+        "queries": [
+          "Python network automation Cisco IOS XE device interaction",
+          "Python scripts for Cisco enterprise network automation"
+        ]
+      },
+      {
+        "title": "REST API calls to Cisco IOS XE and controllers",
+        "slug": "rest-api-calls-to-cisco-ios-xe-and-controllers",
+        "queries": [
+          "Cisco IOS XE RESTCONF API examples enterprise",
+          "Cisco controller REST API network automation IOS XE"
+        ]
+      },
+      {
+        "title": "JSON parsing and payload construction",
+        "slug": "json-parsing-and-payload-construction",
+        "queries": [
+          "Python JSON parsing payload construction network automation",
+          "Cisco RESTCONF JSON payload examples IOS XE"
+        ]
+      },
+      {
+        "title": "YANG model usage for structured configuration and telemetry",
+        "slug": "yang-model-usage-for-structured-configuration-and-telemetry",
+        "queries": [
+          "Cisco YANG models IOS XE configuration telemetry",
+          "YANG model structured configuration Cisco enterprise automation"
+        ]
+      },
+      {
+        "title": "NETCONF and RESTCONF workflows",
+        "slug": "netconf-and-restconf-workflows",
+        "queries": [
+          "Cisco NETCONF RESTCONF IOS XE workflow",
+          "Cisco IOS XE model driven programmability NETCONF RESTCONF"
+        ]
+      },
+      {
+        "title": "Automation for configuration push, validation, and compliance",
+        "slug": "automation-for-configuration-push-validation-and-compliance",
+        "queries": [
+          "Cisco network automation configuration compliance validation Python",
+          "idempotent network automation Cisco IOS XE compliance"
+        ]
+      },
+      {
+        "title": "Error handling and idempotent automation design",
+        "slug": "error-handling-and-idempotent-automation-design",
+        "queries": [
+          "Python idempotent network automation error handling Cisco",
+          "Cisco IOS XE automation rollback error handling best practices"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 11: Integrated Troubleshooting Scenarios and Incident Response",
+    "slug": "module-11-integrated-troubleshooting-scenarios-and-incident-response",
+    "children": [
+      {
+        "title": "Multi-layer fault isolation across routing, switching, SD-Access, SD-WAN, and automation",
+        "slug": "multi-layer-fault-isolation-across-routing-switching-sd-access-sd-wan-and-automation",
+        "queries": [
+          "Cisco multi-layer network fault isolation routing switching SD-Access SD-WAN",
+          "enterprise incident response troubleshooting Cisco IOS XE"
+        ]
+      },
+      {
+        "title": "Reading debug output and correlating with show commands",
+        "slug": "reading-debug-output-and-correlating-with-show-commands",
+        "queries": [
+          "Cisco debug output interpretation show commands correlation IOS XE",
+          "Cisco troubleshooting debug and show command correlation guide"
+        ]
+      },
+      {
+        "title": "Identifying root cause in complex enterprise outages",
+        "slug": "identifying-root-cause-in-complex-enterprise-outages",
+        "queries": [
+          "Cisco enterprise outage root cause analysis troubleshooting",
+          "network incident root cause analysis Cisco IOS XE"
+        ]
+      },
+      {
+        "title": "Change-impact analysis and recovery sequencing",
+        "slug": "change-impact-analysis-and-recovery-sequencing",
+        "queries": [
+          "Cisco change impact analysis recovery sequencing network operations",
+          "enterprise network rollback recovery sequencing Cisco"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 12: Capstone Enterprise Design, Deployment, and Troubleshooting Lab",
+    "slug": "module-12-capstone-enterprise-design-deployment-and-troubleshooting-lab",
+    "children": [
+      {
+        "title": "End-to-end enterprise network build",
+        "slug": "end-to-end-enterprise-network-build",
+        "queries": [
+          "Cisco enterprise network end-to-end lab build CML EVE-NG",
+          "CCNP Enterprise capstone topology IOS XE lab"
+        ]
+      },
+      {
+        "title": "Multi-area OSPF, BGP edge, redistribution, VRFs, campus switching, SD-Access, SD-WAN, and automation integration",
+        "slug": "multi-area-ospf-bgp-edge-redistribution-vrfs-campus-switching-sd-access-sd-wan-and-automation-integration",
+        "queries": [
+          "Cisco integrated enterprise lab OSPF BGP VRF SD-Access SD-WAN automation",
+          "CCNP Enterprise capstone integrated routing switching automation lab"
+        ]
+      },
+      {
+        "title": "Full operational validation and failure recovery",
+        "slug": "full-operational-validation-and-failure-recovery",
+        "queries": [
+          "Cisco enterprise lab operational validation failure recovery checklist",
+          "network lab validation and recovery Cisco IOS XE"
+        ]
+      },
+      {
+        "title": "Documentation and handoff",
+        "slug": "documentation-and-handoff",
+        "queries": [
+          "Cisco network documentation handoff operational runbook enterprise",
+          "enterprise network implementation handoff documentation template Cisco"
+        ]
+      }
+    ]
+  }
+]

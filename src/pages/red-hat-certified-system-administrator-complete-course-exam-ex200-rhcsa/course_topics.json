@@ -1,0 +1,1170 @@
+[
+  {
+    "title": "Module 1: RHCSA Orientation and Linux Fundamentals",
+    "slug": "module-1-rhcsa-orientation-linux-fundamentals",
+    "children": [
+      {
+        "title": "RHCSA EX200 Overview and Exam Expectations",
+        "slug": "rhcsa-ex200-overview-exam-expectations",
+        "queries": [
+          "Red Hat RHCSA EX200 exam objectives RHEL 10",
+          "RHCSA performance-based exam format official documentation"
+        ]
+      },
+      {
+        "title": "Logging In Locally and Remotely",
+        "slug": "logging-in-locally-and-remotely",
+        "queries": [
+          "RHEL 10 local login and SSH remote login basics",
+          "Rocky Linux 10 terminal login and remote access guide"
+        ]
+      },
+      {
+        "title": "Terminal Usage and Shell Basics",
+        "slug": "terminal-usage-and-shell-basics",
+        "queries": [
+          "Bash shell basics RHEL 10 terminal usage",
+          "Linux command line shell basics man info help"
+        ]
+      },
+      {
+        "title": "Command Syntax, Options, and Arguments",
+        "slug": "command-syntax-options-arguments",
+        "queries": [
+          "Linux command syntax options arguments tutorial",
+          "Bash command line syntax flags positional arguments"
+        ]
+      },
+      {
+        "title": "Using man, info, and --help",
+        "slug": "using-man-info-and-help",
+        "queries": [
+          "man info help pages Linux administration",
+          "RHEL 10 command help man info usage"
+        ]
+      },
+      {
+        "title": "Navigating the Filesystem with pwd, ls, and cd",
+        "slug": "navigating-filesystem-pwd-ls-cd",
+        "queries": [
+          "Linux pwd ls cd filesystem navigation examples",
+          "RHEL 10 filesystem navigation command line"
+        ]
+      },
+      {
+        "title": "Absolute vs Relative Paths",
+        "slug": "absolute-vs-relative-paths",
+        "queries": [
+          "Linux absolute path vs relative path examples",
+          "RHEL 10 path navigation absolute relative"
+        ]
+      },
+      {
+        "title": "Hidden Files and Directories",
+        "slug": "hidden-files-and-directories",
+        "queries": [
+          "Linux hidden files dotfiles ls -a explanation",
+          "RHEL 10 hidden files and directories command line"
+        ]
+      },
+      {
+        "title": "Creating, Copying, Moving, Renaming, and Deleting Files and Directories",
+        "slug": "file-directory-create-copy-move-rename-delete",
+        "queries": [
+          "Linux touch mkdir cp mv rm rmdir examples",
+          "RHEL 10 file and directory management commands"
+        ]
+      },
+      {
+        "title": "Viewing File Contents with cat, less, head, tail, and wc",
+        "slug": "viewing-file-contents-cat-less-head-tail-wc",
+        "queries": [
+          "Linux cat less head tail wc usage examples",
+          "RHEL 10 inspect file contents command line"
+        ]
+      },
+      {
+        "title": "Redirection and Pipes",
+        "slug": "redirection-and-pipes",
+        "queries": [
+          "Linux redirection pipes stdout stderr examples",
+          "Bash pipes and redirection RHEL 10"
+        ]
+      },
+      {
+        "title": "Basic Text Processing with grep, cut, sort, uniq, and tee",
+        "slug": "basic-text-processing-grep-cut-sort-uniq-tee",
+        "queries": [
+          "Linux grep cut sort uniq tee examples",
+          "RHEL 10 text processing command line basics"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 2: File and Directory Management",
+    "slug": "module-2-file-directory-management",
+    "children": [
+      {
+        "title": "Linux Filesystem Hierarchy Overview",
+        "slug": "linux-filesystem-hierarchy-overview",
+        "queries": [
+          "Linux filesystem hierarchy standard RHEL 10",
+          "RHEL 10 directory structure /etc /var /home /usr /tmp"
+        ]
+      },
+      {
+        "title": "Standard Directories and Their Administrative Purpose",
+        "slug": "standard-directories-administrative-purpose",
+        "queries": [
+          "RHEL 10 /etc /var /home /usr /tmp /opt /root /boot /run purpose",
+          "Linux standard directories administration guide"
+        ]
+      },
+      {
+        "title": "File Types and Metadata",
+        "slug": "file-types-and-metadata",
+        "queries": [
+          "Linux file types metadata stat file command",
+          "RHEL 10 file metadata and inode basics"
+        ]
+      },
+      {
+        "title": "touch, mkdir, rm, rmdir, cp, mv",
+        "slug": "touch-mkdir-rm-rmdir-cp-mv",
+        "queries": [
+          "Linux touch mkdir rm rmdir cp mv command examples",
+          "RHEL 10 file creation copy move delete commands"
+        ]
+      },
+      {
+        "title": "stat and file Commands",
+        "slug": "stat-and-file-commands",
+        "queries": [
+          "Linux stat file command examples",
+          "RHEL 10 identify file type and metadata"
+        ]
+      },
+      {
+        "title": "find and locate",
+        "slug": "find-and-locate",
+        "queries": [
+          "Linux find locate command examples",
+          "RHEL 10 file search find locate administration"
+        ]
+      },
+      {
+        "title": "Wildcards and Globbing",
+        "slug": "wildcards-and-globbing",
+        "queries": [
+          "Linux shell globbing wildcards examples",
+          "Bash wildcard patterns RHEL 10"
+        ]
+      },
+      {
+        "title": "Safe Deletion Practices",
+        "slug": "safe-deletion-practices",
+        "queries": [
+          "Linux safe deletion rm precautions",
+          "RHEL 10 delete files safely command line"
+        ]
+      },
+      {
+        "title": "Temporary Files and System Directories",
+        "slug": "temporary-files-and-system-directories",
+        "queries": [
+          "Linux temporary files /tmp /run administration",
+          "RHEL 10 temporary directories usage"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 3: Users, Groups, and Identity Management",
+    "slug": "module-3-users-groups-identity-management",
+    "children": [
+      {
+        "title": "User and Group Concepts",
+        "slug": "user-and-group-concepts",
+        "queries": [
+          "Linux users groups primary supplementary groups",
+          "RHEL 10 local account identity management"
+        ]
+      },
+      {
+        "title": "/etc/passwd, /etc/shadow, /etc/group, and /etc/gshadow",
+        "slug": "passwd-shadow-group-gshadow",
+        "queries": [
+          "Linux /etc/passwd /etc/shadow /etc/group /etc/gshadow explained",
+          "RHEL 10 account database files"
+        ]
+      },
+      {
+        "title": "useradd, usermod, and userdel",
+        "slug": "useradd-usermod-userdel",
+        "queries": [
+          "Linux useradd usermod userdel examples",
+          "RHEL 10 create modify delete users"
+        ]
+      },
+      {
+        "title": "groupadd, groupmod, and groupdel",
+        "slug": "groupadd-groupmod-groupdel",
+        "queries": [
+          "Linux groupadd groupmod groupdel examples",
+          "RHEL 10 create modify delete groups"
+        ]
+      },
+      {
+        "title": "passwd and chage",
+        "slug": "passwd-chage",
+        "queries": [
+          "Linux passwd chage password aging examples",
+          "RHEL 10 password expiration account aging"
+        ]
+      },
+      {
+        "title": "Primary and Supplementary Groups",
+        "slug": "primary-and-supplementary-groups",
+        "queries": [
+          "Linux primary group supplementary groups examples",
+          "RHEL 10 group membership administration"
+        ]
+      },
+      {
+        "title": "Account Aging and Password Expiration",
+        "slug": "account-aging-password-expiration",
+        "queries": [
+          "Linux account aging password expiration chage",
+          "RHEL 10 password policy local users"
+        ]
+      },
+      {
+        "title": "Default Shell and Home Directory Settings",
+        "slug": "default-shell-home-directory-settings",
+        "queries": [
+          "Linux user default shell home directory useradd",
+          "RHEL 10 user account defaults"
+        ]
+      },
+      {
+        "title": "id, groups, and getent",
+        "slug": "id-groups-getent",
+        "queries": [
+          "Linux id groups getent command examples",
+          "RHEL 10 verify user and group membership"
+        ]
+      },
+      {
+        "title": "sudo Basics and Privilege Delegation",
+        "slug": "sudo-basics-privilege-delegation",
+        "queries": [
+          "Linux sudoers privilege delegation basics",
+          "RHEL 10 sudo configuration for administrators"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 4: Permissions, Ownership, ACLs, and SELinux",
+    "slug": "module-4-permissions-ownership-acls-selinux",
+    "children": [
+      {
+        "title": "Read, Write, and Execute Permissions",
+        "slug": "read-write-execute-permissions",
+        "queries": [
+          "Linux file permissions read write execute explained",
+          "RHEL 10 chmod permissions basics"
+        ]
+      },
+      {
+        "title": "Numeric and Symbolic Modes",
+        "slug": "numeric-symbolic-modes",
+        "queries": [
+          "Linux chmod numeric symbolic modes examples",
+          "RHEL 10 file permission modes"
+        ]
+      },
+      {
+        "title": "chmod, chown, and chgrp",
+        "slug": "chmod-chown-chgrp",
+        "queries": [
+          "Linux chmod chown chgrp command examples",
+          "RHEL 10 ownership and permissions administration"
+        ]
+      },
+      {
+        "title": "umask",
+        "slug": "umask",
+        "queries": [
+          "Linux umask default permissions examples",
+          "RHEL 10 umask user file creation mask"
+        ]
+      },
+      {
+        "title": "Special Bits: setuid, setgid, and Sticky Bit",
+        "slug": "special-bits-setuid-setgid-sticky-bit",
+        "queries": [
+          "Linux setuid setgid sticky bit examples",
+          "RHEL 10 special permissions administration"
+        ]
+      },
+      {
+        "title": "Default Permissions and Directory Inheritance",
+        "slug": "default-permissions-directory-inheritance",
+        "queries": [
+          "Linux directory inheritance setgid default permissions",
+          "RHEL 10 collaborative directory permissions"
+        ]
+      },
+      {
+        "title": "ACLs with getfacl and setfacl",
+        "slug": "acls-getfacl-setfacl",
+        "queries": [
+          "Linux ACL getfacl setfacl examples",
+          "RHEL 10 access control lists administration"
+        ]
+      },
+      {
+        "title": "SELinux Modes and Concepts",
+        "slug": "selinux-modes-concepts",
+        "queries": [
+          "SELinux enforcing permissive disabled RHEL 10",
+          "Linux SELinux concepts and modes"
+        ]
+      },
+      {
+        "title": "SELinux Contexts and Labels",
+        "slug": "selinux-contexts-labels",
+        "queries": [
+          "Linux SELinux contexts labels ls -Z ps -Z id -Z",
+          "RHEL 10 SELinux file process user contexts"
+        ]
+      },
+      {
+        "title": "restorecon, semanage fcontext, and semanage port",
+        "slug": "restorecon-semanage-fcontext-semanage-port",
+        "queries": [
+          "RHEL 10 restorecon semanage fcontext semanage port examples",
+          "Linux SELinux file context and port labeling"
+        ]
+      },
+      {
+        "title": "chcon Use Cases and Limitations",
+        "slug": "chcon-use-cases-limitations",
+        "queries": [
+          "Linux chcon SELinux temporary context change",
+          "RHEL 10 chcon vs restorecon"
+        ]
+      },
+      {
+        "title": "Troubleshooting SELinux Denials",
+        "slug": "troubleshooting-selinux-denials",
+        "queries": [
+          "RHEL 10 SELinux denial troubleshooting journal audit2why",
+          "Linux SELinux access denied diagnosis"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 5: Text Editing and File Content Management",
+    "slug": "module-5-text-editing-file-content-management",
+    "children": [
+      {
+        "title": "vi and vim Essentials for RHCSA",
+        "slug": "vi-vim-essentials-rhcsa",
+        "queries": [
+          "vi vim essentials for RHCSA exam",
+          "RHEL 10 vi editor basics command mode insert mode"
+        ]
+      },
+      {
+        "title": "Insert, Command, and Visual Modes",
+        "slug": "insert-command-visual-modes",
+        "queries": [
+          "vim modes insert command visual basics",
+          "RHEL 10 vi mode switching tutorial"
+        ]
+      },
+      {
+        "title": "Saving, Quitting, Searching, and Replacing",
+        "slug": "saving-quitting-searching-replacing",
+        "queries": [
+          "vi save quit search replace commands",
+          "RHEL 10 vim search and substitute basics"
+        ]
+      },
+      {
+        "title": "Editing System Configuration Files Safely",
+        "slug": "editing-system-configuration-files-safely",
+        "queries": [
+          "Linux safe editing configuration files vi",
+          "RHEL 10 edit system config files safely"
+        ]
+      },
+      {
+        "title": "sed and awk Basics for Administration",
+        "slug": "sed-awk-basics-administration",
+        "queries": [
+          "Linux sed awk basics for system administration",
+          "RHEL 10 text processing with sed and awk"
+        ]
+      },
+      {
+        "title": "sort, uniq, cut, tr, paste, diff, and cmp",
+        "slug": "sort-uniq-cut-tr-paste-diff-cmp",
+        "queries": [
+          "Linux sort uniq cut tr paste diff cmp examples",
+          "RHEL 10 compare and transform text files"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 6: Package Management with DNF and RPM",
+    "slug": "module-6-package-management-dnf-rpm",
+    "children": [
+      {
+        "title": "Package Concepts and Repositories",
+        "slug": "package-concepts-repositories",
+        "queries": [
+          "RHEL 10 package repositories dnf concepts",
+          "Linux software package management repositories"
+        ]
+      },
+      {
+        "title": "dnf install, remove, update, search, info, and list",
+        "slug": "dnf-install-remove-update-search-info-list",
+        "queries": [
+          "dnf install remove update search info list examples",
+          "RHEL 10 dnf package management commands"
+        ]
+      },
+      {
+        "title": "dnf provides and dnf history",
+        "slug": "dnf-provides-history",
+        "queries": [
+          "dnf provides history examples RHEL 10",
+          "Linux find package owning command and rollback history"
+        ]
+      },
+      {
+        "title": "Local RPM Package Handling",
+        "slug": "local-rpm-package-handling",
+        "queries": [
+          "rpm install query verify local package examples",
+          "RHEL 10 rpm command package administration"
+        ]
+      },
+      {
+        "title": "rpm -q, -i, -l, -V, -K, -Uvh, and -ivh",
+        "slug": "rpm-q-i-l-v-k-uvh-ivh",
+        "queries": [
+          "rpm -q -i -l -V -K -Uvh -ivh examples",
+          "RHEL 10 rpm query install verify package signatures"
+        ]
+      },
+      {
+        "title": "Repository Configuration Basics",
+        "slug": "repository-configuration-basics",
+        "queries": [
+          "RHEL 10 dnf repository configuration basics",
+          "Linux yum repo file configuration dnf"
+        ]
+      },
+      {
+        "title": "GPG Key Verification",
+        "slug": "gpg-key-verification",
+        "queries": [
+          "RHEL 10 dnf gpg key verification",
+          "Linux package signature verification GPG"
+        ]
+      },
+      {
+        "title": "Package Groups and Modularity",
+        "slug": "package-groups-modularity",
+        "queries": [
+          "RHEL 10 dnf package groups modularity",
+          "Linux package group installation dnf"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 7: Process Management and systemd Services",
+    "slug": "module-7-process-management-systemd-services",
+    "children": [
+      {
+        "title": "Processes and Services",
+        "slug": "processes-and-services",
+        "queries": [
+          "Linux processes vs services systemd",
+          "RHEL 10 process and service management"
+        ]
+      },
+      {
+        "title": "ps, top, pgrep, pkill, kill, nice, and renice",
+        "slug": "ps-top-pgrep-pkill-kill-nice-renice",
+        "queries": [
+          "Linux ps top pgrep pkill kill nice renice examples",
+          "RHEL 10 process management commands"
+        ]
+      },
+      {
+        "title": "systemd Concepts",
+        "slug": "systemd-concepts",
+        "queries": [
+          "systemd concepts RHEL 10 service management",
+          "Linux systemd units targets basics"
+        ]
+      },
+      {
+        "title": "systemctl status, start, stop, restart, enable, disable, mask, and unmask",
+        "slug": "systemctl-status-start-stop-restart-enable-disable-mask-unmask",
+        "queries": [
+          "systemctl status start stop restart enable disable mask unmask examples",
+          "RHEL 10 systemctl service control"
+        ]
+      },
+      {
+        "title": "Service Logs with journalctl",
+        "slug": "service-logs-journalctl",
+        "queries": [
+          "journalctl service logs RHEL 10 examples",
+          "Linux systemd journal troubleshooting"
+        ]
+      },
+      {
+        "title": "Targets and Default Boot Target",
+        "slug": "targets-default-boot-target",
+        "queries": [
+          "RHEL 10 systemctl get-default set-default targets",
+          "Linux systemd boot target administration"
+        ]
+      },
+      {
+        "title": "Service Troubleshooting Workflow",
+        "slug": "service-troubleshooting-workflow",
+        "queries": [
+          "RHEL 10 systemd service troubleshooting workflow",
+          "Linux service failed to start diagnosis"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 8: Networking Configuration and Troubleshooting",
+    "slug": "module-8-networking-configuration-troubleshooting",
+    "children": [
+      {
+        "title": "Network Interface Concepts",
+        "slug": "network-interface-concepts",
+        "queries": [
+          "Linux network interface concepts RHEL 10",
+          "NetworkManager interface basics Rocky Linux 10"
+        ]
+      },
+      {
+        "title": "ip addr, ip link, ip route, and ip neigh",
+        "slug": "ip-addr-ip-link-ip-route-ip-neigh",
+        "queries": [
+          "ip addr ip link ip route ip neigh examples",
+          "RHEL 10 ip command network troubleshooting"
+        ]
+      },
+      {
+        "title": "nmcli Connection Management",
+        "slug": "nmcli-connection-management",
+        "queries": [
+          "RHEL 10 nmcli connection management examples",
+          "NetworkManager nmcli static IP configuration"
+        ]
+      },
+      {
+        "title": "nmtui Interactive Configuration",
+        "slug": "nmtui-interactive-configuration",
+        "queries": [
+          "nmtui RHEL 10 interactive network configuration",
+          "NetworkManager text user interface nmtui"
+        ]
+      },
+      {
+        "title": "Static IP Configuration",
+        "slug": "static-ip-configuration",
+        "queries": [
+          "RHEL 10 static IP configuration nmcli",
+          "Linux NetworkManager static address gateway DNS"
+        ]
+      },
+      {
+        "title": "DNS Configuration",
+        "slug": "dns-configuration",
+        "queries": [
+          "RHEL 10 DNS configuration nmcli resolv.conf",
+          "Linux NetworkManager DNS settings"
+        ]
+      },
+      {
+        "title": "hostnamectl and Hostname Management",
+        "slug": "hostnamectl-hostname-management",
+        "queries": [
+          "hostnamectl RHEL 10 set hostname examples",
+          "Linux hostname management systemd"
+        ]
+      },
+      {
+        "title": "Network Troubleshooting Workflow",
+        "slug": "network-troubleshooting-workflow",
+        "queries": [
+          "RHEL 10 network troubleshooting workflow",
+          "Linux connectivity troubleshooting ip ping ss curl dig"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 9: Storage Management, Partitions, Filesystems, and Mounting",
+    "slug": "module-9-storage-management-partitions-filesystems-mounting",
+    "children": [
+      {
+        "title": "Disk and Block Device Concepts",
+        "slug": "disk-block-device-concepts",
+        "queries": [
+          "Linux block device concepts lsblk blkid",
+          "RHEL 10 storage device identification"
+        ]
+      },
+      {
+        "title": "lsblk, blkid, fdisk, and parted",
+        "slug": "lsblk-blkid-fdisk-parted",
+        "queries": [
+          "lsblk blkid fdisk parted examples RHEL 10",
+          "Linux partitioning tools administration"
+        ]
+      },
+      {
+        "title": "Partition Tables and Partitions",
+        "slug": "partition-tables-partitions",
+        "queries": [
+          "Linux partition tables GPT partitions RHEL 10",
+          "fdisk parted partition creation guide"
+        ]
+      },
+      {
+        "title": "mkfs.xfs and mkfs.ext4",
+        "slug": "mkfs-xfs-mkfs-ext4",
+        "queries": [
+          "RHEL 10 mkfs.xfs mkfs.ext4 examples",
+          "Linux filesystem creation xfs ext4"
+        ]
+      },
+      {
+        "title": "Mounting and Unmounting",
+        "slug": "mounting-unmounting",
+        "queries": [
+          "Linux mount umount examples RHEL 10",
+          "Filesystem mounting administration guide"
+        ]
+      },
+      {
+        "title": "/etc/fstab and UUID-Based Mounting",
+        "slug": "fstab-uuid-based-mounting",
+        "queries": [
+          "RHEL 10 /etc/fstab UUID mount examples",
+          "Linux persistent mounts by UUID"
+        ]
+      },
+      {
+        "title": "df, du, mount, and findmnt",
+        "slug": "df-du-mount-findmnt",
+        "queries": [
+          "Linux df du mount findmnt examples",
+          "RHEL 10 filesystem usage and mount verification"
+        ]
+      },
+      {
+        "title": "Filesystem Checks and Troubleshooting Basics",
+        "slug": "filesystem-checks-troubleshooting-basics",
+        "queries": [
+          "Linux filesystem mount troubleshooting RHEL 10",
+          "fstab boot failure troubleshooting guide"
+        ]
+      },
+      {
+        "title": "Mount Options and Persistence",
+        "slug": "mount-options-persistence",
+        "queries": [
+          "Linux mount options persistent fstab examples",
+          "RHEL 10 filesystem mount options"
+        ]
+      },
+      {
+        "title": "XFS and ext4 Use Cases",
+        "slug": "xfs-ext4-use-cases",
+        "queries": [
+          "RHEL 10 xfs vs ext4 use cases",
+          "Linux xfs ext4 comparison administration"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 10: LVM Storage Administration",
+    "slug": "module-10-lvm-storage-administration",
+    "children": [
+      {
+        "title": "LVM Concepts: PV, VG, and LV",
+        "slug": "lvm-concepts-pv-vg-lv",
+        "queries": [
+          "LVM PV VG LV concepts RHEL 10",
+          "Linux logical volume manager basics"
+        ]
+      },
+      {
+        "title": "pvcreate, pvs, and pvdisplay",
+        "slug": "pvcreate-pvs-pvdisplay",
+        "queries": [
+          "RHEL 10 pvcreate pvs pvdisplay examples",
+          "Linux physical volume administration"
+        ]
+      },
+      {
+        "title": "vgcreate, vgs, and vgdisplay",
+        "slug": "vgcreate-vgs-vgdisplay",
+        "queries": [
+          "RHEL 10 vgcreate vgs vgdisplay examples",
+          "Linux volume group administration"
+        ]
+      },
+      {
+        "title": "lvcreate, lvs, and lvdisplay",
+        "slug": "lvcreate-lvs-lvdisplay",
+        "queries": [
+          "RHEL 10 lvcreate lvs lvdisplay examples",
+          "Linux logical volume creation and inspection"
+        ]
+      },
+      {
+        "title": "Extending and Reducing Logical Volumes",
+        "slug": "extending-reducing-logical-volumes",
+        "queries": [
+          "RHEL 10 extend logical volume resize examples",
+          "Linux LVM resize filesystem administration"
+        ]
+      },
+      {
+        "title": "Resizing Filesystems",
+        "slug": "resizing-filesystems",
+        "queries": [
+          "RHEL 10 xfs_growfs resize2fs examples",
+          "Linux filesystem resize after LVM expansion"
+        ]
+      },
+      {
+        "title": "Storage Growth Planning",
+        "slug": "storage-growth-planning",
+        "queries": [
+          "Linux storage growth planning LVM RHEL 10",
+          "Logical volume capacity planning administration"
+        ]
+      },
+      {
+        "title": "Mounting LVM-Backed Filesystems",
+        "slug": "mounting-lvm-backed-filesystems",
+        "queries": [
+          "RHEL 10 mount LVM filesystem fstab",
+          "Linux LVM filesystem persistent mount"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 11: Firewalld and Network Access Control",
+    "slug": "module-11-firewalld-network-access-control",
+    "children": [
+      {
+        "title": "Firewalld Concepts: Zones, Services, Ports, and Rich Rules",
+        "slug": "firewalld-concepts-zones-services-ports-rich-rules",
+        "queries": [
+          "firewalld zones services ports rich rules RHEL 10",
+          "Linux firewalld administration concepts"
+        ]
+      },
+      {
+        "title": "firewall-cmd Runtime and Permanent Changes",
+        "slug": "firewall-cmd-runtime-permanent-changes",
+        "queries": [
+          "RHEL 10 firewall-cmd runtime permanent examples",
+          "Linux firewalld permanent vs runtime rules"
+        ]
+      },
+      {
+        "title": "Listing Active Zones and Services",
+        "slug": "listing-active-zones-services",
+        "queries": [
+          "firewall-cmd list active zones services examples",
+          "RHEL 10 firewalld status verification"
+        ]
+      },
+      {
+        "title": "Opening and Closing Ports",
+        "slug": "opening-closing-ports",
+        "queries": [
+          "RHEL 10 firewalld open close port examples",
+          "Linux firewall-cmd port management"
+        ]
+      },
+      {
+        "title": "Enabling Services such as SSH and HTTP",
+        "slug": "enabling-services-ssh-http",
+        "queries": [
+          "firewalld enable ssh http service examples",
+          "RHEL 10 firewall-cmd service rules"
+        ]
+      },
+      {
+        "title": "Reloading and Verifying Firewall State",
+        "slug": "reloading-verifying-firewall-state",
+        "queries": [
+          "RHEL 10 firewall-cmd reload verify",
+          "Linux firewalld verification commands"
+        ]
+      },
+      {
+        "title": "Troubleshooting Blocked Access",
+        "slug": "troubleshooting-blocked-access",
+        "queries": [
+          "RHEL 10 firewalld troubleshooting blocked service",
+          "Linux firewall access denied diagnosis"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 12: Scheduling Tasks with cron and at",
+    "slug": "module-12-scheduling-tasks-cron-at",
+    "children": [
+      {
+        "title": "cron Architecture and User Crontabs",
+        "slug": "cron-architecture-user-crontabs",
+        "queries": [
+          "Linux cron architecture user crontab RHEL 10",
+          "crontab administration examples"
+        ]
+      },
+      {
+        "title": "crontab -e, -l, and -r",
+        "slug": "crontab-e-l-r",
+        "queries": [
+          "RHEL 10 crontab -e -l -r examples",
+          "Linux user crontab management"
+        ]
+      },
+      {
+        "title": "System Cron Directories and Permissions",
+        "slug": "system-cron-directories-permissions",
+        "queries": [
+          "Linux /etc/cron.d /etc/cron.daily permissions",
+          "RHEL 10 system cron directories"
+        ]
+      },
+      {
+        "title": "at for One-Time Jobs",
+        "slug": "at-for-one-time-jobs",
+        "queries": [
+          "RHEL 10 at command one-time job examples",
+          "Linux at scheduling administration"
+        ]
+      },
+      {
+        "title": "Environment Considerations for Scheduled Jobs",
+        "slug": "environment-considerations-scheduled-jobs",
+        "queries": [
+          "Linux cron PATH environment issues",
+          "RHEL 10 scheduled job environment variables"
+        ]
+      },
+      {
+        "title": "Logging and Troubleshooting Scheduled Tasks",
+        "slug": "logging-troubleshooting-scheduled-tasks",
+        "queries": [
+          "RHEL 10 cron job troubleshooting journal logs",
+          "Linux at cron job failed diagnosis"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 13: SSH Administration and Hardening",
+    "slug": "module-13-ssh-administration-hardening",
+    "children": [
+      {
+        "title": "SSH Client and Server Concepts",
+        "slug": "ssh-client-server-concepts",
+        "queries": [
+          "OpenSSH client server concepts RHEL 10",
+          "Linux ssh sshd administration basics"
+        ]
+      },
+      {
+        "title": "ssh, sshd, ssh-keygen, and ssh-copy-id",
+        "slug": "ssh-sshd-ssh-keygen-ssh-copy-id",
+        "queries": [
+          "RHEL 10 ssh sshd ssh-keygen ssh-copy-id examples",
+          "Linux SSH key-based authentication setup"
+        ]
+      },
+      {
+        "title": "Key-Based Authentication",
+        "slug": "key-based-authentication",
+        "queries": [
+          "Linux SSH key-based authentication RHEL 10",
+          "OpenSSH public private key login setup"
+        ]
+      },
+      {
+        "title": "SSH Configuration File Basics",
+        "slug": "ssh-configuration-file-basics",
+        "queries": [
+          "RHEL 10 sshd_config basics",
+          "Linux OpenSSH server configuration options"
+        ]
+      },
+      {
+        "title": "Root Login Policy and User Restrictions",
+        "slug": "root-login-policy-user-restrictions",
+        "queries": [
+          "RHEL 10 disable root SSH login allow users groups",
+          "Linux sshd allowusers denyusers configuration"
+        ]
+      },
+      {
+        "title": "Port Changes and Firewall Implications",
+        "slug": "port-changes-firewall-implications",
+        "queries": [
+          "RHEL 10 change SSH port firewalld",
+          "Linux sshd custom port firewall configuration"
+        ]
+      },
+      {
+        "title": "Host Key Verification and Troubleshooting",
+        "slug": "host-key-verification-troubleshooting",
+        "queries": [
+          "OpenSSH host key verification troubleshooting",
+          "RHEL 10 SSH connection failed diagnosis"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 14: Shell Scripting for System Administration",
+    "slug": "module-14-shell-scripting-system-administration",
+    "children": [
+      {
+        "title": "Script Structure and Shebang",
+        "slug": "script-structure-shebang",
+        "queries": [
+          "Bash script shebang structure RHEL 10",
+          "Linux shell script basics for administration"
+        ]
+      },
+      {
+        "title": "Variables, Quoting, and Command Substitution",
+        "slug": "variables-quoting-command-substitution",
+        "queries": [
+          "Bash variables quoting command substitution examples",
+          "RHEL 10 shell scripting basics"
+        ]
+      },
+      {
+        "title": "Exit Codes and Conditional Logic",
+        "slug": "exit-codes-conditional-logic",
+        "queries": [
+          "Bash exit codes if statements examples",
+          "Linux shell scripting conditional logic"
+        ]
+      },
+      {
+        "title": "if, case, and Loops",
+        "slug": "if-case-loops",
+        "queries": [
+          "Bash if case for while loops examples",
+          "RHEL 10 shell scripting control flow"
+        ]
+      },
+      {
+        "title": "Positional Parameters and Basic Functions",
+        "slug": "positional-parameters-basic-functions",
+        "queries": [
+          "Bash positional parameters functions examples",
+          "Linux shell script arguments and functions"
+        ]
+      },
+      {
+        "title": "File and Directory Checks",
+        "slug": "file-directory-checks",
+        "queries": [
+          "Bash file directory test operators examples",
+          "RHEL 10 shell scripting file checks"
+        ]
+      },
+      {
+        "title": "Simple Automation Tasks",
+        "slug": "simple-automation-tasks",
+        "queries": [
+          "Bash automation tasks for Linux administration",
+          "RHEL 10 shell scripts for sysadmin tasks"
+        ]
+      },
+      {
+        "title": "Script Execution Permissions and Debugging",
+        "slug": "script-execution-permissions-debugging",
+        "queries": [
+          "chmod executable bash script debugging bash -x",
+          "RHEL 10 shell script execution and troubleshooting"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 15: System Troubleshooting and Recovery",
+    "slug": "module-15-system-troubleshooting-recovery",
+    "children": [
+      {
+        "title": "Structured Troubleshooting Methodology",
+        "slug": "structured-troubleshooting-methodology",
+        "queries": [
+          "Linux troubleshooting methodology RHEL 10",
+          "system administration problem solving workflow"
+        ]
+      },
+      {
+        "title": "Reading Logs with journalctl",
+        "slug": "reading-logs-journalctl",
+        "queries": [
+          "RHEL 10 journalctl troubleshooting logs",
+          "Linux systemd journal log analysis"
+        ]
+      },
+      {
+        "title": "Checking Service Status and Dependencies",
+        "slug": "checking-service-status-dependencies",
+        "queries": [
+          "systemctl status dependencies troubleshooting RHEL 10",
+          "Linux service dependency diagnosis"
+        ]
+      },
+      {
+        "title": "Verifying Filesystem Mounts",
+        "slug": "verifying-filesystem-mounts",
+        "queries": [
+          "RHEL 10 verify filesystem mounts findmnt df",
+          "Linux mount troubleshooting and verification"
+        ]
+      },
+      {
+        "title": "Diagnosing Permission and SELinux Issues",
+        "slug": "diagnosing-permission-selinux-issues",
+        "queries": [
+          "RHEL 10 permission vs SELinux troubleshooting",
+          "Linux access denied diagnosis SELinux permissions"
+        ]
+      },
+      {
+        "title": "Network Troubleshooting",
+        "slug": "network-troubleshooting",
+        "queries": [
+          "RHEL 10 network troubleshooting ping ss curl dig",
+          "Linux connectivity diagnosis NetworkManager"
+        ]
+      },
+      {
+        "title": "Boot Target and Service Recovery",
+        "slug": "boot-target-service-recovery",
+        "queries": [
+          "RHEL 10 boot target recovery systemd",
+          "Linux service recovery after misconfiguration"
+        ]
+      },
+      {
+        "title": "Basic Rescue Mindset and Rollback Strategies",
+        "slug": "basic-rescue-mindset-rollback-strategies",
+        "queries": [
+          "Linux rescue mode rollback configuration changes",
+          "RHEL 10 system recovery best practices"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 16: RHCSA Exam Preparation and Practice",
+    "slug": "module-16-rhcsa-exam-preparation-practice",
+    "children": [
+      {
+        "title": "Review of All RHCSA Task Domains",
+        "slug": "review-all-rhcsa-task-domains",
+        "queries": [
+          "RHCSA EX200 task domains review RHEL 10",
+          "Red Hat RHCSA exam objectives checklist"
+        ]
+      },
+      {
+        "title": "Time Management Strategies",
+        "slug": "time-management-strategies",
+        "queries": [
+          "RHCSA exam time management strategies",
+          "performance-based Linux exam pacing tips"
+        ]
+      },
+      {
+        "title": "Command Recall Under Pressure",
+        "slug": "command-recall-under-pressure",
+        "queries": [
+          "RHCSA command recall practice RHEL 10",
+          "Linux administration command memorization exam prep"
+        ]
+      },
+      {
+        "title": "Common Mistakes and Failure Patterns",
+        "slug": "common-mistakes-failure-patterns",
+        "queries": [
+          "RHCSA common mistakes exam failure patterns",
+          "RHEL 10 admin task verification mistakes"
+        ]
+      },
+      {
+        "title": "Verification Habits",
+        "slug": "verification-habits",
+        "queries": [
+          "Linux verification commands after configuration changes",
+          "RHEL 10 exam task verification checklist"
+        ]
+      },
+      {
+        "title": "Practice Exam Methodology",
+        "slug": "practice-exam-methodology",
+        "queries": [
+          "RHCSA practice exam methodology RHEL 10",
+          "performance-based Linux mock exam design"
+        ]
+      },
+      {
+        "title": "Scenario-Based Mock Tasks",
+        "slug": "scenario-based-mock-tasks",
+        "queries": [
+          "RHCSA scenario based mock tasks RHEL 10",
+          "Linux admin practice lab exam scenarios"
+        ]
+      },
+      {
+        "title": "Final Readiness Checklist",
+        "slug": "final-readiness-checklist",
+        "queries": [
+          "RHCSA final readiness checklist EX200",
+          "RHEL 10 exam preparation checklist"
+        ]
+      }
+    ]
+  }
+]

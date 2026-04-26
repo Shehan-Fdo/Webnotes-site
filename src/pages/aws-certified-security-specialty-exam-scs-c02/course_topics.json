@@ -1,0 +1,718 @@
+[
+  {
+    "title": "Module 1: Security Operations Lab Environment Setup",
+    "slug": "module-1-security-operations-lab-environment-setup",
+    "children": [
+      {
+        "title": "Scenario Context and Lab Topology",
+        "slug": "module-1-scenario-context-and-lab-topology",
+        "queries": [
+          "AWS security operations lab topology multi-account CloudTrail GuardDuty Athena",
+          "AWS Certified Security Specialty lab environment architecture security logging"
+        ]
+      },
+      {
+        "title": "AWS CLI Configuration and Lab Identity",
+        "slug": "module-1-aws-cli-configuration-and-lab-identity",
+        "queries": [
+          "AWS CLI configure named profiles assume role security lab",
+          "AWS CLI credential and region configuration for security operations labs"
+        ]
+      },
+      {
+        "title": "IAM Roles and Permissions for Lab Execution",
+        "slug": "module-1-iam-roles-and-permissions-for-lab-execution",
+        "queries": [
+          "AWS IAM policy for security lab execution CloudTrail GuardDuty Athena",
+          "least privilege IAM role for AWS security operations lab"
+        ]
+      },
+      {
+        "title": "Baseline Logging Architecture",
+        "slug": "module-1-baseline-logging-architecture",
+        "queries": [
+          "AWS security logging architecture CloudTrail CloudWatch S3 Athena",
+          "centralized AWS logging architecture for incident response"
+        ]
+      },
+      {
+        "title": "S3 Bucket Setup for Log Storage",
+        "slug": "module-1-s3-bucket-setup-for-log-storage",
+        "queries": [
+          "AWS CLI create S3 bucket for CloudTrail logs security best practices",
+          "S3 bucket policy for CloudTrail and security log delivery"
+        ]
+      },
+      {
+        "title": "CloudTrail Trail Configuration",
+        "slug": "module-1-cloudtrail-trail-configuration",
+        "queries": [
+          "AWS CLI create multi region CloudTrail trail organization trail",
+          "CloudTrail trail configuration for security operations and log integrity"
+        ]
+      },
+      {
+        "title": "GuardDuty Enablement Prerequisites",
+        "slug": "module-1-guardduty-enablement-prerequisites",
+        "queries": [
+          "AWS GuardDuty prerequisites enable detector CLI",
+          "GuardDuty delegated administrator prerequisites AWS Organizations"
+        ]
+      },
+      {
+        "title": "Athena Workgroup and Query Result Location",
+        "slug": "module-1-athena-workgroup-and-query-result-location",
+        "queries": [
+          "AWS Athena workgroup create query result location CLI",
+          "Athena workgroup security settings query result bucket configuration"
+        ]
+      },
+      {
+        "title": "Optional AWS Organizations Delegated Admin Pattern",
+        "slug": "module-1-optional-aws-organizations-delegated-admin-pattern",
+        "queries": [
+          "AWS Organizations delegated administrator GuardDuty Security Hub setup",
+          "AWS Organizations security services delegated admin CLI"
+        ]
+      },
+      {
+        "title": "Tagging and Naming Conventions for Security Resources",
+        "slug": "module-1-tagging-and-naming-conventions-for-security-resources",
+        "queries": [
+          "AWS resource tagging strategy for security operations labs",
+          "AWS naming conventions for security logging and incident response resources"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 2: Threat Detection with Amazon GuardDuty",
+    "slug": "module-2-threat-detection-with-amazon-guardduty",
+    "children": [
+      {
+        "title": "Scenario Context: Suspicious Activity in a Lab Account",
+        "slug": "module-2-scenario-context-suspicious-activity-in-a-lab-account",
+        "queries": [
+          "GuardDuty incident response scenario suspicious API activity EC2 compromise",
+          "AWS GuardDuty lab scenario threat detection and triage"
+        ]
+      },
+      {
+        "title": "Enable GuardDuty Across Accounts and Regions",
+        "slug": "module-2-enable-guardduty-across-accounts-and-regions",
+        "queries": [
+          "AWS CLI create GuardDuty detector enable organization admin",
+          "GuardDuty multi region enablement CLI and delegated administrator"
+        ]
+      },
+      {
+        "title": "Enable Relevant Data Sources and Features",
+        "slug": "module-2-enable-relevant-data-sources-and-features",
+        "queries": [
+          "GuardDuty data sources S3 EKS RDS malware protection enablement",
+          "AWS GuardDuty feature configuration CLI data sources"
+        ]
+      },
+      {
+        "title": "Generate and Validate Findings Safely",
+        "slug": "module-2-generate-and-validate-findings-safely",
+        "queries": [
+          "GuardDuty sample findings generate validate CLI",
+          "AWS GuardDuty finding generation lab safe simulation"
+        ]
+      },
+      {
+        "title": "Finding Triage Workflow and Severity Mapping",
+        "slug": "module-2-finding-triage-workflow-and-severity-mapping",
+        "queries": [
+          "GuardDuty finding triage severity mapping incident response",
+          "AWS GuardDuty finding types suspicious API credential exfiltration EC2 compromise"
+        ]
+      },
+      {
+        "title": "Query and Inspect Findings with AWS CLI",
+        "slug": "module-2-query-and-inspect-findings-with-aws-cli",
+        "queries": [
+          "AWS CLI list GuardDuty findings get findings filter criteria",
+          "GuardDuty findings retrieval and filtering CLI examples"
+        ]
+      },
+      {
+        "title": "Route GuardDuty Findings to EventBridge",
+        "slug": "module-2-route-guardduty-findings-to-eventbridge",
+        "queries": [
+          "GuardDuty EventBridge integration finding pattern examples",
+          "AWS EventBridge rule for GuardDuty findings CLI"
+        ]
+      },
+      {
+        "title": "Suppression Rules and Tuning Strategy",
+        "slug": "module-2-suppression-rules-and-tuning-strategy",
+        "queries": [
+          "GuardDuty suppression rule create update CLI",
+          "GuardDuty finding tuning and suppression best practices"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 3: Event-Driven Incident Response with EventBridge and Lambda",
+    "slug": "module-3-event-driven-incident-response-with-eventbridge-and-lambda",
+    "children": [
+      {
+        "title": "Scenario Context: Automated Response to High-Severity Findings",
+        "slug": "module-3-scenario-context-automated-response-to-high-severity-findings",
+        "queries": [
+          "EventBridge Lambda incident response GuardDuty high severity finding scenario",
+          "AWS security automation event driven response lab"
+        ]
+      },
+      {
+        "title": "EventBridge Rule Creation for GuardDuty Findings",
+        "slug": "module-3-eventbridge-rule-creation-for-guardduty-findings",
+        "queries": [
+          "AWS CLI create EventBridge rule for GuardDuty findings",
+          "EventBridge event pattern GuardDuty finding severity examples"
+        ]
+      },
+      {
+        "title": "Event Pattern Matching for Specific Finding Types",
+        "slug": "module-3-event-pattern-matching-for-specific-finding-types",
+        "queries": [
+          "EventBridge pattern matching GuardDuty finding type severity detail",
+          "Amazon EventBridge event pattern syntax security findings"
+        ]
+      },
+      {
+        "title": "Lambda Remediation Workflow Design",
+        "slug": "module-3-lambda-remediation-workflow-design",
+        "queries": [
+          "AWS Lambda remediation workflow for security incident response",
+          "Lambda idempotent remediation design for GuardDuty findings"
+        ]
+      },
+      {
+        "title": "Secure Lambda Execution Role Permissions",
+        "slug": "module-3-secure-lambda-execution-role-permissions",
+        "queries": [
+          "IAM policy for Lambda security remediation role EC2 SSM CloudWatch",
+          "least privilege Lambda execution role for incident response"
+        ]
+      },
+      {
+        "title": "Idempotency Logging and Failure Handling",
+        "slug": "module-3-idempotency-logging-and-failure-handling",
+        "queries": [
+          "Lambda idempotency patterns security automation logging failure handling",
+          "AWS Lambda dead letter queue failure handling event response"
+        ]
+      },
+      {
+        "title": "Notification Integration Patterns",
+        "slug": "module-3-notification-integration-patterns",
+        "queries": [
+          "EventBridge Lambda SNS notification security incident response",
+          "AWS security automation notification patterns EventBridge Lambda"
+        ]
+      },
+      {
+        "title": "End-to-End Validation and Testing",
+        "slug": "module-3-end-to-end-validation-and-testing",
+        "queries": [
+          "AWS CLI test EventBridge rule Lambda target security finding",
+          "validate EventBridge to Lambda flow for GuardDuty findings"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 4: Containment of Compromised EC2 Instances",
+    "slug": "module-4-containment-of-compromised-ec2-instances",
+    "children": [
+      {
+        "title": "Scenario Context: Suspected EC2 Compromise",
+        "slug": "module-4-scenario-context-suspected-ec2-compromise",
+        "queries": [
+          "EC2 compromise containment scenario GuardDuty suspicious instance",
+          "AWS incident response compromised EC2 instance lab"
+        ]
+      },
+      {
+        "title": "Describe Instances and Network Interfaces",
+        "slug": "module-4-describe-instances-and-network-interfaces",
+        "queries": [
+          "AWS CLI describe EC2 instances network interfaces security response",
+          "EC2 describe-instances describe-network-interfaces CLI incident response"
+        ]
+      },
+      {
+        "title": "Create and Apply Quarantine Security Groups",
+        "slug": "module-4-create-and-apply-quarantine-security-groups",
+        "queries": [
+          "AWS CLI create security group quarantine EC2 instance",
+          "modify instance security groups quarantine containment AWS CLI"
+        ]
+      },
+      {
+        "title": "Network Isolation with Security Groups and Route Tables",
+        "slug": "module-4-network-isolation-with-security-groups-and-route-tables",
+        "queries": [
+          "EC2 network isolation security group route table containment AWS",
+          "AWS CLI modify route table isolate compromised instance"
+        ]
+      },
+      {
+        "title": "NACL-Based Containment Considerations",
+        "slug": "module-4-nacl-based-containment-considerations",
+        "queries": [
+          "AWS network ACL containment incident response EC2 isolation",
+          "NACL quarantine strategy for compromised EC2 instance"
+        ]
+      },
+      {
+        "title": "Systems Manager Response Actions",
+        "slug": "module-4-systems-manager-response-actions",
+        "queries": [
+          "AWS Systems Manager incident response EC2 containment run command",
+          "SSM automation for compromised EC2 instance response"
+        ]
+      },
+      {
+        "title": "Snapshot Volumes and Preserve Evidence",
+        "slug": "module-4-snapshot-volumes-and-preserve-evidence",
+        "queries": [
+          "AWS CLI create EBS snapshot incident response evidence preservation",
+          "EC2 forensic snapshot workflow AWS security incident"
+        ]
+      },
+      {
+        "title": "Rollback and Recovery Process",
+        "slug": "module-4-rollback-and-recovery-process",
+        "queries": [
+          "AWS EC2 containment rollback recovery process security incident",
+          "restore network access after EC2 quarantine AWS"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 5: KMS Key Policy Engineering for Security and Forensics",
+    "slug": "module-5-kms-key-policy-engineering-for-security-and-forensics",
+    "children": [
+      {
+        "title": "Scenario Context: Protecting Security Data and Forensic Access",
+        "slug": "module-5-scenario-context-protecting-security-data-and-forensic-access",
+        "queries": [
+          "KMS key policy forensic access security logs scenario",
+          "AWS KMS policy engineering for security operations lab"
+        ]
+      },
+      {
+        "title": "Customer Managed Key Policy Structure",
+        "slug": "module-5-customer-managed-key-policy-structure",
+        "queries": [
+          "AWS KMS key policy structure customer managed key examples",
+          "KMS key policy administration and usage separation"
+        ]
+      },
+      {
+        "title": "Separate Key Administration and Key Usage",
+        "slug": "module-5-separate-key-administration-and-key-usage",
+        "queries": [
+          "KMS key admin vs usage policy best practices",
+          "AWS KMS policy separate administrators and users"
+        ]
+      },
+      {
+        "title": "Grant Usage for Services and Automation Roles",
+        "slug": "module-5-grant-usage-for-services-and-automation-roles",
+        "queries": [
+          "AWS KMS grants for Lambda S3 CloudTrail automation",
+          "KMS grant permissions for AWS services and roles"
+        ]
+      },
+      {
+        "title": "Restrict Decrypt Permissions and Use Encryption Context",
+        "slug": "module-5-restrict-decrypt-permissions-and-use-encryption-context",
+        "queries": [
+          "KMS decrypt restrictions encryption context policy examples",
+          "AWS KMS policy condition encryption context principal"
+        ]
+      },
+      {
+        "title": "Cross-Account Considerations and Auditability",
+        "slug": "module-5-cross-account-considerations-and-auditability",
+        "queries": [
+          "AWS KMS cross account key policy audit logging",
+          "KMS cross account access for forensic investigation"
+        ]
+      },
+      {
+        "title": "Common Policy Mistakes and Failure Modes",
+        "slug": "module-5-common-policy-mistakes-and-failure-modes",
+        "queries": [
+          "AWS KMS key policy common mistakes access denied troubleshooting",
+          "KMS policy failure modes decrypt denied root cause"
+        ]
+      },
+      {
+        "title": "Validate Policy Behavior with CLI",
+        "slug": "module-5-validate-policy-behavior-with-cli",
+        "queries": [
+          "AWS CLI put-key-policy get-key-policy validate KMS access",
+          "KMS policy testing CLI decrypt encrypt describe-key"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 6: VPC Flow Logs Analysis with Athena",
+    "slug": "module-6-vpc-flow-logs-analysis-with-athena",
+    "children": [
+      {
+        "title": "Scenario Context: Network Forensics After an Alert",
+        "slug": "module-6-scenario-context-network-forensics-after-an-alert",
+        "queries": [
+          "VPC Flow Logs incident response scenario Athena network forensics",
+          "AWS network investigation using VPC Flow Logs and Athena"
+        ]
+      },
+      {
+        "title": "Enable VPC Flow Logs and Deliver to S3",
+        "slug": "module-6-enable-vpc-flow-logs-and-deliver-to-s3",
+        "queries": [
+          "AWS CLI create VPC Flow Logs to S3",
+          "VPC Flow Logs delivery to S3 configuration AWS"
+        ]
+      },
+      {
+        "title": "Create Athena Tables for Flow Log Data",
+        "slug": "module-6-create-athena-tables-for-flow-log-data",
+        "queries": [
+          "Athena create table VPC Flow Logs schema SQL",
+          "AWS Athena VPC Flow Logs table definition"
+        ]
+      },
+      {
+        "title": "Partitioning and Query Optimization",
+        "slug": "module-6-partitioning-and-query-optimization",
+        "queries": [
+          "Athena partitioning VPC Flow Logs query optimization",
+          "AWS Athena performance tuning for security log queries"
+        ]
+      },
+      {
+        "title": "Investigate Unusual Outbound Connections",
+        "slug": "module-6-investigate-unusual-outbound-connections",
+        "queries": [
+          "Athena query unusual outbound connections VPC Flow Logs",
+          "VPC Flow Logs Athena query suspicious destination IP"
+        ]
+      },
+      {
+        "title": "Detect Denied Traffic and Port Scanning",
+        "slug": "module-6-detect-denied-traffic-and-port-scanning",
+        "queries": [
+          "Athena query denied traffic port scanning VPC Flow Logs",
+          "VPC Flow Logs Athena query reconnaissance patterns"
+        ]
+      },
+      {
+        "title": "Correlate Flow Logs with GuardDuty and EC2 Metadata",
+        "slug": "module-6-correlate-flow-logs-with-guardduty-and-ec2-metadata",
+        "queries": [
+          "correlate GuardDuty findings with VPC Flow Logs Athena",
+          "AWS incident response correlate EC2 metadata flow logs"
+        ]
+      },
+      {
+        "title": "Interpret Results and Map to Containment Actions",
+        "slug": "module-6-interpret-results-and-map-to-containment-actions",
+        "queries": [
+          "network forensics results to containment actions AWS",
+          "AWS security investigation flow logs to incident response"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 7: Security Telemetry Correlation and Investigation Workflow",
+    "slug": "module-7-security-telemetry-correlation-and-investigation-workflow",
+    "children": [
+      {
+        "title": "Scenario Context: Multi-Source AWS Incident Investigation",
+        "slug": "module-7-scenario-context-multi-source-aws-incident-investigation",
+        "queries": [
+          "AWS incident investigation workflow CloudTrail GuardDuty VPC Flow Logs",
+          "SOC investigation workflow in AWS telemetry sources"
+        ]
+      },
+      {
+        "title": "CloudTrail Event Analysis",
+        "slug": "module-7-cloudtrail-event-analysis",
+        "queries": [
+          "CloudTrail event analysis incident response CLI Athena",
+          "AWS CloudTrail suspicious API activity investigation"
+        ]
+      },
+      {
+        "title": "Correlate GuardDuty Findings with Other Telemetry",
+        "slug": "module-7-correlate-guardduty-findings-with-other-telemetry",
+        "queries": [
+          "GuardDuty correlation with CloudTrail and VPC Flow Logs",
+          "AWS security telemetry correlation GuardDuty findings"
+        ]
+      },
+      {
+        "title": "CloudWatch Logs and Metrics for Investigation",
+        "slug": "module-7-cloudwatch-logs-and-metrics-for-investigation",
+        "queries": [
+          "CloudWatch logs metrics incident response AWS security",
+          "AWS CloudWatch investigation workflow security operations"
+        ]
+      },
+      {
+        "title": "Construct an Incident Timeline",
+        "slug": "module-7-construct-an-incident-timeline",
+        "queries": [
+          "AWS incident timeline construction from CloudTrail and flow logs",
+          "security investigation timeline methodology AWS telemetry"
+        ]
+      },
+      {
+        "title": "Identify Initial Access Persistence Lateral Movement and Exfiltration",
+        "slug": "module-7-identify-initial-access-persistence-lateral-movement-and-exfiltration",
+        "queries": [
+          "AWS incident response identify persistence lateral movement exfiltration",
+          "CloudTrail and flow logs indicators of compromise AWS"
+        ]
+      },
+      {
+        "title": "Evidence Extraction with CLI and Athena",
+        "slug": "module-7-evidence-extraction-with-cli-and-athena",
+        "queries": [
+          "AWS CLI Athena evidence extraction security investigation",
+          "CloudTrail Athena query incident response evidence collection"
+        ]
+      },
+      {
+        "title": "Determine Attack Path and Containment Priority",
+        "slug": "module-7-determine-attack-path-and-containment-priority",
+        "queries": [
+          "AWS attack path analysis containment priority incident response",
+          "security operations triage prioritization AWS incident"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 8: Zero-Trust Access with AWS Verified Access",
+    "slug": "module-8-zero-trust-access-with-aws-verified-access",
+    "children": [
+      {
+        "title": "Scenario Context: Internal Application Access Without VPN",
+        "slug": "module-8-scenario-context-internal-application-access-without-vpn",
+        "queries": [
+          "AWS Verified Access internal application zero trust scenario",
+          "Verified Access replacement for VPN operational workflow"
+        ]
+      },
+      {
+        "title": "Verified Access Architecture and Deployment Flow",
+        "slug": "module-8-verified-access-architecture-and-deployment-flow",
+        "queries": [
+          "AWS Verified Access architecture deployment flow documentation",
+          "Verified Access instance application endpoint setup"
+        ]
+      },
+      {
+        "title": "Trust Provider Configuration",
+        "slug": "module-8-trust-provider-configuration",
+        "queries": [
+          "AWS Verified Access trust provider configuration identity device",
+          "Verified Access trust provider setup CLI console"
+        ]
+      },
+      {
+        "title": "Access Policy Design",
+        "slug": "module-8-access-policy-design",
+        "queries": [
+          "AWS Verified Access policy examples device identity conditions",
+          "Verified Access access policy syntax and evaluation"
+        ]
+      },
+      {
+        "title": "Application Association and Endpoint Validation",
+        "slug": "module-8-application-association-and-endpoint-validation",
+        "queries": [
+          "AWS Verified Access associate application endpoint validation",
+          "Verified Access application association troubleshooting"
+        ]
+      },
+      {
+        "title": "Logging and Troubleshooting Access Decisions",
+        "slug": "module-8-logging-and-troubleshooting-access-decisions",
+        "queries": [
+          "AWS Verified Access logs troubleshooting denied access",
+          "Verified Access access decision logs and policy evaluation"
+        ]
+      },
+      {
+        "title": "Validate Allowed and Denied Access Outcomes",
+        "slug": "module-8-validate-allowed-and-denied-access-outcomes",
+        "queries": [
+          "Verified Access test allowed denied access outcomes",
+          "AWS Verified Access policy validation lab"
+        ]
+      },
+      {
+        "title": "Operational Comparison to VPN-Style Access",
+        "slug": "module-8-operational-comparison-to-vpn-style-access",
+        "queries": [
+          "AWS Verified Access versus VPN operational comparison",
+          "zero trust access operational model AWS Verified Access"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 9: Security Hub, AWS Config, and Control Validation",
+    "slug": "module-9-security-hub-aws-config-and-control-validation",
+    "children": [
+      {
+        "title": "Scenario Context: Posture Findings During an Incident",
+        "slug": "module-9-scenario-context-posture-findings-during-an-incident",
+        "queries": [
+          "Security Hub AWS Config incident response posture findings scenario",
+          "AWS security posture validation during incident response"
+        ]
+      },
+      {
+        "title": "Enable Security Hub and Ingest Findings",
+        "slug": "module-9-enable-security-hub-and-ingest-findings",
+        "queries": [
+          "AWS Security Hub enable GuardDuty integration CLI",
+          "Security Hub findings ingestion setup AWS"
+        ]
+      },
+      {
+        "title": "AWS Config Rules for Security Operations",
+        "slug": "module-9-aws-config-rules-for-security-operations",
+        "queries": [
+          "AWS Config security rules CLI managed rules",
+          "AWS Config rules for security posture validation"
+        ]
+      },
+      {
+        "title": "Detect Noncompliant Configurations",
+        "slug": "module-9-detect-noncompliant-configurations",
+        "queries": [
+          "AWS Config noncompliant resource detection security operations",
+          "Security Hub and Config compliance findings investigation"
+        ]
+      },
+      {
+        "title": "Prioritize Findings for Remediation",
+        "slug": "module-9-prioritize-findings-for-remediation",
+        "queries": [
+          "Security Hub finding prioritization remediation workflow",
+          "AWS security findings triage and prioritization"
+        ]
+      },
+      {
+        "title": "Correlate Posture Issues with Incident Response",
+        "slug": "module-9-correlate-posture-issues-with-incident-response",
+        "queries": [
+          "AWS Security Hub correlate posture issues with incident response",
+          "Config findings impact on incident response AWS"
+        ]
+      },
+      {
+        "title": "Validate Control Effectiveness",
+        "slug": "module-9-validate-control-effectiveness",
+        "queries": [
+          "AWS security control validation Security Hub Config lab",
+          "validate security controls with AWS Config and Security Hub"
+        ]
+      },
+      {
+        "title": "Remediation Workflow for Noncompliance",
+        "slug": "module-9-remediation-workflow-for-noncompliance",
+        "queries": [
+          "AWS Config remediation workflow security hub findings",
+          "security posture remediation automation AWS"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 10: Capstone Incident Response Exercise",
+    "slug": "module-10-capstone-incident-response-exercise",
+    "children": [
+      {
+        "title": "Scenario Context: Full-Stack AWS Security Incident",
+        "slug": "module-10-scenario-context-full-stack-aws-security-incident",
+        "queries": [
+          "AWS capstone incident response scenario compromised EC2 suspicious outbound traffic",
+          "AWS security incident response capstone lab GuardDuty EventBridge Athena"
+        ]
+      },
+      {
+        "title": "GuardDuty Alert Ingestion and Triage",
+        "slug": "module-10-guardduty-alert-ingestion-and-triage",
+        "queries": [
+          "GuardDuty alert triage workflow capstone incident response",
+          "AWS GuardDuty findings to incident response workflow"
+        ]
+      },
+      {
+        "title": "EventBridge-Triggered Automation",
+        "slug": "module-10-eventbridge-triggered-automation",
+        "queries": [
+          "EventBridge triggered Lambda remediation GuardDuty capstone",
+          "AWS security automation incident response EventBridge Lambda"
+        ]
+      },
+      {
+        "title": "EC2 Isolation and Evidence Preservation",
+        "slug": "module-10-ec2-isolation-and-evidence-preservation",
+        "queries": [
+          "EC2 isolation evidence preservation incident response AWS CLI",
+          "AWS compromised instance containment and forensic preservation"
+        ]
+      },
+      {
+        "title": "KMS Policy Review During Sensitive Data Exposure",
+        "slug": "module-10-kms-policy-review-during-sensitive-data-exposure",
+        "queries": [
+          "KMS policy review during incident response sensitive data access",
+          "AWS KMS forensic access review incident workflow"
+        ]
+      },
+      {
+        "title": "VPC Flow Logs Investigation in Athena",
+        "slug": "module-10-vpc-flow-logs-investigation-in-athena",
+        "queries": [
+          "Athena VPC Flow Logs investigation capstone incident response",
+          "AWS network forensics Athena queries incident response"
+        ]
+      },
+      {
+        "title": "Verified Access Policy Adjustment for Exposure Reduction",
+        "slug": "module-10-verified-access-policy-adjustment-for-exposure-reduction",
+        "queries": [
+          "AWS Verified Access policy adjustment incident response exposure",
+          "Verified Access access policy hardening after security incident"
+        ]
+      },
+      {
+        "title": "Recovery and Post-Incident Hardening",
+        "slug": "module-10-recovery-and-post-incident-hardening",
+        "queries": [
+          "AWS incident recovery post incident hardening security operations",
+          "AWS security incident lessons learned hardening actions"
+        ]
+      }
+    ]
+  }
+]

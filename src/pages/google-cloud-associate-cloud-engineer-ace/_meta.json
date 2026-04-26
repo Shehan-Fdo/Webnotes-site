@@ -1,0 +1,4 @@
+{
+  "label": "Google Cloud Associate Cloud Engineer (ACE)",
+  "description": "Google Cloud Associate Cloud Engineer (ACE) is a CLI-first, hands-on study notes course built for exam prep with `gcloud`, `gsutil`, and `bq` at the center of every lab. You’ll practice end-to-end tasks like provisioning Compute Engine VMs, configuring custom VPCs and VPC peering, creating and managing GKE clusters, and handling IAM service accounts, while also troubleshooting real-world issues such as billing alerts, storage bucket permissions, firewall rules, API enablement, and access failures."
+}

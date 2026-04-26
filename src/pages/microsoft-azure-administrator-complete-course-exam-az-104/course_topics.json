@@ -1,0 +1,602 @@
+[
+  {
+    "title": "Section A: Orientation and AZ-104 Exam Strategy",
+    "slug": "section-a-orientation-and-az-104-exam-strategy",
+    "children": [
+      {
+        "title": "Course Overview and Azure Administrator Role",
+        "slug": "course-overview-and-azure-administrator-role",
+        "queries": [
+          "AZ-104 Azure Administrator role responsibilities Microsoft Learn",
+          "Azure administrator tasks identity governance compute networking monitoring"
+        ]
+      },
+      {
+        "title": "AZ-104 Exam Format, Skills Measured, and Domain Weighting",
+        "slug": "az-104-exam-format-skills-measured-and-domain-weighting",
+        "queries": [
+          "AZ-104 skills measured exam domains Microsoft Learn",
+          "AZ-104 exam format question types scenario-based guidance"
+        ]
+      },
+      {
+        "title": "Azure Portal Navigation and Core UI Concepts",
+        "slug": "azure-portal-navigation-and-core-ui-concepts",
+        "queries": [
+          "Azure portal navigation resource blades settings Microsoft Learn",
+          "Azure portal interface overview current terminology"
+        ]
+      },
+      {
+        "title": "Azure CLI Setup, Login, and Context Management",
+        "slug": "azure-cli-setup-login-and-context-management",
+        "queries": [
+          "Azure CLI login account set subscription current documentation",
+          "az cli installation authentication subscription context Microsoft Learn"
+        ]
+      },
+      {
+        "title": "Azure PowerShell Setup, Login, and Context Management",
+        "slug": "azure-powershell-setup-login-and-context-management",
+        "queries": [
+          "Azure PowerShell Connect-AzAccount Set-AzContext Microsoft Learn",
+          "Az module installation authentication subscription context current docs"
+        ]
+      },
+      {
+        "title": "Subscription, Sandbox, and Free Tier Lab Setup",
+        "slug": "subscription-sandbox-and-free-tier-lab-setup",
+        "queries": [
+          "Azure free account sandbox setup for labs Microsoft Learn",
+          "Azure trial subscription lab environment cost management"
+        ]
+      },
+      {
+        "title": "Naming Conventions, Tagging Standards, and Resource Organization",
+        "slug": "naming-conventions-tagging-standards-and-resource-organization",
+        "queries": [
+          "Azure naming conventions tagging strategy resource organization Microsoft Learn",
+          "Azure resource naming standards governance best practices"
+        ]
+      },
+      {
+        "title": "AZ-104 Exam Traps and Scenario Question Interpretation",
+        "slug": "az-104-exam-traps-and-scenario-question-interpretation",
+        "queries": [
+          "AZ-104 exam traps best answer scenario wording Microsoft Learn",
+          "Azure administrator exam scenario question interpretation tips"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Section B: Identity and Governance",
+    "slug": "section-b-identity-and-governance",
+    "children": [
+      {
+        "title": "Microsoft Entra ID Tenant Concepts and Directory Structure",
+        "slug": "microsoft-entra-id-tenant-concepts-and-directory-structure",
+        "queries": [
+          "Microsoft Entra ID tenant concepts users groups directory Microsoft Learn",
+          "Entra ID tenant vs subscription vs management group explanation"
+        ]
+      },
+      {
+        "title": "Users, Groups, and Group-Based Access Management",
+        "slug": "users-groups-and-group-based-access-management",
+        "queries": [
+          "Microsoft Entra ID users groups group-based access management Microsoft Learn",
+          "Azure CLI PowerShell create users groups Entra ID"
+        ]
+      },
+      {
+        "title": "Azure RBAC Fundamentals and Scope Hierarchy",
+        "slug": "azure-rbac-fundamentals-and-scope-hierarchy",
+        "queries": [
+          "Azure RBAC scope hierarchy management group subscription resource group resource Microsoft Learn",
+          "Azure role assignments scope inheritance current documentation"
+        ]
+      },
+      {
+        "title": "Built-in Roles and Custom Roles",
+        "slug": "built-in-roles-and-custom-roles",
+        "queries": [
+          "Azure built-in roles custom roles Microsoft Learn",
+          "Azure CLI PowerShell create custom role definition assignment"
+        ]
+      },
+      {
+        "title": "Management Groups, Subscriptions, and Delegation Patterns",
+        "slug": "management-groups-subscriptions-and-delegation-patterns",
+        "queries": [
+          "Azure management groups subscription delegation Microsoft Learn",
+          "Azure governance hierarchy management group subscription access"
+        ]
+      },
+      {
+        "title": "Azure Policy and Initiative Basics",
+        "slug": "azure-policy-and-initiative-basics",
+        "queries": [
+          "Azure Policy initiatives assignments effects Microsoft Learn",
+          "Azure CLI PowerShell assign policy initiative current docs"
+        ]
+      },
+      {
+        "title": "Resource Locks, Tags, and Governance Standards",
+        "slug": "resource-locks-tags-and-governance-standards",
+        "queries": [
+          "Azure resource locks tags governance Microsoft Learn",
+          "Azure CLI PowerShell create lock tag resource"
+        ]
+      },
+      {
+        "title": "Subscription Management and Resource Organization",
+        "slug": "subscription-management-and-resource-organization",
+        "queries": [
+          "Azure subscription management resource groups organization Microsoft Learn",
+          "Azure administrator subscription governance and delegation"
+        ]
+      },
+      {
+        "title": "Identity and Governance Enterprise Scenario Lab",
+        "slug": "identity-and-governance-enterprise-scenario-lab",
+        "queries": [
+          "Azure RBAC policy tagging enterprise scenario lab Microsoft Learn",
+          "Entra ID governance delegated administration scenario AZ-104"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Section C: Storage",
+    "slug": "section-c-storage",
+    "children": [
+      {
+        "title": "Storage Accounts, Performance Tiers, and Redundancy Options",
+        "slug": "storage-accounts-performance-tiers-and-redundancy-options",
+        "queries": [
+          "Azure storage account redundancy LRS ZRS GRS GZRS Microsoft Learn",
+          "Azure storage account performance tiers standard premium current docs"
+        ]
+      },
+      {
+        "title": "Blob Storage Containers, Access Levels, and Data Access",
+        "slug": "blob-storage-containers-access-levels-and-data-access",
+        "queries": [
+          "Azure Blob Storage containers access levels Microsoft Learn",
+          "Azure CLI PowerShell create blob container set access level"
+        ]
+      },
+      {
+        "title": "Azure Files and SMB File Share Administration",
+        "slug": "azure-files-and-smb-file-share-administration",
+        "queries": [
+          "Azure Files SMB file share administration Microsoft Learn",
+          "Azure CLI PowerShell create Azure file share mount access"
+        ]
+      },
+      {
+        "title": "Queue Storage and Table Storage Use Cases",
+        "slug": "queue-storage-and-table-storage-use-cases",
+        "queries": [
+          "Azure Queue Storage Table Storage use cases Microsoft Learn",
+          "Azure storage queues tables administration current docs"
+        ]
+      },
+      {
+        "title": "Storage Authentication and Access Control",
+        "slug": "storage-authentication-and-access-control",
+        "queries": [
+          "Azure storage access keys SAS Microsoft Entra ID authentication Microsoft Learn",
+          "Azure storage identity-based access RBAC current documentation"
+        ]
+      },
+      {
+        "title": "Lifecycle Management and Data Tiering",
+        "slug": "lifecycle-management-and-data-tiering",
+        "queries": [
+          "Azure storage lifecycle management rules Microsoft Learn",
+          "Azure blob tiering hot cool archive lifecycle policy"
+        ]
+      },
+      {
+        "title": "Storage Networking, Firewalls, and Private Access Basics",
+        "slug": "storage-networking-firewalls-and-private-access-basics",
+        "queries": [
+          "Azure storage firewall networking private endpoint service endpoint Microsoft Learn",
+          "Azure storage account network rules current documentation"
+        ]
+      },
+      {
+        "title": "Storage Operational Management and Data Protection",
+        "slug": "storage-operational-management-and-data-protection",
+        "queries": [
+          "Azure storage operational management backup soft delete versioning Microsoft Learn",
+          "Azure storage data protection and recovery current docs"
+        ]
+      },
+      {
+        "title": "Storage Enterprise Scenario Lab",
+        "slug": "storage-enterprise-scenario-lab",
+        "queries": [
+          "Azure storage governance secure access enterprise scenario lab",
+          "AZ-104 storage account blob file share lifecycle management lab"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Section D: Compute",
+    "slug": "section-d-compute",
+    "children": [
+      {
+        "title": "Azure Virtual Machine Provisioning and Configuration",
+        "slug": "azure-virtual-machine-provisioning-and-configuration",
+        "queries": [
+          "Azure virtual machine provisioning configuration Microsoft Learn",
+          "Azure CLI PowerShell create virtual machine current docs"
+        ]
+      },
+      {
+        "title": "VM Sizing, Images, and Operating System Selection",
+        "slug": "vm-sizing-images-and-operating-system-selection",
+        "queries": [
+          "Azure VM sizes images selection Microsoft Learn",
+          "Azure administrator choose VM size image best practices"
+        ]
+      },
+      {
+        "title": "Managed Disks and Disk Types",
+        "slug": "managed-disks-and-disk-types",
+        "queries": [
+          "Azure managed disks disk types Microsoft Learn",
+          "Azure CLI PowerShell create attach managed disk current docs"
+        ]
+      },
+      {
+        "title": "VM Extensions and Post-Deployment Configuration",
+        "slug": "vm-extensions-and-post-deployment-configuration",
+        "queries": [
+          "Azure VM extensions Microsoft Learn",
+          "Azure CLI PowerShell install VM extension current docs"
+        ]
+      },
+      {
+        "title": "Availability Sets and Fault Domain Design",
+        "slug": "availability-sets-and-fault-domain-design",
+        "queries": [
+          "Azure availability sets fault domains update domains Microsoft Learn",
+          "Azure VM high availability availability set administration"
+        ]
+      },
+      {
+        "title": "Virtual Machine Scale Sets and Autoscaling",
+        "slug": "virtual-machine-scale-sets-and-autoscaling",
+        "queries": [
+          "Azure virtual machine scale sets autoscale Microsoft Learn",
+          "Azure CLI PowerShell create VM scale set autoscale current docs"
+        ]
+      },
+      {
+        "title": "Azure App Service Plans, Web Apps, and Deployment Slots",
+        "slug": "azure-app-service-plans-web-apps-and-deployment-slots",
+        "queries": [
+          "Azure App Service plans web apps deployment slots Microsoft Learn",
+          "Azure CLI PowerShell create web app deployment slot current docs"
+        ]
+      },
+      {
+        "title": "Azure Container Instances and Basic Container Operations",
+        "slug": "azure-container-instances-and-basic-container-operations",
+        "queries": [
+          "Azure Container Instances administration Microsoft Learn",
+          "Azure CLI PowerShell create container instance current docs"
+        ]
+      },
+      {
+        "title": "Compute High Availability, Scaling, and Operational Management",
+        "slug": "compute-high-availability-scaling-and-operational-management",
+        "queries": [
+          "Azure compute high availability scaling operational management Microsoft Learn",
+          "Azure administrator VM backup patching bastion operational tasks"
+        ]
+      },
+      {
+        "title": "Compute Enterprise Scenario Lab",
+        "slug": "compute-enterprise-scenario-lab",
+        "queries": [
+          "Azure VM App Service scale set enterprise scenario lab",
+          "AZ-104 compute deployment and management hands-on lab"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Section E: Networking",
+    "slug": "section-e-networking",
+    "children": [
+      {
+        "title": "Virtual Networks, Subnets, and IP Address Planning",
+        "slug": "virtual-networks-subnets-and-ip-address-planning",
+        "queries": [
+          "Azure virtual networks subnets IP planning Microsoft Learn",
+          "Azure CLI PowerShell create virtual network subnet current docs"
+        ]
+      },
+      {
+        "title": "Network Security Groups and Traffic Filtering",
+        "slug": "network-security-groups-and-traffic-filtering",
+        "queries": [
+          "Azure network security groups traffic filtering Microsoft Learn",
+          "Azure CLI PowerShell create NSG security rules current docs"
+        ]
+      },
+      {
+        "title": "Application Security Groups and Rule Simplification",
+        "slug": "application-security-groups-and-rule-simplification",
+        "queries": [
+          "Azure application security groups Microsoft Learn",
+          "Azure NSG rules application security groups current docs"
+        ]
+      },
+      {
+        "title": "Azure Load Balancer Concepts and Configuration",
+        "slug": "azure-load-balancer-concepts-and-configuration",
+        "queries": [
+          "Azure Load Balancer concepts configuration Microsoft Learn",
+          "Azure CLI PowerShell create load balancer current docs"
+        ]
+      },
+      {
+        "title": "VPN Gateway, Site-to-Site, and Point-to-Site Connectivity",
+        "slug": "vpn-gateway-site-to-site-and-point-to-site-connectivity",
+        "queries": [
+          "Azure VPN Gateway site-to-site point-to-site Microsoft Learn",
+          "Azure administrator VPN gateway configuration current docs"
+        ]
+      },
+      {
+        "title": "ExpressRoute Overview and Enterprise Connectivity",
+        "slug": "expressroute-overview-and-enterprise-connectivity",
+        "queries": [
+          "Azure ExpressRoute overview enterprise connectivity Microsoft Learn",
+          "ExpressRoute administration AZ-104 conceptual current docs"
+        ]
+      },
+      {
+        "title": "Azure DNS and Name Resolution",
+        "slug": "azure-dns-and-name-resolution",
+        "queries": [
+          "Azure DNS name resolution Microsoft Learn",
+          "Azure CLI PowerShell create DNS zone record set current docs"
+        ]
+      },
+      {
+        "title": "VNet Peering and Cross-Network Connectivity",
+        "slug": "vnet-peering-and-cross-network-connectivity",
+        "queries": [
+          "Azure VNet peering Microsoft Learn",
+          "Azure CLI PowerShell create virtual network peering current docs"
+        ]
+      },
+      {
+        "title": "Routing Basics, Service Endpoints, and Private Endpoints",
+        "slug": "routing-basics-service-endpoints-and-private-endpoints",
+        "queries": [
+          "Azure route tables service endpoints private endpoints Microsoft Learn",
+          "Azure networking routing troubleshooting current docs"
+        ]
+      },
+      {
+        "title": "Network Troubleshooting Workflow and Connectivity Diagnostics",
+        "slug": "network-troubleshooting-workflow-and-connectivity-diagnostics",
+        "queries": [
+          "Azure network troubleshooting workflow Microsoft Learn",
+          "Azure connectivity diagnostics NSG effective routes current docs"
+        ]
+      },
+      {
+        "title": "Networking Enterprise Scenario Lab",
+        "slug": "networking-enterprise-scenario-lab",
+        "queries": [
+          "Azure networking enterprise scenario lab VPN NSG peering",
+          "AZ-104 virtual networking hands-on troubleshooting lab"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Section F: Monitoring and Maintenance",
+    "slug": "section-f-monitoring-and-maintenance",
+    "children": [
+      {
+        "title": "Azure Monitor Architecture and Core Components",
+        "slug": "azure-monitor-architecture-and-core-components",
+        "queries": [
+          "Azure Monitor architecture metrics logs alerts Microsoft Learn",
+          "Azure monitoring core components current documentation"
+        ]
+      },
+      {
+        "title": "Metrics vs Logs and Practical Use Cases",
+        "slug": "metrics-vs-logs-and-practical-use-cases",
+        "queries": [
+          "Azure metrics vs logs Microsoft Learn",
+          "Azure Monitor metrics logs practical administration"
+        ]
+      },
+      {
+        "title": "Log Analytics Workspace and KQL Basics for Administrators",
+        "slug": "log-analytics-workspace-and-kql-basics-for-administrators",
+        "queries": [
+          "Log Analytics workspace KQL basics Microsoft Learn",
+          "Azure Monitor KQL queries for administrators current docs"
+        ]
+      },
+      {
+        "title": "Alerts, Action Groups, and Notification Workflows",
+        "slug": "alerts-action-groups-and-notification-workflows",
+        "queries": [
+          "Azure Monitor alerts action groups Microsoft Learn",
+          "Azure CLI PowerShell create alert action group current docs"
+        ]
+      },
+      {
+        "title": "Activity Log Analysis and Audit Investigation",
+        "slug": "activity-log-analysis-and-audit-investigation",
+        "queries": [
+          "Azure Activity Log analysis Microsoft Learn",
+          "Azure portal activity log troubleshooting current docs"
+        ]
+      },
+      {
+        "title": "Diagnostic Settings and Resource Log Collection",
+        "slug": "diagnostic-settings-and-resource-log-collection",
+        "queries": [
+          "Azure diagnostic settings resource logs Microsoft Learn",
+          "Azure CLI PowerShell configure diagnostic settings current docs"
+        ]
+      },
+      {
+        "title": "Resource Health and Service Health",
+        "slug": "resource-health-and-service-health",
+        "queries": [
+          "Azure Resource Health Service Health Microsoft Learn",
+          "Azure service health incident troubleshooting current docs"
+        ]
+      },
+      {
+        "title": "Operational Monitoring for VMs, Storage, Networking, and App Service",
+        "slug": "operational-monitoring-for-vms-storage-networking-and-app-service",
+        "queries": [
+          "Azure VM storage networking App Service monitoring Microsoft Learn",
+          "Azure Monitor operational dashboards alerts current docs"
+        ]
+      },
+      {
+        "title": "Monitoring and Alerting Enterprise Scenario Lab",
+        "slug": "monitoring-and-alerting-enterprise-scenario-lab",
+        "queries": [
+          "Azure monitoring alerting enterprise scenario lab Log Analytics",
+          "AZ-104 monitoring diagnostics hands-on lab"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Section G: Capstone Enterprise Scenarios",
+    "slug": "section-g-capstone-enterprise-scenarios",
+    "children": [
+      {
+        "title": "Multi-Tier Application Deployment Scenario",
+        "slug": "multi-tier-application-deployment-scenario",
+        "queries": [
+          "Azure multi-tier application deployment scenario Microsoft Learn",
+          "AZ-104 enterprise multi-tier architecture lab"
+        ]
+      },
+      {
+        "title": "Fault-Tolerant Web App Across Two Regions",
+        "slug": "fault-tolerant-web-app-across-two-regions",
+        "queries": [
+          "Azure fault tolerant web app across two regions Microsoft Learn",
+          "Azure App Service multi-region high availability scenario"
+        ]
+      },
+      {
+        "title": "Hybrid Connectivity Scenario",
+        "slug": "hybrid-connectivity-scenario",
+        "queries": [
+          "Azure hybrid connectivity VPN gateway ExpressRoute scenario Microsoft Learn",
+          "AZ-104 hybrid networking enterprise scenario"
+        ]
+      },
+      {
+        "title": "Secure Storage Access Scenario",
+        "slug": "secure-storage-access-scenario",
+        "queries": [
+          "Azure secure storage access scenario Microsoft Learn",
+          "Azure storage RBAC SAS firewall private endpoint scenario"
+        ]
+      },
+      {
+        "title": "Role-Based Delegated Administration Scenario",
+        "slug": "role-based-delegated-administration-scenario",
+        "queries": [
+          "Azure delegated administration RBAC scenario Microsoft Learn",
+          "Entra ID Azure RBAC delegation enterprise scenario"
+        ]
+      },
+      {
+        "title": "Monitoring and Alerting Scenario",
+        "slug": "monitoring-and-alerting-scenario",
+        "queries": [
+          "Azure monitoring and alerting enterprise scenario Microsoft Learn",
+          "Azure Monitor action groups alerts Log Analytics scenario"
+        ]
+      },
+      {
+        "title": "End-to-End Troubleshooting Scenario",
+        "slug": "end-to-end-troubleshooting-scenario",
+        "queries": [
+          "Azure end-to-end troubleshooting scenario Microsoft Learn",
+          "AZ-104 connectivity deployment monitoring troubleshooting case study"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Section H: Exam Preparation and Review",
+    "slug": "section-h-exam-preparation-and-review",
+    "children": [
+      {
+        "title": "Domain-by-Domain Review and Consolidation",
+        "slug": "domain-by-domain-review-and-consolidation",
+        "queries": [
+          "AZ-104 domain review Microsoft Learn",
+          "Azure administrator exam review identity storage compute networking monitoring"
+        ]
+      },
+      {
+        "title": "Scenario-Based Practice Questions",
+        "slug": "scenario-based-practice-questions",
+        "queries": [
+          "AZ-104 scenario based practice questions Microsoft Learn",
+          "Azure administrator best answer scenario practice"
+        ]
+      },
+      {
+        "title": "Command Recognition Drills for Azure CLI and PowerShell",
+        "slug": "command-recognition-drills-for-azure-cli-and-powershell",
+        "queries": [
+          "Azure CLI PowerShell command recognition AZ-104 Microsoft Learn",
+          "az104 command syntax practice identity storage networking monitoring"
+        ]
+      },
+      {
+        "title": "Troubleshooting and Best-Answer Exam Traps",
+        "slug": "troubleshooting-and-best-answer-exam-traps",
+        "queries": [
+          "AZ-104 troubleshooting exam traps best answer Microsoft Learn",
+          "Azure administrator exam wording traps permissions scope redundancy"
+        ]
+      },
+      {
+        "title": "Final Mock Exam Blueprint",
+        "slug": "final-mock-exam-blueprint",
+        "queries": [
+          "AZ-104 mock exam blueprint Microsoft Learn",
+          "Azure administrator final practice exam domains and weighting"
+        ]
+      },
+      {
+        "title": "Study Checklist and Readiness Assessment",
+        "slug": "study-checklist-and-readiness-assessment",
+        "queries": [
+          "AZ-104 study checklist readiness assessment Microsoft Learn",
+          "Azure administrator exam readiness checklist current docs"
+        ]
+      }
+    ]
+  }
+]

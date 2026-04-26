@@ -1,0 +1,814 @@
+[
+  {
+    "title": "Module 1: Linux Foundations and System Concepts",
+    "slug": "module-1-linux-foundations-and-system-concepts",
+    "children": [
+      {
+        "title": "Linux history, philosophy, and open source licensing",
+        "slug": "linux-history-philosophy-open-source-licensing",
+        "queries": [
+          "Linux history philosophy GPL open source licensing overview",
+          "CompTIA Linux+ XK0-006 Linux philosophy and licensing notes"
+        ]
+      },
+      {
+        "title": "Linux distributions and enterprise use cases",
+        "slug": "linux-distributions-enterprise-use-cases",
+        "queries": [
+          "Ubuntu 24.04 vs RHEL 10 enterprise Linux distribution comparison",
+          "Linux distributions use cases server desktop cloud notes"
+        ]
+      },
+      {
+        "title": "Kernel vs user space and the Linux execution model",
+        "slug": "kernel-vs-user-space-linux-execution-model",
+        "queries": [
+          "Linux kernel vs user space explanation system calls process model",
+          "CompTIA Linux+ kernel user space concepts"
+        ]
+      },
+      {
+        "title": "Filesystem Hierarchy Standard (FHS)",
+        "slug": "filesystem-hierarchy-standard-fhs",
+        "queries": [
+          "Linux filesystem hierarchy standard FHS directories guide",
+          "Ubuntu RHEL filesystem hierarchy standard /etc /var /usr notes"
+        ]
+      },
+      {
+        "title": "Shells, terminals, and CLI basics",
+        "slug": "shells-terminals-cli-basics",
+        "queries": [
+          "Linux shell terminal basics bash zsh tty pts guide",
+          "CompTIA Linux+ command line basics shell terminal concepts"
+        ]
+      },
+      {
+        "title": "Navigation, help systems, and command discovery",
+        "slug": "navigation-help-systems-command-discovery",
+        "queries": [
+          "Linux command line navigation man info --help apropos whatis",
+          "CompTIA Linux+ help systems man pages command discovery"
+        ]
+      },
+      {
+        "title": "Text processing, redirection, pipes, and quoting",
+        "slug": "text-processing-redirection-pipes-quoting",
+        "queries": [
+          "Linux redirection pipes grep awk sed quoting command line guide",
+          "CompTIA Linux+ text processing redirection quoting notes"
+        ]
+      },
+      {
+        "title": "Environment variables and shell initialization",
+        "slug": "environment-variables-shell-initialization",
+        "queries": [
+          "Linux environment variables bash profile bashrc export PATH guide",
+          "CompTIA Linux+ environment variables shell initialization files"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 2: System Management and Boot Process",
+    "slug": "module-2-system-management-and-boot-process",
+    "children": [
+      {
+        "title": "systemd architecture and service management",
+        "slug": "systemd-architecture-service-management",
+        "queries": [
+          "systemd service management systemctl units targets dependencies guide",
+          "CompTIA Linux+ systemd service management notes Ubuntu RHEL"
+        ]
+      },
+      {
+        "title": "Boot sequence, bootloader concepts, and recovery",
+        "slug": "boot-sequence-bootloader-concepts-recovery",
+        "queries": [
+          "Linux boot sequence GRUB2 bootloader recovery systemd boot process",
+          "CompTIA Linux+ boot process bootloader troubleshooting"
+        ]
+      },
+      {
+        "title": "Targets and runlevels mapping",
+        "slug": "targets-runlevels-mapping",
+        "queries": [
+          "systemd targets runlevels mapping multi-user graphical rescue emergency",
+          "CompTIA Linux+ targets runlevels systemd mapping"
+        ]
+      },
+      {
+        "title": "Service enablement, masking, and dependency handling",
+        "slug": "service-enablement-masking-dependency-handling",
+        "queries": [
+          "systemctl enable disable mask unmask dependency handling guide",
+          "CompTIA Linux+ service enablement masking dependencies"
+        ]
+      },
+      {
+        "title": "Process management and signals",
+        "slug": "process-management-signals",
+        "queries": [
+          "Linux process management ps top htop kill pkill signals guide",
+          "CompTIA Linux+ process signals troubleshooting notes"
+        ]
+      },
+      {
+        "title": "Kernel modules: loading, unloading, and persistence",
+        "slug": "kernel-modules-loading-unloading-persistence",
+        "queries": [
+          "Linux kernel modules modprobe lsmod rmmod persistence guide",
+          "CompTIA Linux+ kernel modules module management"
+        ]
+      },
+      {
+        "title": "Kernel parameters and runtime tuning basics",
+        "slug": "kernel-parameters-runtime-tuning-basics",
+        "queries": [
+          "Linux kernel parameters sysctl runtime tuning guide",
+          "CompTIA Linux+ sysctl kernel parameters notes"
+        ]
+      },
+      {
+        "title": "Logs and journalctl",
+        "slug": "logs-journalctl",
+        "queries": [
+          "journalctl systemd logs filtering troubleshooting guide",
+          "CompTIA Linux+ journalctl log analysis notes"
+        ]
+      },
+      {
+        "title": "System time, locale, and hostname management",
+        "slug": "system-time-locale-hostname-management",
+        "queries": [
+          "timedatectl localectl hostnamectl Linux administration guide",
+          "CompTIA Linux+ time locale hostname management"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 3: Filesystems, Storage, and Data Management",
+    "slug": "module-3-filesystems-storage-and-data-management",
+    "children": [
+      {
+        "title": "Partitioning concepts and disk layout",
+        "slug": "partitioning-concepts-disk-layout",
+        "queries": [
+          "Linux partitioning GPT MBR disk layout fdisk parted guide",
+          "CompTIA Linux+ partitioning concepts storage notes"
+        ]
+      },
+      {
+        "title": "Filesystem types and mount options",
+        "slug": "filesystem-types-mount-options",
+        "queries": [
+          "Linux filesystem types ext4 xfs btrfs mount options guide",
+          "CompTIA Linux+ filesystem types mount options"
+        ]
+      },
+      {
+        "title": "Persistent mounts via /etc/fstab",
+        "slug": "persistent-mounts-etc-fstab",
+        "queries": [
+          "Linux /etc/fstab persistent mounts systemd mount options guide",
+          "CompTIA Linux+ fstab persistent mount troubleshooting"
+        ]
+      },
+      {
+        "title": "Disk usage and inode management",
+        "slug": "disk-usage-inode-management",
+        "queries": [
+          "Linux disk usage df du inode management guide",
+          "CompTIA Linux+ inode disk usage troubleshooting"
+        ]
+      },
+      {
+        "title": "LVM: physical volumes, volume groups, and logical volumes",
+        "slug": "lvm-physical-volumes-volume-groups-logical-volumes",
+        "queries": [
+          "Linux LVM pvcreate vgcreate lvcreate resize guide",
+          "CompTIA Linux+ LVM storage management notes"
+        ]
+      },
+      {
+        "title": "RAID concepts and implementation",
+        "slug": "raid-concepts-implementation",
+        "queries": [
+          "Linux software RAID mdadm RAID 0 1 5 10 guide",
+          "CompTIA Linux+ RAID concepts mdadm notes"
+        ]
+      },
+      {
+        "title": "Swap management",
+        "slug": "swap-management",
+        "queries": [
+          "Linux swap management swapon swapoff fstab guide",
+          "CompTIA Linux+ swap configuration troubleshooting"
+        ]
+      },
+      {
+        "title": "NFS client and server basics",
+        "slug": "nfs-client-server-basics",
+        "queries": [
+          "Linux NFS server client exports mount troubleshooting guide",
+          "CompTIA Linux+ NFS basics notes Ubuntu RHEL"
+        ]
+      },
+      {
+        "title": "Samba file sharing basics",
+        "slug": "samba-file-sharing-basics",
+        "queries": [
+          "Linux Samba file sharing smb.conf shares permissions guide",
+          "CompTIA Linux+ Samba basics file sharing notes"
+        ]
+      },
+      {
+        "title": "Backup and restore concepts",
+        "slug": "backup-and-restore-concepts",
+        "queries": [
+          "Linux backup restore tar rsync snapshot concepts guide",
+          "CompTIA Linux+ backup restore strategy notes"
+        ]
+      },
+      {
+        "title": "File permissions, ownership, ACLs, and special bits",
+        "slug": "file-permissions-ownership-acls-special-bits",
+        "queries": [
+          "Linux permissions ownership ACL setuid setgid sticky bit guide",
+          "CompTIA Linux+ file permissions ACLs special bits"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 4: Networking and Network Services",
+    "slug": "module-4-networking-and-network-services",
+    "children": [
+      {
+        "title": "TCP/IP fundamentals for Linux administrators",
+        "slug": "tcp-ip-fundamentals-linux-administrators",
+        "queries": [
+          "Linux TCP IP fundamentals subnetting ports protocols guide",
+          "CompTIA Linux+ networking fundamentals TCP IP notes"
+        ]
+      },
+      {
+        "title": "Interface configuration and the ip command",
+        "slug": "interface-configuration-ip-command",
+        "queries": [
+          "Linux ip command interface configuration addr link route guide",
+          "CompTIA Linux+ ip command network configuration"
+        ]
+      },
+      {
+        "title": "Socket inspection with ss and netstat awareness",
+        "slug": "socket-inspection-ss-netstat-awareness",
+        "queries": [
+          "Linux ss command socket inspection netstat comparison guide",
+          "CompTIA Linux+ ss netstat network troubleshooting"
+        ]
+      },
+      {
+        "title": "DNS resolution basics",
+        "slug": "dns-resolution-basics",
+        "queries": [
+          "Linux DNS resolution resolv.conf resolvectl dig host guide",
+          "CompTIA Linux+ DNS resolution troubleshooting notes"
+        ]
+      },
+      {
+        "title": "Routing and default gateways",
+        "slug": "routing-default-gateways",
+        "queries": [
+          "Linux routing default gateway ip route troubleshooting guide",
+          "CompTIA Linux+ routing gateway configuration"
+        ]
+      },
+      {
+        "title": "Network troubleshooting workflow",
+        "slug": "network-troubleshooting-workflow",
+        "queries": [
+          "Linux network troubleshooting workflow ip ss ping traceroute guide",
+          "CompTIA Linux+ network troubleshooting methodology"
+        ]
+      },
+      {
+        "title": "firewalld zones, services, ports, and rich rules",
+        "slug": "firewalld-zones-services-ports-rich-rules",
+        "queries": [
+          "firewalld zones services ports rich rules RHEL 10 guide",
+          "CompTIA Linux+ firewalld configuration notes"
+        ]
+      },
+      {
+        "title": "iptables awareness and legacy rule inspection",
+        "slug": "iptables-awareness-legacy-rule-inspection",
+        "queries": [
+          "iptables legacy rule inspection nftables compatibility guide",
+          "CompTIA Linux+ iptables awareness legacy troubleshooting"
+        ]
+      },
+      {
+        "title": "SSH connectivity and remote administration",
+        "slug": "ssh-connectivity-remote-administration",
+        "queries": [
+          "Linux SSH remote administration key authentication config guide",
+          "CompTIA Linux+ SSH connectivity troubleshooting notes"
+        ]
+      },
+      {
+        "title": "Network service validation and packet-level reasoning",
+        "slug": "network-service-validation-packet-level-reasoning",
+        "queries": [
+          "Linux network service validation packet level reasoning conceptual guide",
+          "CompTIA Linux+ network service validation troubleshooting"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 5: Security and Access Control",
+    "slug": "module-5-security-and-access-control",
+    "children": [
+      {
+        "title": "Linux security principles and threat awareness",
+        "slug": "linux-security-principles-threat-awareness",
+        "queries": [
+          "Linux security principles least privilege defense in depth guide",
+          "CompTIA Linux+ security principles notes"
+        ]
+      },
+      {
+        "title": "Users, groups, and privilege delegation",
+        "slug": "users-groups-privilege-delegation",
+        "queries": [
+          "Linux user group management usermod groupadd privilege delegation guide",
+          "CompTIA Linux+ users groups privilege delegation"
+        ]
+      },
+      {
+        "title": "sudo configuration and least privilege",
+        "slug": "sudo-configuration-least-privilege",
+        "queries": [
+          "sudoers configuration least privilege visudo Linux guide",
+          "CompTIA Linux+ sudo configuration troubleshooting"
+        ]
+      },
+      {
+        "title": "SSH hardening and key-based authentication",
+        "slug": "ssh-hardening-key-based-authentication",
+        "queries": [
+          "Linux SSH hardening key based authentication sshd_config guide",
+          "CompTIA Linux+ SSH hardening keys notes"
+        ]
+      },
+      {
+        "title": "GPG fundamentals and file verification",
+        "slug": "gpg-fundamentals-file-verification",
+        "queries": [
+          "GPG file verification Linux package signing guide",
+          "CompTIA Linux+ GPG fundamentals verification notes"
+        ]
+      },
+      {
+        "title": "SELinux concepts, contexts, booleans, and troubleshooting",
+        "slug": "selinux-concepts-contexts-booleans-troubleshooting",
+        "queries": [
+          "SELinux contexts booleans troubleshooting semanage restorecon guide",
+          "CompTIA Linux+ SELinux troubleshooting notes RHEL 10"
+        ]
+      },
+      {
+        "title": "AppArmor concepts and profile awareness",
+        "slug": "apparmor-concepts-profile-awareness",
+        "queries": [
+          "AppArmor profile management Ubuntu 24.04 guide",
+          "CompTIA Linux+ AppArmor concepts notes"
+        ]
+      },
+      {
+        "title": "Password policies and account aging",
+        "slug": "password-policies-account-aging",
+        "queries": [
+          "Linux password aging chage passwd policy guide",
+          "CompTIA Linux+ account aging password policy"
+        ]
+      },
+      {
+        "title": "File permissions security implications",
+        "slug": "file-permissions-security-implications",
+        "queries": [
+          "Linux file permissions security implications umask special bits guide",
+          "CompTIA Linux+ permissions security exam notes"
+        ]
+      },
+      {
+        "title": "Basic auditing and log review",
+        "slug": "basic-auditing-log-review",
+        "queries": [
+          "Linux auditing log review auditd journalctl security guide",
+          "CompTIA Linux+ auditing log review notes"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 6: Scripting, Automation, and Task Scheduling",
+    "slug": "module-6-scripting-automation-and-task-scheduling",
+    "children": [
+      {
+        "title": "Bash scripting fundamentals",
+        "slug": "bash-scripting-fundamentals",
+        "queries": [
+          "Bash scripting fundamentals variables conditionals loops functions guide",
+          "CompTIA Linux+ bash scripting basics notes"
+        ]
+      },
+      {
+        "title": "Variables, conditionals, loops, and functions",
+        "slug": "variables-conditionals-loops-functions",
+        "queries": [
+          "bash variables conditionals loops functions examples guide",
+          "CompTIA Linux+ scripting control flow notes"
+        ]
+      },
+      {
+        "title": "Exit codes and error handling",
+        "slug": "exit-codes-error-handling",
+        "queries": [
+          "Linux bash exit codes error handling set -e pipefail guide",
+          "CompTIA Linux+ exit codes scripting troubleshooting"
+        ]
+      },
+      {
+        "title": "Command substitution and arithmetic",
+        "slug": "command-substitution-arithmetic",
+        "queries": [
+          "bash command substitution arithmetic expansion guide",
+          "CompTIA Linux+ bash arithmetic command substitution"
+        ]
+      },
+      {
+        "title": "Input/output redirection in scripts",
+        "slug": "input-output-redirection-in-scripts",
+        "queries": [
+          "bash input output redirection heredoc here string script guide",
+          "CompTIA Linux+ redirection scripting notes"
+        ]
+      },
+      {
+        "title": "cron scheduling",
+        "slug": "cron-scheduling",
+        "queries": [
+          "Linux cron scheduling crontab system cron jobs guide",
+          "CompTIA Linux+ cron scheduling troubleshooting"
+        ]
+      },
+      {
+        "title": "at one-time jobs",
+        "slug": "at-one-time-jobs",
+        "queries": [
+          "Linux at command one time job scheduling guide",
+          "CompTIA Linux+ at command notes"
+        ]
+      },
+      {
+        "title": "Environment variables and shell initialization files",
+        "slug": "environment-variables-shell-initialization-files",
+        "queries": [
+          "bash environment variables profile bashrc login shell guide",
+          "CompTIA Linux+ shell initialization environment variables"
+        ]
+      },
+      {
+        "title": "Script permissions and execution contexts",
+        "slug": "script-permissions-execution-contexts",
+        "queries": [
+          "Linux script permissions shebang execution context chmod guide",
+          "CompTIA Linux+ script permissions execution context"
+        ]
+      },
+      {
+        "title": "Automation use cases for sysadmin tasks",
+        "slug": "automation-use-cases-for-sysadmin-tasks",
+        "queries": [
+          "Linux automation sysadmin tasks bash cron examples guide",
+          "CompTIA Linux+ automation use cases notes"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 7: Package Management and Software Lifecycle",
+    "slug": "module-7-package-management-and-software-lifecycle",
+    "children": [
+      {
+        "title": "Package management concepts and lifecycle",
+        "slug": "package-management-concepts-lifecycle",
+        "queries": [
+          "Linux package management concepts dependencies repositories lifecycle guide",
+          "CompTIA Linux+ package management concepts notes"
+        ]
+      },
+      {
+        "title": "apt workflows on Ubuntu",
+        "slug": "apt-workflows-on-ubuntu",
+        "queries": [
+          "Ubuntu apt update upgrade install remove autoremove guide",
+          "CompTIA Linux+ apt package management notes"
+        ]
+      },
+      {
+        "title": "dnf workflows on RHEL",
+        "slug": "dnf-workflows-on-rhel",
+        "queries": [
+          "RHEL 10 dnf install update repo management history guide",
+          "CompTIA Linux+ dnf package management notes"
+        ]
+      },
+      {
+        "title": "rpm package inspection and installation",
+        "slug": "rpm-package-inspection-installation",
+        "queries": [
+          "rpm package inspection installation query verify guide",
+          "CompTIA Linux+ rpm command notes"
+        ]
+      },
+      {
+        "title": "Repository management and metadata",
+        "slug": "repository-management-metadata",
+        "queries": [
+          "Linux repository management apt sources dnf repos metadata guide",
+          "CompTIA Linux+ repository management notes"
+        ]
+      },
+      {
+        "title": "Package verification and dependency resolution",
+        "slug": "package-verification-dependency-resolution",
+        "queries": [
+          "Linux package verification dependency resolution apt dnf rpm guide",
+          "CompTIA Linux+ dependency resolution package verification"
+        ]
+      },
+      {
+        "title": "Updates, upgrades, and rollback concepts",
+        "slug": "updates-upgrades-rollback-concepts",
+        "queries": [
+          "Linux package updates upgrades rollback dnf history apt guide",
+          "CompTIA Linux+ rollback update concepts"
+        ]
+      },
+      {
+        "title": "Software signing and trust basics",
+        "slug": "software-signing-trust-basics",
+        "queries": [
+          "Linux package signing GPG trust repository verification guide",
+          "CompTIA Linux+ software signing trust notes"
+        ]
+      },
+      {
+        "title": "Source vs binary package awareness",
+        "slug": "source-vs-binary-package-awareness",
+        "queries": [
+          "Linux source vs binary packages build from source awareness guide",
+          "CompTIA Linux+ source binary package concepts"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 8: Containers and Lightweight Virtualization",
+    "slug": "module-8-containers-and-lightweight-virtualization",
+    "children": [
+      {
+        "title": "Container concepts and isolation",
+        "slug": "container-concepts-isolation",
+        "queries": [
+          "Linux container concepts namespaces cgroups isolation guide",
+          "CompTIA Linux+ container isolation notes"
+        ]
+      },
+      {
+        "title": "Images vs containers",
+        "slug": "images-vs-containers",
+        "queries": [
+          "Docker Podman images vs containers explanation guide",
+          "CompTIA Linux+ images vs containers concepts"
+        ]
+      },
+      {
+        "title": "Docker basics",
+        "slug": "docker-basics",
+        "queries": [
+          "Docker basics run build pull ps logs exec guide",
+          "CompTIA Linux+ Docker basics notes"
+        ]
+      },
+      {
+        "title": "Podman basics",
+        "slug": "podman-basics",
+        "queries": [
+          "Podman basics rootless containers run build ps logs guide",
+          "CompTIA Linux+ Podman basics notes RHEL 10"
+        ]
+      },
+      {
+        "title": "Rootless containers",
+        "slug": "rootless-containers",
+        "queries": [
+          "Linux rootless containers Podman security guide",
+          "CompTIA Linux+ rootless container concepts"
+        ]
+      },
+      {
+        "title": "Container lifecycle management",
+        "slug": "container-lifecycle-management",
+        "queries": [
+          "container lifecycle management start stop restart inspect guide",
+          "CompTIA Linux+ container lifecycle notes"
+        ]
+      },
+      {
+        "title": "Port mapping, volumes, and environment variables",
+        "slug": "port-mapping-volumes-environment-variables",
+        "queries": [
+          "Docker Podman port mapping volumes environment variables guide",
+          "CompTIA Linux+ container networking storage environment variables"
+        ]
+      },
+      {
+        "title": "Container troubleshooting",
+        "slug": "container-troubleshooting",
+        "queries": [
+          "Docker Podman container troubleshooting logs networking permissions guide",
+          "CompTIA Linux+ container troubleshooting scenarios"
+        ]
+      },
+      {
+        "title": "Container security and operational considerations",
+        "slug": "container-security-operational-considerations",
+        "queries": [
+          "container security best practices Linux capabilities seccomp SELinux guide",
+          "CompTIA Linux+ container security notes"
+        ]
+      },
+      {
+        "title": "Container use cases in DevOps and testing",
+        "slug": "container-use-cases-devops-testing",
+        "queries": [
+          "Linux containers DevOps testing use cases guide",
+          "CompTIA Linux+ container use cases notes"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 9: Troubleshooting and Performance Basics",
+    "slug": "module-9-troubleshooting-and-performance-basics",
+    "children": [
+      {
+        "title": "Structured troubleshooting methodology",
+        "slug": "structured-troubleshooting-methodology",
+        "queries": [
+          "Linux structured troubleshooting methodology isolate verify document guide",
+          "CompTIA Linux+ troubleshooting methodology notes"
+        ]
+      },
+      {
+        "title": "Boot failures and recovery",
+        "slug": "boot-failures-recovery",
+        "queries": [
+          "Linux boot failure troubleshooting GRUB emergency rescue mode guide",
+          "CompTIA Linux+ boot failure recovery scenarios"
+        ]
+      },
+      {
+        "title": "Service failures and dependency issues",
+        "slug": "service-failures-dependency-issues",
+        "queries": [
+          "systemd service failure troubleshooting journalctl systemctl dependency guide",
+          "CompTIA Linux+ service failure troubleshooting"
+        ]
+      },
+      {
+        "title": "Storage and filesystem issues",
+        "slug": "storage-filesystem-issues",
+        "queries": [
+          "Linux storage filesystem troubleshooting mount fsck LVM guide",
+          "CompTIA Linux+ storage filesystem troubleshooting notes"
+        ]
+      },
+      {
+        "title": "Network failures and connectivity issues",
+        "slug": "network-failures-connectivity-issues",
+        "queries": [
+          "Linux network failure troubleshooting ip ss dns firewall guide",
+          "CompTIA Linux+ network troubleshooting scenarios"
+        ]
+      },
+      {
+        "title": "Permission and authentication failures",
+        "slug": "permission-authentication-failures",
+        "queries": [
+          "Linux permission authentication troubleshooting sudo ssh selinux guide",
+          "CompTIA Linux+ permission authentication failure notes"
+        ]
+      },
+      {
+        "title": "Log analysis and correlation",
+        "slug": "log-analysis-correlation",
+        "queries": [
+          "Linux log analysis journalctl syslog correlation troubleshooting guide",
+          "CompTIA Linux+ log analysis notes"
+        ]
+      },
+      {
+        "title": "Process and resource monitoring",
+        "slug": "process-resource-monitoring",
+        "queries": [
+          "Linux process resource monitoring top free vmstat iostat guide",
+          "CompTIA Linux+ resource monitoring notes"
+        ]
+      },
+      {
+        "title": "CPU, memory, disk, and I/O bottlenecks",
+        "slug": "cpu-memory-disk-io-bottlenecks",
+        "queries": [
+          "Linux CPU memory disk IO bottleneck diagnosis guide",
+          "CompTIA Linux+ performance bottleneck troubleshooting"
+        ]
+      },
+      {
+        "title": "Basic performance interpretation",
+        "slug": "basic-performance-interpretation",
+        "queries": [
+          "Linux performance interpretation load average memory pressure IO wait guide",
+          "CompTIA Linux+ performance interpretation notes"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 10: Exam Preparation and Review",
+    "slug": "module-10-exam-preparation-and-review",
+    "children": [
+      {
+        "title": "Domain-by-domain review",
+        "slug": "domain-by-domain-review",
+        "queries": [
+          "CompTIA Linux+ XK0-006 domain review study guide",
+          "Linux+ XK0-006 exam objectives review notes"
+        ]
+      },
+      {
+        "title": "Key command summaries",
+        "slug": "key-command-summaries",
+        "queries": [
+          "CompTIA Linux+ key commands summary systemd ip ss firewalld apt dnf",
+          "Linux+ XK0-006 command reference study sheet"
+        ]
+      },
+      {
+        "title": "Scenario-based exam practice",
+        "slug": "scenario-based-exam-practice",
+        "queries": [
+          "CompTIA Linux+ XK0-006 scenario based practice questions",
+          "Linux+ performance based troubleshooting scenarios"
+        ]
+      },
+      {
+        "title": "Common traps and misconceptions",
+        "slug": "common-traps-and-misconceptions",
+        "queries": [
+          "CompTIA Linux+ common misconceptions exam traps study guide",
+          "Linux+ XK0-006 tricky concepts and pitfalls"
+        ]
+      },
+      {
+        "title": "Time management strategies",
+        "slug": "time-management-strategies",
+        "queries": [
+          "CompTIA Linux+ exam time management strategies practice test",
+          "Linux certification exam pacing tips"
+        ]
+      },
+      {
+        "title": "Practice assessments",
+        "slug": "practice-assessments",
+        "queries": [
+          "CompTIA Linux+ XK0-006 practice assessment questions",
+          "Linux+ practice exam review questions"
+        ]
+      },
+      {
+        "title": "Final readiness checklist",
+        "slug": "final-readiness-checklist",
+        "queries": [
+          "CompTIA Linux+ final readiness checklist XK0-006",
+          "Linux+ exam readiness checklist study plan"
+        ]
+      }
+    ]
+  }
+]

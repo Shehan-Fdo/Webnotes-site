@@ -1,0 +1,1380 @@
+[
+  {
+    "title": "Module 1: AWS Cloud Fundamentals and the SAA-C03 Exam Framework",
+    "slug": "module-1-aws-cloud-fundamentals-and-the-saa-c03-exam-framework",
+    "children": [
+      {
+        "title": "Cloud Computing Concepts",
+        "slug": "cloud-computing-concepts",
+        "queries": [
+          "AWS cloud computing concepts shared responsibility model regions availability zones",
+          "AWS Well-Architected Framework cloud fundamentals exam SAA-C03"
+        ]
+      },
+      {
+        "title": "Shared Responsibility Model",
+        "slug": "shared-responsibility-model",
+        "queries": [
+          "AWS shared responsibility model official documentation",
+          "AWS shared responsibility model customer vs AWS responsibilities"
+        ]
+      },
+      {
+        "title": "AWS Global Infrastructure",
+        "slug": "aws-global-infrastructure",
+        "queries": [
+          "AWS global infrastructure regions availability zones local zones wavelength edge locations",
+          "AWS fault isolation resilience global infrastructure documentation"
+        ]
+      },
+      {
+        "title": "Regions Availability Zones Local Zones Wavelength and Edge Locations",
+        "slug": "regions-availability-zones-local-zones-wavelength-and-edge-locations",
+        "queries": [
+          "AWS regions availability zones local zones wavelength edge locations differences",
+          "AWS edge locations and regional services architecture guide"
+        ]
+      },
+      {
+        "title": "AWS Well-Architected Framework Overview",
+        "slug": "aws-well-architected-framework-overview",
+        "queries": [
+          "AWS Well-Architected Framework pillars official guide",
+          "AWS Well-Architected Framework reliability security cost optimization performance"
+        ]
+      },
+      {
+        "title": "SAA-C03 Exam Structure Domains and Question Style",
+        "slug": "saa-c03-exam-structure-domains-and-question-style",
+        "queries": [
+          "AWS Certified Solutions Architect Associate SAA-C03 exam guide domains",
+          "SAA-C03 scenario based question style exam blueprint"
+        ]
+      },
+      {
+        "title": "AWS Account Structure and Basic Governance Concepts",
+        "slug": "aws-account-structure-and-basic-governance-concepts",
+        "queries": [
+          "AWS account structure root user billing governance best practices",
+          "AWS Organizations account structure governance basics"
+        ]
+      },
+      {
+        "title": "Lab: Create and Configure an AWS Account Safety Baseline",
+        "slug": "lab-create-and-configure-an-aws-account-safety-baseline",
+        "queries": [
+          "AWS account safety baseline root user MFA billing alerts setup",
+          "AWS free tier account security baseline lab"
+        ]
+      },
+      {
+        "title": "Lab: Navigate the AWS Console",
+        "slug": "lab-navigate-the-aws-console",
+        "queries": [
+          "AWS Management Console navigation guide 2026",
+          "AWS console basics services search resource groups"
+        ]
+      },
+      {
+        "title": "Lab: AWS CLI Configuration and Identity Verification",
+        "slug": "lab-aws-cli-configuration-and-identity-verification",
+        "queries": [
+          "AWS CLI v2 configure get-caller-identity official documentation",
+          "AWS CLI identity verification sts get-caller-identity examples"
+        ]
+      },
+      {
+        "title": "FAQ and Exam Focus",
+        "slug": "faq-and-exam-focus-module-1",
+        "queries": [
+          "SAA-C03 shared responsibility multi-AZ vs multi-region questions",
+          "AWS exam scenario questions cloud fundamentals architecture reasoning"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 2: Identity and Access Management with IAM and AWS Organizations Basics",
+    "slug": "module-2-identity-and-access-management-with-iam-and-aws-organizations-basics",
+    "children": [
+      {
+        "title": "IAM Users Groups Roles and Policies",
+        "slug": "iam-users-groups-roles-and-policies",
+        "queries": [
+          "AWS IAM users groups roles policies official documentation",
+          "AWS IAM identity-based policies resource-based policies differences"
+        ]
+      },
+      {
+        "title": "Policy Evaluation Logic and Least Privilege",
+        "slug": "policy-evaluation-logic-and-least-privilege",
+        "queries": [
+          "AWS IAM policy evaluation logic explicit deny allow least privilege",
+          "AWS IAM policy precedence evaluation order documentation"
+        ]
+      },
+      {
+        "title": "MFA and Temporary Credentials",
+        "slug": "mfa-and-temporary-credentials",
+        "queries": [
+          "AWS IAM MFA temporary credentials STS official guide",
+          "AWS STS temporary security credentials assume role documentation"
+        ]
+      },
+      {
+        "title": "IAM Roles for AWS Services and Service-Linked Roles",
+        "slug": "iam-roles-for-aws-services-and-service-linked-roles",
+        "queries": [
+          "AWS service-linked roles IAM roles for AWS services documentation",
+          "AWS IAM role assumption service-linked role examples"
+        ]
+      },
+      {
+        "title": "IAM Access Analyzer and Common Misconfigurations",
+        "slug": "iam-access-analyzer-and-common-misconfigurations",
+        "queries": [
+          "AWS IAM Access Analyzer official documentation",
+          "AWS IAM common misconfiguration examples least privilege"
+        ]
+      },
+      {
+        "title": "AWS Organizations SCPs and Multi-Account Strategy Basics",
+        "slug": "aws-organizations-scps-and-multi-account-strategy-basics",
+        "queries": [
+          "AWS Organizations service control policies SCPs official documentation",
+          "AWS multi-account strategy organizations SCP permissions boundaries"
+        ]
+      },
+      {
+        "title": "Lab: Create IAM Users and Groups",
+        "slug": "lab-create-iam-users-and-groups",
+        "queries": [
+          "AWS IAM create users groups console lab",
+          "AWS CLI create iam user group attach policy examples"
+        ]
+      },
+      {
+        "title": "Lab: Attach Least-Privilege Policies",
+        "slug": "lab-attach-least-privilege-policies",
+        "queries": [
+          "AWS IAM least privilege policy example S3 read only",
+          "AWS IAM attach policy to group console and CLI"
+        ]
+      },
+      {
+        "title": "Lab: Create and Assume a Role",
+        "slug": "lab-create-and-assume-a-role",
+        "queries": [
+          "AWS IAM create role assume role console sts examples",
+          "AWS CLI assume-role get-caller-identity lab"
+        ]
+      },
+      {
+        "title": "Lab: Inspect Caller Identity and Role Permissions with AWS CLI",
+        "slug": "lab-inspect-caller-identity-and-role-permissions-with-aws-cli",
+        "queries": [
+          "AWS CLI sts get-caller-identity iam simulate-principal-policy",
+          "AWS CLI inspect role permissions examples"
+        ]
+      },
+      {
+        "title": "FAQ and Exam Focus",
+        "slug": "faq-and-exam-focus-module-2",
+        "queries": [
+          "SAA-C03 IAM policy precedence role vs user cross-account access questions",
+          "AWS IAM exam scenario questions least privilege resource policy"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 3: Networking Foundations and Amazon VPC",
+    "slug": "module-3-networking-foundations-and-amazon-vpc",
+    "children": [
+      {
+        "title": "VPC Architecture and Core Components",
+        "slug": "vpc-architecture-and-core-components",
+        "queries": [
+          "AWS VPC architecture subnets route tables internet gateway official documentation",
+          "AWS VPC core components networking fundamentals"
+        ]
+      },
+      {
+        "title": "Subnets Route Tables and Routing Basics",
+        "slug": "subnets-route-tables-and-routing-basics",
+        "queries": [
+          "AWS VPC route tables subnet routing examples",
+          "AWS VPC public private subnet route table behavior"
+        ]
+      },
+      {
+        "title": "Internet Gateways NAT Gateways and NAT Instances",
+        "slug": "internet-gateways-nat-gateways-and-nat-instances",
+        "queries": [
+          "AWS NAT gateway vs NAT instance official documentation",
+          "AWS internet gateway NAT gateway private subnet outbound access"
+        ]
+      },
+      {
+        "title": "Security Groups and Network ACLs",
+        "slug": "security-groups-and-network-acls",
+        "queries": [
+          "AWS security groups vs network ACLs stateful stateless official documentation",
+          "AWS VPC security group network ACL packet flow"
+        ]
+      },
+      {
+        "title": "VPC Endpoints Gateway and Interface Endpoints",
+        "slug": "vpc-endpoints-gateway-and-interface-endpoints",
+        "queries": [
+          "AWS VPC gateway endpoint interface endpoint S3 private access",
+          "AWS PrivateLink interface endpoint official documentation"
+        ]
+      },
+      {
+        "title": "VPC Peering Transit Gateway and Connectivity Overview",
+        "slug": "vpc-peering-transit-gateway-and-connectivity-overview",
+        "queries": [
+          "AWS VPC peering vs transit gateway official documentation",
+          "AWS private connectivity patterns VPC peering transit gateway"
+        ]
+      },
+      {
+        "title": "IPv4 and IPv6 Basics for SAA-C03",
+        "slug": "ipv4-and-ipv6-basics-for-saa-c03",
+        "queries": [
+          "AWS VPC IPv6 basics exam guide",
+          "AWS IPv4 IPv6 networking concepts VPC"
+        ]
+      },
+      {
+        "title": "Lab: Build a VPC with Public and Private Subnets Across Two AZs",
+        "slug": "lab-build-a-vpc-with-public-and-private-subnets-across-two-azs",
+        "queries": [
+          "AWS VPC create public private subnets two availability zones lab",
+          "AWS CLI create vpc subnets route tables internet gateway nat gateway"
+        ]
+      },
+      {
+        "title": "Lab: Launch an EC2 Instance in a Public Subnet",
+        "slug": "lab-launch-an-ec2-instance-in-a-public-subnet",
+        "queries": [
+          "AWS EC2 launch instance public subnet lab",
+          "AWS CLI run-instances public subnet security group key pair"
+        ]
+      },
+      {
+        "title": "Lab: Add a Private Subnet Workload and Enable Outbound Access Through NAT Gateway",
+        "slug": "lab-add-a-private-subnet-workload-and-enable-outbound-access-through-nat-gateway",
+        "queries": [
+          "AWS private subnet outbound access NAT gateway lab",
+          "AWS CLI create nat gateway private subnet route table"
+        ]
+      },
+      {
+        "title": "Lab: Create a VPC Endpoint for S3",
+        "slug": "lab-create-a-vpc-endpoint-for-s3",
+        "queries": [
+          "AWS S3 gateway endpoint VPC lab",
+          "AWS CLI create vpc endpoint S3 gateway endpoint"
+        ]
+      },
+      {
+        "title": "Lab: Verify Routing Using AWS CLI and Console",
+        "slug": "lab-verify-routing-using-aws-cli-and-console",
+        "queries": [
+          "AWS CLI describe route tables subnets vpc endpoints",
+          "AWS VPC routing verification console CLI"
+        ]
+      },
+      {
+        "title": "FAQ and Exam Focus",
+        "slug": "faq-and-exam-focus-module-3",
+        "queries": [
+          "SAA-C03 security group vs NACL route table NAT gateway questions",
+          "AWS VPC exam scenario private access to AWS services"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 4: Compute with Amazon EC2, Auto Scaling, and Elastic Load Balancing",
+    "slug": "module-4-compute-with-amazon-ec2-auto-scaling-and-elastic-load-balancing",
+    "children": [
+      {
+        "title": "EC2 Instance Families and Purchasing Options",
+        "slug": "ec2-instance-families-and-purchasing-options",
+        "queries": [
+          "AWS EC2 instance families purchasing options on-demand reserved spot official documentation",
+          "AWS EC2 instance types selection guide"
+        ]
+      },
+      {
+        "title": "AMIs User Data and Key Pairs",
+        "slug": "amis-user-data-and-key-pairs",
+        "queries": [
+          "AWS EC2 AMI user data key pair official documentation",
+          "AWS EC2 launch instance user data examples"
+        ]
+      },
+      {
+        "title": "EBS Basics and Instance Lifecycle",
+        "slug": "ebs-basics-and-instance-lifecycle",
+        "queries": [
+          "AWS EBS volume basics instance lifecycle official documentation",
+          "AWS EC2 instance store vs EBS differences"
+        ]
+      },
+      {
+        "title": "Auto Scaling Groups and Scaling Policies",
+        "slug": "auto-scaling-groups-and-scaling-policies",
+        "queries": [
+          "AWS Auto Scaling group scaling policies health checks official documentation",
+          "AWS EC2 Auto Scaling target tracking step scaling"
+        ]
+      },
+      {
+        "title": "Elastic Load Balancing ALB NLB and CLB Legacy Awareness",
+        "slug": "elastic-load-balancing-alb-nlb-and-clb-legacy-awareness",
+        "queries": [
+          "AWS Application Load Balancer vs Network Load Balancer official documentation",
+          "AWS Classic Load Balancer legacy comparison ALB NLB"
+        ]
+      },
+      {
+        "title": "Health Checks and Replacement Behavior",
+        "slug": "health-checks-and-replacement-behavior",
+        "queries": [
+          "AWS Auto Scaling health checks ELB EC2 replacement behavior",
+          "AWS load balancer health check target group documentation"
+        ]
+      },
+      {
+        "title": "Placement Groups and Launch Templates",
+        "slug": "placement-groups-and-launch-templates",
+        "queries": [
+          "AWS EC2 placement groups launch templates official documentation",
+          "AWS launch template best practices Auto Scaling"
+        ]
+      },
+      {
+        "title": "Lab: Launch an EC2 Instance with User Data",
+        "slug": "lab-launch-an-ec2-instance-with-user-data",
+        "queries": [
+          "AWS EC2 launch instance with user data console lab",
+          "AWS CLI run-instances user data base64 example"
+        ]
+      },
+      {
+        "title": "Lab: Attach an EBS Volume and Manage Snapshots",
+        "slug": "lab-attach-an-ebs-volume-and-manage-snapshots",
+        "queries": [
+          "AWS EBS attach volume create snapshot restore lab",
+          "AWS CLI create snapshot describe volumes attach volume"
+        ]
+      },
+      {
+        "title": "Lab: Create an Auto Scaling Group Behind an ALB",
+        "slug": "lab-create-an-auto-scaling-group-behind-an-alb",
+        "queries": [
+          "AWS Auto Scaling group behind application load balancer lab",
+          "AWS CLI create auto scaling group target group load balancer"
+        ]
+      },
+      {
+        "title": "Lab: Configure Target Groups and Health Checks",
+        "slug": "lab-configure-target-groups-and-health-checks",
+        "queries": [
+          "AWS ALB target group health check configuration lab",
+          "AWS CLI create target group health check"
+        ]
+      },
+      {
+        "title": "Lab: Describe Instances Launch Templates and Scaling Groups with AWS CLI",
+        "slug": "lab-describe-instances-launch-templates-and-scaling-groups-with-aws-cli",
+        "queries": [
+          "AWS CLI describe instances launch templates auto scaling groups",
+          "AWS CLI ec2 autoscaling describe commands examples"
+        ]
+      },
+      {
+        "title": "FAQ and Exam Focus",
+        "slug": "faq-and-exam-focus-module-4",
+        "queries": [
+          "SAA-C03 ALB vs NLB auto scaling web tier design questions",
+          "AWS EC2 exam scenario stateless application behind load balancer"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 5: Storage with Amazon S3, EBS, EFS, and Data Lifecycle Management",
+    "slug": "module-5-storage-with-amazon-s3-ebs-efs-and-data-lifecycle-management",
+    "children": [
+      {
+        "title": "Amazon S3 Core Concepts",
+        "slug": "amazon-s3-core-concepts",
+        "queries": [
+          "AWS S3 buckets objects prefixes versioning encryption lifecycle official documentation",
+          "Amazon S3 core concepts storage classes durability availability"
+        ]
+      },
+      {
+        "title": "S3 Storage Classes and Use Cases",
+        "slug": "s3-storage-classes-and-use-cases",
+        "queries": [
+          "AWS S3 storage classes use cases official documentation",
+          "Amazon S3 Intelligent-Tiering Glacier Deep Archive comparison"
+        ]
+      },
+      {
+        "title": "S3 Replication and Event Notifications",
+        "slug": "s3-replication-and-event-notifications",
+        "queries": [
+          "AWS S3 replication event notifications official documentation",
+          "Amazon S3 cross-region replication event notification examples"
+        ]
+      },
+      {
+        "title": "EBS Volume Types and Snapshots",
+        "slug": "ebs-volume-types-and-snapshots",
+        "queries": [
+          "AWS EBS volume types snapshots official documentation",
+          "Amazon EBS gp3 io2 snapshot restore guide"
+        ]
+      },
+      {
+        "title": "Amazon EFS Shared File Storage Use Cases",
+        "slug": "amazon-efs-shared-file-storage-use-cases",
+        "queries": [
+          "AWS EFS basics shared file storage official documentation",
+          "Amazon EFS multi-AZ mount targets use cases"
+        ]
+      },
+      {
+        "title": "Data Durability Availability and Backup Concepts",
+        "slug": "data-durability-availability-and-backup-concepts",
+        "queries": [
+          "AWS storage durability availability backup concepts",
+          "AWS backup and restore storage architecture guide"
+        ]
+      },
+      {
+        "title": "Lab: Create an S3 Bucket with Versioning and Encryption",
+        "slug": "lab-create-an-s3-bucket-with-versioning-and-encryption",
+        "queries": [
+          "AWS S3 create bucket versioning encryption lab",
+          "AWS CLI create bucket put-bucket-versioning put-bucket-encryption"
+        ]
+      },
+      {
+        "title": "Lab: Upload Objects and Configure Lifecycle Transitions",
+        "slug": "lab-upload-objects-and-configure-lifecycle-transitions",
+        "queries": [
+          "AWS S3 lifecycle transition rules lab",
+          "AWS CLI put-object lifecycle configuration examples"
+        ]
+      },
+      {
+        "title": "Lab: Configure Static Website Hosting",
+        "slug": "lab-configure-static-website-hosting",
+        "queries": [
+          "AWS S3 static website hosting current console guide",
+          "AWS S3 static website hosting route 53 cloudfront"
+        ]
+      },
+      {
+        "title": "Lab: Create EBS Snapshots and Restore a Volume",
+        "slug": "lab-create-ebs-snapshots-and-restore-a-volume",
+        "queries": [
+          "AWS EBS snapshot restore volume lab",
+          "AWS CLI create-snapshot create-volume from snapshot"
+        ]
+      },
+      {
+        "title": "Lab: Create and Mount EFS in a Multi-AZ Architecture",
+        "slug": "lab-create-and-mount-efs-in-a-multi-az-architecture",
+        "queries": [
+          "AWS EFS create mount targets multi AZ lab",
+          "AWS CLI create file system mount target EFS"
+        ]
+      },
+      {
+        "title": "FAQ and Exam Focus",
+        "slug": "faq-and-exam-focus-module-5",
+        "queries": [
+          "SAA-C03 S3 vs EBS vs EFS storage selection questions",
+          "AWS storage lifecycle archival cost optimization exam scenarios"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 6: Databases with Amazon RDS, Aurora, and Database Selection Strategy",
+    "slug": "module-6-databases-with-amazon-rds-aurora-and-database-selection-strategy",
+    "children": [
+      {
+        "title": "Amazon RDS Fundamentals",
+        "slug": "amazon-rds-fundamentals",
+        "queries": [
+          "AWS RDS fundamentals official documentation",
+          "Amazon RDS managed database basics multi az backups"
+        ]
+      },
+      {
+        "title": "Multi-AZ vs Read Replicas",
+        "slug": "multi-az-vs-read-replicas",
+        "queries": [
+          "AWS RDS Multi-AZ vs read replicas official documentation",
+          "Amazon RDS high availability vs read scaling"
+        ]
+      },
+      {
+        "title": "Amazon Aurora Basics and Positioning",
+        "slug": "amazon-aurora-basics-and-positioning",
+        "queries": [
+          "Amazon Aurora basics official documentation",
+          "Aurora vs RDS MySQL PostgreSQL comparison AWS"
+        ]
+      },
+      {
+        "title": "Database Engine Selection Considerations",
+        "slug": "database-engine-selection-considerations",
+        "queries": [
+          "AWS database selection relational vs nonrelational guide",
+          "AWS RDS Aurora DynamoDB selection criteria"
+        ]
+      },
+      {
+        "title": "Backup Snapshots and Failover",
+        "slug": "backup-snapshots-and-failover",
+        "queries": [
+          "AWS RDS backups snapshots failover official documentation",
+          "Amazon RDS automated backups manual snapshots restore"
+        ]
+      },
+      {
+        "title": "DynamoDB Overview for SAA-C03",
+        "slug": "dynamodb-overview-for-saa-c03",
+        "queries": [
+          "Amazon DynamoDB basics SAA-C03 exam guide",
+          "AWS DynamoDB on-demand provisioned capacity global tables overview"
+        ]
+      },
+      {
+        "title": "ElastiCache Overview for Performance Scenarios",
+        "slug": "elasticache-overview-for-performance-scenarios",
+        "queries": [
+          "Amazon ElastiCache overview AWS exam scenarios",
+          "AWS caching performance architecture ElastiCache Redis Memcached"
+        ]
+      },
+      {
+        "title": "Lab: Launch an RDS Instance",
+        "slug": "lab-launch-an-rds-instance",
+        "queries": [
+          "AWS RDS launch instance console lab",
+          "AWS CLI create-db-instance examples"
+        ]
+      },
+      {
+        "title": "Lab: Configure Backups and Maintenance Settings",
+        "slug": "lab-configure-backups-and-maintenance-settings",
+        "queries": [
+          "AWS RDS backup maintenance settings lab",
+          "AWS CLI modify-db-instance backup retention maintenance window"
+        ]
+      },
+      {
+        "title": "Lab: Demonstrate Multi-AZ Concepts in Architecture Diagrams",
+        "slug": "lab-demonstrate-multi-az-concepts-in-architecture-diagrams",
+        "queries": [
+          "AWS RDS multi AZ architecture diagram guide",
+          "AWS high availability database architecture multi AZ"
+        ]
+      },
+      {
+        "title": "Lab: Inspect DB Instance Status and Snapshots with AWS CLI",
+        "slug": "lab-inspect-db-instance-status-and-snapshots-with-aws-cli",
+        "queries": [
+          "AWS CLI describe-db-instances describe-db-snapshots examples",
+          "AWS RDS CLI inspection commands"
+        ]
+      },
+      {
+        "title": "FAQ and Exam Focus",
+        "slug": "faq-and-exam-focus-module-6",
+        "queries": [
+          "SAA-C03 RDS Multi-AZ vs read replica exam questions",
+          "AWS Aurora vs RDS scenario based database selection"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 7: Serverless and Event-Driven Architecture with AWS Lambda and Related Services",
+    "slug": "module-7-serverless-and-event-driven-architecture-with-aws-lambda-and-related-services",
+    "children": [
+      {
+        "title": "AWS Lambda Fundamentals",
+        "slug": "aws-lambda-fundamentals",
+        "queries": [
+          "AWS Lambda fundamentals official documentation",
+          "AWS Lambda event driven serverless architecture basics"
+        ]
+      },
+      {
+        "title": "Event Sources and Triggers",
+        "slug": "event-sources-and-triggers",
+        "queries": [
+          "AWS Lambda event sources triggers S3 SQS SNS EventBridge",
+          "AWS Lambda trigger types official documentation"
+        ]
+      },
+      {
+        "title": "IAM Execution Roles for Lambda",
+        "slug": "iam-execution-roles-for-lambda",
+        "queries": [
+          "AWS Lambda execution role IAM permissions official documentation",
+          "AWS Lambda service role least privilege examples"
+        ]
+      },
+      {
+        "title": "Lambda Concurrency Concepts",
+        "slug": "lambda-concurrency-concepts",
+        "queries": [
+          "AWS Lambda concurrency reserved concurrency provisioned concurrency basics",
+          "AWS Lambda scaling and concurrency official documentation"
+        ]
+      },
+      {
+        "title": "Event-Driven Patterns and Decoupling",
+        "slug": "event-driven-patterns-and-decoupling",
+        "queries": [
+          "AWS event driven architecture decoupling SQS SNS EventBridge",
+          "AWS Lambda asynchronous patterns fan out buffering"
+        ]
+      },
+      {
+        "title": "API Gateway Overview for Architecture Context",
+        "slug": "api-gateway-overview-for-architecture-context",
+        "queries": [
+          "Amazon API Gateway overview Lambda integration official documentation",
+          "AWS serverless API architecture API Gateway Lambda"
+        ]
+      },
+      {
+        "title": "Lab: Create a Lambda Function",
+        "slug": "lab-create-a-lambda-function",
+        "queries": [
+          "AWS Lambda create function console lab",
+          "AWS CLI create-function lambda examples"
+        ]
+      },
+      {
+        "title": "Lab: Trigger Lambda from S3 or a Test Event",
+        "slug": "lab-trigger-lambda-from-s3-or-a-test-event",
+        "queries": [
+          "AWS Lambda trigger from S3 event lab",
+          "AWS Lambda test event invoke console"
+        ]
+      },
+      {
+        "title": "Lab: Configure IAM Permissions for Execution",
+        "slug": "lab-configure-iam-permissions-for-execution",
+        "queries": [
+          "AWS Lambda execution role permissions lab",
+          "AWS CLI attach role policy lambda execution"
+        ]
+      },
+      {
+        "title": "Lab: Deploy and Invoke Lambda with AWS CLI",
+        "slug": "lab-deploy-and-invoke-lambda-with-aws-cli",
+        "queries": [
+          "AWS CLI lambda invoke create-function update-function-code examples",
+          "AWS Lambda CLI deployment invocation guide"
+        ]
+      },
+      {
+        "title": "FAQ and Exam Focus",
+        "slug": "faq-and-exam-focus-module-7",
+        "queries": [
+          "SAA-C03 Lambda vs EC2 serverless exam questions",
+          "AWS event driven architecture SQS SNS EventBridge scenario questions"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 8: Content Delivery, DNS, and Edge Services with CloudFront and Route 53",
+    "slug": "module-8-content-delivery-dns-and-edge-services-with-cloudfront-and-route-53",
+    "children": [
+      {
+        "title": "Amazon CloudFront Architecture",
+        "slug": "amazon-cloudfront-architecture",
+        "queries": [
+          "Amazon CloudFront architecture origins behaviors caching official documentation",
+          "AWS CloudFront request flow edge locations origin"
+        ]
+      },
+      {
+        "title": "CloudFront Caching Invalidation and SSL TLS",
+        "slug": "cloudfront-caching-invalidation-and-ssl-tls",
+        "queries": [
+          "AWS CloudFront caching invalidation SSL TLS custom domain",
+          "Amazon CloudFront cache behavior invalidation documentation"
+        ]
+      },
+      {
+        "title": "Route 53 Hosted Zones and Record Types",
+        "slug": "route-53-hosted-zones-and-record-types",
+        "queries": [
+          "AWS Route 53 hosted zones record types official documentation",
+          "Amazon Route 53 DNS records A AAAA CNAME alias"
+        ]
+      },
+      {
+        "title": "Route 53 Routing Policies and Health Checks",
+        "slug": "route-53-routing-policies-and-health-checks",
+        "queries": [
+          "AWS Route 53 routing policies health checks failover latency weighted geolocation",
+          "Amazon Route 53 health check failover routing official documentation"
+        ]
+      },
+      {
+        "title": "DNS Resolution Concepts",
+        "slug": "dns-resolution-concepts",
+        "queries": [
+          "DNS resolution concepts Route 53 AWS exam",
+          "AWS Route 53 DNS resolution and alias records"
+        ]
+      },
+      {
+        "title": "Lab: Configure Route 53 Hosted Zone and Records",
+        "slug": "lab-configure-route-53-hosted-zone-and-records",
+        "queries": [
+          "AWS Route 53 create hosted zone record set lab",
+          "AWS CLI route53 change-resource-record-sets examples"
+        ]
+      },
+      {
+        "title": "Lab: Point a Domain to CloudFront or an ALB",
+        "slug": "lab-point-a-domain-to-cloudfront-or-an-alb",
+        "queries": [
+          "AWS Route 53 point domain to CloudFront distribution lab",
+          "AWS Route 53 alias record ALB CloudFront"
+        ]
+      },
+      {
+        "title": "Lab: Configure a Basic CloudFront Distribution",
+        "slug": "lab-configure-a-basic-cloudfront-distribution",
+        "queries": [
+          "AWS CloudFront create distribution console lab",
+          "AWS CLI create-distribution CloudFront examples"
+        ]
+      },
+      {
+        "title": "Lab: Inspect DNS and Distribution Settings with AWS CLI",
+        "slug": "lab-inspect-dns-and-distribution-settings-with-aws-cli",
+        "queries": [
+          "AWS CLI route53 list-hosted-zones cloudfront get-distribution",
+          "AWS CloudFront Route 53 inspection CLI commands"
+        ]
+      },
+      {
+        "title": "FAQ and Exam Focus",
+        "slug": "faq-and-exam-focus-module-8",
+        "queries": [
+          "SAA-C03 CloudFront vs Route 53 exam questions",
+          "AWS DNS routing policy scenario questions failover latency weighted"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 9: Security, Encryption, and Compliance Foundations",
+    "slug": "module-9-security-encryption-and-compliance-foundations",
+    "children": [
+      {
+        "title": "AWS KMS Basics",
+        "slug": "aws-kms-basics",
+        "queries": [
+          "AWS KMS basics official documentation",
+          "AWS KMS customer managed keys AWS managed keys encryption"
+        ]
+      },
+      {
+        "title": "Encryption at Rest and in Transit",
+        "slug": "encryption-at-rest-and-in-transit",
+        "queries": [
+          "AWS encryption at rest in transit best practices",
+          "AWS security encryption at rest in transit services"
+        ]
+      },
+      {
+        "title": "Service Encryption for S3 EBS RDS and EFS",
+        "slug": "service-encryption-for-s3-ebs-rds-and-efs",
+        "queries": [
+          "AWS S3 EBS RDS EFS encryption official documentation",
+          "AWS service encryption at rest KMS integration"
+        ]
+      },
+      {
+        "title": "Security Groups IAM and Resource Policies in Security Architecture",
+        "slug": "security-groups-iam-and-resource-policies-in-security-architecture",
+        "queries": [
+          "AWS security groups IAM resource policies security architecture",
+          "AWS resource-based policy vs IAM policy security"
+        ]
+      },
+      {
+        "title": "CloudTrail and AWS Config",
+        "slug": "cloudtrail-and-aws-config",
+        "queries": [
+          "AWS CloudTrail AWS Config official documentation",
+          "AWS audit logging configuration drift detection"
+        ]
+      },
+      {
+        "title": "Secrets Management Concepts",
+        "slug": "secrets-management-concepts",
+        "queries": [
+          "AWS Secrets Manager vs SSM Parameter Store exam concepts",
+          "AWS secrets management architecture basics"
+        ]
+      },
+      {
+        "title": "Lab: Enable Encryption on Supported Resources",
+        "slug": "lab-enable-encryption-on-supported-resources",
+        "queries": [
+          "AWS enable encryption S3 EBS RDS lab",
+          "AWS CLI enable bucket encryption EBS encryption RDS storage encryption"
+        ]
+      },
+      {
+        "title": "Lab: Review CloudTrail Events",
+        "slug": "lab-review-cloudtrail-events",
+        "queries": [
+          "AWS CloudTrail event history review lab",
+          "AWS CLI cloudtrail lookup-events examples"
+        ]
+      },
+      {
+        "title": "Lab: Inspect Configuration History and Compliance Settings",
+        "slug": "lab-inspect-configuration-history-and-compliance-settings",
+        "queries": [
+          "AWS Config configuration history compliance lab",
+          "AWS CLI config describe-configuration-recorders"
+        ]
+      },
+      {
+        "title": "FAQ and Exam Focus",
+        "slug": "faq-and-exam-focus-module-9",
+        "queries": [
+          "SAA-C03 encryption at rest in transit KMS exam questions",
+          "AWS CloudTrail Config security compliance scenario questions"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 10: Monitoring, Logging, and Operational Excellence",
+    "slug": "module-10-monitoring-logging-and-operational-excellence",
+    "children": [
+      {
+        "title": "CloudWatch Metrics Logs Alarms and Dashboards",
+        "slug": "cloudwatch-metrics-logs-alarms-and-dashboards",
+        "queries": [
+          "Amazon CloudWatch metrics logs alarms dashboards official documentation",
+          "AWS CloudWatch monitoring basics alarm examples"
+        ]
+      },
+      {
+        "title": "CloudTrail for API Auditing",
+        "slug": "cloudtrail-for-api-auditing",
+        "queries": [
+          "AWS CloudTrail API auditing official documentation",
+          "AWS CloudTrail management events data events exam"
+        ]
+      },
+      {
+        "title": "AWS Config for Compliance",
+        "slug": "aws-config-for-compliance",
+        "queries": [
+          "AWS Config compliance official documentation",
+          "AWS Config rules resource compliance drift detection"
+        ]
+      },
+      {
+        "title": "SNS Notifications for Operational Alerts",
+        "slug": "sns-notifications-for-operational-alerts",
+        "queries": [
+          "Amazon SNS notifications operational alerts official documentation",
+          "AWS SNS CloudWatch alarm notification examples"
+        ]
+      },
+      {
+        "title": "Incident Detection and Response Concepts",
+        "slug": "incident-detection-and-response-concepts",
+        "queries": [
+          "AWS incident detection response monitoring concepts",
+          "AWS operational excellence monitoring troubleshooting guide"
+        ]
+      },
+      {
+        "title": "Lab: Create CloudWatch Alarms for EC2 or ALB Metrics",
+        "slug": "lab-create-cloudwatch-alarms-for-ec2-or-alb-metrics",
+        "queries": [
+          "AWS CloudWatch alarm EC2 ALB metrics lab",
+          "AWS CLI put-metric-alarm examples"
+        ]
+      },
+      {
+        "title": "Lab: View Logs and Metrics",
+        "slug": "lab-view-logs-and-metrics",
+        "queries": [
+          "AWS CloudWatch logs metrics console lab",
+          "AWS CLI describe-log-groups get-metric-data examples"
+        ]
+      },
+      {
+        "title": "Lab: Configure Alert Notifications",
+        "slug": "lab-configure-alert-notifications",
+        "queries": [
+          "AWS SNS CloudWatch alarm notification lab",
+          "AWS CLI create-topic subscribe alarm actions"
+        ]
+      },
+      {
+        "title": "FAQ and Exam Focus",
+        "slug": "faq-and-exam-focus-module-10",
+        "queries": [
+          "SAA-C03 CloudWatch CloudTrail Config exam questions",
+          "AWS monitoring logging operational excellence scenario questions"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 11: High Availability, Fault Tolerance, and Disaster Recovery",
+    "slug": "module-11-high-availability-fault-tolerance-and-disaster-recovery",
+    "children": [
+      {
+        "title": "High Availability Design Patterns",
+        "slug": "high-availability-design-patterns",
+        "queries": [
+          "AWS high availability design patterns multi AZ official guide",
+          "AWS fault tolerance architecture patterns"
+        ]
+      },
+      {
+        "title": "Backup and Restore Strategy",
+        "slug": "backup-and-restore-strategy",
+        "queries": [
+          "AWS backup and restore disaster recovery strategy official documentation",
+          "AWS backup restore RTO RPO concepts"
+        ]
+      },
+      {
+        "title": "Pilot Light Warm Standby and Multi-Site Active-Active",
+        "slug": "pilot-light-warm-standby-and-multi-site-active-active",
+        "queries": [
+          "AWS disaster recovery pilot light warm standby active active official guide",
+          "AWS DR strategies RTO RPO comparison"
+        ]
+      },
+      {
+        "title": "RTO and RPO",
+        "slug": "rto-and-rpo",
+        "queries": [
+          "AWS RTO RPO definitions disaster recovery",
+          "AWS disaster recovery RTO RPO exam concepts"
+        ]
+      },
+      {
+        "title": "Multi-AZ and Multi-Region Strategies",
+        "slug": "multi-az-and-multi-region-strategies",
+        "queries": [
+          "AWS multi AZ vs multi region architecture official documentation",
+          "AWS regional and availability zone failure domain design"
+        ]
+      },
+      {
+        "title": "Route 53 Failover and Health Checks",
+        "slug": "route-53-failover-and-health-checks",
+        "queries": [
+          "AWS Route 53 failover health checks disaster recovery",
+          "Amazon Route 53 active passive failover architecture"
+        ]
+      },
+      {
+        "title": "Lab: Design a DR Architecture for a Sample Web Application",
+        "slug": "lab-design-a-dr-architecture-for-a-sample-web-application",
+        "queries": [
+          "AWS disaster recovery web application architecture lab",
+          "AWS DR design sample web app route 53 rds s3"
+        ]
+      },
+      {
+        "title": "Lab: Simulate Failover Decision Logic Using Route 53 Concepts",
+        "slug": "lab-simulate-failover-decision-logic-using-route-53-concepts",
+        "queries": [
+          "AWS Route 53 failover decision logic lab",
+          "AWS CLI route53 health check failover examples"
+        ]
+      },
+      {
+        "title": "Lab: Create Backup and Restore Workflows for S3 RDS and EC2-Related Resources",
+        "slug": "lab-create-backup-and-restore-workflows-for-s3-rds-and-ec2-related-resources",
+        "queries": [
+          "AWS backup restore S3 RDS EC2 workflow lab",
+          "AWS CLI backup restore snapshots examples"
+        ]
+      },
+      {
+        "title": "FAQ and Exam Focus",
+        "slug": "faq-and-exam-focus-module-11",
+        "queries": [
+          "SAA-C03 disaster recovery strategy questions RTO RPO",
+          "AWS multi region failover exam scenario questions"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 12: Migration to AWS and Hybrid Connectivity",
+    "slug": "module-12-migration-to-aws-and-hybrid-connectivity",
+    "children": [
+      {
+        "title": "Migration Strategies Rehost Replatform Refactor Retire Retain",
+        "slug": "migration-strategies-rehost-replatform-refactor-retire-retain",
+        "queries": [
+          "AWS migration strategies rehost replatform refactor retire retain official guide",
+          "AWS 6 Rs migration strategy documentation"
+        ]
+      },
+      {
+        "title": "AWS Migration Tools Overview",
+        "slug": "aws-migration-tools-overview",
+        "queries": [
+          "AWS migration tools overview SAA-C03",
+          "AWS Application Migration Service Database Migration Service overview"
+        ]
+      },
+      {
+        "title": "Hybrid Connectivity VPN and Direct Connect",
+        "slug": "hybrid-connectivity-vpn-and-direct-connect",
+        "queries": [
+          "AWS VPN vs Direct Connect official documentation",
+          "AWS hybrid connectivity routing concepts"
+        ]
+      },
+      {
+        "title": "Data Transfer and Cutover Planning",
+        "slug": "data-transfer-and-cutover-planning",
+        "queries": [
+          "AWS data transfer cutover planning migration guide",
+          "AWS migration cutover strategy dependency analysis"
+        ]
+      },
+      {
+        "title": "On-Premises to AWS Workload Migration Patterns",
+        "slug": "on-premises-to-aws-workload-migration-patterns",
+        "queries": [
+          "AWS on premises to AWS migration patterns three tier application",
+          "AWS workload migration architecture patterns"
+        ]
+      },
+      {
+        "title": "Lab: Design a Migration Plan for a Sample On-Premises Application",
+        "slug": "lab-design-a-migration-plan-for-a-sample-on-premises-application",
+        "queries": [
+          "AWS migration plan sample on premises application lab",
+          "AWS 6 Rs migration case study lab"
+        ]
+      },
+      {
+        "title": "Lab: Create a Conceptual Hybrid Network Diagram",
+        "slug": "lab-create-a-conceptual-hybrid-network-diagram",
+        "queries": [
+          "AWS hybrid network diagram VPN Direct Connect VPC",
+          "AWS on premises to VPC connectivity diagram"
+        ]
+      },
+      {
+        "title": "Lab: Inspect Relevant Networking Resources with AWS CLI",
+        "slug": "lab-inspect-relevant-networking-resources-with-aws-cli",
+        "queries": [
+          "AWS CLI describe vpn connections direct connect virtual interfaces",
+          "AWS CLI inspect hybrid networking resources"
+        ]
+      },
+      {
+        "title": "FAQ and Exam Focus",
+        "slug": "faq-and-exam-focus-module-12",
+        "queries": [
+          "SAA-C03 migration strategy selection exam questions",
+          "AWS VPN vs Direct Connect scenario questions"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 13: Cost Optimization and Performance Efficiency",
+    "slug": "module-13-cost-optimization-and-performance-efficiency",
+    "children": [
+      {
+        "title": "AWS Pricing Fundamentals",
+        "slug": "aws-pricing-fundamentals",
+        "queries": [
+          "AWS pricing fundamentals official documentation",
+          "AWS cost drivers EC2 S3 RDS NAT Gateway CloudFront"
+        ]
+      },
+      {
+        "title": "Right-Sizing and Elasticity",
+        "slug": "right-sizing-and-elasticity",
+        "queries": [
+          "AWS right sizing elasticity cost optimization guide",
+          "AWS auto scaling right sizing performance efficiency"
+        ]
+      },
+      {
+        "title": "Storage Lifecycle Optimization",
+        "slug": "storage-lifecycle-optimization",
+        "queries": [
+          "AWS S3 lifecycle optimization cost savings official guide",
+          "AWS EBS snapshot lifecycle storage cost optimization"
+        ]
+      },
+      {
+        "title": "Compute Purchasing Options and Managed Service Trade-Offs",
+        "slug": "compute-purchasing-options-and-managed-service-trade-offs",
+        "queries": [
+          "AWS compute purchasing options managed service tradeoffs",
+          "AWS reserved instances savings plans spot instances exam"
+        ]
+      },
+      {
+        "title": "Caching and Content Delivery Optimization",
+        "slug": "caching-and-content-delivery-optimization",
+        "queries": [
+          "AWS CloudFront caching performance optimization official documentation",
+          "AWS ElastiCache CloudFront performance cost optimization"
+        ]
+      },
+      {
+        "title": "Free Tier Aware Design Choices",
+        "slug": "free-tier-aware-design-choices",
+        "queries": [
+          "AWS Free Tier eligible services architecture lab",
+          "AWS free tier cost optimization best practices"
+        ]
+      },
+      {
+        "title": "Lab: Estimate Cost for a Sample Architecture",
+        "slug": "lab-estimate-cost-for-a-sample-architecture",
+        "queries": [
+          "AWS pricing calculator sample architecture lab",
+          "AWS cost estimate web application architecture"
+        ]
+      },
+      {
+        "title": "Lab: Identify Cost Hotspots in a Reference Design",
+        "slug": "lab-identify-cost-hotspots-in-a-reference-design",
+        "queries": [
+          "AWS cost hotspot analysis NAT gateway RDS EBS lab",
+          "AWS architecture cost optimization review"
+        ]
+      },
+      {
+        "title": "Lab: Apply Lifecycle and Scaling Changes to Reduce Spend",
+        "slug": "lab-apply-lifecycle-and-scaling-changes-to-reduce-spend",
+        "queries": [
+          "AWS lifecycle scaling cost reduction lab",
+          "AWS CLI update auto scaling lifecycle policy S3 lifecycle"
+        ]
+      },
+      {
+        "title": "FAQ and Exam Focus",
+        "slug": "faq-and-exam-focus-module-13",
+        "queries": [
+          "SAA-C03 cost optimization scenario questions right sizing",
+          "AWS performance efficiency cost tradeoff exam questions"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 14: Well-Architected Framework Applied Case Studies",
+    "slug": "module-14-well-architected-framework-applied-case-studies",
+    "children": [
+      {
+        "title": "Operational Excellence Pillar Applied",
+        "slug": "operational-excellence-pillar-applied",
+        "queries": [
+          "AWS Well-Architected operational excellence pillar examples",
+          "AWS operational excellence architecture case study"
+        ]
+      },
+      {
+        "title": "Security Pillar Applied",
+        "slug": "security-pillar-applied",
+        "queries": [
+          "AWS Well-Architected security pillar examples",
+          "AWS security pillar architecture case study"
+        ]
+      },
+      {
+        "title": "Reliability Pillar Applied",
+        "slug": "reliability-pillar-applied",
+        "queries": [
+          "AWS Well-Architected reliability pillar examples",
+          "AWS reliability architecture case study multi AZ"
+        ]
+      },
+      {
+        "title": "Performance Efficiency Pillar Applied",
+        "slug": "performance-efficiency-pillar-applied",
+        "queries": [
+          "AWS Well-Architected performance efficiency pillar examples",
+          "AWS performance efficiency architecture case study"
+        ]
+      },
+      {
+        "title": "Cost Optimization Pillar Applied",
+        "slug": "cost-optimization-pillar-applied",
+        "queries": [
+          "AWS Well-Architected cost optimization pillar examples",
+          "AWS cost optimization architecture case study"
+        ]
+      },
+      {
+        "title": "Sustainability Considerations",
+        "slug": "sustainability-considerations",
+        "queries": [
+          "AWS sustainability best practices architecture",
+          "AWS sustainability pillar well architected overview"
+        ]
+      },
+      {
+        "title": "Case Study A: Highly Available Web Application",
+        "slug": "case-study-a-highly-available-web-application",
+        "queries": [
+          "AWS highly available web application architecture route 53 cloudfront alb autoscaling rds",
+          "AWS web application case study multi az private subnets"
+        ]
+      },
+      {
+        "title": "Case Study B: Disaster Recovery Design",
+        "slug": "case-study-b-disaster-recovery-design",
+        "queries": [
+          "AWS disaster recovery design case study route 53 pilot light warm standby active active",
+          "AWS DR architecture case study RTO RPO"
+        ]
+      },
+      {
+        "title": "Case Study C: On-Premises Migration to AWS",
+        "slug": "case-study-c-on-premises-migration-to-aws",
+        "queries": [
+          "AWS on premises migration case study rehost replatform refactor",
+          "AWS migration architecture case study hybrid connectivity"
+        ]
+      },
+      {
+        "title": "FAQ and Exam Focus",
+        "slug": "faq-and-exam-focus-module-14",
+        "queries": [
+          "AWS Well-Architected framework exam scenario questions",
+          "SAA-C03 architecture tradeoff case study questions"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 15: Exam Preparation, Scenario Drills, and Full Practice Review",
+    "slug": "module-15-exam-preparation-scenario-drills-and-full-practice-review",
+    "children": [
+      {
+        "title": "SAA-C03 Exam Blueprint Mapping",
+        "slug": "saa-c03-exam-blueprint-mapping",
+        "queries": [
+          "AWS SAA-C03 exam blueprint official guide",
+          "SAA-C03 domains and objectives mapping"
+        ]
+      },
+      {
+        "title": "Question Dissection Strategy",
+        "slug": "question-dissection-strategy",
+        "queries": [
+          "AWS certification question dissection strategy scenario questions",
+          "SAA-C03 eliminate distractors architecture reasoning"
+        ]
+      },
+      {
+        "title": "Common Distractors and Tricky Patterns",
+        "slug": "common-distractors-and-tricky-patterns",
+        "queries": [
+          "AWS exam common distractors similar services questions",
+          "SAA-C03 tricky scenario patterns service selection"
+        ]
+      },
+      {
+        "title": "Time Management and Test-Taking Strategy",
+        "slug": "time-management-and-test-taking-strategy",
+        "queries": [
+          "AWS certification time management test taking strategy",
+          "SAA-C03 exam pacing strategy practice"
+        ]
+      },
+      {
+        "title": "Topic-Based Quizzes",
+        "slug": "topic-based-quizzes",
+        "queries": [
+          "AWS SAA-C03 topic based quiz questions",
+          "AWS solutions architect associate practice questions by topic"
+        ]
+      },
+      {
+        "title": "Mixed-Domain Scenario Sets",
+        "slug": "mixed-domain-scenario-sets",
+        "queries": [
+          "AWS SAA-C03 mixed domain scenario practice",
+          "AWS architecture scenario questions mixed services"
+        ]
+      },
+      {
+        "title": "Full-Length Practice Exams",
+        "slug": "full-length-practice-exams",
+        "queries": [
+          "AWS SAA-C03 full length practice exam",
+          "AWS solutions architect associate practice test explanations"
+        ]
+      },
+      {
+        "title": "Review of Incorrect-Answer Patterns",
+        "slug": "review-of-incorrect-answer-patterns",
+        "queries": [
+          "AWS exam incorrect answer pattern analysis",
+          "SAA-C03 practice exam answer rationale distractor analysis"
+        ]
+      },
+      {
+        "title": "Final Comprehensive Review",
+        "slug": "final-comprehensive-review",
+        "queries": [
+          "AWS SAA-C03 final review service comparison decision trees",
+          "AWS solutions architect associate final exam review guide"
+        ]
+      },
+      {
+        "title": "FAQ and Exam Focus",
+        "slug": "faq-and-exam-focus-module-15",
+        "queries": [
+          "SAA-C03 final exam review questions service comparison",
+          "AWS certification scenario practice exam rationale"
+        ]
+      }
+    ]
+  }
+]

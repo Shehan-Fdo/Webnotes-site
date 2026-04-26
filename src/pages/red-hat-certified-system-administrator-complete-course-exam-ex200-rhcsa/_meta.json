@@ -1,0 +1,4 @@
+{
+  "label": "Red Hat Certified System Administrator Complete Course (Exam EX200 – RHCSA)",
+  "description": "Red Hat Certified System Administrator Complete Course (Exam EX200 – RHCSA) is a comprehensive study-notes course designed to prepare you for the RHCSA exam with a strong mix of Linux administration theory, hands-on terminal labs, and real-world sysadmin scenarios. It covers every major exam domain on RHEL 10 / Rocky Linux 10, including users and permissions, SELinux, systemd, networking, storage and LVM, firewalld, cron, SSH, package management, shell scripting, and troubleshooting, with exact commands, practical examples, and performance-based practice tasks."
+}

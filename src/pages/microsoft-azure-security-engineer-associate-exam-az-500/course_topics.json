@@ -1,0 +1,510 @@
+[
+  {
+    "title": "Module 1: Lab Environment Preparation and Security Tooling Setup",
+    "slug": "module-1-lab-environment-preparation-and-security-tooling-setup",
+    "children": [
+      {
+        "title": "Authenticate to Azure with Azure CLI and Azure PowerShell",
+        "slug": "authenticate-to-azure-with-azure-cli-and-azure-powershell",
+        "queries": [
+          "Azure CLI az login az account set documentation",
+          "Azure PowerShell Connect-AzAccount Set-AzContext documentation"
+        ]
+      },
+      {
+        "title": "Set Subscription Context and Verify Tenant Context",
+        "slug": "set-subscription-context-and-verify-tenant-context",
+        "queries": [
+          "Azure CLI az account show az account set tenant subscription context",
+          "Azure PowerShell Get-AzContext Set-AzContext tenant subscription"
+        ]
+      },
+      {
+        "title": "Create and Manage Resource Groups for Lab Isolation",
+        "slug": "create-and-manage-resource-groups-for-lab-isolation",
+        "queries": [
+          "Azure CLI az group create az group list resource group management",
+          "Azure PowerShell New-AzResourceGroup Get-AzResourceGroup documentation"
+        ]
+      },
+      {
+        "title": "Verify Required Provider Registrations",
+        "slug": "verify-required-provider-registrations",
+        "queries": [
+          "Azure CLI az provider list register Microsoft.Security Microsoft.PolicyInsights Microsoft.KeyVault",
+          "Azure PowerShell Register-AzResourceProvider Get-AzResourceProvider documentation"
+        ]
+      },
+      {
+        "title": "Establish Naming Conventions for Security Labs",
+        "slug": "establish-naming-conventions-for-security-labs",
+        "queries": [
+          "Azure naming conventions enterprise resource naming best practices",
+          "Azure CLI resource naming pattern lab environment conventions"
+        ]
+      },
+      {
+        "title": "Configure Local Tooling for Repeatable Execution",
+        "slug": "configure-local-tooling-for-repeatable-execution",
+        "queries": [
+          "Azure CLI configuration defaults output extension installation documentation",
+          "Azure PowerShell module installation update Az module documentation"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 2: Microsoft Defender for Cloud Deployment and Configuration",
+    "slug": "module-2-microsoft-defender-for-cloud-deployment-and-configuration",
+    "children": [
+      {
+        "title": "Enable Defender for Cloud Plans on a Subscription",
+        "slug": "enable-defender-for-cloud-plans-on-a-subscription",
+        "queries": [
+          "Azure CLI Microsoft Defender for Cloud pricing plans az security pricing create",
+          "Azure PowerShell Set-AzSecurityPricing Defender for Cloud plans"
+        ]
+      },
+      {
+        "title": "Configure Security Posture Management Settings",
+        "slug": "configure-security-posture-management-settings",
+        "queries": [
+          "Microsoft Defender for Cloud security posture management settings documentation",
+          "Azure CLI Defender for Cloud security settings configuration"
+        ]
+      },
+      {
+        "title": "Review Secure Score and Recommendations",
+        "slug": "review-secure-score-and-recommendations",
+        "queries": [
+          "Azure CLI az security secure-score list recommendations documentation",
+          "Microsoft Defender for Cloud secure score recommendations remediation"
+        ]
+      },
+      {
+        "title": "Configure Security Contacts and Alert Routing",
+        "slug": "configure-security-contacts-and-alert-routing",
+        "queries": [
+          "Azure CLI az security contact create update Defender for Cloud security contacts",
+          "Azure PowerShell Set-AzSecurityContact Defender for Cloud"
+        ]
+      },
+      {
+        "title": "Validate Protection Coverage Across Subscriptions and Resource Groups",
+        "slug": "validate-protection-coverage-across-subscriptions-and-resource-groups",
+        "queries": [
+          "Microsoft Defender for Cloud coverage assessment subscription resource group validation",
+          "Azure CLI Defender for Cloud assessment coverage query"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 3: Azure Policy Authoring, Assignment, and Remediation",
+    "slug": "module-3-azure-policy-authoring-assignment-and-remediation",
+    "children": [
+      {
+        "title": "Create Custom Policy Definitions",
+        "slug": "create-custom-policy-definitions",
+        "queries": [
+          "Azure CLI az policy definition create custom policy JSON documentation",
+          "Azure PowerShell New-AzPolicyDefinition custom policy"
+        ]
+      },
+      {
+        "title": "Assign Policies at Subscription and Resource Group Scope",
+        "slug": "assign-policies-at-subscription-and-resource-group-scope",
+        "queries": [
+          "Azure CLI az policy assignment create scope subscription resource group",
+          "Azure PowerShell New-AzPolicyAssignment scope documentation"
+        ]
+      },
+      {
+        "title": "Use Parameters Effects and Conditions in Policy",
+        "slug": "use-parameters-effects-and-conditions-in-policy",
+        "queries": [
+          "Azure Policy definition parameters effects conditions documentation",
+          "Azure Policy deny audit deployIfNotExists examples"
+        ]
+      },
+      {
+        "title": "Create Policy Initiatives",
+        "slug": "create-policy-initiatives",
+        "queries": [
+          "Azure CLI az policy set-definition create initiative documentation",
+          "Azure PowerShell New-AzPolicySetDefinition documentation"
+        ]
+      },
+      {
+        "title": "Trigger Compliance Evaluation and Remediation",
+        "slug": "trigger-compliance-evaluation-and-remediation",
+        "queries": [
+          "Azure CLI az policy state list remediation task create documentation",
+          "Azure PowerShell Start-AzPolicyComplianceScan remediation task"
+        ]
+      },
+      {
+        "title": "Update or Remove Policy Assignments",
+        "slug": "update-or-remove-policy-assignments",
+        "queries": [
+          "Azure CLI az policy assignment update delete documentation",
+          "Azure PowerShell Set-AzPolicyAssignment Remove-AzPolicyAssignment"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 4: Microsoft Entra ID Security Configuration and Conditional Access",
+    "slug": "module-4-microsoft-entra-id-security-configuration-and-conditional-access",
+    "children": [
+      {
+        "title": "Create Conditional Access Policies for Azure Portal Access",
+        "slug": "create-conditional-access-policies-for-azure-portal-access",
+        "queries": [
+          "Microsoft Entra Conditional Access policy Azure portal MFA documentation",
+          "Conditional Access policy create portal Azure portal access MFA"
+        ]
+      },
+      {
+        "title": "Scope Policies to Pilot Groups and Exclude Break-Glass Accounts",
+        "slug": "scope-policies-to-pilot-groups-and-exclude-break-glass-accounts",
+        "queries": [
+          "Conditional Access pilot group exclusions break glass accounts best practices",
+          "Microsoft Entra Conditional Access exclude emergency access accounts"
+        ]
+      },
+      {
+        "title": "Require MFA and Additional Conditions",
+        "slug": "require-mfa-and-additional-conditions",
+        "queries": [
+          "Conditional Access require MFA device location risk conditions documentation",
+          "Microsoft Entra Conditional Access grant controls MFA conditions"
+        ]
+      },
+      {
+        "title": "Review Sign-In Logs for Policy Enforcement",
+        "slug": "review-sign-in-logs-for-policy-enforcement",
+        "queries": [
+          "Microsoft Entra sign-in logs Conditional Access policy results documentation",
+          "Azure portal sign-in logs filter conditional access status"
+        ]
+      },
+      {
+        "title": "Troubleshoot Blocked Access Scenarios",
+        "slug": "troubleshoot-blocked-access-scenarios",
+        "queries": [
+          "Conditional Access troubleshooting blocked sign-in Azure portal",
+          "Microsoft Entra sign-in logs troubleshoot access denied policy"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 5: Azure RBAC and Privileged Access Management",
+    "slug": "module-5-azure-rbac-and-privileged-access-management",
+    "children": [
+      {
+        "title": "Assign Built-in Azure Roles at Appropriate Scopes",
+        "slug": "assign-built-in-azure-roles-at-appropriate-scopes",
+        "queries": [
+          "Azure CLI az role assignment create scope subscription resource group documentation",
+          "Azure PowerShell New-AzRoleAssignment built-in roles scope"
+        ]
+      },
+      {
+        "title": "Compare Subscription Resource Group and Resource-Level Assignments",
+        "slug": "compare-subscription-resource-group-and-resource-level-assignments",
+        "queries": [
+          "Azure RBAC scope hierarchy subscription resource group resource documentation",
+          "Azure role assignment scope inheritance practical guide"
+        ]
+      },
+      {
+        "title": "Validate Effective Permissions",
+        "slug": "validate-effective-permissions",
+        "queries": [
+          "Azure CLI az role assignment list effective permissions documentation",
+          "Azure PowerShell Get-AzRoleAssignment effective access validation"
+        ]
+      },
+      {
+        "title": "Remove Unnecessary Access",
+        "slug": "remove-unnecessary-access",
+        "queries": [
+          "Azure CLI az role assignment delete documentation",
+          "Azure PowerShell Remove-AzRoleAssignment documentation"
+        ]
+      },
+      {
+        "title": "Use Privileged Identity Management for Secure Role Activation",
+        "slug": "use-privileged-identity-management-for-secure-role-activation",
+        "queries": [
+          "Microsoft Entra Privileged Identity Management role activation documentation",
+          "PIM activate Azure role assignment eligible role"
+        ]
+      },
+      {
+        "title": "Troubleshoot RBAC Assignment Failures",
+        "slug": "troubleshoot-rbac-assignment-failures",
+        "queries": [
+          "Azure RBAC role assignment failed principal scope troubleshooting",
+          "Azure role assignment permission denied troubleshooting documentation"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 6: Azure Key Vault Security and Key Rotation",
+    "slug": "module-6-azure-key-vault-security-and-key-rotation",
+    "children": [
+      {
+        "title": "Create a Secure Key Vault",
+        "slug": "create-a-secure-key-vault",
+        "queries": [
+          "Azure CLI az keyvault create soft delete purge protection documentation",
+          "Azure PowerShell New-AzKeyVault secure settings documentation"
+        ]
+      },
+      {
+        "title": "Configure Access with RBAC or Access Policies",
+        "slug": "configure-access-with-rbac-or-access-policies",
+        "queries": [
+          "Azure Key Vault RBAC versus access policies documentation",
+          "Azure CLI az keyvault set-policy role assignment key vault access"
+        ]
+      },
+      {
+        "title": "Store and Retrieve Secrets Securely",
+        "slug": "store-and-retrieve-secrets-securely",
+        "queries": [
+          "Azure CLI az keyvault secret set get documentation",
+          "Azure PowerShell Set-AzKeyVaultSecret Get-AzKeyVaultSecret"
+        ]
+      },
+      {
+        "title": "Enable Soft Delete and Purge Protection",
+        "slug": "enable-soft-delete-and-purge-protection",
+        "queries": [
+          "Azure Key Vault soft delete purge protection enable documentation",
+          "Azure CLI az keyvault update purge protection soft delete"
+        ]
+      },
+      {
+        "title": "Rotate Keys and Manage Key Versions",
+        "slug": "rotate-keys-and-manage-key-versions",
+        "queries": [
+          "Azure CLI az keyvault key create rotate show versions documentation",
+          "Azure PowerShell Add-AzKeyVaultKey Rotate-AzKeyVaultKey"
+        ]
+      },
+      {
+        "title": "Validate Access Restrictions and Audit Logging",
+        "slug": "validate-access-restrictions-and-audit-logging",
+        "queries": [
+          "Azure Key Vault diagnostic logging audit events documentation",
+          "Azure Monitor Key Vault logs access denied validation"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 7: Network Security with Azure Firewall and VNet Peering",
+    "slug": "module-7-network-security-with-azure-firewall-and-vnet-peering",
+    "children": [
+      {
+        "title": "Create Virtual Networks and Peerings",
+        "slug": "create-virtual-networks-and-peerings",
+        "queries": [
+          "Azure CLI az network vnet create peering documentation",
+          "Azure PowerShell New-AzVirtualNetwork New-AzVirtualNetworkPeering"
+        ]
+      },
+      {
+        "title": "Deploy Azure Firewall in a Hub Network",
+        "slug": "deploy-azure-firewall-in-a-hub-network",
+        "queries": [
+          "Azure CLI az network firewall create hub network documentation",
+          "Azure PowerShell New-AzFirewall deployment documentation"
+        ]
+      },
+      {
+        "title": "Create Azure Firewall Network and Application Rules",
+        "slug": "create-azure-firewall-network-and-application-rules",
+        "queries": [
+          "Azure CLI az network firewall network-rule create application-rule create documentation",
+          "Azure PowerShell Azure Firewall rule collection group documentation"
+        ]
+      },
+      {
+        "title": "Configure Route Tables and User Defined Routes",
+        "slug": "configure-route-tables-and-user-defined-routes",
+        "queries": [
+          "Azure CLI az network route-table create route create documentation",
+          "Azure PowerShell New-AzRouteTable New-AzRouteConfig"
+        ]
+      },
+      {
+        "title": "Validate Traffic Inspection and Segmentation",
+        "slug": "validate-traffic-inspection-and-segmentation",
+        "queries": [
+          "Azure Firewall traffic inspection validation test connectivity documentation",
+          "Azure network watcher connection troubleshoot firewall validation"
+        ]
+      },
+      {
+        "title": "Compare Firewall-Based Control Versus NSG-Only Control",
+        "slug": "compare-firewall-based-control-versus-nsg-only-control",
+        "queries": [
+          "Azure Firewall versus NSG traffic control practical comparison",
+          "Azure NSG and Azure Firewall layered network security documentation"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 8: Security Monitoring, Alerts, and Incident Response",
+    "slug": "module-8-security-monitoring-alerts-and-incident-response",
+    "children": [
+      {
+        "title": "Review Security Alerts from Defender for Cloud",
+        "slug": "review-security-alerts-from-defender-for-cloud",
+        "queries": [
+          "Microsoft Defender for Cloud security alerts investigation documentation",
+          "Azure CLI Defender for Cloud alerts list query"
+        ]
+      },
+      {
+        "title": "Correlate Logs Using Azure Monitor and Log Analytics",
+        "slug": "correlate-logs-using-azure-monitor-and-log-analytics",
+        "queries": [
+          "Azure Monitor Log Analytics KQL security incident investigation documentation",
+          "Azure CLI Log Analytics query az monitor log-analytics"
+        ]
+      },
+      {
+        "title": "Perform Containment Actions",
+        "slug": "perform-containment-actions",
+        "queries": [
+          "Azure incident response disable user revoke access rotate secret documentation",
+          "Azure CLI disable account remove role assignment incident containment"
+        ]
+      },
+      {
+        "title": "Rotate Secrets or Keys During Incident Response",
+        "slug": "rotate-secrets-or-keys-during-incident-response",
+        "queries": [
+          "Azure Key Vault secret rotation incident response documentation",
+          "Azure CLI az keyvault secret set key rotate incident containment"
+        ]
+      },
+      {
+        "title": "Verify Alert State After Remediation",
+        "slug": "verify-alert-state-after-remediation",
+        "queries": [
+          "Microsoft Defender for Cloud alert status after remediation documentation",
+          "Azure Monitor incident closure validation security alert"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 9: Integrated Security Hardening Scenario",
+    "slug": "module-9-integrated-security-hardening-scenario",
+    "children": [
+      {
+        "title": "Deploy a Sample Workload",
+        "slug": "deploy-a-sample-workload",
+        "queries": [
+          "Azure sample workload deployment CLI ARM template security lab",
+          "Azure PowerShell deploy sample workload resource group documentation"
+        ]
+      },
+      {
+        "title": "Apply RBAC Conditional Access Policy Defender for Cloud Key Vault and Firewall Controls",
+        "slug": "apply-rbac-conditional-access-policy-defender-for-cloud-key-vault-and-firewall-controls",
+        "queries": [
+          "Azure integrated security hardening RBAC Conditional Access Defender for Cloud Key Vault Firewall",
+          "Azure enterprise security baseline implementation lab"
+        ]
+      },
+      {
+        "title": "Validate End-to-End Security Behavior",
+        "slug": "validate-end-to-end-security-behavior",
+        "queries": [
+          "Azure security validation checklist RBAC policy firewall key vault conditional access",
+          "Azure lab validation security controls evidence collection"
+        ]
+      },
+      {
+        "title": "Identify and Remediate Misconfigurations",
+        "slug": "identify-and-remediate-misconfigurations",
+        "queries": [
+          "Azure security misconfiguration troubleshooting policy RBAC firewall key vault",
+          "Azure hardening lab remediation workflow documentation"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 10: AZ-500 Practical Review and Capstone Validation",
+    "slug": "module-10-az-500-practical-review-and-capstone-validation",
+    "children": [
+      {
+        "title": "End-to-End Secure Azure Environment Deployment",
+        "slug": "end-to-end-secure-azure-environment-deployment",
+        "queries": [
+          "AZ-500 secure Azure environment deployment lab documentation",
+          "Azure security engineer capstone deployment checklist"
+        ]
+      },
+      {
+        "title": "Policy Enforcement and Compliance Verification",
+        "slug": "policy-enforcement-and-compliance-verification",
+        "queries": [
+          "Azure Policy compliance verification lab documentation",
+          "Azure CLI policy compliance state validation"
+        ]
+      },
+      {
+        "title": "Identity and Access Hardening",
+        "slug": "identity-and-access-hardening",
+        "queries": [
+          "Azure identity access hardening Conditional Access RBAC PIM lab",
+          "Microsoft Entra security hardening practical guide"
+        ]
+      },
+      {
+        "title": "Network Segmentation and Firewall Inspection",
+        "slug": "network-segmentation-and-firewall-inspection",
+        "queries": [
+          "Azure Firewall network segmentation validation lab",
+          "Azure VNet peering inspection route validation documentation"
+        ]
+      },
+      {
+        "title": "Key Vault Protection and Rotation",
+        "slug": "key-vault-protection-and-rotation",
+        "queries": [
+          "Azure Key Vault protection rotation capstone lab documentation",
+          "Azure CLI key vault rotation validation"
+        ]
+      },
+      {
+        "title": "Security Alert Investigation and Response",
+        "slug": "security-alert-investigation-and-response",
+        "queries": [
+          "Azure security alert investigation response capstone lab",
+          "Microsoft Defender for Cloud incident response practical workflow"
+        ]
+      },
+      {
+        "title": "Timed Capstone Lab and Evidence Submission",
+        "slug": "timed-capstone-lab-and-evidence-submission",
+        "queries": [
+          "AZ-500 timed capstone lab evidence checklist",
+          "Azure security engineer practical assessment rubric"
+        ]
+      }
+    ]
+  }
+]

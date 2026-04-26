@@ -1,0 +1,616 @@
+[
+  {
+    "title": "Course Orientation and SAP-C02 Exam Strategy",
+    "slug": "course-orientation-sap-c02-exam-strategy",
+    "children": [
+      {
+        "title": "SAP-C02 Domain Mapping and Question Style Analysis",
+        "slug": "sap-c02-domain-mapping-question-style-analysis",
+        "queries": [
+          "AWS Certified Solutions Architect Professional SAP-C02 exam guide domains question style",
+          "SAP-C02 scenario-based architecture decision making best practices"
+        ]
+      },
+      {
+        "title": "Enterprise Architecture Assumptions and Prerequisites Review",
+        "slug": "enterprise-architecture-assumptions-prerequisites-review",
+        "queries": [
+          "AWS enterprise architecture prerequisites IAM VPC Route 53 CloudWatch advanced review",
+          "AWS professional solutions architect assumed knowledge networking IAM disaster recovery"
+        ]
+      },
+      {
+        "title": "Architecture Decision Framework for Tradeoffs",
+        "slug": "architecture-decision-framework-for-tradeoffs",
+        "queries": [
+          "AWS architecture decision framework resilience security cost tradeoff enterprise",
+          "AWS Well-Architected tradeoff analysis enterprise architecture decision making"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 1: Multi-Account Governance and Landing Zone Architecture",
+    "slug": "module-1-multi-account-governance-and-landing-zone-architecture",
+    "children": [
+      {
+        "title": "AWS Organizations, OUs, and Account Strategy",
+        "slug": "aws-organizations-ous-and-account-strategy",
+        "queries": [
+          "AWS Organizations organizational units account strategy enterprise landing zone",
+          "AWS Organizations best practices multi-account governance OU design"
+        ]
+      },
+      {
+        "title": "AWS Control Tower Landing Zone Design and Operations",
+        "slug": "aws-control-tower-landing-zone-design-and-operations",
+        "queries": [
+          "AWS Control Tower landing zone architecture guardrails account factory",
+          "AWS Control Tower enterprise landing zone operating model documentation"
+        ]
+      },
+      {
+        "title": "Guardrails, SCPs, and Preventive vs Detective Controls",
+        "slug": "guardrails-scps-and-preventive-vs-detective-controls",
+        "queries": [
+          "AWS Control Tower guardrails preventive detective SCP examples",
+          "AWS Organizations service control policies enterprise governance best practices"
+        ]
+      },
+      {
+        "title": "IAM Identity Center and Multi-Account Identity Strategy",
+        "slug": "iam-identity-center-and-multi-account-identity-strategy",
+        "queries": [
+          "AWS IAM Identity Center multi-account identity strategy enterprise",
+          "AWS IAM Identity Center permission sets delegated administration best practices"
+        ]
+      },
+      {
+        "title": "Centralized Logging, Audit, and Security Account Patterns",
+        "slug": "centralized-logging-audit-and-security-account-patterns",
+        "queries": [
+          "AWS centralized logging audit account architecture CloudTrail Config Security Hub GuardDuty",
+          "AWS multi-account security account log archive account pattern"
+        ]
+      },
+      {
+        "title": "Delegated Administration, Break-Glass Access, and Lifecycle Management",
+        "slug": "delegated-administration-break-glass-access-and-lifecycle-management",
+        "queries": [
+          "AWS delegated administration break glass access enterprise architecture",
+          "AWS account lifecycle management account vending enterprise governance"
+        ]
+      },
+      {
+        "title": "Lab: Deploy an AWS Control Tower Landing Zone",
+        "slug": "lab-deploy-an-aws-control-tower-landing-zone",
+        "queries": [
+          "AWS Control Tower landing zone deployment step by step lab",
+          "AWS Control Tower account factory landing zone validation cleanup"
+        ]
+      },
+      {
+        "title": "Lab: Design Organizational Units for a Sample Enterprise",
+        "slug": "lab-design-organizational-units-for-a-sample-enterprise",
+        "queries": [
+          "AWS Organizations OU design enterprise sample lab",
+          "AWS multi-account OU structure regulated enterprise design exercise"
+        ]
+      },
+      {
+        "title": "Lab: Author and Validate Service Control Policies",
+        "slug": "lab-author-and-validate-service-control-policies",
+        "queries": [
+          "AWS SCP JSON examples enterprise least privilege lab",
+          "AWS Organizations service control policy authoring validation lab"
+        ]
+      },
+      {
+        "title": "Lab: Configure Cross-Account Role Trust and Access",
+        "slug": "lab-configure-cross-account-role-trust-and-access",
+        "queries": [
+          "AWS cross-account role trust policy lab JSON",
+          "AWS assume role cross account trust policy validation lab"
+        ]
+      },
+      {
+        "title": "Lab: Implement Centralized Logging and Audit Collection",
+        "slug": "lab-implement-centralized-logging-and-audit-collection",
+        "queries": [
+          "AWS centralized logging CloudTrail Config S3 log archive lab",
+          "AWS multi-account audit logging implementation lab"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 2: Security, IAM, and Cross-Account Access at Scale",
+    "slug": "module-2-security-iam-and-cross-account-access-at-scale",
+    "children": [
+      {
+        "title": "IAM Policy Evaluation Logic and Authorization Flow",
+        "slug": "iam-policy-evaluation-logic-and-authorization-flow",
+        "queries": [
+          "AWS IAM policy evaluation logic identity resource permission boundary session policy",
+          "AWS authorization evaluation order SCP permission boundary resource policy"
+        ]
+      },
+      {
+        "title": "Identity-Based Policies, Resource-Based Policies, and Session Policies",
+        "slug": "identity-based-policies-resource-based-policies-and-session-policies",
+        "queries": [
+          "AWS IAM identity based policy resource based policy session policy examples",
+          "AWS IAM policy types enterprise cross account access"
+        ]
+      },
+      {
+        "title": "Permission Boundaries, SCPs, and Least Privilege at Enterprise Scale",
+        "slug": "permission-boundaries-scps-and-least-privilege-at-enterprise-scale",
+        "queries": [
+          "AWS permission boundaries enterprise least privilege design",
+          "AWS SCP interaction with IAM permission boundaries best practices"
+        ]
+      },
+      {
+        "title": "Cross-Account Trust, External IDs, and Confused Deputy Mitigation",
+        "slug": "cross-account-trust-external-ids-and-confused-deputy-mitigation",
+        "queries": [
+          "AWS external ID confused deputy mitigation trust policy",
+          "AWS cross account trust relationship role chaining considerations"
+        ]
+      },
+      {
+        "title": "KMS Key Policy Design and Secrets Management Patterns",
+        "slug": "kms-key-policy-design-and-secrets-management-patterns",
+        "queries": [
+          "AWS KMS key policy cross account enterprise example",
+          "AWS Secrets Manager enterprise multi account security patterns"
+        ]
+      },
+      {
+        "title": "Security Logging, Detective Controls, and Multi-Account Security Operations",
+        "slug": "security-logging-detective-controls-and-multi-account-security-operations",
+        "queries": [
+          "AWS Security Hub GuardDuty Config CloudTrail multi account operations",
+          "AWS multi account security operations detective controls architecture"
+        ]
+      },
+      {
+        "title": "Exact JSON Policy Artifacts and Annotation Review",
+        "slug": "exact-json-policy-artifacts-and-annotation-review",
+        "queries": [
+          "AWS IAM JSON policy examples trust policy SCP KMS key policy annotations",
+          "AWS enterprise least privilege JSON policy examples cross account"
+        ]
+      },
+      {
+        "title": "Lab: Implement Cross-Account Access with Trust Policies",
+        "slug": "lab-implement-cross-account-access-with-trust-policies",
+        "queries": [
+          "AWS cross account access lab trust policy implementation JSON",
+          "AWS IAM policy simulation cross account access validation lab"
+        ]
+      },
+      {
+        "title": "Lab: Validate Policies with IAM Access Analyzer and Policy Simulator",
+        "slug": "lab-validate-policies-with-iam-access-analyzer-and-policy-simulator",
+        "queries": [
+          "AWS IAM Access Analyzer policy simulator enterprise validation lab",
+          "AWS policy simulation least privilege validation cross account"
+        ]
+      },
+      {
+        "title": "Lab: Review and Remediate Common Security Misconfigurations",
+        "slug": "lab-review-and-remediate-common-security-misconfigurations",
+        "queries": [
+          "AWS IAM common misconfigurations enterprise security review lab",
+          "AWS cross account security misconfiguration remediation scenarios"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 3: Hybrid Networking and Enterprise Connectivity",
+    "slug": "module-3-hybrid-networking-and-enterprise-connectivity",
+    "children": [
+      {
+        "title": "Advanced VPC Design, Segmentation, and Route Domains",
+        "slug": "advanced-vpc-design-segmentation-and-route-domains",
+        "queries": [
+          "AWS VPC advanced segmentation route domain enterprise design",
+          "AWS subnet segmentation route tables regulated workloads architecture"
+        ]
+      },
+      {
+        "title": "Transit Gateway Architecture and Route Table Segmentation",
+        "slug": "transit-gateway-architecture-and-route-table-segmentation",
+        "queries": [
+          "AWS Transit Gateway route tables segmentation enterprise architecture",
+          "AWS Transit Gateway hub and spoke multi account design"
+        ]
+      },
+      {
+        "title": "Direct Connect, Direct Connect Gateway, and VPN Integration",
+        "slug": "direct-connect-direct-connect-gateway-and-vpn-integration",
+        "queries": [
+          "AWS Direct Connect Gateway Transit Gateway VPN hybrid connectivity",
+          "AWS Direct Connect BGP routing enterprise failover design"
+        ]
+      },
+      {
+        "title": "Centralized Egress, Ingress, and Network Inspection",
+        "slug": "centralized-egress-ingress-and-network-inspection",
+        "queries": [
+          "AWS centralized egress ingress Network Firewall inspection architecture",
+          "AWS network inspection hub spoke enterprise design"
+        ]
+      },
+      {
+        "title": "Route 53 Resolver and Hybrid Name Resolution",
+        "slug": "route-53-resolver-and-hybrid-name-resolution",
+        "queries": [
+          "AWS Route 53 Resolver hybrid DNS architecture enterprise",
+          "AWS hybrid name resolution Route 53 Resolver endpoints"
+        ]
+      },
+      {
+        "title": "Connectivity Resilience, Failover, and Troubleshooting",
+        "slug": "connectivity-resilience-failover-and-troubleshooting",
+        "queries": [
+          "AWS hybrid connectivity failover BGP route propagation troubleshooting",
+          "AWS asymmetric routing Transit Gateway troubleshooting enterprise"
+        ]
+      },
+      {
+        "title": "Lab: Build Transit Gateway with Direct Connect",
+        "slug": "lab-build-transit-gateway-with-direct-connect",
+        "queries": [
+          "AWS Transit Gateway Direct Connect step by step lab",
+          "AWS hybrid network build Transit Gateway Direct Connect validation"
+        ]
+      },
+      {
+        "title": "Lab: Validate Hybrid Routing and Failover",
+        "slug": "lab-validate-hybrid-routing-and-failover",
+        "queries": [
+          "AWS hybrid routing failover validation lab BGP VPN Direct Connect",
+          "AWS Transit Gateway route propagation failover test lab"
+        ]
+      },
+      {
+        "title": "Lab: Implement Centralized Inspection and Egress Control",
+        "slug": "lab-implement-centralized-inspection-and-egress-control",
+        "queries": [
+          "AWS centralized inspection egress control Network Firewall lab",
+          "AWS Transit Gateway inspection VPC egress architecture lab"
+        ]
+      },
+      {
+        "title": "Troubleshooting: Asymmetric Routing and Route Propagation Issues",
+        "slug": "troubleshooting-asymmetric-routing-and-route-propagation-issues",
+        "queries": [
+          "AWS asymmetric routing troubleshooting Transit Gateway route propagation",
+          "AWS hybrid network route propagation issues troubleshooting guide"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 4: Multi-Region Resilience and Disaster Recovery",
+    "slug": "module-4-multi-region-resilience-and-disaster-recovery",
+    "children": [
+      {
+        "title": "Resilience Engineering Principles and Regional Dependency Analysis",
+        "slug": "resilience-engineering-principles-and-regional-dependency-analysis",
+        "queries": [
+          "AWS resilience engineering principles regional dependency analysis",
+          "AWS Well-Architected reliability pillar multi region design"
+        ]
+      },
+      {
+        "title": "Multi-AZ vs Multi-Region and DR Pattern Selection",
+        "slug": "multi-az-vs-multi-region-and-dr-pattern-selection",
+        "queries": [
+          "AWS multi AZ vs multi region disaster recovery pattern selection",
+          "AWS active active active passive pilot light warm standby backup restore"
+        ]
+      },
+      {
+        "title": "Route 53 Health Checks, Failover Routing, and Global Accelerator",
+        "slug": "route-53-health-checks-failover-routing-and-global-accelerator",
+        "queries": [
+          "AWS Route 53 health checks failover routing Global Accelerator architecture",
+          "AWS DNS based failover traffic based failover multi region"
+        ]
+      },
+      {
+        "title": "Multi-Region Application and Database Design Patterns",
+        "slug": "multi-region-application-and-database-design-patterns",
+        "queries": [
+          "AWS multi region application patterns stateless stateful database replication",
+          "AWS Aurora global database multi region architecture patterns"
+        ]
+      },
+      {
+        "title": "Backup Governance, Restore Testing, and DR Runbooks",
+        "slug": "backup-governance-restore-testing-and-dr-runbooks",
+        "queries": [
+          "AWS Backup governance restore testing disaster recovery runbook",
+          "AWS multi account backup strategy restore validation enterprise"
+        ]
+      },
+      {
+        "title": "Chaos Testing, Failover Validation, and Operational Readiness",
+        "slug": "chaos-testing-failover-validation-and-operational-readiness",
+        "queries": [
+          "AWS failover validation chaos testing operational readiness multi region",
+          "AWS disaster recovery validation exercises enterprise architecture"
+        ]
+      },
+      {
+        "title": "Lab: Design and Implement Active-Active Multi-Region DR",
+        "slug": "lab-design-and-implement-active-active-multi-region-dr",
+        "queries": [
+          "AWS active active multi region DR implementation lab",
+          "AWS multi region architecture active active validation lab"
+        ]
+      },
+      {
+        "title": "Lab: Configure DNS-Based and Traffic-Based Failover",
+        "slug": "lab-configure-dns-based-and-traffic-based-failover",
+        "queries": [
+          "AWS Route 53 failover routing Global Accelerator lab",
+          "AWS DNS based and traffic based failover validation lab"
+        ]
+      },
+      {
+        "title": "Lab: Validate Recovery Objectives and Recovery Procedures",
+        "slug": "lab-validate-recovery-objectives-and-recovery-procedures",
+        "queries": [
+          "AWS RTO RPO validation disaster recovery lab",
+          "AWS failover recovery objective validation enterprise lab"
+        ]
+      },
+      {
+        "title": "Architecture Review: Comparing DR Patterns by Workload",
+        "slug": "architecture-review-comparing-dr-patterns-by-workload",
+        "queries": [
+          "AWS disaster recovery pattern comparison active active warm standby pilot light",
+          "AWS DR architecture review by workload and RTO RPO"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 5: Database Migration and Modernization",
+    "slug": "module-5-database-migration-and-modernization",
+    "children": [
+      {
+        "title": "Migration Strategy Selection and Risk Management",
+        "slug": "migration-strategy-selection-and-risk-management",
+        "queries": [
+          "AWS database migration strategy risk management enterprise",
+          "AWS homogeneous heterogeneous database migration decision framework"
+        ]
+      },
+      {
+        "title": "AWS DMS Architecture, Replication, and Tuning",
+        "slug": "aws-dms-architecture-replication-and-tuning",
+        "queries": [
+          "AWS DMS replication instance sizing tuning CDC full load",
+          "AWS Database Migration Service architecture enterprise best practices"
+        ]
+      },
+      {
+        "title": "Schema Conversion and Target Selection",
+        "slug": "schema-conversion-and-target-selection",
+        "queries": [
+          "AWS Schema Conversion Tool heterogeneous migration RDS Aurora EC2 target selection",
+          "AWS DMS schema conversion considerations enterprise"
+        ]
+      },
+      {
+        "title": "Cutover Planning, Validation, and Reconciliation",
+        "slug": "cutover-planning-validation-and-reconciliation",
+        "queries": [
+          "AWS DMS cutover planning validation reconciliation enterprise",
+          "AWS database migration cutover runbook validation checklist"
+        ]
+      },
+      {
+        "title": "Security, Encryption, and Network Considerations for Migration",
+        "slug": "security-encryption-and-network-considerations-for-migration",
+        "queries": [
+          "AWS DMS encryption security migration traffic KMS VPC",
+          "AWS database migration network security enterprise architecture"
+        ]
+      },
+      {
+        "title": "Post-Migration Optimization and Modernization",
+        "slug": "post-migration-optimization-and-modernization",
+        "queries": [
+          "AWS post migration optimization RDS Aurora performance tuning",
+          "AWS database modernization after migration enterprise"
+        ]
+      },
+      {
+        "title": "Lab: Migrate a Legacy Database with AWS DMS",
+        "slug": "lab-migrate-a-legacy-database-with-aws-dms",
+        "queries": [
+          "AWS DMS legacy database migration step by step lab",
+          "AWS DMS full load CDC migration lab enterprise"
+        ]
+      },
+      {
+        "title": "Lab: Execute Full Load Plus CDC Migration",
+        "slug": "lab-execute-full-load-plus-cdc-migration",
+        "queries": [
+          "AWS DMS full load plus CDC lab validation",
+          "AWS DMS continuous replication migration lab"
+        ]
+      },
+      {
+        "title": "Lab: Perform Cutover and Validate Data Consistency",
+        "slug": "lab-perform-cutover-and-validate-data-consistency",
+        "queries": [
+          "AWS DMS cutover validation data consistency lab",
+          "AWS database migration cutover and reconciliation lab"
+        ]
+      },
+      {
+        "title": "Troubleshooting: Latency, LOB Handling, and Task Failures",
+        "slug": "troubleshooting-latency-lob-handling-and-task-failures",
+        "queries": [
+          "AWS DMS latency LOB handling task failure troubleshooting",
+          "AWS DMS replication task troubleshooting enterprise"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 6: Cost Optimization and Enterprise Architecture Economics",
+    "slug": "module-6-cost-optimization-and-enterprise-architecture-economics",
+    "children": [
+      {
+        "title": "Cost Allocation, Tagging, and Chargeback/Showback",
+        "slug": "cost-allocation-tagging-and-chargeback-showback",
+        "queries": [
+          "AWS cost allocation tagging chargeback showback enterprise",
+          "AWS multi account cost visibility tagging strategy governance"
+        ]
+      },
+      {
+        "title": "Savings Plans, Reserved Instances, and Compute Right-Sizing",
+        "slug": "savings-plans-reserved-instances-and-compute-right-sizing",
+        "queries": [
+          "AWS Savings Plans Reserved Instances right sizing enterprise strategy",
+          "AWS Compute Optimizer cost optimization enterprise architecture"
+        ]
+      },
+      {
+        "title": "Storage Tiering, Lifecycle Policies, and Data Transfer Optimization",
+        "slug": "storage-tiering-lifecycle-policies-and-data-transfer-optimization",
+        "queries": [
+          "AWS S3 lifecycle storage tiering data transfer cost optimization",
+          "AWS data transfer cost reduction NAT Gateway egress optimization"
+        ]
+      },
+      {
+        "title": "Multi-Account Cost Visibility and Centralized Procurement",
+        "slug": "multi-account-cost-visibility-and-centralized-procurement",
+        "queries": [
+          "AWS Organizations cost visibility centralized procurement enterprise",
+          "AWS Budgets Cost Explorer multi account governance"
+        ]
+      },
+      {
+        "title": "FinOps-Aligned Architecture Decisions and 2026 Cost Patterns",
+        "slug": "finops-aligned-architecture-decisions-and-2026-cost-patterns",
+        "queries": [
+          "AWS FinOps architecture decisions enterprise 2026 cost patterns",
+          "AWS cost optimization tradeoffs resilience performance enterprise"
+        ]
+      },
+      {
+        "title": "Lab: Cost Optimization Review and Remediation",
+        "slug": "lab-cost-optimization-review-and-remediation",
+        "queries": [
+          "AWS cost optimization review remediation exercise lab",
+          "AWS Cost Explorer Budgets Trusted Advisor remediation lab"
+        ]
+      },
+      {
+        "title": "Case Studies: Hybrid and Multi-Region Cost Drivers",
+        "slug": "case-studies-hybrid-and-multi-region-cost-drivers",
+        "queries": [
+          "AWS hybrid multi region cost drivers architecture case study",
+          "AWS enterprise cost optimization case studies multi region"
+        ]
+      },
+      {
+        "title": "Decision Framework: Balancing Performance, Resilience, and Cost",
+        "slug": "decision-framework-balancing-performance-resilience-and-cost",
+        "queries": [
+          "AWS architecture decision framework performance resilience cost tradeoff",
+          "AWS Well-Architected cost optimization tradeoff analysis enterprise"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 7: Enterprise Architecture Review and SAP-C02 Practice",
+    "slug": "module-7-enterprise-architecture-review-and-sap-c02-practice",
+    "children": [
+      {
+        "title": "Scenario-Based Knowledge Checks and Multiple-Response Practice",
+        "slug": "scenario-based-knowledge-checks-and-multiple-response-practice",
+        "queries": [
+          "SAP-C02 scenario based multiple response practice questions enterprise architecture",
+          "AWS Solutions Architect Professional practice questions governance networking DR"
+        ]
+      },
+      {
+        "title": "Architecture Review Checkpoints and Design Critique",
+        "slug": "architecture-review-checkpoints-and-design-critique",
+        "queries": [
+          "AWS architecture review checklist enterprise governance security resilience",
+          "AWS Well-Architected review enterprise architecture critique"
+        ]
+      },
+      {
+        "title": "Troubleshooting and Remediation Scenarios",
+        "slug": "troubleshooting-and-remediation-scenarios",
+        "queries": [
+          "AWS enterprise troubleshooting scenarios IAM networking DMS DR",
+          "SAP-C02 troubleshooting architecture remediation scenarios"
+        ]
+      },
+      {
+        "title": "Exam-Style Case Studies and Decision Trees",
+        "slug": "exam-style-case-studies-and-decision-trees",
+        "queries": [
+          "SAP-C02 case study decision tree enterprise architecture",
+          "AWS professional exam architecture tradeoff case studies"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 8: End-to-End Enterprise Architecture Capstone",
+    "slug": "module-8-end-to-end-enterprise-architecture-capstone",
+    "children": [
+      {
+        "title": "Capstone Scenario: Regulated Global Enterprise on AWS",
+        "slug": "capstone-scenario-regulated-global-enterprise-on-aws",
+        "queries": [
+          "AWS enterprise capstone regulated global organization multi account hybrid multi region",
+          "AWS solutions architect professional capstone enterprise architecture scenario"
+        ]
+      },
+      {
+        "title": "Capstone Design Requirements and Deliverables",
+        "slug": "capstone-design-requirements-and-deliverables",
+        "queries": [
+          "AWS architecture capstone deliverables written justification presentation",
+          "AWS enterprise architecture design requirements capstone rubric"
+        ]
+      },
+      {
+        "title": "Capstone Implementation Blueprint and Validation Plan",
+        "slug": "capstone-implementation-blueprint-and-validation-plan",
+        "queries": [
+          "AWS enterprise architecture implementation blueprint validation plan",
+          "AWS capstone architecture validation and rollback plan"
+        ]
+      },
+      {
+        "title": "Capstone Review: Governance, Security, Resilience, and Cost",
+        "slug": "capstone-review-governance-security-resilience-and-cost",
+        "queries": [
+          "AWS capstone architecture review governance security resilience cost",
+          "AWS Well-Architected enterprise capstone review checklist"
+        ]
+      }
+    ]
+  }
+]

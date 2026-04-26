@@ -1,0 +1,4 @@
+{
+  "label": "Microsoft Azure Developer Associate (Exam AZ-204)",
+  "description": "Hands-on study notes for Microsoft Azure Developer Associate (AZ-204) focused on building and deploying real Azure solutions with code, not cloud theory. Follow step-by-step labs for containerized microservices on Azure Container Apps, Azure Functions in C#/Python, Cosmos DB SDK CRUD, Key Vault, Managed Identities, Service Bus, Event Grid, and observability using Azure Monitor and Application Insights."
+}

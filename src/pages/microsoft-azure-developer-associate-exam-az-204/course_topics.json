@@ -1,0 +1,610 @@
+[
+  {
+    "title": "Module 1: Azure Developer Tooling and Environment Setup",
+    "slug": "module-1-azure-developer-tooling-and-environment-setup",
+    "children": [
+      {
+        "title": "Install .NET SDK, Python, Azure CLI, Functions Core Tools, Docker, and VS Code extensions",
+        "slug": "install-dotnet-python-azure-cli-functions-core-tools-docker-vscode-extensions",
+        "queries": [
+          "Azure developer workstation setup .NET 8 Python 3.11 Azure CLI Functions Core Tools Docker VS Code",
+          "install Azure Functions Core Tools Azure CLI Docker Desktop VS Code Azure development"
+        ]
+      },
+      {
+        "title": "Authenticate to Azure with Azure CLI, IDE sign-in, and Entra ID tenant context",
+        "slug": "authenticate-to-azure-with-azure-cli-ide-sign-in-and-entra-id-tenant-context",
+        "queries": [
+          "az login tenant subscription context Azure CLI Microsoft Entra ID developer workflow",
+          "Visual Studio Code Azure sign in Azure CLI account set tenant subscription"
+        ]
+      },
+      {
+        "title": "Create resource groups, naming conventions, tags, and subscription context",
+        "slug": "create-resource-groups-naming-conventions-tags-and-subscription-context",
+        "queries": [
+          "Azure CLI create resource group tags naming convention subscription context",
+          "az group create tag resource group best practices developer"
+        ]
+      },
+      {
+        "title": "Use az and azd for lab automation and GitHub source control workflow",
+        "slug": "use-az-and-azd-for-lab-automation-and-github-source-control-workflow",
+        "queries": [
+          "Azure Developer CLI azd init up down workflow GitHub repository",
+          "azd commands developer workflow Azure deployment source control"
+        ]
+      },
+      {
+        "title": "Lab: verify toolchain, authenticate, create baseline environment, and deploy starter app",
+        "slug": "lab-verify-toolchain-authenticate-create-baseline-environment-and-deploy-starter-app",
+        "queries": [
+          "Azure developer lab verify toolchain authenticate create resource group deploy starter app",
+          "starter app deployment Azure CLI azd lab validation"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 2: Building and Deploying Azure Container Apps Microservices",
+    "slug": "module-2-building-and-deploying-azure-container-apps-microservices",
+    "children": [
+      {
+        "title": "Containerize a microservice with Docker",
+        "slug": "containerize-a-microservice-with-docker",
+        "queries": [
+          "Dockerfile .NET 8 minimal API containerize microservice best practices",
+          "Python FastAPI Dockerfile Azure Container Apps microservice"
+        ]
+      },
+      {
+        "title": "Build, tag, and push images to Azure Container Registry",
+        "slug": "build-tag-and-push-images-to-azure-container-registry",
+        "queries": [
+          "az acr build docker push Azure Container Registry image tagging",
+          "Azure Container Registry push image Azure CLI docker tag"
+        ]
+      },
+      {
+        "title": "Deploy to Azure Container Apps with ingress, secrets, environment variables, and scaling",
+        "slug": "deploy-to-azure-container-apps-with-ingress-secrets-environment-variables-and-scaling",
+        "queries": [
+          "Azure Container Apps ingress secrets environment variables autoscaling Azure CLI",
+          "az containerapp create update revision scaling rules secrets"
+        ]
+      },
+      {
+        "title": "Implement service-to-service communication and managed identity access",
+        "slug": "implement-service-to-service-communication-and-managed-identity-access",
+        "queries": [
+          "Azure Container Apps service to service communication managed identity Azure SDK",
+          "DefaultAzureCredential Container Apps call Azure service with managed identity"
+        ]
+      },
+      {
+        "title": "Add health endpoints, logging, and Application Insights telemetry",
+        "slug": "add-health-endpoints-logging-and-application-insights-telemetry",
+        "queries": [
+          "Application Insights Azure Container Apps .NET 8 logging telemetry health endpoint",
+          "Azure Monitor Container Apps structured logging readiness liveness"
+        ]
+      },
+      {
+        "title": "Lab: deploy two microservices, configure internal communication, and validate autoscaling",
+        "slug": "lab-deploy-two-microservices-configure-internal-communication-and-validate-autoscaling",
+        "queries": [
+          "Azure Container Apps lab deploy two microservices internal ingress autoscaling",
+          "Container Apps troubleshooting revision secrets environment variables lab"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 3: Azure Functions Development in C# and Python",
+    "slug": "module-3-azure-functions-development-in-csharp-and-python",
+    "children": [
+      {
+        "title": "Create HTTP-triggered functions in .NET 8 isolated worker and Python",
+        "slug": "create-http-triggered-functions-in-dotnet-8-isolated-worker-and-python",
+        "queries": [
+          "Azure Functions .NET 8 isolated HTTP trigger example Azure Functions v4",
+          "Python Azure Functions HTTP trigger programming model v2 example"
+        ]
+      },
+      {
+        "title": "Create timer-triggered and queue-triggered functions",
+        "slug": "create-timer-triggered-and-queue-triggered-functions",
+        "queries": [
+          "Azure Functions timer trigger queue trigger .NET 8 Python examples",
+          "Azure Functions Core Tools timer queue trigger local development"
+        ]
+      },
+      {
+        "title": "Create Service Bus-triggered and Event Grid-triggered functions",
+        "slug": "create-service-bus-triggered-and-event-grid-triggered-functions",
+        "queries": [
+          "Azure Functions Service Bus trigger Event Grid trigger .NET 8 isolated",
+          "Python Azure Functions Service Bus trigger Event Grid trigger"
+        ]
+      },
+      {
+        "title": "Use dependency injection, configuration, retries, and poison-message handling",
+        "slug": "use-dependency-injection-configuration-retries-and-poison-message-handling",
+        "queries": [
+          "Azure Functions dependency injection .NET isolated configuration retry poison message",
+          "Azure Functions error handling retries poison queue Service Bus"
+        ]
+      },
+      {
+        "title": "Deploy Function Apps, configure managed identity, and inspect Application Insights logs",
+        "slug": "deploy-function-apps-configure-managed-identity-and-inspect-application-insights-logs",
+        "queries": [
+          "deploy Azure Function App managed identity Application Insights Azure CLI",
+          "Azure Functions app settings storage identity-based connection logging"
+        ]
+      },
+      {
+        "title": "Lab: build C# HTTP function, Python queue function, Service Bus integration, and troubleshoot misconfiguration",
+        "slug": "lab-build-csharp-http-function-python-queue-function-service-bus-integration-and-troubleshoot-misconfiguration",
+        "queries": [
+          "Azure Functions lab C# HTTP trigger Python queue trigger Service Bus deployment",
+          "Azure Functions troubleshooting deliberate misconfiguration Application Insights logs"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 4: Cosmos DB Integration with Exact SDK Implementation",
+    "slug": "module-4-cosmos-db-integration-with-exact-sdk-implementation",
+    "children": [
+      {
+        "title": "Create Cosmos DB accounts, databases, and containers",
+        "slug": "create-cosmos-db-accounts-databases-and-containers",
+        "queries": [
+          "Azure Cosmos DB for NoSQL create account database container Azure CLI",
+          "Cosmos DB container partition key create with Azure CLI"
+        ]
+      },
+      {
+        "title": "Design partition keys and document models for access patterns",
+        "slug": "design-partition-keys-and-document-models-for-access-patterns",
+        "queries": [
+          "Azure Cosmos DB partition key design access patterns best practices",
+          "Cosmos DB document modeling partition key hot partition guidance"
+        ]
+      },
+      {
+        "title": "Implement CRUD operations with the .NET and Python SDKs",
+        "slug": "implement-crud-operations-with-the-dotnet-and-python-sdks",
+        "queries": [
+          "Azure Cosmos DB SDK .NET create read update delete examples async",
+          "Azure Cosmos DB Python SDK CRUD examples async"
+        ]
+      },
+      {
+        "title": "Use parameterized queries, pagination, bulk operations, and optimistic concurrency",
+        "slug": "use-parameterized-queries-pagination-bulk-operations-and-optimistic-concurrency",
+        "queries": [
+          "Cosmos DB parameterized query pagination bulk operations ETag optimistic concurrency",
+          "Azure Cosmos DB SDK query iterator continuation token bulk upsert"
+        ]
+      },
+      {
+        "title": "Authenticate with managed identity and handle retries and RU consumption",
+        "slug": "authenticate-with-managed-identity-and-handle-retries-and-ru-consumption",
+        "queries": [
+          "Azure Cosmos DB managed identity Azure Identity SDK DefaultAzureCredential",
+          "Cosmos DB retry policy request units diagnostics hot partition"
+        ]
+      },
+      {
+        "title": "Implement change feed processing for event-driven patterns",
+        "slug": "implement-change-feed-processing-for-event-driven-patterns",
+        "queries": [
+          "Azure Cosmos DB change feed processor .NET SDK example",
+          "Cosmos DB change feed Python SDK event-driven architecture"
+        ]
+      },
+      {
+        "title": "Lab: build a Cosmos DB data layer, query endpoint, and hot partition troubleshooting",
+        "slug": "lab-build-a-cosmos-db-data-layer-query-endpoint-and-hot-partition-troubleshooting",
+        "queries": [
+          "Cosmos DB lab build data access layer query endpoint partition key troubleshooting",
+          "Azure Cosmos DB RU consumption hot partition lab managed identity"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 5: Secure Application Configuration with Azure Key Vault",
+    "slug": "module-5-secure-application-configuration-with-azure-key-vault",
+    "children": [
+      {
+        "title": "Create and configure Azure Key Vault with RBAC or access policies",
+        "slug": "create-and-configure-azure-key-vault-with-rbac-or-access-policies",
+        "queries": [
+          "Azure Key Vault create configure RBAC access policy Azure CLI",
+          "Key Vault permissions current Azure standard RBAC access policies"
+        ]
+      },
+      {
+        "title": "Store and retrieve secrets using Azure SDKs",
+        "slug": "store-and-retrieve-secrets-using-azure-sdks",
+        "queries": [
+          "Azure Key Vault secrets SDK .NET example DefaultAzureCredential",
+          "Azure Key Vault Python SDK get secret example"
+        ]
+      },
+      {
+        "title": "Replace hardcoded secrets with Key Vault references and managed identity",
+        "slug": "replace-hardcoded-secrets-with-key-vault-references-and-managed-identity",
+        "queries": [
+          "Key Vault references App Service Container Apps managed identity configuration",
+          "Azure Key Vault secret reference application settings managed identity"
+        ]
+      },
+      {
+        "title": "Implement secret rotation and diagnose authorization failures",
+        "slug": "implement-secret-rotation-and-diagnose-authorization-failures",
+        "queries": [
+          "Azure Key Vault secret rotation application behavior authorization denied troubleshooting",
+          "Key Vault access denied managed identity role assignment troubleshooting"
+        ]
+      },
+      {
+        "title": "Lab: move a connection string to Key Vault and validate secret retrieval in a deployed app",
+        "slug": "lab-move-a-connection-string-to-key-vault-and-validate-secret-retrieval-in-a-deployed-app",
+        "queries": [
+          "Azure Key Vault lab move connection string to Key Vault managed identity retrieve secret",
+          "Key Vault secret retrieval deployed app troubleshooting lab"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 6: Managed Identities and Microsoft Entra ID for Developer Applications",
+    "slug": "module-6-managed-identities-and-microsoft-entra-id-for-developer-applications",
+    "children": [
+      {
+        "title": "Configure system-assigned and user-assigned managed identities",
+        "slug": "configure-system-assigned-and-user-assigned-managed-identities",
+        "queries": [
+          "Azure managed identity system assigned user assigned enable Azure CLI",
+          "App Service Container Apps Functions managed identity configuration"
+        ]
+      },
+      {
+        "title": "Use DefaultAzureCredential and equivalent Python patterns",
+        "slug": "use-defaultazurecredential-and-equivalent-python-patterns",
+        "queries": [
+          "DefaultAzureCredential .NET Azure Identity SDK example",
+          "Python azure identity DefaultAzureCredential example managed identity"
+        ]
+      },
+      {
+        "title": "Assign Azure RBAC roles for Cosmos DB, Key Vault, and Storage access",
+        "slug": "assign-azure-rbac-roles-for-cosmos-db-key-vault-and-storage-access",
+        "queries": [
+          "Azure RBAC role assignment managed identity Cosmos DB Key Vault Storage",
+          "az role assignment create managed identity resource access"
+        ]
+      },
+      {
+        "title": "Troubleshoot identity propagation and authorization issues",
+        "slug": "troubleshoot-identity-propagation-and-authorization-issues",
+        "queries": [
+          "managed identity authorization failed role assignment propagation troubleshooting Azure",
+          "Azure identity token acquisition troubleshooting DefaultAzureCredential"
+        ]
+      },
+      {
+        "title": "Lab: replace connection strings with identity-based access and validate token-based calls",
+        "slug": "lab-replace-connection-strings-with-identity-based-access-and-validate-token-based-calls",
+        "queries": [
+          "Azure managed identity lab replace connection string with identity-based access",
+          "validate token-based access Azure SDK managed identity lab"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 7: Message-Based Architectures with Azure Service Bus",
+    "slug": "module-7-message-based-architectures-with-azure-service-bus",
+    "children": [
+      {
+        "title": "Create Service Bus namespaces, queues, topics, and subscriptions",
+        "slug": "create-service-bus-namespaces-queues-topics-and-subscriptions",
+        "queries": [
+          "Azure Service Bus create namespace queue topic subscription Azure CLI",
+          "Service Bus topic subscription setup developer workflow"
+        ]
+      },
+      {
+        "title": "Implement senders and receivers with message properties and sessions",
+        "slug": "implement-senders-and-receivers-with-message-properties-and-sessions",
+        "queries": [
+          "Azure Service Bus sender receiver message properties sessions .NET SDK",
+          "Python Azure Service Bus client send receive sessions example"
+        ]
+      },
+      {
+        "title": "Handle dead-lettering, duplicate detection, retries, and poison messages",
+        "slug": "handle-dead-lettering-duplicate-detection-retries-and-poison-messages",
+        "queries": [
+          "Azure Service Bus dead-letter duplicate detection retry poison message handling",
+          "Service Bus message processing idempotent retry dead letter queue"
+        ]
+      },
+      {
+        "title": "Use Service Bus triggers in Azure Functions",
+        "slug": "use-service-bus-triggers-in-azure-functions",
+        "queries": [
+          "Azure Functions Service Bus trigger .NET 8 isolated example",
+          "Python Azure Functions Service Bus trigger example"
+        ]
+      },
+      {
+        "title": "Monitor queue depth and message failures with Azure Monitor and Application Insights",
+        "slug": "monitor-queue-depth-and-message-failures-with-azure-monitor-and-application-insights",
+        "queries": [
+          "Azure Service Bus monitoring queue depth dead letter metrics Application Insights",
+          "Azure Monitor Service Bus metrics alerts message failures"
+        ]
+      },
+      {
+        "title": "Lab: publish messages from an API, process them in a Function App, and validate reliability",
+        "slug": "lab-publish-messages-from-an-api-process-them-in-a-function-app-and-validate-reliability",
+        "queries": [
+          "Service Bus lab API publish messages Function App process dead letter handling",
+          "Azure Service Bus topic subscription session processing lab"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 8: Event-Driven Architectures with Azure Event Grid",
+    "slug": "module-8-event-driven-architectures-with-azure-event-grid",
+    "children": [
+      {
+        "title": "Create Event Grid topics and subscriptions",
+        "slug": "create-event-grid-topics-and-subscriptions",
+        "queries": [
+          "Azure Event Grid create topic subscription Azure CLI",
+          "Event Grid custom topic subscription developer setup"
+        ]
+      },
+      {
+        "title": "Implement webhook and Azure Function event handlers",
+        "slug": "implement-webhook-and-azure-function-event-handlers",
+        "queries": [
+          "Azure Event Grid webhook handler Azure Function example",
+          "Event Grid subscription validation function endpoint example"
+        ]
+      },
+      {
+        "title": "Use event filtering, delivery semantics, retries, and dead-lettering",
+        "slug": "use-event-filtering-delivery-semantics-retries-and-dead-lettering",
+        "queries": [
+          "Azure Event Grid event filtering retry dead-lettering delivery semantics",
+          "Event Grid advanced filtering dead letter destination documentation"
+        ]
+      },
+      {
+        "title": "Integrate Event Grid with containerized services and storage events",
+        "slug": "integrate-event-grid-with-containerized-services-and-storage-events",
+        "queries": [
+          "Azure Event Grid container app event handler storage events integration",
+          "Event Grid storage events custom events Azure SDK"
+        ]
+      },
+      {
+        "title": "Lab: publish custom events, subscribe with a Function handler, and compare with Service Bus",
+        "slug": "lab-publish-custom-events-subscribe-with-a-function-handler-and-compare-with-service-bus",
+        "queries": [
+          "Azure Event Grid lab publish custom events Function handler filtering",
+          "Event Grid vs Service Bus practical architecture comparison lab"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 9: Azure App Service for Developer Deployments",
+    "slug": "module-9-azure-app-service-for-developer-deployments",
+    "children": [
+      {
+        "title": "Create App Service plans and web apps",
+        "slug": "create-app-service-plans-and-web-apps",
+        "queries": [
+          "Azure App Service create plan web app Azure CLI",
+          "App Service plan pricing tier developer deployment setup"
+        ]
+      },
+      {
+        "title": "Deploy code from local workflows and GitHub Actions",
+        "slug": "deploy-code-from-local-workflows-and-github-actions",
+        "queries": [
+          "Azure App Service GitHub Actions deployment .NET Python web app",
+          "az webapp deployment local git GitHub Actions workflow"
+        ]
+      },
+      {
+        "title": "Configure application settings, connection strings, and deployment slots",
+        "slug": "configure-application-settings-connection-strings-and-deployment-slots",
+        "queries": [
+          "Azure App Service application settings connection strings deployment slots",
+          "App Service slot swap staging production configuration"
+        ]
+      },
+      {
+        "title": "Enable managed identity and integrate with Key Vault and backend services",
+        "slug": "enable-managed-identity-and-integrate-with-key-vault-and-backend-services",
+        "queries": [
+          "Azure App Service managed identity Key Vault integration DefaultAzureCredential",
+          "App Service identity-based access Azure resources example"
+        ]
+      },
+      {
+        "title": "Configure logging, diagnostics, scaling, and restart behavior",
+        "slug": "configure-logging-diagnostics-scaling-and-restart-behavior",
+        "queries": [
+          "Azure App Service logging diagnostics scaling restart behavior Azure Monitor",
+          "App Service troubleshooting deployment slot swap startup failure"
+        ]
+      },
+      {
+        "title": "Lab: deploy an API, add a staging slot, and perform a slot swap",
+        "slug": "lab-deploy-an-api-add-a-staging-slot-and-perform-a-slot-swap",
+        "queries": [
+          "Azure App Service lab deploy API staging slot slot swap validation",
+          "App Service managed identity Key Vault lab deployment"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 10: Azure Storage for Developer Workloads",
+    "slug": "module-10-azure-storage-for-developer-workloads",
+    "children": [
+      {
+        "title": "Perform Blob Storage upload, download, and metadata operations",
+        "slug": "perform-blob-storage-upload-download-and-metadata-operations",
+        "queries": [
+          "Azure Blob Storage SDK .NET upload download metadata example",
+          "Python Azure Blob Storage SDK upload download example"
+        ]
+      },
+      {
+        "title": "Use queue storage basics and storage-triggered functions where relevant",
+        "slug": "use-queue-storage-basics-and-storage-triggered-functions-where-relevant",
+        "queries": [
+          "Azure Queue Storage SDK example Azure Functions storage trigger",
+          "Azure Functions blob trigger queue trigger storage account example"
+        ]
+      },
+      {
+        "title": "Generate and use SAS tokens and secure storage access with managed identity",
+        "slug": "generate-and-use-sas-tokens-and-secure-storage-access-with-managed-identity",
+        "queries": [
+          "Azure Storage SAS token generate example managed identity access",
+          "Azure Blob Storage managed identity SDK DefaultAzureCredential"
+        ]
+      },
+      {
+        "title": "Implement file upload and download workflows in an API",
+        "slug": "implement-file-upload-and-download-workflows-in-an-api",
+        "queries": [
+          "ASP.NET Core file upload download Azure Blob Storage example",
+          "FastAPI upload file to Azure Blob Storage example"
+        ]
+      },
+      {
+        "title": "Lab: secure storage access with managed identity and process blob events",
+        "slug": "lab-secure-storage-access-with-managed-identity-and-process-blob-events",
+        "queries": [
+          "Azure Storage lab managed identity blob upload download function trigger",
+          "Blob event processing Azure Functions lab storage account"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 11: Observability, Diagnostics, and Troubleshooting",
+    "slug": "module-11-observability-diagnostics-and-troubleshooting",
+    "children": [
+      {
+        "title": "Instrument applications with Application Insights and structured logging",
+        "slug": "instrument-applications-with-application-insights-and-structured-logging",
+        "queries": [
+          "Application Insights structured logging .NET 8 Azure Functions Container Apps",
+          "Azure Monitor Application Insights logging best practices developer"
+        ]
+      },
+      {
+        "title": "Use distributed tracing and correlation across services",
+        "slug": "use-distributed-tracing-and-correlation-across-services",
+        "queries": [
+          "Azure distributed tracing correlation Application Insights OpenTelemetry .NET",
+          "Python Azure SDK tracing Application Insights correlation"
+        ]
+      },
+      {
+        "title": "Query logs in Azure Monitor and Log Analytics",
+        "slug": "query-logs-in-azure-monitor-and-log-analytics",
+        "queries": [
+          "KQL Azure Monitor Log Analytics query examples Application Insights",
+          "Azure Log Analytics query request failures dependencies exceptions"
+        ]
+      },
+      {
+        "title": "Diagnose deployment, authorization, trigger, messaging, Cosmos DB, and container startup failures",
+        "slug": "diagnose-deployment-authorization-trigger-messaging-cosmos-db-and-container-startup-failures",
+        "queries": [
+          "Azure troubleshooting deployment authorization trigger messaging Cosmos DB container startup",
+          "Application Insights diagnose runtime failures Azure developer"
+        ]
+      },
+      {
+        "title": "Create alerts and dashboards for operational monitoring",
+        "slug": "create-alerts-and-dashboards-for-operational-monitoring",
+        "queries": [
+          "Azure Monitor alert rule Application Insights dashboard Log Analytics",
+          "Azure alerts metrics logs developer application monitoring"
+        ]
+      },
+      {
+        "title": "Lab: trace a request, identify a failure, and resolve a deliberate runtime issue",
+        "slug": "lab-trace-a-request-identify-a-failure-and-resolve-a-deliberate-runtime-issue",
+        "queries": [
+          "Application Insights lab trace request identify failure resolve runtime issue",
+          "Azure Monitor troubleshooting lab deliberate misconfiguration"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 12: Integrated Capstone Project",
+    "slug": "module-12-integrated-capstone-project",
+    "children": [
+      {
+        "title": "Design the capstone architecture and repository structure",
+        "slug": "design-the-capstone-architecture-and-repository-structure",
+        "queries": [
+          "Azure capstone architecture Container Apps Functions Cosmos DB Service Bus Event Grid Key Vault",
+          "Azure developer solution repository structure deployment README architecture diagram"
+        ]
+      },
+      {
+        "title": "Implement the synchronous API path and data access layer",
+        "slug": "implement-the-synchronous-api-path-and-data-access-layer",
+        "queries": [
+          "Azure capstone synchronous API Cosmos DB managed identity Key Vault example",
+          "Container Apps App Service API data access layer Azure SDK"
+        ]
+      },
+      {
+        "title": "Implement the asynchronous workflow with Service Bus and Event Grid",
+        "slug": "implement-the-asynchronous-workflow-with-service-bus-and-event-grid",
+        "queries": [
+          "Azure capstone Service Bus Event Grid asynchronous workflow Functions",
+          "event-driven architecture Azure developer capstone Service Bus Event Grid"
+        ]
+      },
+      {
+        "title": "Deploy all components with secure configuration and observability",
+        "slug": "deploy-all-components-with-secure-configuration-and-observability",
+        "queries": [
+          "Azure capstone deploy Container Apps Functions Cosmos DB Key Vault Application Insights",
+          "azd Bicep deployment Azure developer capstone observability"
+        ]
+      },
+      {
+        "title": "Validate, troubleshoot, rollback, and document the solution",
+        "slug": "validate-troubleshoot-rollback-and-document-the-solution",
+        "queries": [
+          "Azure deployment validation rollback troubleshooting documentation checklist",
+          "Azure capstone technical handoff README validation checklist troubleshooting notes"
+        ]
+      }
+    ]
+  }
+]

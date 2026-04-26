@@ -1,0 +1,1172 @@
+[
+  {
+    "title": "Module 1: AZ-305 Architecture Mindset and Enterprise Design Principles",
+    "slug": "module-1-az-305-architecture-mindset-and-enterprise-design-principles",
+    "children": [
+      {
+        "title": "AZ-305 exam scope and architecture domains",
+        "slug": "az-305-exam-scope-and-architecture-domains",
+        "queries": [
+          "Microsoft AZ-305 exam skills measured architecture domains",
+          "AZ-305 Designing Microsoft Azure Infrastructure Solutions exam guide"
+        ]
+      },
+      {
+        "title": "Role of the solutions architect in enterprise delivery",
+        "slug": "role-of-the-solutions-architect-in-enterprise-delivery",
+        "queries": [
+          "Azure solutions architect role enterprise delivery responsibilities",
+          "solution architect decision making Azure enterprise architecture"
+        ]
+      },
+      {
+        "title": "Architecture principles: security, resilience, scalability, operational excellence, cost optimization, governance",
+        "slug": "architecture-principles-security-resilience-scalability-operational-excellence-cost-optimization-governance",
+        "queries": [
+          "Azure architecture principles security resilience scalability cost optimization governance",
+          "enterprise cloud architecture principles Azure well-architected framework"
+        ]
+      },
+      {
+        "title": "Requirements gathering and translating business needs into technical architecture",
+        "slug": "requirements-gathering-and-translating-business-needs-into-technical-architecture",
+        "queries": [
+          "Azure solution architecture requirements gathering business to technical translation",
+          "enterprise architecture requirements nonfunctional requirements Azure design"
+        ]
+      },
+      {
+        "title": "Non-functional requirements: availability, RTO/RPO, latency, compliance, data sovereignty, throughput, maintainability",
+        "slug": "non-functional-requirements-availability-rto-rpo-latency-compliance-data-sovereignty-throughput-maintainability",
+        "queries": [
+          "Azure architecture non functional requirements RTO RPO latency data sovereignty",
+          "designing Azure solutions for compliance throughput maintainability availability"
+        ]
+      },
+      {
+        "title": "Architecture tradeoff analysis",
+        "slug": "architecture-tradeoff-analysis",
+        "queries": [
+          "Azure architecture tradeoff analysis service selection decision matrix",
+          "enterprise cloud architecture tradeoffs Azure patterns"
+        ]
+      },
+      {
+        "title": "Reference architecture vs. implementation architecture",
+        "slug": "reference-architecture-vs-implementation-architecture",
+        "queries": [
+          "reference architecture vs implementation architecture Azure",
+          "Azure enterprise reference architecture implementation considerations"
+        ]
+      },
+      {
+        "title": "Common enterprise design patterns in Azure",
+        "slug": "common-enterprise-design-patterns-in-azure",
+        "queries": [
+          "common Azure enterprise architecture patterns hub and spoke landing zone",
+          "Azure design patterns enterprise scale reference architectures"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 2: Designing Azure Governance, Landing Zones, and Subscription Strategy",
+    "slug": "module-2-designing-azure-governance-landing-zones-and-subscription-strategy",
+    "children": [
+      {
+        "title": "Azure landing zone concepts",
+        "slug": "azure-landing-zone-concepts",
+        "queries": [
+          "Azure landing zone concepts enterprise scale architecture",
+          "Microsoft Cloud Adoption Framework landing zones Azure"
+        ]
+      },
+      {
+        "title": "Management group hierarchy",
+        "slug": "management-group-hierarchy",
+        "queries": [
+          "Azure management group hierarchy design best practices",
+          "enterprise Azure management group structure landing zone"
+        ]
+      },
+      {
+        "title": "Subscription design patterns",
+        "slug": "subscription-design-patterns",
+        "queries": [
+          "Azure subscription design patterns enterprise architecture",
+          "Azure subscription strategy platform application subscriptions"
+        ]
+      },
+      {
+        "title": "Resource organization strategy",
+        "slug": "resource-organization-strategy",
+        "queries": [
+          "Azure resource organization strategy resource groups subscriptions",
+          "enterprise Azure resource organization model"
+        ]
+      },
+      {
+        "title": "Naming and tagging standards",
+        "slug": "naming-and-tagging-standards",
+        "queries": [
+          "Azure naming convention tagging strategy enterprise",
+          "Azure resource tagging standards governance"
+        ]
+      },
+      {
+        "title": "Policy-driven governance",
+        "slug": "policy-driven-governance",
+        "queries": [
+          "Azure Policy governance enterprise landing zone",
+          "Azure policy initiatives compliance architecture"
+        ]
+      },
+      {
+        "title": "RBAC design at scale",
+        "slug": "rbac-design-at-scale",
+        "queries": [
+          "Azure RBAC design at scale enterprise",
+          "Azure role based access control architecture best practices"
+        ]
+      },
+      {
+        "title": "Separation of duties",
+        "slug": "separation-of-duties",
+        "queries": [
+          "Azure separation of duties governance architecture",
+          "enterprise cloud separation of duties Azure RBAC policy"
+        ]
+      },
+      {
+        "title": "Platform vs. application subscriptions",
+        "slug": "platform-vs-application-subscriptions",
+        "queries": [
+          "Azure platform subscription vs application subscription design",
+          "enterprise landing zone platform application subscription model"
+        ]
+      },
+      {
+        "title": "Shared services and connectivity subscriptions",
+        "slug": "shared-services-and-connectivity-subscriptions",
+        "queries": [
+          "Azure shared services subscription connectivity subscription design",
+          "hub subscription landing zone architecture Azure"
+        ]
+      },
+      {
+        "title": "Environment segmentation: dev/test/prod",
+        "slug": "environment-segmentation-dev-test-prod",
+        "queries": [
+          "Azure dev test prod subscription segmentation architecture",
+          "enterprise environment segmentation Azure landing zone"
+        ]
+      },
+      {
+        "title": "Cost management and chargeback/showback concepts",
+        "slug": "cost-management-and-chargeback-showback-concepts",
+        "queries": [
+          "Azure cost management chargeback showback architecture",
+          "enterprise Azure cost allocation tagging budgeting"
+        ]
+      },
+      {
+        "title": "Governance for regulated environments",
+        "slug": "governance-for-regulated-environments",
+        "queries": [
+          "Azure governance regulated environment compliance architecture",
+          "Azure landing zone regulated industry policy design"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 3: Identity Architecture with Microsoft Entra ID and Hybrid Identity",
+    "slug": "module-3-identity-architecture-with-microsoft-entra-id-and-hybrid-identity",
+    "children": [
+      {
+        "title": "Microsoft Entra ID architecture",
+        "slug": "microsoft-entra-id-architecture",
+        "queries": [
+          "Microsoft Entra ID architecture enterprise design",
+          "Entra ID tenant architecture and identity model"
+        ]
+      },
+      {
+        "title": "Tenant design considerations",
+        "slug": "tenant-design-considerations",
+        "queries": [
+          "Microsoft Entra tenant design considerations enterprise",
+          "Azure AD tenant strategy multi-tenant enterprise"
+        ]
+      },
+      {
+        "title": "Hybrid identity patterns",
+        "slug": "hybrid-identity-patterns",
+        "queries": [
+          "Azure hybrid identity patterns enterprise architecture",
+          "Microsoft Entra hybrid identity design patterns"
+        ]
+      },
+      {
+        "title": "Microsoft Entra ID Connect synchronization architecture",
+        "slug": "microsoft-entra-id-connect-synchronization-architecture",
+        "queries": [
+          "Microsoft Entra ID Connect synchronization architecture",
+          "Entra ID Connect sync architecture enterprise"
+        ]
+      },
+      {
+        "title": "Password hash synchronization, pass-through authentication, and federation comparison",
+        "slug": "password-hash-synchronization-pass-through-authentication-and-federation-comparison",
+        "queries": [
+          "password hash synchronization vs pass-through authentication vs federation Entra ID",
+          "Microsoft Entra authentication methods comparison hybrid identity"
+        ]
+      },
+      {
+        "title": "Staging mode and high availability concepts",
+        "slug": "staging-mode-and-high-availability-concepts",
+        "queries": [
+          "Entra ID Connect staging mode high availability",
+          "Microsoft Entra Connect failover design staging server"
+        ]
+      },
+      {
+        "title": "Microsoft Entra Connect Cloud Sync as a comparison point",
+        "slug": "microsoft-entra-connect-cloud-sync-as-a-comparison-point",
+        "queries": [
+          "Microsoft Entra Connect Cloud Sync vs Entra ID Connect",
+          "Cloud Sync hybrid identity comparison Microsoft documentation"
+        ]
+      },
+      {
+        "title": "User lifecycle and identity source of authority",
+        "slug": "user-lifecycle-and-identity-source-of-authority",
+        "queries": [
+          "identity source of authority hybrid identity Azure",
+          "Microsoft Entra user lifecycle source of authority design"
+        ]
+      },
+      {
+        "title": "Group-based access design",
+        "slug": "group-based-access-design",
+        "queries": [
+          "Azure group based access design enterprise",
+          "Microsoft Entra group based access architecture"
+        ]
+      },
+      {
+        "title": "Conditional Access design patterns",
+        "slug": "conditional-access-design-patterns",
+        "queries": [
+          "Microsoft Entra Conditional Access design patterns enterprise",
+          "Conditional Access policy architecture Azure"
+        ]
+      },
+      {
+        "title": "MFA and authentication strength concepts",
+        "slug": "mfa-and-authentication-strength-concepts",
+        "queries": [
+          "Microsoft Entra MFA authentication strength concepts",
+          "Azure authentication strength conditional access design"
+        ]
+      },
+      {
+        "title": "Privileged access architecture",
+        "slug": "privileged-access-architecture",
+        "queries": [
+          "Microsoft Entra privileged access architecture PIM design",
+          "Azure privileged identity management architecture enterprise"
+        ]
+      },
+      {
+        "title": "Managed identities for workload authentication",
+        "slug": "managed-identities-for-workload-authentication",
+        "queries": [
+          "Azure managed identities workload authentication architecture",
+          "managed identity vs service principal Azure design"
+        ]
+      },
+      {
+        "title": "Service principals and app registrations at a design level",
+        "slug": "service-principals-and-app-registrations-at-a-design-level",
+        "queries": [
+          "Azure app registration service principal architecture",
+          "Microsoft Entra app registration design enterprise"
+        ]
+      },
+      {
+        "title": "Identity governance considerations",
+        "slug": "identity-governance-considerations",
+        "queries": [
+          "Microsoft Entra identity governance architecture",
+          "Azure identity governance enterprise design"
+        ]
+      },
+      {
+        "title": "Lab: Design and validate a hybrid identity architecture using Entra ID Connect",
+        "slug": "lab-design-and-validate-a-hybrid-identity-architecture-using-entra-id-connect",
+        "queries": [
+          "Microsoft Entra ID Connect lab hybrid identity design",
+          "Entra ID Connect synchronization authentication failover lab"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 4: Enterprise Network Architecture and Azure Virtual WAN",
+    "slug": "module-4-enterprise-network-architecture-and-azure-virtual-wan",
+    "children": [
+      {
+        "title": "Hub-and-spoke architecture",
+        "slug": "hub-and-spoke-architecture",
+        "queries": [
+          "Azure hub and spoke architecture enterprise design",
+          "hub and spoke vs virtual wan Azure comparison"
+        ]
+      },
+      {
+        "title": "Virtual network segmentation",
+        "slug": "virtual-network-segmentation",
+        "queries": [
+          "Azure virtual network segmentation design enterprise",
+          "Azure subnet segmentation network architecture best practices"
+        ]
+      },
+      {
+        "title": "Routing design",
+        "slug": "routing-design",
+        "queries": [
+          "Azure routing design enterprise hub spoke UDR",
+          "Azure route tables network architecture design"
+        ]
+      },
+      {
+        "title": "Network security architecture",
+        "slug": "network-security-architecture",
+        "queries": [
+          "Azure network security architecture enterprise",
+          "Azure firewall NSG network security design"
+        ]
+      },
+      {
+        "title": "Azure Virtual WAN architecture and use cases",
+        "slug": "azure-virtual-wan-architecture-and-use-cases",
+        "queries": [
+          "Azure Virtual WAN architecture use cases enterprise",
+          "Virtual WAN design Microsoft documentation"
+        ]
+      },
+      {
+        "title": "Virtual WAN hubs and spokes",
+        "slug": "virtual-wan-hubs-and-spokes",
+        "queries": [
+          "Azure Virtual WAN hub spoke architecture",
+          "Virtual WAN secured hub design Azure"
+        ]
+      },
+      {
+        "title": "Branch connectivity",
+        "slug": "branch-connectivity",
+        "queries": [
+          "Azure Virtual WAN branch connectivity design",
+          "enterprise branch office connectivity Azure VPN ExpressRoute"
+        ]
+      },
+      {
+        "title": "Site-to-site VPN and ExpressRoute integration",
+        "slug": "site-to-site-vpn-and-expressroute-integration",
+        "queries": [
+          "Azure Virtual WAN ExpressRoute VPN integration",
+          "Azure site-to-site VPN vs ExpressRoute architecture"
+        ]
+      },
+      {
+        "title": "Secure internet egress patterns",
+        "slug": "secure-internet-egress-patterns",
+        "queries": [
+          "Azure secure internet egress architecture firewall",
+          "Azure forced tunneling internet egress design"
+        ]
+      },
+      {
+        "title": "Azure Firewall placement and policy considerations",
+        "slug": "azure-firewall-placement-and-policy-considerations",
+        "queries": [
+          "Azure Firewall placement hub and spoke design",
+          "Azure Firewall policy enterprise architecture"
+        ]
+      },
+      {
+        "title": "NSG and route table strategy",
+        "slug": "nsg-and-route-table-strategy",
+        "queries": [
+          "Azure NSG and route table strategy enterprise",
+          "Azure network security group user defined route design"
+        ]
+      },
+      {
+        "title": "Private connectivity with Private Link",
+        "slug": "private-connectivity-with-private-link",
+        "queries": [
+          "Azure Private Link private endpoint architecture",
+          "Azure private endpoint enterprise design patterns"
+        ]
+      },
+      {
+        "title": "DNS architecture for hybrid and private endpoints",
+        "slug": "dns-architecture-for-hybrid-and-private-endpoints",
+        "queries": [
+          "Azure DNS architecture hybrid private endpoints",
+          "Azure private DNS zone hybrid name resolution design"
+        ]
+      },
+      {
+        "title": "Global network design considerations",
+        "slug": "global-network-design-considerations",
+        "queries": [
+          "global Azure network design enterprise latency resiliency",
+          "Azure global network architecture multi region design"
+        ]
+      },
+      {
+        "title": "Comparison of Virtual WAN vs. traditional hub-and-spoke",
+        "slug": "comparison-of-virtual-wan-vs-traditional-hub-and-spoke",
+        "queries": [
+          "Azure Virtual WAN vs hub and spoke comparison",
+          "when to use Azure Virtual WAN enterprise architecture"
+        ]
+      },
+      {
+        "title": "Lab: Design and deploy an Azure Virtual WAN solution for a multinational enterprise",
+        "slug": "lab-design-and-deploy-an-azure-virtual-wan-solution-for-a-multinational-enterprise",
+        "queries": [
+          "Azure Virtual WAN enterprise lab design multinational branch connectivity",
+          "Virtual WAN lab ExpressRoute VPN remote users hybrid datacenter"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 5: Application Architecture and Multi-Tier Deployment with Bicep",
+    "slug": "module-5-application-architecture-and-multi-tier-deployment-with-bicep",
+    "children": [
+      {
+        "title": "Multi-tier web application patterns",
+        "slug": "multi-tier-web-application-patterns",
+        "queries": [
+          "Azure multi tier web application architecture patterns",
+          "enterprise web application reference architecture Azure"
+        ]
+      },
+      {
+        "title": "Stateless vs. stateful components",
+        "slug": "stateless-vs-stateful-components",
+        "queries": [
+          "Azure stateless vs stateful application architecture",
+          "cloud application design stateless stateful components Azure"
+        ]
+      },
+      {
+        "title": "Scale-out design",
+        "slug": "scale-out-design",
+        "queries": [
+          "Azure scale out architecture design patterns",
+          "horizontal scaling Azure application architecture"
+        ]
+      },
+      {
+        "title": "Availability zone-aware deployment",
+        "slug": "availability-zone-aware-deployment",
+        "queries": [
+          "Azure availability zone aware application design",
+          "zone redundant architecture Azure application"
+        ]
+      },
+      {
+        "title": "Compute service selection: VMs, App Service, containers as comparison points",
+        "slug": "compute-service-selection-vms-app-service-containers-as-comparison-points",
+        "queries": [
+          "Azure VM vs App Service vs containers architecture comparison",
+          "Azure compute service selection enterprise application architecture"
+        ]
+      },
+      {
+        "title": "Load balancing and ingress patterns",
+        "slug": "load-balancing-and-ingress-patterns",
+        "queries": [
+          "Azure load balancing ingress patterns Application Gateway Load Balancer",
+          "Azure application ingress architecture enterprise"
+        ]
+      },
+      {
+        "title": "Secrets and configuration management",
+        "slug": "secrets-and-configuration-management",
+        "queries": [
+          "Azure secrets configuration management architecture Key Vault",
+          "enterprise application secrets management Azure design"
+        ]
+      },
+      {
+        "title": "Deployment automation architecture",
+        "slug": "deployment-automation-architecture",
+        "queries": [
+          "Azure deployment automation architecture Bicep CI CD",
+          "enterprise infrastructure as code deployment architecture Azure"
+        ]
+      },
+      {
+        "title": "Bicep fundamentals for architects: modules, parameters, outputs, scopes, reusable templates",
+        "slug": "bicep-fundamentals-for-architects-modules-parameters-outputs-scopes-reusable-templates",
+        "queries": [
+          "Bicep modules parameters outputs scopes documentation",
+          "Azure Bicep architecture reusable templates enterprise"
+        ]
+      },
+      {
+        "title": "Template organization for enterprise teams",
+        "slug": "template-organization-for-enterprise-teams",
+        "queries": [
+          "Bicep template organization enterprise teams",
+          "Azure infrastructure as code repository structure Bicep"
+        ]
+      },
+      {
+        "title": "CI/CD integration concepts for Bicep deployments",
+        "slug": "ci-cd-integration-concepts-for-bicep-deployments",
+        "queries": [
+          "Bicep CI CD integration Azure DevOps GitHub Actions",
+          "Azure Bicep deployment pipeline architecture"
+        ]
+      },
+      {
+        "title": "Deployment governance and repeatability",
+        "slug": "deployment-governance-and-repeatability",
+        "queries": [
+          "Azure deployment governance repeatability infrastructure as code",
+          "Bicep deployment governance idempotency enterprise"
+        ]
+      },
+      {
+        "title": "Idempotency and environment promotion",
+        "slug": "idempotency-and-environment-promotion",
+        "queries": [
+          "Bicep idempotency environment promotion Azure",
+          "infrastructure as code promotion strategy Azure enterprise"
+        ]
+      },
+      {
+        "title": "Lab: Deploy a multi-tier application using Bicep templates",
+        "slug": "lab-deploy-a-multi-tier-application-using-bicep-templates",
+        "queries": [
+          "Azure Bicep multi tier application lab enterprise",
+          "Bicep lab network compute storage identity monitoring modular templates"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 6: Globally Distributed Data Architecture with Azure Cosmos DB",
+    "slug": "module-6-globally-distributed-data-architecture-with-azure-cosmos-db",
+    "children": [
+      {
+        "title": "Cosmos DB core concepts",
+        "slug": "cosmos-db-core-concepts",
+        "queries": [
+          "Azure Cosmos DB core concepts architecture",
+          "Cosmos DB overview distributed database design"
+        ]
+      },
+      {
+        "title": "API selection considerations: Core (SQL), MongoDB, Cassandra",
+        "slug": "api-selection-considerations-core-sql-mongodb-cassandra",
+        "queries": [
+          "Azure Cosmos DB API selection SQL MongoDB Cassandra comparison",
+          "Cosmos DB API choice architecture guidance"
+        ]
+      },
+      {
+        "title": "Partitioning strategy",
+        "slug": "partitioning-strategy",
+        "queries": [
+          "Azure Cosmos DB partitioning strategy",
+          "Cosmos DB partition key design best practices"
+        ]
+      },
+      {
+        "title": "Partition key selection",
+        "slug": "partition-key-selection",
+        "queries": [
+          "Cosmos DB partition key selection guidance",
+          "Azure Cosmos DB partition key design patterns"
+        ]
+      },
+      {
+        "title": "Consistency levels and tradeoffs",
+        "slug": "consistency-levels-and-tradeoffs",
+        "queries": [
+          "Azure Cosmos DB consistency levels tradeoffs",
+          "Cosmos DB strong bounded staleness session consistency architecture"
+        ]
+      },
+      {
+        "title": "Multi-region writes and failover",
+        "slug": "multi-region-writes-and-failover",
+        "queries": [
+          "Azure Cosmos DB multi region writes failover",
+          "Cosmos DB global distribution failover architecture"
+        ]
+      },
+      {
+        "title": "Replication and latency design",
+        "slug": "replication-and-latency-design",
+        "queries": [
+          "Azure Cosmos DB replication latency design",
+          "Cosmos DB multi region replication performance architecture"
+        ]
+      },
+      {
+        "title": "Throughput provisioning and RU/s planning",
+        "slug": "throughput-provisioning-and-ru-s-planning",
+        "queries": [
+          "Azure Cosmos DB RU/s planning throughput provisioning",
+          "Cosmos DB capacity planning architecture"
+        ]
+      },
+      {
+        "title": "Global distribution patterns",
+        "slug": "global-distribution-patterns",
+        "queries": [
+          "Azure Cosmos DB global distribution patterns",
+          "Cosmos DB multi region architecture best practices"
+        ]
+      },
+      {
+        "title": "Data modeling for distributed systems",
+        "slug": "data-modeling-for-distributed-systems",
+        "queries": [
+          "Cosmos DB data modeling distributed systems",
+          "Azure Cosmos DB modeling for partitioning and scale"
+        ]
+      },
+      {
+        "title": "Change feed and event-driven integration concepts",
+        "slug": "change-feed-and-event-driven-integration-concepts",
+        "queries": [
+          "Azure Cosmos DB change feed event driven architecture",
+          "Cosmos DB change feed integration patterns"
+        ]
+      },
+      {
+        "title": "Backup and restore considerations",
+        "slug": "backup-and-restore-considerations",
+        "queries": [
+          "Azure Cosmos DB backup restore considerations",
+          "Cosmos DB backup architecture point in time restore"
+        ]
+      },
+      {
+        "title": "Cost and performance tradeoffs",
+        "slug": "cost-and-performance-tradeoffs",
+        "queries": [
+          "Azure Cosmos DB cost performance tradeoffs",
+          "Cosmos DB architecture cost optimization RU throughput"
+        ]
+      },
+      {
+        "title": "When Cosmos DB is appropriate vs. Azure SQL or other data services",
+        "slug": "when-cosmos-db-is-appropriate-vs-azure-sql-or-other-data-services",
+        "queries": [
+          "Cosmos DB vs Azure SQL architecture comparison",
+          "when to use Azure Cosmos DB vs Azure SQL Database"
+        ]
+      },
+      {
+        "title": "Lab: Architect a globally distributed Cosmos DB solution",
+        "slug": "lab-architect-a-globally-distributed-cosmos-db-solution",
+        "queries": [
+          "Azure Cosmos DB global distribution lab regional failover",
+          "Cosmos DB lab low latency multi region customer facing application"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 7: Business Continuity, Disaster Recovery, and Resilience Engineering",
+    "slug": "module-7-business-continuity-disaster-recovery-and-resilience-engineering",
+    "children": [
+      {
+        "title": "Availability zones vs. availability sets",
+        "slug": "availability-zones-vs-availability-sets",
+        "queries": [
+          "Azure availability zones vs availability sets architecture",
+          "zone redundant vs availability set design Azure"
+        ]
+      },
+      {
+        "title": "Region pairs and regional resiliency",
+        "slug": "region-pairs-and-regional-resiliency",
+        "queries": [
+          "Azure region pairs regional resiliency architecture",
+          "Azure paired regions disaster recovery design"
+        ]
+      },
+      {
+        "title": "Active-active vs. active-passive patterns",
+        "slug": "active-active-vs-active-passive-patterns",
+        "queries": [
+          "Azure active active vs active passive architecture",
+          "multi region failover patterns Azure enterprise"
+        ]
+      },
+      {
+        "title": "Backup architecture",
+        "slug": "backup-architecture",
+        "queries": [
+          "Azure backup architecture enterprise",
+          "Azure backup design patterns recovery architecture"
+        ]
+      },
+      {
+        "title": "Recovery objectives: RTO and RPO",
+        "slug": "recovery-objectives-rto-and-rpo",
+        "queries": [
+          "Azure RTO RPO architecture design",
+          "business continuity RTO RPO cloud architecture"
+        ]
+      },
+      {
+        "title": "Failover planning",
+        "slug": "failover-planning",
+        "queries": [
+          "Azure failover planning architecture",
+          "disaster recovery failover runbook Azure design"
+        ]
+      },
+      {
+        "title": "Application resilience patterns",
+        "slug": "application-resilience-patterns",
+        "queries": [
+          "Azure application resilience patterns retry circuit breaker",
+          "cloud application resilience architecture Azure"
+        ]
+      },
+      {
+        "title": "Data replication and failover dependencies",
+        "slug": "data-replication-and-failover-dependencies",
+        "queries": [
+          "Azure data replication failover dependencies architecture",
+          "multi tier disaster recovery data dependency planning Azure"
+        ]
+      },
+      {
+        "title": "DR for compute, network, identity, and data",
+        "slug": "dr-for-compute-network-identity-and-data",
+        "queries": [
+          "Azure disaster recovery compute network identity data architecture",
+          "enterprise DR design Azure identity network data"
+        ]
+      },
+      {
+        "title": "Testing and validation of recovery plans",
+        "slug": "testing-and-validation-of-recovery-plans",
+        "queries": [
+          "Azure disaster recovery testing validation architecture",
+          "recovery plan testing cloud enterprise"
+        ]
+      },
+      {
+        "title": "Resilience considerations for hybrid environments",
+        "slug": "resilience-considerations-for-hybrid-environments",
+        "queries": [
+          "Azure hybrid resilience architecture",
+          "hybrid cloud disaster recovery design Azure"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 8: Real-World Migration Strategy from On-Premises VMware to Azure",
+    "slug": "module-8-real-world-migration-strategy-from-on-premises-vmware-to-azure",
+    "children": [
+      {
+        "title": "Migration assessment framework",
+        "slug": "migration-assessment-framework",
+        "queries": [
+          "Azure migration assessment framework enterprise",
+          "cloud migration assessment methodology Azure"
+        ]
+      },
+      {
+        "title": "Discovery and dependency mapping",
+        "slug": "discovery-and-dependency-mapping",
+        "queries": [
+          "Azure Migrate dependency mapping discovery",
+          "application dependency mapping migration Azure"
+        ]
+      },
+      {
+        "title": "Application portfolio analysis",
+        "slug": "application-portfolio-analysis",
+        "queries": [
+          "application portfolio analysis migration Azure",
+          "rehost replatform refactor retire retain decision framework"
+        ]
+      },
+      {
+        "title": "Migration waves and factory approach",
+        "slug": "migration-waves-and-factory-approach",
+        "queries": [
+          "Azure migration waves factory approach enterprise",
+          "cloud migration factory methodology Azure"
+        ]
+      },
+      {
+        "title": "Azure Migrate assessment, server migration, dependency visualization, readiness analysis",
+        "slug": "azure-migrate-assessment-server-migration-dependency-visualization-readiness-analysis",
+        "queries": [
+          "Azure Migrate assessment server migration dependency visualization readiness",
+          "Azure Migrate enterprise migration documentation"
+        ]
+      },
+      {
+        "title": "VMware-to-Azure migration strategy",
+        "slug": "vmware-to-azure-migration-strategy",
+        "queries": [
+          "VMware to Azure migration strategy enterprise",
+          "Azure VMware migration planning architecture"
+        ]
+      },
+      {
+        "title": "Rehost vs. replatform vs. refactor decision-making",
+        "slug": "rehost-vs-replatform-vs-refactor-decision-making",
+        "queries": [
+          "rehost replatform refactor decision Azure migration",
+          "cloud migration strategy decision matrix Azure"
+        ]
+      },
+      {
+        "title": "Network and identity prerequisites for migration",
+        "slug": "network-and-identity-prerequisites-for-migration",
+        "queries": [
+          "Azure migration network identity prerequisites",
+          "hybrid identity network prerequisites Azure Migrate"
+        ]
+      },
+      {
+        "title": "Landing zone readiness for migration",
+        "slug": "landing-zone-readiness-for-migration",
+        "queries": [
+          "Azure landing zone readiness for migration",
+          "migration landing zone enterprise Azure"
+        ]
+      },
+      {
+        "title": "Pilot migration and cutover planning",
+        "slug": "pilot-migration-and-cutover-planning",
+        "queries": [
+          "Azure migration pilot cutover planning",
+          "enterprise migration cutover strategy Azure"
+        ]
+      },
+      {
+        "title": "Data migration sequencing",
+        "slug": "data-migration-sequencing",
+        "queries": [
+          "Azure migration data sequencing strategy",
+          "database migration sequencing enterprise cloud"
+        ]
+      },
+      {
+        "title": "Post-migration optimization",
+        "slug": "post-migration-optimization",
+        "queries": [
+          "Azure post migration optimization right sizing",
+          "cloud migration optimization Azure enterprise"
+        ]
+      },
+      {
+        "title": "Risk management and rollback planning",
+        "slug": "risk-management-and-rollback-planning",
+        "queries": [
+          "Azure migration risk management rollback planning",
+          "cloud migration rollback strategy enterprise"
+        ]
+      },
+      {
+        "title": "Common migration pitfalls",
+        "slug": "common-migration-pitfalls",
+        "queries": [
+          "Azure migration common pitfalls enterprise",
+          "VMware to Azure migration pitfalls best practices"
+        ]
+      },
+      {
+        "title": "Lab: Build a migration plan for an on-premises VMware environment using Azure Migrate",
+        "slug": "lab-build-a-migration-plan-for-an-on-premises-vmware-environment-using-azure-migrate",
+        "queries": [
+          "Azure Migrate VMware migration planning lab",
+          "Azure Migrate assessment dependency analysis wave planning lab"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 9: Security Architecture for Azure Solutions",
+    "slug": "module-9-security-architecture-for-azure-solutions",
+    "children": [
+      {
+        "title": "Shared responsibility model",
+        "slug": "shared-responsibility-model",
+        "queries": [
+          "Azure shared responsibility model architecture",
+          "Microsoft cloud shared responsibility security design"
+        ]
+      },
+      {
+        "title": "Zero Trust principles",
+        "slug": "zero-trust-principles",
+        "queries": [
+          "Microsoft Zero Trust Azure architecture",
+          "Zero Trust design principles Azure enterprise"
+        ]
+      },
+      {
+        "title": "Identity-centric security",
+        "slug": "identity-centric-security",
+        "queries": [
+          "Azure identity centric security architecture",
+          "Microsoft Entra identity based security design"
+        ]
+      },
+      {
+        "title": "Network segmentation and micro-segmentation concepts",
+        "slug": "network-segmentation-and-micro-segmentation-concepts",
+        "queries": [
+          "Azure network segmentation micro segmentation architecture",
+          "Azure firewall NSG micro segmentation design"
+        ]
+      },
+      {
+        "title": "Key management and secrets handling",
+        "slug": "key-management-and-secrets-handling",
+        "queries": [
+          "Azure Key Vault key management secrets handling architecture",
+          "Azure secrets management enterprise design"
+        ]
+      },
+      {
+        "title": "Encryption at rest and in transit",
+        "slug": "encryption-at-rest-and-in-transit",
+        "queries": [
+          "Azure encryption at rest and in transit architecture",
+          "Azure data encryption design enterprise"
+        ]
+      },
+      {
+        "title": "Private access patterns",
+        "slug": "private-access-patterns",
+        "queries": [
+          "Azure private access patterns private endpoint architecture",
+          "Azure private link security architecture"
+        ]
+      },
+      {
+        "title": "Security monitoring and alerting architecture",
+        "slug": "security-monitoring-and-alerting-architecture",
+        "queries": [
+          "Azure security monitoring alerting architecture",
+          "Microsoft Sentinel vs Azure Monitor security architecture"
+        ]
+      },
+      {
+        "title": "Security baseline design",
+        "slug": "security-baseline-design",
+        "queries": [
+          "Azure security baseline architecture enterprise",
+          "Azure landing zone security baseline design"
+        ]
+      },
+      {
+        "title": "Secure administration patterns",
+        "slug": "secure-administration-patterns",
+        "queries": [
+          "Azure secure administration patterns privileged access workstation",
+          "enterprise Azure secure admin architecture"
+        ]
+      },
+      {
+        "title": "Workload identity and managed identity use cases",
+        "slug": "workload-identity-and-managed-identity-use-cases",
+        "queries": [
+          "Azure workload identity managed identity use cases",
+          "managed identity security architecture Azure"
+        ]
+      },
+      {
+        "title": "Security tradeoffs in distributed architectures",
+        "slug": "security-tradeoffs-in-distributed-architectures",
+        "queries": [
+          "Azure distributed architecture security tradeoffs",
+          "enterprise cloud security tradeoffs multi region Azure"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 10: Monitoring, Operations, and Cost-Aware Architecture",
+    "slug": "module-10-monitoring-operations-and-cost-aware-architecture",
+    "children": [
+      {
+        "title": "Azure Monitor architecture",
+        "slug": "azure-monitor-architecture",
+        "queries": [
+          "Azure Monitor architecture enterprise",
+          "Azure monitoring architecture design"
+        ]
+      },
+      {
+        "title": "Log Analytics workspace strategy",
+        "slug": "log-analytics-workspace-strategy",
+        "queries": [
+          "Log Analytics workspace strategy enterprise Azure",
+          "Azure Monitor workspace design best practices"
+        ]
+      },
+      {
+        "title": "Metrics vs. logs vs. traces",
+        "slug": "metrics-vs-logs-vs-traces",
+        "queries": [
+          "Azure metrics logs traces architecture",
+          "observability metrics logs traces Azure Monitor"
+        ]
+      },
+      {
+        "title": "Alerting design",
+        "slug": "alerting-design",
+        "queries": [
+          "Azure alerting design architecture",
+          "Azure Monitor alerts enterprise design"
+        ]
+      },
+      {
+        "title": "Dashboards and operational views",
+        "slug": "dashboards-and-operational-views",
+        "queries": [
+          "Azure dashboards operational views architecture",
+          "Azure Monitor workbooks dashboard design"
+        ]
+      },
+      {
+        "title": "Application Insights as a design consideration",
+        "slug": "application-insights-as-a-design-consideration",
+        "queries": [
+          "Application Insights architecture design Azure",
+          "Azure Application Insights enterprise observability"
+        ]
+      },
+      {
+        "title": "Operational ownership models",
+        "slug": "operational-ownership-models",
+        "queries": [
+          "Azure operational ownership model architecture",
+          "cloud operations ownership model enterprise"
+        ]
+      },
+      {
+        "title": "SRE-style considerations at a high level",
+        "slug": "sre-style-considerations-at-a-high-level",
+        "queries": [
+          "Azure SRE architecture high level",
+          "site reliability engineering cloud architecture principles"
+        ]
+      },
+      {
+        "title": "Cost optimization in architecture decisions",
+        "slug": "cost-optimization-in-architecture-decisions",
+        "queries": [
+          "Azure cost optimization architecture decisions",
+          "cloud architecture cost optimization tradeoffs Azure"
+        ]
+      },
+      {
+        "title": "Right-sizing and scaling strategy",
+        "slug": "right-sizing-and-scaling-strategy",
+        "queries": [
+          "Azure right sizing scaling strategy architecture",
+          "Azure autoscale design enterprise"
+        ]
+      },
+      {
+        "title": "Governance for operational consistency",
+        "slug": "governance-for-operational-consistency",
+        "queries": [
+          "Azure governance operational consistency architecture",
+          "policy driven operations Azure enterprise"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 11: AZ-305 Exam Alignment and Scenario-Based Review",
+    "slug": "module-11-az-305-exam-alignment-and-scenario-based-review",
+    "children": [
+      {
+        "title": "AZ-305 domain mapping",
+        "slug": "az-305-domain-mapping",
+        "queries": [
+          "AZ-305 exam domains mapping architecture topics",
+          "Microsoft AZ-305 skills measured domain mapping"
+        ]
+      },
+      {
+        "title": "Scenario-based design questions",
+        "slug": "scenario-based-design-questions",
+        "queries": [
+          "AZ-305 scenario based questions architecture design",
+          "Azure solutions architect scenario questions practice"
+        ]
+      },
+      {
+        "title": "Service selection comparisons",
+        "slug": "service-selection-comparisons",
+        "queries": [
+          "Azure service selection comparison architecture AZ-305",
+          "Azure architecture decision matrix services comparison"
+        ]
+      },
+      {
+        "title": "Common exam traps and misconceptions",
+        "slug": "common-exam-traps-and-misconceptions",
+        "queries": [
+          "AZ-305 common exam traps misconceptions",
+          "Azure solutions architect exam pitfalls"
+        ]
+      },
+      {
+        "title": "Tradeoff-based decision exercises",
+        "slug": "tradeoff-based-decision-exercises",
+        "queries": [
+          "Azure architecture tradeoff decision exercises",
+          "AZ-305 design decision practice scenarios"
+        ]
+      },
+      {
+        "title": "Review of reference architectures covered in the course",
+        "slug": "review-of-reference-architectures-covered-in-the-course",
+        "queries": [
+          "Azure reference architectures enterprise review",
+          "Microsoft Azure architecture patterns reference"
+        ]
+      },
+      {
+        "title": "Capstone architecture scenario synthesis",
+        "slug": "capstone-architecture-scenario-synthesis",
+        "queries": [
+          "Azure solutions architect capstone scenario enterprise",
+          "end to end Azure architecture capstone hybrid identity networking data migration governance"
+        ]
+      }
+    ]
+  }
+]

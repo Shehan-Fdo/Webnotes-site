@@ -1,0 +1,1202 @@
+[
+  {
+    "title": "Course Orientation and CISSP Exam Strategy",
+    "slug": "course-orientation-and-cissp-exam-strategy",
+    "children": [
+      {
+        "title": "CISSP Exam Structure, Scoring Model, and Question Style",
+        "slug": "cissp-exam-structure-scoring-model-and-question-style",
+        "queries": [
+          "ISC2 CISSP exam outline question style scoring overview 2026",
+          "CISSP CAT exam format adaptive testing official guide"
+        ]
+      },
+      {
+        "title": "The CISSP Manager Mindset",
+        "slug": "the-cissp-manager-mindset",
+        "queries": [
+          "CISSP manager mindset best answer prioritization guidance",
+          "CISSP think like a manager scenario-based reasoning"
+        ]
+      },
+      {
+        "title": "Scenario Question Interpretation and Distractor Elimination",
+        "slug": "scenario-question-interpretation-and-distractor-elimination",
+        "queries": [
+          "CISSP scenario question analysis distractor elimination techniques",
+          "CISSP best answer vs first answer question strategy"
+        ]
+      },
+      {
+        "title": "Prioritization in Incidents and Governance Scenarios",
+        "slug": "prioritization-in-incidents-and-governance-scenarios",
+        "queries": [
+          "CISSP incident prioritization containment eradication recovery best next step",
+          "CISSP governance scenario prioritization risk-based decision making"
+        ]
+      },
+      {
+        "title": "Study Methodology and Readiness Plan",
+        "slug": "study-methodology-and-readiness-plan",
+        "queries": [
+          "CISSP study plan spaced repetition domain mapping scenario drills",
+          "CISSP exam preparation methodology weak area remediation"
+        ]
+      },
+      {
+        "title": "Mindset Comparison: Technician vs Manager",
+        "slug": "mindset-comparison-technician-vs-manager",
+        "queries": [
+          "CISSP technician vs manager mindset comparison",
+          "CISSP managerial perspective over technical implementation examples"
+        ]
+      },
+      {
+        "title": "Sample Scenario Walkthroughs",
+        "slug": "sample-scenario-walkthroughs",
+        "queries": [
+          "CISSP sample scenario walkthrough best answer rationale",
+          "CISSP practice scenario analysis with explanations"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Domain 1: Security and Risk Management",
+    "slug": "domain-1-security-and-risk-management",
+    "children": [
+      {
+        "title": "Core Security Principles and Concepts",
+        "slug": "core-security-principles-and-concepts",
+        "queries": [
+          "CISSP confidentiality integrity availability authenticity nonrepudiation privacy safety",
+          "ISC2 CISSP security principles definitions and examples"
+        ]
+      },
+      {
+        "title": "Security Governance and Business Alignment",
+        "slug": "security-governance-and-business-alignment",
+        "queries": [
+          "CISSP security governance business alignment enterprise strategy",
+          "NIST CSF governance mapping ISO 27001 COBIT overview"
+        ]
+      },
+      {
+        "title": "Policies, Standards, Procedures, and Guidelines",
+        "slug": "policies-standards-procedures-and-guidelines",
+        "queries": [
+          "CISSP policy standard procedure guideline differences",
+          "security policy hierarchy enterprise governance best practices"
+        ]
+      },
+      {
+        "title": "Legal, Regulatory, and Contractual Requirements",
+        "slug": "legal-regulatory-and-contractual-requirements",
+        "queries": [
+          "CISSP legal regulatory contractual requirements GDPR HIPAA PCI DSS",
+          "enterprise security compliance obligations privacy regulations overview"
+        ]
+      },
+      {
+        "title": "ISC2 Code of Ethics and Professional Conduct",
+        "slug": "isc2-code-of-ethics-and-professional-conduct",
+        "queries": [
+          "ISC2 code of ethics CISSP official principles",
+          "CISSP ethics professional conduct exam guidance"
+        ]
+      },
+      {
+        "title": "Risk Management Fundamentals",
+        "slug": "risk-management-fundamentals",
+        "queries": [
+          "CISSP risk asset threat vulnerability likelihood impact",
+          "risk management concepts qualitative quantitative analysis CISSP"
+        ]
+      },
+      {
+        "title": "Risk Treatment and Risk Response Options",
+        "slug": "risk-treatment-and-risk-response-options",
+        "queries": [
+          "CISSP risk acceptance mitigation transfer avoidance treatment",
+          "enterprise risk response decision making best practice"
+        ]
+      },
+      {
+        "title": "Qualitative and Quantitative Risk Analysis",
+        "slug": "qualitative-and-quantitative-risk-analysis",
+        "queries": [
+          "CISSP qualitative quantitative risk analysis SLE ARO ALE",
+          "risk calculation SLE ARO ALE examples enterprise security"
+        ]
+      },
+      {
+        "title": "Risk Appetite, Tolerance, and Acceptance",
+        "slug": "risk-appetite-tolerance-and-acceptance",
+        "queries": [
+          "CISSP risk appetite tolerance acceptance definitions",
+          "enterprise risk appetite tolerance governance examples"
+        ]
+      },
+      {
+        "title": "Business Impact Analysis and Continuity Concepts",
+        "slug": "business-impact-analysis-and-continuity-concepts",
+        "queries": [
+          "CISSP BIA RTO RPO MTD resilience continuity planning",
+          "business impact analysis recovery objectives enterprise security"
+        ]
+      },
+      {
+        "title": "Personnel Security and Third-Party Governance",
+        "slug": "personnel-security-and-third-party-governance",
+        "queries": [
+          "CISSP personnel security third party governance vendor risk",
+          "third party risk management cloud service provider due diligence"
+        ]
+      },
+      {
+        "title": "Security Awareness and Training Programs",
+        "slug": "security-awareness-and-training-programs",
+        "queries": [
+          "CISSP security awareness training program design",
+          "enterprise security awareness phishing training governance"
+        ]
+      },
+      {
+        "title": "Due Care, Due Diligence, and Oversight",
+        "slug": "due-care-due-diligence-and-oversight",
+        "queries": [
+          "CISSP due care due diligence governance oversight",
+          "security governance due care due diligence examples"
+        ]
+      },
+      {
+        "title": "Framework Integration: NIST CSF, ISO 27001, and COBIT",
+        "slug": "framework-integration-nist-csf-iso-27001-and-cobit",
+        "queries": [
+          "NIST CSF ISO 27001 COBIT mapping for CISSP",
+          "enterprise security framework comparison governance controls"
+        ]
+      },
+      {
+        "title": "Case Study: Healthcare Risk Treatment for PHI",
+        "slug": "case-study-healthcare-risk-treatment-for-phi",
+        "queries": [
+          "HIPAA PHI risk treatment case study enterprise security",
+          "healthcare security risk management CISSP case study"
+        ]
+      },
+      {
+        "title": "Case Study: Acceptable Use Policy for a Regulated Enterprise",
+        "slug": "case-study-acceptable-use-policy-for-a-regulated-enterprise",
+        "queries": [
+          "acceptable use policy regulated enterprise CISSP case study",
+          "security policy design acceptable use policy example"
+        ]
+      },
+      {
+        "title": "Case Study: Vendor Due Diligence for Cloud Service Providers",
+        "slug": "case-study-vendor-due-diligence-for-cloud-service-providers",
+        "queries": [
+          "cloud service provider due diligence third party risk case study",
+          "CISSP vendor risk assessment cloud shared responsibility"
+        ]
+      },
+      {
+        "title": "FAQ and Exam Questions",
+        "slug": "faq-and-exam-questions-domain-1",
+        "queries": [
+          "CISSP domain 1 practice questions risk management rationale",
+          "CISSP domain 1 best answer governance policy risk treatment"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Domain 2: Asset Security",
+    "slug": "domain-2-asset-security",
+    "children": [
+      {
+        "title": "Information and Asset Classification",
+        "slug": "information-and-asset-classification",
+        "queries": [
+          "CISSP data classification levels asset security",
+          "enterprise information classification policy examples"
+        ]
+      },
+      {
+        "title": "Data Ownership, Stewardship, and Custodianship",
+        "slug": "data-ownership-stewardship-and-custodianship",
+        "queries": [
+          "CISSP data owner steward custodian responsibilities",
+          "data governance roles ownership stewardship custodianship"
+        ]
+      },
+      {
+        "title": "Data Lifecycle Management",
+        "slug": "data-lifecycle-management",
+        "queries": [
+          "CISSP data lifecycle management creation retention disposal",
+          "enterprise data lifecycle governance best practices"
+        ]
+      },
+      {
+        "title": "Data Retention, Destruction, and Sanitization",
+        "slug": "data-retention-destruction-and-sanitization",
+        "queries": [
+          "CISSP data retention destruction sanitization media disposal",
+          "NIST media sanitization guidance 800-88 current"
+        ]
+      },
+      {
+        "title": "Privacy Principles and Data Minimization",
+        "slug": "privacy-principles-and-data-minimization",
+        "queries": [
+          "CISSP privacy principles data minimization GDPR CCPA CPRA",
+          "privacy by design data minimization enterprise security"
+        ]
+      },
+      {
+        "title": "Data Handling by Classification",
+        "slug": "data-handling-by-classification",
+        "queries": [
+          "CISSP data handling requirements by classification",
+          "information handling standards classification labels enterprise"
+        ]
+      },
+      {
+        "title": "Media Management and Chain of Custody",
+        "slug": "media-management-and-chain-of-custody",
+        "queries": [
+          "CISSP chain of custody media management evidence handling",
+          "secure media handling and evidence preservation guidance"
+        ]
+      },
+      {
+        "title": "Data Loss Prevention Concepts",
+        "slug": "data-loss-prevention-concepts",
+        "queries": [
+          "CISSP data loss prevention DLP concepts",
+          "enterprise DLP policy and control examples"
+        ]
+      },
+      {
+        "title": "Data Sovereignty and Cross-Border Data Considerations",
+        "slug": "data-sovereignty-and-cross-border-data-considerations",
+        "queries": [
+          "CISSP data sovereignty cross border data GDPR",
+          "multinational data residency and sovereignty security"
+        ]
+      },
+      {
+        "title": "Encryption, Tokenization, Masking, and Anonymization",
+        "slug": "encryption-tokenization-masking-and-anonymization",
+        "queries": [
+          "CISSP encryption tokenization masking anonymization pseudonymization",
+          "data protection techniques at rest in transit in use"
+        ]
+      },
+      {
+        "title": "Backup Classification and Secure Disposal",
+        "slug": "backup-classification-and-secure-disposal",
+        "queries": [
+          "CISSP backup classification secure disposal retention",
+          "secure backup media disposal and sanitization guidance"
+        ]
+      },
+      {
+        "title": "Cloud Data Ownership and Shared Responsibility",
+        "slug": "cloud-data-ownership-and-shared-responsibility",
+        "queries": [
+          "CISSP cloud data ownership shared responsibility model",
+          "CSA cloud shared responsibility data protection guidance"
+        ]
+      },
+      {
+        "title": "Case Study: Multinational Data Classification Design",
+        "slug": "case-study-multinational-data-classification-design",
+        "queries": [
+          "multinational enterprise data classification case study CISSP",
+          "global data classification policy example enterprise"
+        ]
+      },
+      {
+        "title": "Case Study: Handling PHI in a Hospital Network",
+        "slug": "case-study-handling-phi-in-a-hospital-network",
+        "queries": [
+          "HIPAA PHI handling hospital network case study",
+          "CISSP asset security healthcare data handling scenario"
+        ]
+      },
+      {
+        "title": "Case Study: Data Retention and Destruction Policy Design",
+        "slug": "case-study-data-retention-and-destruction-policy-design",
+        "queries": [
+          "data retention destruction policy design case study",
+          "enterprise records retention and secure destruction policy"
+        ]
+      },
+      {
+        "title": "Case Study: Media Sanitization Decision Matrix",
+        "slug": "case-study-media-sanitization-decision-matrix",
+        "queries": [
+          "NIST 800-88 media sanitization decision matrix case study",
+          "secure media sanitization methods clear purge destroy"
+        ]
+      },
+      {
+        "title": "FAQ and Exam Questions",
+        "slug": "faq-and-exam-questions-domain-2",
+        "queries": [
+          "CISSP domain 2 practice questions asset security rationale",
+          "CISSP domain 2 best answer data classification privacy"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Domain 3: Security Architecture and Engineering",
+    "slug": "domain-3-security-architecture-and-engineering",
+    "children": [
+      {
+        "title": "Security Models and Lattice Concepts",
+        "slug": "security-models-and-lattice-concepts",
+        "queries": [
+          "CISSP Bell-LaPadula Biba Clark-Wilson Brewer-Nash lattice",
+          "security models comparison confidentiality integrity access control"
+        ]
+      },
+      {
+        "title": "Security Architecture Principles",
+        "slug": "security-architecture-principles",
+        "queries": [
+          "CISSP defense in depth least privilege separation of duties zero trust",
+          "secure by design fail safe defaults security architecture principles"
+        ]
+      },
+      {
+        "title": "Hardware, Firmware, and Trusted Computing",
+        "slug": "hardware-firmware-and-trusted-computing",
+        "queries": [
+          "CISSP secure boot measured boot TPM HSM attestation",
+          "trusted computing hardware firmware security concepts"
+        ]
+      },
+      {
+        "title": "System Security Evaluation Concepts",
+        "slug": "system-security-evaluation-concepts",
+        "queries": [
+          "CISSP system security evaluation criteria trusted computing base",
+          "security evaluation concepts enterprise architecture"
+        ]
+      },
+      {
+        "title": "Cryptography Fundamentals",
+        "slug": "cryptography-fundamentals",
+        "queries": [
+          "CISSP symmetric asymmetric hashing digital signatures PKI",
+          "modern cryptography guidance AES RSA ECC SHA-2 SHA-3 TLS 1.3"
+        ]
+      },
+      {
+        "title": "Key Management and PKI",
+        "slug": "key-management-and-pki",
+        "queries": [
+          "CISSP key management PKI certificate lifecycle HSM",
+          "PKI hierarchy certificate issuance revocation OCSP CRL guidance"
+        ]
+      },
+      {
+        "title": "Secure Design for Enterprise Systems",
+        "slug": "secure-design-for-enterprise-systems",
+        "queries": [
+          "CISSP secure design principles enterprise systems",
+          "security architecture patterns trust zones segmentation zero trust"
+        ]
+      },
+      {
+        "title": "Physical Security and Environmental Controls",
+        "slug": "physical-security-and-environmental-controls",
+        "queries": [
+          "CISSP physical security environmental controls data center",
+          "enterprise physical security controls fire power HVAC"
+        ]
+      },
+      {
+        "title": "Architecture Vulnerabilities and Memory Safety",
+        "slug": "architecture-vulnerabilities-and-memory-safety",
+        "queries": [
+          "CISSP buffer overflow side channel memory protection concepts",
+          "software and hardware vulnerability architecture examples"
+        ]
+      },
+      {
+        "title": "Virtualization, Container, and Cloud Architecture Risks",
+        "slug": "virtualization-container-and-cloud-architecture-risks",
+        "queries": [
+          "CISSP virtualization container cloud architecture risks",
+          "cloud security architecture container isolation shared responsibility"
+        ]
+      },
+      {
+        "title": "Case Study: PKI for Enterprise Email",
+        "slug": "case-study-pki-for-enterprise-email",
+        "queries": [
+          "enterprise email PKI case study S/MIME certificate lifecycle",
+          "CISSP PKI email encryption digital signatures scenario"
+        ]
+      },
+      {
+        "title": "Case Study: Secure Hybrid Cloud Architecture",
+        "slug": "case-study-secure-hybrid-cloud-architecture",
+        "queries": [
+          "hybrid cloud security architecture case study zero trust",
+          "CISSP hybrid cloud architecture trust zones segmentation"
+        ]
+      },
+      {
+        "title": "OpenSSL and Cryptographic Command Examples",
+        "slug": "openssl-and-cryptographic-command-examples",
+        "queries": [
+          "OpenSSL generate certificate CSR inspect hash verify signature",
+          "OpenSSL command examples PKI certificate lifecycle"
+        ]
+      },
+      {
+        "title": "FAQ and Exam Questions",
+        "slug": "faq-and-exam-questions-domain-3",
+        "queries": [
+          "CISSP domain 3 practice questions security architecture rationale",
+          "CISSP domain 3 best answer cryptography architecture model"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Domain 4: Communication and Network Security",
+    "slug": "domain-4-communication-and-network-security",
+    "children": [
+      {
+        "title": "Network Architecture and Segmentation",
+        "slug": "network-architecture-and-segmentation",
+        "queries": [
+          "CISSP network segmentation VLAN subnet ACL microsegmentation",
+          "enterprise network architecture trust boundaries segmentation"
+        ]
+      },
+      {
+        "title": "OSI and TCP/IP Models in Security Context",
+        "slug": "osi-and-tcp-ip-models-in-security-context",
+        "queries": [
+          "CISSP OSI TCP IP security implications",
+          "network protocol layers security controls CISSP"
+        ]
+      },
+      {
+        "title": "Secure Routing, Switching, and Wireless Concepts",
+        "slug": "secure-routing-switching-and-wireless-concepts",
+        "queries": [
+          "CISSP secure routing switching wireless enterprise",
+          "wireless security WPA3 enterprise 802.1X concepts"
+        ]
+      },
+      {
+        "title": "VPNs, Remote Access, and Secure Tunnels",
+        "slug": "vpns-remote-access-and-secure-tunnels",
+        "queries": [
+          "CISSP VPN remote access secure tunnels zero trust",
+          "enterprise remote access security VPN alternatives"
+        ]
+      },
+      {
+        "title": "Network Access Control and Perimeter Defense",
+        "slug": "network-access-control-and-perimeter-defense",
+        "queries": [
+          "CISSP network access control NAC firewall proxy IDS IPS WAF",
+          "enterprise perimeter defense prevention detection controls"
+        ]
+      },
+      {
+        "title": "DNS, Email, and Web Security",
+        "slug": "dns-email-and-web-security",
+        "queries": [
+          "CISSP DNS security SPF DKIM DMARC TLS email web security",
+          "secure email flow SPF DKIM DMARC enterprise"
+        ]
+      },
+      {
+        "title": "Network Monitoring and Traffic Analysis",
+        "slug": "network-monitoring-and-traffic-analysis",
+        "queries": [
+          "CISSP network monitoring traffic analysis Wireshark logs",
+          "enterprise network telemetry detection and response"
+        ]
+      },
+      {
+        "title": "Cloud Networking and Hybrid Connectivity Security",
+        "slug": "cloud-networking-and-hybrid-connectivity-security",
+        "queries": [
+          "CISSP cloud networking hybrid connectivity security groups microsegmentation",
+          "cloud network security architecture hybrid enterprise"
+        ]
+      },
+      {
+        "title": "Case Study: Hospital Network Access Control",
+        "slug": "case-study-hospital-network-access-control",
+        "queries": [
+          "hospital network segmentation access control case study",
+          "CISSP network security healthcare scenario"
+        ]
+      },
+      {
+        "title": "Case Study: Remote Workforce with VPN and Zero Trust",
+        "slug": "case-study-remote-workforce-with-vpn-and-zero-trust",
+        "queries": [
+          "remote workforce zero trust VPN case study enterprise",
+          "CISSP remote access zero trust scenario"
+        ]
+      },
+      {
+        "title": "Firewall Rule Examples and Wireshark Filters",
+        "slug": "firewall-rule-examples-and-wireshark-filters",
+        "queries": [
+          "generic firewall rule examples Wireshark display filters",
+          "Wireshark filter examples network security analysis"
+        ]
+      },
+      {
+        "title": "FAQ and Exam Questions",
+        "slug": "faq-and-exam-questions-domain-4",
+        "queries": [
+          "CISSP domain 4 practice questions network security rationale",
+          "CISSP domain 4 best answer segmentation firewall VPN"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Domain 5: Identity and Access Management (IAM)",
+    "slug": "domain-5-identity-and-access-management-iam",
+    "children": [
+      {
+        "title": "Identification, Authentication, Authorization, and Accounting",
+        "slug": "identification-authentication-authorization-and-accounting",
+        "queries": [
+          "CISSP identification authentication authorization accounting",
+          "IAM AAA concepts enterprise security"
+        ]
+      },
+      {
+        "title": "Access Control Models",
+        "slug": "access-control-models",
+        "queries": [
+          "CISSP DAC MAC RBAC ABAC rule-based access control",
+          "access control model comparison enterprise IAM"
+        ]
+      },
+      {
+        "title": "IAM Lifecycle and Governance",
+        "slug": "iam-lifecycle-and-governance",
+        "queries": [
+          "CISSP provisioning deprovisioning access reviews identity governance",
+          "IAM lifecycle access governance best practices"
+        ]
+      },
+      {
+        "title": "Authentication Factors and MFA",
+        "slug": "authentication-factors-and-mfa",
+        "queries": [
+          "CISSP MFA phishing-resistant authentication passkeys FIDO2",
+          "modern authentication factors and MFA enterprise guidance"
+        ]
+      },
+      {
+        "title": "Federation, SSO, and Identity Standards",
+        "slug": "federation-sso-and-identity-standards",
+        "queries": [
+          "CISSP SAML OAuth 2.0 OpenID Connect SCIM LDAP Kerberos",
+          "identity federation and single sign-on standards enterprise"
+        ]
+      },
+      {
+        "title": "Directory Services and Identity Stores",
+        "slug": "directory-services-and-identity-stores",
+        "queries": [
+          "CISSP directory services identity stores Active Directory LDAP",
+          "enterprise identity store architecture and governance"
+        ]
+      },
+      {
+        "title": "Session Management and Access Governance",
+        "slug": "session-management-and-access-governance",
+        "queries": [
+          "CISSP session management access governance conditional access",
+          "enterprise session security timeout reauthentication guidance"
+        ]
+      },
+      {
+        "title": "Privileged Access Management and Secrets Management",
+        "slug": "privileged-access-management-and-secrets-management",
+        "queries": [
+          "CISSP PAM JIT JEA secrets management HashiCorp Vault",
+          "privileged access management enterprise best practices"
+        ]
+      },
+      {
+        "title": "Physical Access Control Integration",
+        "slug": "physical-access-control-integration",
+        "queries": [
+          "CISSP physical access control integration identity management",
+          "enterprise badge access IAM integration"
+        ]
+      },
+      {
+        "title": "Identity Proofing and Assurance Levels",
+        "slug": "identity-proofing-and-assurance-levels",
+        "queries": [
+          "CISSP identity proofing assurance levels",
+          "identity verification and assurance enterprise security"
+        ]
+      },
+      {
+        "title": "Case Study: IAM Policy for a Multinational Enterprise",
+        "slug": "case-study-iam-policy-for-a-multinational-enterprise",
+        "queries": [
+          "multinational enterprise IAM policy case study",
+          "CISSP identity governance multinational organization scenario"
+        ]
+      },
+      {
+        "title": "Case Study: Privileged Access for Finance",
+        "slug": "case-study-privileged-access-for-finance",
+        "queries": [
+          "privileged access finance department case study",
+          "CISSP PAM finance scenario segregation of duties"
+        ]
+      },
+      {
+        "title": "Case Study: Zero Trust Identity for Cloud and SaaS",
+        "slug": "case-study-zero-trust-identity-for-cloud-and-saas",
+        "queries": [
+          "zero trust identity cloud SaaS case study",
+          "CISSP identity-centric security architecture scenario"
+        ]
+      },
+      {
+        "title": "FAQ and Exam Questions",
+        "slug": "faq-and-exam-questions-domain-5",
+        "queries": [
+          "CISSP domain 5 practice questions IAM rationale",
+          "CISSP domain 5 best answer access control authentication"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Domain 6: Security Assessment and Testing",
+    "slug": "domain-6-security-assessment-and-testing",
+    "children": [
+      {
+        "title": "Security Testing Strategy and Governance",
+        "slug": "security-testing-strategy-and-governance",
+        "queries": [
+          "CISSP security assessment testing strategy governance",
+          "enterprise security testing program design"
+        ]
+      },
+      {
+        "title": "Vulnerability Assessment vs Penetration Testing",
+        "slug": "vulnerability-assessment-vs-penetration-testing",
+        "queries": [
+          "CISSP vulnerability assessment vs penetration testing",
+          "security testing methods comparison enterprise"
+        ]
+      },
+      {
+        "title": "Audit Processes and Evidence Collection",
+        "slug": "audit-processes-and-evidence-collection",
+        "queries": [
+          "CISSP audit evidence collection processes",
+          "security audit evidence checklist enterprise"
+        ]
+      },
+      {
+        "title": "Logging and Monitoring Validation",
+        "slug": "logging-and-monitoring-validation",
+        "queries": [
+          "CISSP logging monitoring validation SIEM",
+          "security monitoring validation and log review best practices"
+        ]
+      },
+      {
+        "title": "Test Types and Scope",
+        "slug": "test-types-and-scope",
+        "queries": [
+          "CISSP black box white box gray box testing scope",
+          "security assessment test planning scope rules of engagement"
+        ]
+      },
+      {
+        "title": "Metrics, KPIs, and KRIs",
+        "slug": "metrics-kpis-and-kris",
+        "queries": [
+          "CISSP security metrics KPI KRI continuous control monitoring",
+          "enterprise security dashboard metrics examples"
+        ]
+      },
+      {
+        "title": "Assessment Reporting and Remediation Tracking",
+        "slug": "assessment-reporting-and-remediation-tracking",
+        "queries": [
+          "CISSP security assessment reporting remediation tracking",
+          "vulnerability remediation workflow enterprise security"
+        ]
+      },
+      {
+        "title": "Case Study: Healthcare Web Application Assessment",
+        "slug": "case-study-healthcare-web-application-assessment",
+        "queries": [
+          "healthcare web application security assessment case study",
+          "CISSP security assessment healthcare application scenario"
+        ]
+      },
+      {
+        "title": "Vulnerability Triage Workflow and Risk Prioritization",
+        "slug": "vulnerability-triage-workflow-and-risk-prioritization",
+        "queries": [
+          "vulnerability triage workflow risk prioritization enterprise",
+          "CISSP remediation prioritization vulnerability management"
+        ]
+      },
+      {
+        "title": "Audit Evidence Checklist and Metrics Dashboard",
+        "slug": "audit-evidence-checklist-and-metrics-dashboard",
+        "queries": [
+          "audit evidence checklist security metrics dashboard example",
+          "continuous control monitoring dashboard enterprise security"
+        ]
+      },
+      {
+        "title": "FAQ and Exam Questions",
+        "slug": "faq-and-exam-questions-domain-6",
+        "queries": [
+          "CISSP domain 6 practice questions assessment testing rationale",
+          "CISSP domain 6 best answer testing audit evidence"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Domain 7: Security Operations",
+    "slug": "domain-7-security-operations",
+    "children": [
+      {
+        "title": "Incident Response Lifecycle",
+        "slug": "incident-response-lifecycle",
+        "queries": [
+          "CISSP incident response lifecycle detection analysis containment eradication recovery",
+          "NIST incident response lifecycle current guidance"
+        ]
+      },
+      {
+        "title": "Logging, Monitoring, and Alert Triage",
+        "slug": "logging-monitoring-and-alert-triage",
+        "queries": [
+          "CISSP logging monitoring alert triage SIEM SOAR",
+          "security operations alert triage best practices"
+        ]
+      },
+      {
+        "title": "Threat Intelligence and Operational Security",
+        "slug": "threat-intelligence-and-operational-security",
+        "queries": [
+          "CISSP threat intelligence operational security MITRE ATT&CK",
+          "enterprise threat intelligence and adversary behavior mapping"
+        ]
+      },
+      {
+        "title": "Forensics Fundamentals",
+        "slug": "forensics-fundamentals",
+        "queries": [
+          "CISSP digital forensics chain of custody evidence preservation",
+          "forensic acquisition and preservation basics enterprise"
+        ]
+      },
+      {
+        "title": "Change and Configuration Management",
+        "slug": "change-and-configuration-management",
+        "queries": [
+          "CISSP change management configuration management security operations",
+          "enterprise configuration baseline and change control"
+        ]
+      },
+      {
+        "title": "Backup, Recovery, and Resilience Operations",
+        "slug": "backup-recovery-and-resilience-operations",
+        "queries": [
+          "CISSP backup recovery resilience operations RTO RPO",
+          "enterprise backup strategy immutable backups recovery"
+        ]
+      },
+      {
+        "title": "Disaster Recovery and Business Continuity Execution",
+        "slug": "disaster-recovery-and-business-continuity-execution",
+        "queries": [
+          "CISSP disaster recovery business continuity execution",
+          "BCP DR exercise planning enterprise security"
+        ]
+      },
+      {
+        "title": "Physical Security Operations",
+        "slug": "physical-security-operations",
+        "queries": [
+          "CISSP physical security operations data center access",
+          "enterprise physical security monitoring and response"
+        ]
+      },
+      {
+        "title": "Patch and Vulnerability Management",
+        "slug": "patch-and-vulnerability-management",
+        "queries": [
+          "CISSP patch management vulnerability management operations",
+          "enterprise patching strategy risk-based prioritization"
+        ]
+      },
+      {
+        "title": "Malware Defense and Endpoint Security",
+        "slug": "malware-defense-and-endpoint-security",
+        "queries": [
+          "CISSP malware defense endpoint security EDR XDR",
+          "enterprise endpoint hardening and malware response"
+        ]
+      },
+      {
+        "title": "Security Orchestration and Automation",
+        "slug": "security-orchestration-and-automation",
+        "queries": [
+          "CISSP SOAR security orchestration automation concepts",
+          "security automation use cases enterprise operations"
+        ]
+      },
+      {
+        "title": "Case Study: BCP/DR Exercise",
+        "slug": "case-study-bcp-dr-exercise",
+        "queries": [
+          "BCP DR exercise case study enterprise security",
+          "CISSP business continuity disaster recovery scenario"
+        ]
+      },
+      {
+        "title": "Case Study: Ransomware Response in a Hospital",
+        "slug": "case-study-ransomware-response-in-a-hospital",
+        "queries": [
+          "ransomware response hospital case study CISSP",
+          "healthcare incident response ransomware recovery scenario"
+        ]
+      },
+      {
+        "title": "Incident Response Playbook and Chain of Custody",
+        "slug": "incident-response-playbook-and-chain-of-custody",
+        "queries": [
+          "incident response playbook chain of custody example",
+          "CISSP evidence handling and response playbook"
+        ]
+      },
+      {
+        "title": "Log Review and Backup Strategy Examples",
+        "slug": "log-review-and-backup-strategy-examples",
+        "queries": [
+          "log review examples backup strategy comparison enterprise",
+          "security operations log analysis and backup design"
+        ]
+      },
+      {
+        "title": "FAQ and Exam Questions",
+        "slug": "faq-and-exam-questions-domain-7",
+        "queries": [
+          "CISSP domain 7 practice questions security operations rationale",
+          "CISSP domain 7 best answer incident response recovery"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Domain 8: Software Development Security",
+    "slug": "domain-8-software-development-security",
+    "children": [
+      {
+        "title": "Secure SDLC and DevSecOps",
+        "slug": "secure-sdlc-and-devsecops",
+        "queries": [
+          "CISSP secure SDLC DevSecOps pipeline security",
+          "enterprise DevSecOps governance and security integration"
+        ]
+      },
+      {
+        "title": "Software Development Models",
+        "slug": "software-development-models",
+        "queries": [
+          "CISSP waterfall agile iterative DevOps development models",
+          "software development lifecycle models security implications"
+        ]
+      },
+      {
+        "title": "Requirements, Design, Implementation, Testing, Deployment, and Maintenance",
+        "slug": "requirements-design-implementation-testing-deployment-and-maintenance",
+        "queries": [
+          "CISSP SDLC phases security requirements design testing deployment maintenance",
+          "secure development lifecycle phase controls enterprise"
+        ]
+      },
+      {
+        "title": "Secure Coding Principles",
+        "slug": "secure-coding-principles",
+        "queries": [
+          "CISSP secure coding principles input validation output encoding",
+          "secure coding best practices enterprise application security"
+        ]
+      },
+      {
+        "title": "Application Security Threats and Mitigations",
+        "slug": "application-security-threats-and-mitigations",
+        "queries": [
+          "CISSP OWASP Top 10 application security threats mitigations",
+          "web application security threats and controls OWASP"
+        ]
+      },
+      {
+        "title": "Software Supply Chain Security",
+        "slug": "software-supply-chain-security",
+        "queries": [
+          "CISSP software supply chain security SBOM dependency management",
+          "software supply chain attack mitigation enterprise"
+        ]
+      },
+      {
+        "title": "Code Review and Dependency Management",
+        "slug": "code-review-and-dependency-management",
+        "queries": [
+          "CISSP code review dependency management SCA",
+          "secure code review and dependency governance"
+        ]
+      },
+      {
+        "title": "Container and CI/CD Security",
+        "slug": "container-and-ci-cd-security",
+        "queries": [
+          "CISSP container security CI CD pipeline security",
+          "Kubernetes container image scanning policy enforcement security"
+        ]
+      },
+      {
+        "title": "API Security",
+        "slug": "api-security",
+        "queries": [
+          "CISSP API security authentication authorization rate limiting",
+          "OWASP API security top risks enterprise"
+        ]
+      },
+      {
+        "title": "Secrets Management in Development Pipelines",
+        "slug": "secrets-management-in-development-pipelines",
+        "queries": [
+          "CISSP secrets management CI CD pipeline HashiCorp Vault",
+          "secure secrets storage development pipeline best practices"
+        ]
+      },
+      {
+        "title": "Case Study: Securing an Enterprise CI/CD Pipeline",
+        "slug": "case-study-securing-an-enterprise-ci-cd-pipeline",
+        "queries": [
+          "enterprise CI CD pipeline security case study",
+          "CISSP DevSecOps pipeline control mapping scenario"
+        ]
+      },
+      {
+        "title": "Case Study: Threat Modeling a Customer-Facing Web Application",
+        "slug": "case-study-threat-modeling-a-customer-facing-web-application",
+        "queries": [
+          "threat modeling customer facing web application case study",
+          "CISSP application threat modeling scenario"
+        ]
+      },
+      {
+        "title": "Secure Coding Checklist and SBOM Review",
+        "slug": "secure-coding-checklist-and-sbom-review",
+        "queries": [
+          "secure coding checklist SBOM review example",
+          "software bill of materials review enterprise security"
+        ]
+      },
+      {
+        "title": "FAQ and Exam Questions",
+        "slug": "faq-and-exam-questions-domain-8",
+        "queries": [
+          "CISSP domain 8 practice questions software development security rationale",
+          "CISSP domain 8 best answer SDLC DevSecOps OWASP"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Final Review, Integrated Scenarios, and Exam Readiness",
+    "slug": "final-review-integrated-scenarios-and-exam-readiness",
+    "children": [
+      {
+        "title": "Domain-by-Domain High-Yield Review",
+        "slug": "domain-by-domain-high-yield-review",
+        "queries": [
+          "CISSP high yield review all 8 domains",
+          "CISSP final review key concepts comparison charts"
+        ]
+      },
+      {
+        "title": "Integrated Enterprise Scenarios",
+        "slug": "integrated-enterprise-scenarios",
+        "queries": [
+          "CISSP integrated enterprise scenarios healthcare finance cloud remote workforce",
+          "cross domain CISSP scenario practice questions"
+        ]
+      },
+      {
+        "title": "Decision Trees and Tradeoff Analysis",
+        "slug": "decision-trees-and-tradeoff-analysis",
+        "queries": [
+          "CISSP decision tree prioritization tradeoff analysis",
+          "best answer reasoning risk based security decisions"
+        ]
+      },
+      {
+        "title": "Memory Aids and Comparison Charts",
+        "slug": "memory-aids-and-comparison-charts",
+        "queries": [
+          "CISSP memory aids comparison charts control types access models",
+          "CISSP study charts mnemonics and comparisons"
+        ]
+      },
+      {
+        "title": "Time Management and Test-Taking Strategy",
+        "slug": "time-management-and-test-taking-strategy",
+        "queries": [
+          "CISSP time management test taking strategy CAT exam",
+          "CISSP exam pacing and question strategy"
+        ]
+      },
+      {
+        "title": "Final Readiness Checklist",
+        "slug": "final-readiness-checklist",
+        "queries": [
+          "CISSP final readiness checklist exam preparation",
+          "CISSP exam readiness self assessment checklist"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Comprehensive FAQ/Q&A by Domain",
+    "slug": "comprehensive-faq-qa-by-domain",
+    "children": [
+      {
+        "title": "Domain 1 FAQ/Q&A",
+        "slug": "domain-1-faq-qa",
+        "queries": [
+          "CISSP domain 1 FAQ best answer questions",
+          "CISSP domain 1 common traps and misconceptions"
+        ]
+      },
+      {
+        "title": "Domain 2 FAQ/Q&A",
+        "slug": "domain-2-faq-qa",
+        "queries": [
+          "CISSP domain 2 FAQ best answer questions",
+          "CISSP domain 2 common traps and misconceptions"
+        ]
+      },
+      {
+        "title": "Domain 3 FAQ/Q&A",
+        "slug": "domain-3-faq-qa",
+        "queries": [
+          "CISSP domain 3 FAQ best answer questions",
+          "CISSP domain 3 common traps and misconceptions"
+        ]
+      },
+      {
+        "title": "Domain 4 FAQ/Q&A",
+        "slug": "domain-4-faq-qa",
+        "queries": [
+          "CISSP domain 4 FAQ best answer questions",
+          "CISSP domain 4 common traps and misconceptions"
+        ]
+      },
+      {
+        "title": "Domain 5 FAQ/Q&A",
+        "slug": "domain-5-faq-qa",
+        "queries": [
+          "CISSP domain 5 FAQ best answer questions",
+          "CISSP domain 5 common traps and misconceptions"
+        ]
+      },
+      {
+        "title": "Domain 6 FAQ/Q&A",
+        "slug": "domain-6-faq-qa",
+        "queries": [
+          "CISSP domain 6 FAQ best answer questions",
+          "CISSP domain 6 common traps and misconceptions"
+        ]
+      },
+      {
+        "title": "Domain 7 FAQ/Q&A",
+        "slug": "domain-7-faq-qa",
+        "queries": [
+          "CISSP domain 7 FAQ best answer questions",
+          "CISSP domain 7 common traps and misconceptions"
+        ]
+      },
+      {
+        "title": "Domain 8 FAQ/Q&A",
+        "slug": "domain-8-faq-qa",
+        "queries": [
+          "CISSP domain 8 FAQ best answer questions",
+          "CISSP domain 8 common traps and misconceptions"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Practice Exam and Rationales",
+    "slug": "practice-exam-and-rationales",
+    "children": [
+      {
+        "title": "Full-Length CISSP-Style Practice Exam",
+        "slug": "full-length-cissp-style-practice-exam",
+        "queries": [
+          "CISSP full length practice exam scenario based questions",
+          "ISC2 CISSP practice exam best answer rationales"
+        ]
+      },
+      {
+        "title": "Answer Rationales and Distractor Analysis",
+        "slug": "answer-rationales-and-distractor-analysis",
+        "queries": [
+          "CISSP answer rationales distractor analysis best answer",
+          "CISSP practice question explanations manager mindset"
+        ]
+      },
+      {
+        "title": "Domain-Specific Practice Sets",
+        "slug": "domain-specific-practice-sets",
+        "queries": [
+          "CISSP domain specific practice questions with rationales",
+          "CISSP scenario based practice questions by domain"
+        ]
+      },
+      {
+        "title": "Weak-Area Remediation Plan",
+        "slug": "weak-area-remediation-plan",
+        "queries": [
+          "CISSP weak area remediation study plan",
+          "CISSP practice exam review and remediation strategy"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,634 @@
+[
+  {
+    "title": "Module 1: Course Setup and Developer Environment",
+    "slug": "module-1-course-setup-and-developer-environment",
+    "children": [
+      {
+        "title": "Install AWS CLI v2 and Verify Version",
+        "slug": "install-aws-cli-v2-and-verify-version",
+        "queries": [
+          "AWS CLI v2 installation and configuration latest documentation",
+          "aws configure sso and aws sts get-caller-identity validation"
+        ]
+      },
+      {
+        "title": "Configure AWS Profiles, Credentials, and Regions",
+        "slug": "configure-aws-profiles-credentials-regions",
+        "queries": [
+          "AWS CLI named profiles credential process environment variables documentation",
+          "AWS SDK credential provider chain environment variables latest"
+        ]
+      },
+      {
+        "title": "Set Up Python Development Environment for AWS",
+        "slug": "set-up-python-development-environment-for-aws",
+        "queries": [
+          "Python 3.13 virtual environment pipx uv AWS development setup",
+          "boto3 latest installation Python AWS SDK documentation"
+        ]
+      },
+      {
+        "title": "Set Up TypeScript Development Environment for AWS",
+        "slug": "set-up-typescript-development-environment-for-aws",
+        "queries": [
+          "Node.js 22 TypeScript AWS development environment setup",
+          "AWS SDK for JavaScript v3 TypeScript project setup latest"
+        ]
+      },
+      {
+        "title": "Install AWS CDK v2 and AWS SAM CLI",
+        "slug": "install-aws-cdk-v2-and-aws-sam-cli",
+        "queries": [
+          "AWS CDK v2 installation latest documentation",
+          "AWS SAM CLI installation latest documentation"
+        ]
+      },
+      {
+        "title": "Initialize Git Repository and Project Layout",
+        "slug": "initialize-git-repository-and-project-layout",
+        "queries": [
+          "AWS serverless project structure best practices CDK SAM repository layout",
+          "git init .gitignore AWS Lambda project structure Python TypeScript"
+        ]
+      },
+      {
+        "title": "Environment Validation and Toolchain Smoke Tests",
+        "slug": "environment-validation-and-toolchain-smoke-tests",
+        "queries": [
+          "aws sts get-caller-identity cdk doctor sam --version validation",
+          "AWS developer toolchain smoke test CLI SDK CDK SAM"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 2: AWS CLI and SDK Fundamentals for Developers",
+    "slug": "module-2-aws-cli-and-sdk-fundamentals-for-developers",
+    "children": [
+      {
+        "title": "Create and Inspect Resources with AWS CLI",
+        "slug": "create-and-inspect-resources-with-aws-cli",
+        "queries": [
+          "AWS CLI create list describe resources developer workflow examples",
+          "aws cli json output query jq validation examples"
+        ]
+      },
+      {
+        "title": "Use boto3 to Interact with DynamoDB",
+        "slug": "use-boto3-to-interact-with-dynamodb",
+        "queries": [
+          "boto3 DynamoDB put_item get_item query scan examples latest",
+          "Python boto3 DynamoDB retry pagination error handling"
+        ]
+      },
+      {
+        "title": "Use AWS SDK for JavaScript/TypeScript to Interact with Lambda",
+        "slug": "use-aws-sdk-for-javascript-typescript-to-interact-with-lambda",
+        "queries": [
+          "AWS SDK v3 Lambda invoke TypeScript example latest",
+          "JavaScript AWS SDK v3 Lambda client error handling retries"
+        ]
+      },
+      {
+        "title": "Handle Pagination, Retries, and Service Errors",
+        "slug": "handle-pagination-retries-and-service-errors",
+        "queries": [
+          "AWS SDK pagination retry strategy error handling latest",
+          "boto3 botocore retries pagination exceptions documentation"
+        ]
+      },
+      {
+        "title": "Configure SDK Authentication with Environment Variables",
+        "slug": "configure-sdk-authentication-with-environment-variables",
+        "queries": [
+          "AWS SDK environment variables credential configuration latest",
+          "AWS_ACCESS_KEY_ID AWS_SECRET_ACCESS_KEY AWS_SESSION_TOKEN SDK auth"
+        ]
+      },
+      {
+        "title": "Validate Deployed Resources with CLI and SDK Calls",
+        "slug": "validate-deployed-resources-with-cli-and-sdk-calls",
+        "queries": [
+          "AWS CLI validate Lambda DynamoDB API Gateway deployed resources",
+          "SDK based smoke test for AWS serverless application"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 3: Infrastructure as Code with AWS CDK in Python",
+    "slug": "module-3-infrastructure-as-code-with-aws-cdk-in-python",
+    "children": [
+      {
+        "title": "Initialize a CDK Python Application",
+        "slug": "initialize-a-cdk-python-application",
+        "queries": [
+          "AWS CDK Python app initialization latest documentation",
+          "cdk init app python project structure latest"
+        ]
+      },
+      {
+        "title": "Define Stacks, Constructs, and Environment Configuration",
+        "slug": "define-stacks-constructs-and-environment-configuration",
+        "queries": [
+          "AWS CDK Python stack construct environment configuration examples",
+          "cdk context environment variables Python best practices"
+        ]
+      },
+      {
+        "title": "Provision Lambda, API Gateway, DynamoDB, and IAM",
+        "slug": "provision-lambda-api-gateway-dynamodb-and-iam",
+        "queries": [
+          "AWS CDK Python Lambda API Gateway DynamoDB IAM example latest",
+          "cdk Python serverless stack lambda rest api dynamodb role"
+        ]
+      },
+      {
+        "title": "Add CloudWatch Logs, Metrics, and X-Ray Resources",
+        "slug": "add-cloudwatch-logs-metrics-and-x-ray-resources",
+        "queries": [
+          "AWS CDK Python CloudWatch Logs metrics X-Ray configuration",
+          "cdk enable xray tracing lambda api gateway python"
+        ]
+      },
+      {
+        "title": "Use Parameterization and Reusable Constructs",
+        "slug": "use-parameterization-and-reusable-constructs",
+        "queries": [
+          "AWS CDK Python reusable constructs parameterization latest",
+          "cdk custom construct patterns Python environment specific config"
+        ]
+      },
+      {
+        "title": "Run Synth, Diff, Deploy, and Destroy",
+        "slug": "run-synth-diff-deploy-and-destroy",
+        "queries": [
+          "cdk synth diff deploy destroy workflow latest",
+          "AWS CDK deployment validation and teardown commands"
+        ]
+      },
+      {
+        "title": "Export Stack Outputs for Application Integration",
+        "slug": "export-stack-outputs-for-application-integration",
+        "queries": [
+          "AWS CDK stack outputs export values Python example",
+          "cdk output resource identifiers for Lambda API Gateway DynamoDB"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 4: Infrastructure as Code with AWS CDK in TypeScript",
+    "slug": "module-4-infrastructure-as-code-with-aws-cdk-in-typescript",
+    "children": [
+      {
+        "title": "Initialize a CDK TypeScript Application",
+        "slug": "initialize-a-cdk-typescript-application",
+        "queries": [
+          "AWS CDK TypeScript app initialization latest documentation",
+          "cdk init app typescript project structure latest"
+        ]
+      },
+      {
+        "title": "Use Strong Typing for AWS Resource Definitions",
+        "slug": "use-strong-typing-for-aws-resource-definitions",
+        "queries": [
+          "AWS CDK TypeScript strong typing patterns latest",
+          "TypeScript AWS CDK resource typing examples"
+        ]
+      },
+      {
+        "title": "Implement Cross-Stack References",
+        "slug": "implement-cross-stack-references",
+        "queries": [
+          "AWS CDK TypeScript cross stack references latest",
+          "cdk export import value TypeScript example"
+        ]
+      },
+      {
+        "title": "Deploy and Validate TypeScript CDK Stacks",
+        "slug": "deploy-and-validate-typescript-cdk-stacks",
+        "queries": [
+          "cdk deploy validate TypeScript stack outputs latest",
+          "AWS CDK TypeScript deployment troubleshooting validation"
+        ]
+      },
+      {
+        "title": "Compare Python and TypeScript CDK Patterns",
+        "slug": "compare-python-and-typescript-cdk-patterns",
+        "queries": [
+          "AWS CDK Python vs TypeScript patterns comparison latest",
+          "CDK language comparison constructs stacks best practices"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 5: Serverless API Development with Lambda and API Gateway",
+    "slug": "module-5-serverless-api-development-with-lambda-and-api-gateway",
+    "children": [
+      {
+        "title": "Design Lambda Handlers for API Requests",
+        "slug": "design-lambda-handlers-for-api-requests",
+        "queries": [
+          "AWS Lambda handler patterns for API Gateway Python TypeScript latest",
+          "Lambda proxy integration handler request response examples"
+        ]
+      },
+      {
+        "title": "Integrate API Gateway with Lambda",
+        "slug": "integrate-api-gateway-with-lambda",
+        "queries": [
+          "API Gateway HTTP API Lambda integration latest documentation",
+          "API Gateway Lambda proxy integration current best practice"
+        ]
+      },
+      {
+        "title": "Implement Request Validation and Error Handling",
+        "slug": "implement-request-validation-and-error-handling",
+        "queries": [
+          "Lambda API Gateway validation error handling status codes examples",
+          "API Gateway request validation Lambda response format latest"
+        ]
+      },
+      {
+        "title": "Inject Configuration with Environment Variables",
+        "slug": "inject-configuration-with-environment-variables",
+        "queries": [
+          "AWS Lambda environment variables configuration best practices latest",
+          "CDK SAM environment variable injection Lambda examples"
+        ]
+      },
+      {
+        "title": "Test Locally and in Deployed Environments",
+        "slug": "test-locally-and-in-deployed-environments",
+        "queries": [
+          "AWS SAM local invoke local start-api latest documentation",
+          "Lambda API Gateway deployed testing curl aws cli validation"
+        ]
+      },
+      {
+        "title": "Add Authentication and Authorization",
+        "slug": "add-authentication-and-authorization",
+        "queries": [
+          "API Gateway Lambda authorization latest documentation",
+          "AWS IAM authorizer JWT authorizer API Gateway current best practice"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 6: DynamoDB Data Modeling and Access Patterns",
+    "slug": "module-6-dynamodb-data-modeling-and-access-patterns",
+    "children": [
+      {
+        "title": "Design Tables for Access Patterns",
+        "slug": "design-tables-for-access-patterns",
+        "queries": [
+          "DynamoDB table design access patterns single table design latest",
+          "DynamoDB primary key sort key modeling examples"
+        ]
+      },
+      {
+        "title": "Use Query vs Scan Correctly",
+        "slug": "use-query-vs-scan-correctly",
+        "queries": [
+          "DynamoDB query vs scan performance and usage latest",
+          "DynamoDB query pagination filter expression examples"
+        ]
+      },
+      {
+        "title": "Implement Secondary Indexes",
+        "slug": "implement-secondary-indexes",
+        "queries": [
+          "DynamoDB global secondary index local secondary index latest",
+          "DynamoDB GSI design and query examples"
+        ]
+      },
+      {
+        "title": "Use Conditional Writes and Optimistic Concurrency",
+        "slug": "use-conditional-writes-and-optimistic-concurrency",
+        "queries": [
+          "DynamoDB conditional writes optimistic concurrency control latest",
+          "DynamoDB version attribute conditional update example"
+        ]
+      },
+      {
+        "title": "Implement Idempotency and TTL",
+        "slug": "implement-idempotency-and-ttl",
+        "queries": [
+          "DynamoDB idempotency pattern TTL latest documentation",
+          "DynamoDB time to live item lifecycle examples"
+        ]
+      },
+      {
+        "title": "Perform CRUD Operations from Lambda with SDKs",
+        "slug": "perform-crud-operations-from-lambda-with-sdks",
+        "queries": [
+          "Lambda boto3 DynamoDB CRUD example latest",
+          "AWS SDK v3 DynamoDB CRUD from Lambda TypeScript example"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 7: End-to-End Serverless Application Lab",
+    "slug": "module-7-end-to-end-serverless-application-lab",
+    "children": [
+      {
+        "title": "Build the Application Skeleton and Data Model",
+        "slug": "build-the-application-skeleton-and-data-model",
+        "queries": [
+          "serverless application skeleton Lambda API Gateway DynamoDB CDK SAM",
+          "end to end serverless app project structure latest"
+        ]
+      },
+      {
+        "title": "Implement API Endpoints and Persistence",
+        "slug": "implement-api-endpoints-and-persistence",
+        "queries": [
+          "Lambda API Gateway DynamoDB CRUD application example latest",
+          "serverless REST API with DynamoDB and Lambda implementation"
+        ]
+      },
+      {
+        "title": "Deploy with AWS CDK",
+        "slug": "deploy-with-aws-cdk",
+        "queries": [
+          "AWS CDK deploy serverless application Lambda API Gateway DynamoDB latest",
+          "cdk deploy validate serverless app end to end"
+        ]
+      },
+      {
+        "title": "Deploy with AWS SAM",
+        "slug": "deploy-with-aws-sam",
+        "queries": [
+          "AWS SAM deploy serverless application Lambda API Gateway DynamoDB latest",
+          "sam build deploy guided workflow serverless app"
+        ]
+      },
+      {
+        "title": "Validate with CLI, SDK, and HTTP Requests",
+        "slug": "validate-with-cli-sdk-and-http-requests",
+        "queries": [
+          "validate serverless API with curl aws cli boto3 latest",
+          "AWS SDK smoke test API Gateway Lambda DynamoDB"
+        ]
+      },
+      {
+        "title": "Teardown and Cost Control",
+        "slug": "teardown-and-cost-control",
+        "queries": [
+          "cdk destroy sam delete teardown serverless resources latest",
+          "AWS cost control cleanup serverless lab resources"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 8: IAM Execution Roles and Permissions Troubleshooting",
+    "slug": "module-8-iam-execution-roles-and-permissions-troubleshooting",
+    "children": [
+      {
+        "title": "Design Lambda Execution Roles and Trust Policies",
+        "slug": "design-lambda-execution-roles-and-trust-policies",
+        "queries": [
+          "Lambda execution role trust policy latest documentation",
+          "IAM role for Lambda least privilege trust relationship example"
+        ]
+      },
+      {
+        "title": "Grant Least-Privilege Access to DynamoDB, Logs, and X-Ray",
+        "slug": "grant-least-privilege-access-to-dynamodb-logs-and-x-ray",
+        "queries": [
+          "IAM policy least privilege DynamoDB CloudWatch Logs X-Ray Lambda",
+          "Lambda execution role permissions for logs xray dynamodb"
+        ]
+      },
+      {
+        "title": "Diagnose AccessDenied and Authorization Failures",
+        "slug": "diagnose-accessdenied-and-authorization-failures",
+        "queries": [
+          "AWS AccessDenied Lambda DynamoDB troubleshooting latest",
+          "CloudWatch logs IAM permission denied Lambda debugging"
+        ]
+      },
+      {
+        "title": "Use IAM Policy Simulation and CLI Validation",
+        "slug": "use-iam-policy-simulation-and-cli-validation",
+        "queries": [
+          "AWS IAM policy simulator CLI examples latest",
+          "aws iam simulate-principal-policy troubleshooting permissions"
+        ]
+      },
+      {
+        "title": "Fix CDK and SAM Generated Role Misconfigurations",
+        "slug": "fix-cdk-and-sam-generated-role-misconfigurations",
+        "queries": [
+          "CDK SAM generated IAM role troubleshooting latest",
+          "AWS CDK Lambda role permissions boundary policy misconfiguration"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 9: Observability and Tracing with CloudWatch and X-Ray",
+    "slug": "module-9-observability-and-tracing-with-cloudwatch-and-x-ray",
+    "children": [
+      {
+        "title": "Implement Structured Logging in Lambda",
+        "slug": "implement-structured-logging-in-lambda",
+        "queries": [
+          "Lambda structured logging Python TypeScript latest",
+          "CloudWatch Logs JSON structured logging Lambda best practices"
+        ]
+      },
+      {
+        "title": "Analyze CloudWatch Logs and Metrics",
+        "slug": "analyze-cloudwatch-logs-and-metrics",
+        "queries": [
+          "CloudWatch Logs Insights Lambda debugging queries latest",
+          "CloudWatch metrics Lambda API Gateway troubleshooting"
+        ]
+      },
+      {
+        "title": "Enable X-Ray Tracing for Lambda and API Gateway",
+        "slug": "enable-x-ray-tracing-for-lambda-and-api-gateway",
+        "queries": [
+          "AWS X-Ray Lambda API Gateway tracing latest documentation",
+          "enable active tracing Lambda API Gateway CDK SAM"
+        ]
+      },
+      {
+        "title": "Interpret Traces and Downstream Dependencies",
+        "slug": "interpret-traces-and-downstream-dependencies",
+        "queries": [
+          "AWS X-Ray segment subsegment interpretation Lambda DynamoDB",
+          "X-Ray trace analysis latency downstream dependency debugging"
+        ]
+      },
+      {
+        "title": "Correlate Logs, Metrics, and Traces",
+        "slug": "correlate-logs-metrics-and-traces",
+        "queries": [
+          "CloudWatch logs metrics X-Ray correlation troubleshooting latest",
+          "AWS observability correlation Lambda API Gateway DynamoDB"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 10: Event-Driven and Asynchronous Integration Patterns",
+    "slug": "module-10-event-driven-and-asynchronous-integration-patterns",
+    "children": [
+      {
+        "title": "Publish and Consume Events with EventBridge",
+        "slug": "publish-and-consume-events-with-eventbridge",
+        "queries": [
+          "Amazon EventBridge publish consume events Lambda latest",
+          "EventBridge event bus rule target Lambda example"
+        ]
+      },
+      {
+        "title": "Integrate SNS and SQS for Asynchronous Workflows",
+        "slug": "integrate-sns-and-sqs-for-asynchronous-workflows",
+        "queries": [
+          "SNS SQS Lambda asynchronous workflow latest documentation",
+          "SQS event source mapping Lambda retry dead letter queue"
+        ]
+      },
+      {
+        "title": "Configure Lambda Event Source Mappings",
+        "slug": "configure-lambda-event-source-mappings",
+        "queries": [
+          "Lambda event source mapping SQS EventBridge latest",
+          "AWS Lambda event source mapping batch size retry behavior"
+        ]
+      },
+      {
+        "title": "Implement Retry, Failure Handling, and DLQs",
+        "slug": "implement-retry-failure-handling-and-dlqs",
+        "queries": [
+          "Lambda dead letter queue retry failure handling latest",
+          "SQS DLQ Lambda failure handling idempotency"
+        ]
+      },
+      {
+        "title": "Handle Idempotency and Duplicate Events",
+        "slug": "handle-idempotency-and-duplicate-events",
+        "queries": [
+          "AWS event-driven idempotency pattern Lambda DynamoDB latest",
+          "duplicate event handling EventBridge SQS Lambda"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 11: CI/CD Automation with CodePipeline and CodeBuild",
+    "slug": "module-11-ci-cd-automation-with-codepipeline-and-codebuild",
+    "children": [
+      {
+        "title": "Design a Source-to-Deploy Pipeline",
+        "slug": "design-a-source-to-deploy-pipeline",
+        "queries": [
+          "AWS CodePipeline source to deploy serverless application latest",
+          "CodePipeline architecture CDK SAM Lambda deployment"
+        ]
+      },
+      {
+        "title": "Configure CodeBuild for Test and Package Steps",
+        "slug": "configure-codebuild-for-test-and-package-steps",
+        "queries": [
+          "AWS CodeBuild buildspec serverless application latest",
+          "CodeBuild test package deploy CDK SAM examples"
+        ]
+      },
+      {
+        "title": "Deploy CDK Applications Through a Pipeline",
+        "slug": "deploy-cdk-applications-through-a-pipeline",
+        "queries": [
+          "AWS CDK pipeline CodePipeline CodeBuild latest documentation",
+          "deploy CDK stack with CodePipeline example"
+        ]
+      },
+      {
+        "title": "Deploy SAM Applications Through a Pipeline",
+        "slug": "deploy-sam-applications-through-a-pipeline",
+        "queries": [
+          "AWS SAM CodePipeline CodeBuild deployment latest",
+          "sam deploy in CodeBuild pipeline example"
+        ]
+      },
+      {
+        "title": "Implement Promotion, Approvals, and Secure Artifacts",
+        "slug": "implement-promotion-approvals-and-secure-artifacts",
+        "queries": [
+          "CodePipeline manual approval stage secure artifacts latest",
+          "AWS pipeline environment promotion best practices serverless"
+        ]
+      },
+      {
+        "title": "Debug Pipeline Failures",
+        "slug": "debug-pipeline-failures",
+        "queries": [
+          "CodePipeline CodeBuild failure troubleshooting latest",
+          "AWS pipeline debugging CloudWatch logs artifact permissions"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Module 12: Exam-Style Practical Scenarios and Final Capstone",
+    "slug": "module-12-exam-style-practical-scenarios-and-final-capstone",
+    "children": [
+      {
+        "title": "Scenario: Fix a Broken Lambda Deployment",
+        "slug": "scenario-fix-a-broken-lambda-deployment",
+        "queries": [
+          "Lambda deployment failure troubleshooting CloudFormation latest",
+          "AWS developer exam style scenario Lambda broken deployment"
+        ]
+      },
+      {
+        "title": "Scenario: Repair API Gateway and DynamoDB Integration",
+        "slug": "scenario-repair-api-gateway-and-dynamodb-integration",
+        "queries": [
+          "API Gateway Lambda DynamoDB integration troubleshooting latest",
+          "serverless API broken integration debugging scenario"
+        ]
+      },
+      {
+        "title": "Scenario: Resolve IAM and X-Ray Visibility Issues",
+        "slug": "scenario-resolve-iam-and-x-ray-visibility-issues",
+        "queries": [
+          "Lambda IAM X-Ray tracing permission troubleshooting latest",
+          "AWS observability permission issue scenario Lambda X-Ray"
+        ]
+      },
+      {
+        "title": "Scenario: Repair a CI/CD Pipeline",
+        "slug": "scenario-repair-a-ci-cd-pipeline",
+        "queries": [
+          "CodePipeline CodeBuild deployment failure troubleshooting latest",
+          "AWS pipeline broken build deploy scenario serverless"
+        ]
+      },
+      {
+        "title": "Final Capstone: Build and Deliver a Production-Style Serverless Application",
+        "slug": "final-capstone-build-and-deliver-a-production-style-serverless-application",
+        "queries": [
+          "serverless capstone Lambda API Gateway DynamoDB X-Ray CodePipeline CDK SAM",
+          "AWS DVA-C02 practical capstone serverless application latest"
+        ]
+      },
+      {
+        "title": "Capstone Teardown, Cost Review, and Exam Readiness Check",
+        "slug": "capstone-teardown-cost-review-and-exam-readiness-check",
+        "queries": [
+          "AWS resource teardown cost review serverless capstone latest",
+          "DVA-C02 exam readiness practical checklist serverless developer"
+        ]
+      }
+    ]
+  }
+]
