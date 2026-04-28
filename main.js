@@ -227,6 +227,18 @@ ${urls}
 </urlset>`;
 }
 
+function generateSitemapIndex(sitemapUrls = []) {
+  const entries = sitemapUrls.map((entry) => {
+    const lastmod = entry.lastmod ? `<lastmod>${xmlEscape(formatIsoDate(entry.lastmod))}</lastmod>` : '';
+    return `<sitemap><loc>${xmlEscape(entry.loc)}</loc>${lastmod}</sitemap>`;
+  }).join('');
+
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${entries}
+</sitemapindex>`;
+}
+
 function generateRssFeed(feedEntries = [], globalMeta = {}) {
   const siteUrl = normalizeAbsoluteUrl(globalMeta.url, '');
   const latestPubDate = feedEntries[0]?.pubDate ? formatRfc2822Date(feedEntries[0].pubDate) : new Date().toUTCString();
@@ -949,7 +961,7 @@ async function init() {
     const flatPages = getFlatPageList(sidebarConfig);
     const files = getAllFiles(pagesDir);
     const pageEntries = [];
-    const sitemapEntries = [];
+    const sitemapMap = new Map(); // key = course slug or 'root', value = array of entries
     const feedEntries = [];
 
     files.forEach(({ fullPath, relPath }) => {
@@ -1052,7 +1064,12 @@ async function init() {
         image: seo.image,
         canonical: seo.canonical,
       });
-      sitemapEntries.push({ loc: seo.pageUrl || seo.canonical, lastmod });
+
+      // Group sitemap entries by the top-level course slug
+      const courseSlug = cleanPath.split('/')[0] || 'root';
+      if (!sitemapMap.has(courseSlug)) sitemapMap.set(courseSlug, []);
+      sitemapMap.get(courseSlug).push({ loc: seo.pageUrl || seo.canonical, lastmod });
+
       feedEntries.push({
         title: seo.title,
         link: seo.pageUrl || seo.canonical,
@@ -1074,7 +1091,8 @@ async function init() {
       error404Html = minifyHtml(error404Html);
     }
     fs.writeFileSync(path.join('./dist', '404.html'), error404Html);
-    sitemapEntries.push({
+    if (!sitemapMap.has('root')) sitemapMap.set('root', []);
+    sitemapMap.get('root').push({
       loc: normalizeAbsoluteUrl(globalMeta.url, ''),
       lastmod: new Date().toISOString(),
     });
@@ -1106,7 +1124,10 @@ async function init() {
         fs.mkdirSync(outDir, { recursive: true });
       }
       fs.writeFileSync(path.join(outDir, 'index.html'), indexHtml);
-      sitemapEntries.push({
+      // Add folder index page to its course sitemap group
+      const idxSlug = folderPath.split('/')[0] || 'root';
+      if (!sitemapMap.has(idxSlug)) sitemapMap.set(idxSlug, []);
+      sitemapMap.get(idxSlug).push({
         loc: normalizeAbsoluteUrl(globalMeta.url, `content/${folderPath}/`),
         lastmod: new Date().toISOString(),
       });
@@ -1135,8 +1156,24 @@ async function init() {
       throw new Error('Strict SEO check failed');
     }
 
-    const validSitemapEntries = sitemapEntries.filter((entry) => Boolean(entry.loc));
-    fs.writeFileSync(path.join('./dist', 'sitemap.xml'), generateSitemap(validSitemapEntries));
+    // Write per-course sitemaps and build the sitemap index
+    const sitemapIndexEntries = [];
+    for (const [slug, entries] of sitemapMap) {
+      const valid = entries.filter((e) => Boolean(e.loc));
+      if (valid.length === 0) continue;
+      const filename = `sitemap-${slug}.xml`;
+      fs.writeFileSync(path.join('./dist', filename), generateSitemap(valid));
+      const latestMod = valid.reduce((latest, e) => {
+        if (!e.lastmod) return latest;
+        const d = new Date(e.lastmod);
+        return d > latest ? d : latest;
+      }, new Date(0));
+      sitemapIndexEntries.push({
+        loc: normalizeAbsoluteUrl(globalMeta.url, filename),
+        lastmod: latestMod.getTime() > 0 ? latestMod.toISOString() : new Date().toISOString(),
+      });
+    }
+    fs.writeFileSync(path.join('./dist', 'sitemap.xml'), generateSitemapIndex(sitemapIndexEntries));
     fs.writeFileSync(path.join('./dist', 'robots.txt'), generateRobotsTxt(globalMeta));
 
     const sortedFeedEntries = [...feedEntries]
